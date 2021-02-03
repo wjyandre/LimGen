@@ -17,7 +17,7 @@
 	- `conda create -n DS python=2.7 tensorflow==1.12.0`
 	- `source activate DS`
 	- `pip install nltk==3.0.0; import nltk ;nltk.download("cmudict"); nltk.download("stopwords")`
-	- `pip install sklearn==0.20.4`; `pip install gensim`
+	- `pip install scikit-learn==0.20.4`; `pip install gensim`
 	- `conda deactivate`
 
 # Datasets / Pretrained Models
