@@ -16,8 +16,9 @@
 - For DeepSpeare Baseline:
 	- `conda create -n DS python=2.7`
 	- `conda activate DS`
-	- `pip install tensorflow=0.12.0`
-	- `pip install nltk==3.0.0; import nltk ;nltk.download("cmudict"); nltk.download("stopwords")`
+	- `pip install tensorflow==0.12.0`
+	- `pip install nltk==3.0.0;`
+	- Start a Python2 kernel, and run `import nltk ;nltk.download("cmudict"); nltk.download("stopwords")`
 	- `pip install scikit-learn==0.20.4`; `pip install gensim`
 	- `conda deactivate`
 
