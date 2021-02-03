@@ -5,7 +5,7 @@
 - Recommend to create 2 virtual environments
 - For LimGen with GPT2:
 	- `conda create -n LimGen python=3.6 tensorflow==1.12.0`
-	- `source activate LimGen`
+	- `conda activate LimGen`
 	- For GPU usage in CUDA-enabled machines, `pip3 install tensorflow-gpu==1.12.0`
 	- `conda install nomkl`
 	- `pip3 install nltk`; `pip3 install gensim`; `pip3 install spacy`; `pip3 install fire`
@@ -14,8 +14,9 @@
 	- `conda deactivate`
 
 - For DeepSpeare Baseline:
-	- `conda create -n DS python=2.7 tensorflow==0.12.0`
-	- `source activate DS`
+	- `conda create -n DS python=2.7`
+	- `conda activate DS`
+	- `pip install tensorflow=0.12.0`
 	- `pip install nltk==3.0.0; import nltk ;nltk.download("cmudict"); nltk.download("stopwords")`
 	- `pip install scikit-learn==0.20.4`; `pip install gensim`
 	- `conda deactivate`
