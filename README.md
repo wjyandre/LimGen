@@ -41,7 +41,7 @@
 - Modified DeepSpeare is located in `deepspeare/`
 - Activate python2 environment, `source activate DS`
 - Generate the body (last 4 lines) of NUM_SAMPLES number of limericks, results located in `deepspeare/deepspeare_results.pickle`:
-	- `cd deepspeare; tar -xvzf saved_objects.tgz`
+	- `cd deepspeare`
 	- `python sonnet_gen.py -n NUM_SAMPLES`
 
 - Write first lines for these limericks using LimGen system, `conda deactivate; source activate LimGen; python run_DeepSpeare.py`, txt file of limericks located in `deepspeare_limericks/deepspeare_limericks.txt`.
