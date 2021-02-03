@@ -1,4 +1,4 @@
-# Tacl-Limerick-Generation
+# *LimGen*
 *LimGen* is an Automatic Limerick Generation system that uses Adaptive Multi-Template Constraints (AMTC), Multi-Templated Beam Search (MTBS), Storyline Algorithm, pre-trained small (345M) [GPT-2](https://openai.com/blog/better-language-models/) and various NLP tools. The paper *''There once was a really bad poet, it was automated but you didn’t know it''* that introduced *LimGen* is included in [TACL](https://transacl.org/index.php/tacl) 2021. This repository also includes modified previous state-of-the-art sonnet generation system ([DeepSpeare](https://www.aclweb.org/anthology/P18-1181/)). Various beam search baselines are also included.
 
 # Requirements
