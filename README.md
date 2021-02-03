@@ -1,9 +1,13 @@
 # *LimGen*
 *LimGen* is an Automatic Limerick Generation system that uses Adaptive Multi-Template Constraints (AMTC), Multi-Templated Beam Search (MTBS), Storyline Algorithm, pre-trained small (345M) [GPT-2](https://openai.com/blog/better-language-models/) and various NLP tools. The paper *''There once was a really bad poet, it was automated but you didn’t know it''* that introduced *LimGen* is included in [TACL](https://transacl.org/index.php/tacl) 2021. This repository also includes modified previous state-of-the-art sonnet generation system ([DeepSpeare](https://www.aclweb.org/anthology/P18-1181/)). Various beam search baselines are also included.
 
+# Experiment Data
+
+It includes data from all experiments in our paper, i.e. the comparative experiments run in Amazon Mechanical Turks, the expert judgement experiment, and diversity experiment. Additonally, we also included more generated limericks from *LimGen* for fun. 
+
 # Requirements
 - Recommend to create 2 virtual environments
-- For LimGen with GPT2:
+- For *LimGen* with GPT2:
 	- `conda create -n LimGen python=3.6 tensorflow==1.12.0`
 	- `conda activate LimGen`
 	- For GPU usage in CUDA-enabled machines, `pip3 install tensorflow-gpu==1.12.0`
@@ -31,8 +35,8 @@
 	- `cd deepspeare; tar -xvzf saved_objects.tgz`
 	- `cd LimGen; tar -xvzf saved_objects.tgz`
 
-# Proposed Model: LimGen with Multi-Templated Beam Search (MTBS)
-- LimGen system is located in `LimGen/`.
+# Proposed Model: *LimGen* with Multi-Templated Beam Search (MTBS)
+- *LimGen* system is located in `LimGen/`.
 - Activate environment, `source activate LimGen`
 - To produce limericks from a specific prompt_word in a specific directory, `python3 run_Limericks.py -p [prompt_word]  -dir [directory_name]`.
 - To produce limericks from multiple prompt words, you can enable slurm. Go to `run_Limericks.py`, find `if __name__ == '__main__':`, and follow comments there.
@@ -46,8 +50,8 @@
 	- `cd deepspeare`
 	- `python sonnet_gen.py -n NUM_SAMPLES`
 
-- Write first lines for these limericks using LimGen system, `conda deactivate; source activate LimGen; python run_DeepSpeare.py`, txt file of limericks located in `deepspeare_limericks/deepspeare_limericks.txt`.
+- Write first lines for these limericks using *LimGen* system, `conda deactivate; source activate LimGen; python run_DeepSpeare.py`, txt file of limericks located in `deepspeare_limericks/deepspeare_limericks.txt`.
 
-# For Mass Producing in LimGen:
-- Mass Producing limericks using LimGen in SLURM, refer to syntax of `submit_story_male.sh`.
+# For Mass Producing in *LimGen*:
+- Mass Producing limericks using *LimGen* in SLURM, refer to syntax of `sample_run.sh`.
 
