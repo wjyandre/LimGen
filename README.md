@@ -6,7 +6,7 @@
 - For LimGen with GPT2:
 	- `conda create -n LimGen python=3.6 tensorflow==1.12.0`
 	- `source activate LimGen`
-	- For GPU usage, `pip3 install tensorflow-gpu==1.12.0`
+	- For GPU usage in CUDA-enabled machines, `pip3 install tensorflow-gpu==1.12.0`
 	- `conda install nomkl`
 	- `pip3 install nltk`; `pip3 install gensim`; `pip3 install spacy`; `pip3 install fire`
 	- `python3 -m spacy download en_core_web_lg`
