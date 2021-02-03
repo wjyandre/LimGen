@@ -185,17 +185,16 @@ def limericks_generation_gpt(model_name="345M",model_dir='gpt2/models/345M',prom
 				pickle.dump([div], f3)
 	
 if __name__ == '__main__':
-	# the code below is for mass producing limericks with different prompt word for SLURM.
+	## the code below is for mass producing limericks with different prompt word for SLURM.
 	
-	data1="born, shaken, restore, laugh, tears, surprise, kindness, humiliation, victory, wedding, alien, holiday, christmas, thanksgiving, birthday, injury, pillow, fiance, dawn, traffic, heartbreak, wine, beer, musuem, mountain, river, memory, mud, spider, rain, season, winter, throne, politics, promise, beach, bank, money, limerick"
-	data2="love, cunning, dog, blood, death, war, disease, world, planet, fire, water, sports, love, car, animal, violent, opera, monster, library, market, noble, doctor, funeral, ball, body, smart, exercise, gun, art, music, boxing, forest, philosophy, night, scary, creativity, evil, angry, pride, law, school, light, rich, color, leader, park, airplane, loss, weight, useful, applaud, home, union, child, working, cheat, fall, time, hope, flower, random, impressive"
-	prompt_list=list(data1.split(", ")+data2.split(", "))
-	slurm_task_id = int(os.getenv('SLURM_ARRAY_TASK_ID'))
-	prompt=prompt_list[slurm_task_id]
-	limericks_generation_gpt(prompt=prompt, args=init_parser())
+	# data1="born, shaken, restore, laugh, tears, surprise, kindness, humiliation, victory, wedding, alien, holiday, christmas, thanksgiving, birthday, injury, pillow, fiance, dawn, traffic, heartbreak, wine, beer, musuem, mountain, river, memory, mud, spider, rain, season, winter, throne, politics, promise, beach, bank, money, limerick"
+	# data2="love, cunning, dog, blood, death, war, disease, world, planet, fire, water, sports, love, car, animal, violent, opera, monster, library, market, noble, doctor, funeral, ball, body, smart, exercise, gun, art, music, boxing, forest, philosophy, night, scary, creativity, evil, angry, pride, law, school, light, rich, color, leader, park, airplane, loss, weight, useful, applaud, home, union, child, working, cheat, fall, time, hope, flower, random, impressive"
+	# prompt_list=list(data1.split(", ")+data2.split(", "))
+	# slurm_task_id = int(os.getenv('SLURM_ARRAY_TASK_ID'))
+	# prompt=prompt_list[slurm_task_id]
+	# limericks_generation_gpt(prompt=prompt, args=init_parser())
 
 
-	# uncomment the line below, and comment out the lines above if wish to generate limerick for a single prompt word. You will need to specify -prompt [user input] in command line, or in shell file.
-	#limericks_generation_gpt(args=init_parser())
-	
+	# The code below is to generate limerick for a single prompt word. You will need to specify -prompt [user input] in command line, or in shell file.
+	limericks_generation_gpt(args=init_parser())
 	
