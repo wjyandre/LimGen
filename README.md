@@ -33,7 +33,8 @@
 - LimGen system is located in `LimGen/`.
 - Activate environment, `source activate LimGen`
 - To produce limericks from a specific prompt_word in a specific directory, `python3 run_Limericks.py -p [prompt_word]  -dir [directory_name]`.
-- Produce limericks using beam search baselines (not MTBS).
+- To produce limericks from multiple prompt words, you can enable slurm. Go to `run_Limericks.py`, find `__main()__`, and follow comments there.
+- Produce limericks using beam search baselines (not MTBS). In command line, use `-bs candidate_rank`. 
 - `conda deactivate`
 
 # Baseline Model: DeepSpeare for Limericks
