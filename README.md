@@ -1,12 +1,12 @@
-# Tacl-Limerick-Generation
-Automatic Limerick Generation using multi-templated beam search, pre-trained small (345M) GPT2 and various NLP tools. This repository is the code base for TACL submission paper *There once was a really bad poet, it was automated but you didn’t know it*. We modified the previous state-of-the-art sonnet generation system (DeepSpeare) and implemented it in this repository. Various beam search baselines are also included.
+# *LimGen*
+*LimGen* is an Automatic Limerick Generation system that uses Adaptive Multi-Template Constraints (AMTC), Multi-Templated Beam Search (MTBS), Storyline Algorithm, pre-trained small (345M) [GPT-2](https://openai.com/blog/better-language-models/) and various NLP tools. The paper *''There once was a really bad poet, it was automated but you didn’t know it''* that introduced *LimGen* is included in [TACL](https://transacl.org/index.php/tacl) 2021. This repository also includes modified previous state-of-the-art sonnet generation system ([DeepSpeare](https://www.aclweb.org/anthology/P18-1181/)). Various beam search baselines are also included.
 
 # Requirements
-- Recommend create 2 virtual environments
+- Recommend to create 2 virtual environments
 - For LimGen with GPT2:
 	- `conda create -n LimGen python=3.6 tensorflow==1.12.0`
 	- `source activate LimGen`
-	- For GPU usage, `ip3 install tensorflow-gpu==1.12.0`
+	- For GPU usage in CUDA-enabled machines, `pip3 install tensorflow-gpu==1.12.0`
 	- `conda install nomkl`
 	- `pip3 install nltk`; `pip3 install gensim`; `pip3 install spacy`; `pip3 install fire`
 	- `python3 -m spacy download en_core_web_lg`
