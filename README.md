@@ -32,7 +32,7 @@
 # Proposed Model: LimGen with Multi-Templated Beam Search (MTBS)
 - LimGen system is located in `LimGen/`.
 - Activate environment, `source activate LimGen`
-- To produce limericks from a specific prompt_word in a specific directory, `python3 run_Limericks.py -p [prompt_word]  -dir [direcotory_name]`.
+- To produce limericks from a specific prompt_word in a specific directory, `python3 run_Limericks.py -p [prompt_word]  -dir [directory_name]`.
 - Produce limericks using beam search baselines (not MTBS).
 - `conda deactivate`
 
