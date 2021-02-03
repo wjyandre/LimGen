@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.242592977608244----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and greeted with a polite onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(greeted -9.58)(with -1.39)(a -4.35)(polite -5.82)(onslaught -1.37)(. -1.00) line score is : -3.713, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.2858844875590876----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and let walk to our table in thought . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(let -9.58)(walk -1.39)(to -4.35)(our -7.19)(table -5.67)(in -2.17)(thought -1.30)(. -3.95) line score is : -4.230, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to call my last novel impure 
+-------------------------score:  -3.2980863701552154----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were told by our clerk , 
+ to bring our own coffee cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(told -1.33)(by -1.24)(our -3.44)(clerk -2.33)(, -1.52) line score is : -2.116, look ahead score is : 0.000
+(to -1.52)(bring -7.93)(our -2.72)(own -5.93)(coffee -3.46)(cannot -1.67)(. -3.62) line score is : -3.835, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2981410577194765----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but he is not let in our spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(but -2.48)(he -9.58)(is -1.39)(not -6.62)(let -2.18)(in -6.26)(our -2.20)(spot -8.44)(. -0.71) line score is : -4.429, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3041192061500624----------------------- 
+there was a neat cleaner named kay 
+ who put a big smile on our way . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and we were soon like family of day . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(way -8.35)(. -2.98) line score is : -3.360, look ahead score is : 0.000
+(when -2.98)(we -4.82)(arrived -1.05)(to -1.60)(work -3.82)(, -4.75) line score is : -3.170, look ahead score is : 0.000
+(we -4.75)(were -1.20)(met -1.25)(by -1.23)(our -2.81)(clerk -0.66)(, -2.55) line score is : -2.063, look ahead score is : 0.000
+(and -2.55)(we -9.83)(were -1.48)(soon -4.28)(like -2.02)(family -1.03)(of -4.78)(day -8.38)(. -1.00) line score is : -3.928, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and sideways he could n't be seen 
+-------------------------score:  -3.324590993624541----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and says he could not understand scott . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(says -9.58)(he -1.39)(could -4.35)(not -9.47)(understand -2.53)(scott -4.33)(. -0.84) line score is : -4.370, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what was shown on the cinema screen 
+-------------------------score:  -3.353233618241164----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were told by our clerk , 
+ what was written on the door cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(told -1.33)(by -1.24)(our -3.44)(clerk -2.33)(, -1.52) line score is : -2.116, look ahead score is : 0.000
+(what -1.52)(was -7.93)(written -2.72)(on -7.47)(the -2.70)(door -4.59)(cannot -0.52)(. -0.49) line score is : -3.493, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.4025815344648436----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ in hopes we were all within the shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(in -2.48)(hopes -9.58)(we -1.39)(were -6.23)(all -8.04)(within -3.57)(the -2.91)(shot -3.36)(. -7.71) line score is : -5.031, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ a word of ambiguous meaning 
+-------------------------score:  -3.4110305341410228----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ a couple of elderly cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(a -2.48)(couple -9.58)(of -1.39)(elderly -2.72)(cannot -5.83)(. -0.34) line score is : -3.725, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ as his talent and confidence swelled 
+-------------------------score:  -3.450988693162799----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ as our boss and manager cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(as -2.48)(our -9.58)(boss -1.39)(and -6.67)(manager -4.40)(cannot -2.92)(. -3.32) line score is : -4.394, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ when he saw there were six little chips 
+-------------------------score:  -3.4860532759921625----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ when she saw there were two new cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(when -2.48)(she -9.58)(saw -1.39)(there -7.88)(were -1.93)(two -1.62)(new -7.47)(cannot -1.13)(. -2.37) line score is : -3.984, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.4999196713249527----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but i am not aware for thought . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(but -2.48)(i -9.58)(am -1.39)(not -6.62)(aware -3.53)(for -4.61)(thought -1.65)(. -5.41) line score is : -4.410, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but the other won several prizes 
+-------------------------score:  -3.513146781052152----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but the fellow was busy cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(but -2.48)(the -9.58)(fellow -1.39)(was -6.62)(busy -3.14)(cannot -6.44)(. -1.54) line score is : -4.455, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and some of the members are swines 
+-------------------------score:  -3.5193135922233902----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and some of the women are cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(some -9.58)(of -1.39)(the -4.35)(women -5.95)(are -1.37)(cannot -0.81)(. -4.06) line score is : -3.749, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.550433661788702----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and found her because he was cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(found -9.58)(her -1.39)(because -4.35)(he -6.37)(was -2.88)(cannot -8.90)(. -3.23) line score is : -4.898, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but the telephone book caused him pain 
+-------------------------score:  -3.568698140041482----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but the door bell rang us cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(but -2.48)(the -9.58)(door -1.39)(bell -6.62)(rang -3.14)(us -4.32)(cannot -5.34)(. -0.85) line score is : -4.215, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.576248302695251----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and we were soon busy till cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(we -9.58)(were -1.39)(soon -4.35)(busy -2.03)(till -1.00)(cannot -4.80)(. -4.89) line score is : -3.814, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.587786987548073----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and found the restaurant with cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(found -9.58)(the -1.39)(restaurant -4.35)(with -6.37)(cannot -2.67)(. -5.56) line score is : -4.629, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE THE NN VBD AND VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ because the man bullied and boucestcr 
+-------------------------score:  -3.6047156106680633----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were told by our clerk , 
+ because the restaurant was and spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(told -1.33)(by -1.24)(our -3.44)(clerk -2.33)(, -1.52) line score is : -2.116, look ahead score is : 0.000
+(because -1.52)(the -7.93)(restaurant -2.72)(was -7.56)(and -2.99)(spot -4.63)(. -0.75) line score is : -4.014, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.6123254944480236----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and soon he is a member cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(soon -9.58)(he -1.39)(is -4.35)(a -4.80)(member -3.61)(cannot -6.01)(. -3.68) line score is : -4.487, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ a habit unpleasant but curious 
+-------------------------score:  -3.633447683191505----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ a charming italian but cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(a -2.48)(charming -9.58)(italian -1.39)(but -2.72)(cannot -5.23)(. -5.64) line score is : -4.507, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and see what the critics all say 
+-------------------------score:  -3.6565010423862163----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and read what the newspapers all caught . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(read -9.58)(what -1.39)(the -4.35)(newspapers -9.42)(all -6.08)(caught -3.03)(. -5.42) line score is : -5.220, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.6619049494545304----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and her eyes were larger and cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(and -2.48)(her -9.58)(eyes -1.39)(were -4.35)(larger -4.64)(and -5.10)(cannot -1.24)(. -9.19) line score is : -4.746, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but I guess that you probably gnu 
+-------------------------score:  -3.702816835454395----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but i think that he really cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(but -2.48)(i -9.58)(think -1.39)(that -6.62)(he -3.53)(really -3.66)(cannot -2.87)(. -2.48) line score is : -4.078, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHILE THAT JJ JJ NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ while that futile old gentleman dozed 
+-------------------------score:  -3.7114338031659524----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ while that lovely little girl cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(met -1.33)(by -1.24)(our -2.75)(clerk -0.65)(, -2.48) line score is : -1.913, look ahead score is : 0.000
+(while -2.48)(that -9.58)(lovely -1.39)(little -8.04)(girl -7.21)(cannot -4.77)(. -4.55) line score is : -5.431, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and since then has never benzene 
+-------------------------score:  -3.7745382498949764----------------------- 
+there was a neat cleaner named kay 
+ who put a big smile on our way . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and since then has always resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(way -8.35)(. -2.98) line score is : -3.360, look ahead score is : 0.000
+(when -2.98)(we -4.82)(arrived -1.05)(to -1.60)(work -3.82)(, -4.75) line score is : -3.170, look ahead score is : 0.000
+(we -4.75)(were -1.20)(met -1.25)(by -1.23)(our -2.81)(clerk -0.66)(, -2.55) line score is : -2.063, look ahead score is : 0.000
+(and -2.55)(since -9.83)(then -1.48)(has -4.28)(always -6.83)(resume -2.48)(. -5.49) line score is : -4.705, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.8416115671636595----------------------- 
+there was a neat cleaner named dot 
+ who put a big smile on our lot . 
+ when we arrived to work , 
+ we were told by our clerk , 
+ i have never heard two or cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(put -5.82)(a -2.59)(big -4.53)(smile -1.67)(on -0.04)(our -2.57)(lot -7.58)(. -1.75) line score is : -3.138, look ahead score is : 0.000
+(when -1.75)(we -4.77)(arrived -1.40)(to -3.08)(work -3.28)(, -3.64) line score is : -2.987, look ahead score is : 0.000
+(we -3.64)(were -1.32)(told -1.33)(by -1.24)(our -3.44)(clerk -2.33)(, -1.52) line score is : -2.116, look ahead score is : 0.000
+(i -1.52)(have -7.93)(never -2.72)(heard -5.77)(two -4.49)(or -3.81)(cannot -2.63)(. -8.20) line score is : -4.634, look ahead score is : 0.000

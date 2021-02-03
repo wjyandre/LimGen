@@ -1,0 +1,66 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.9988630779327883----------------------- 
+there was a nervous nurse named trinh 
+ who spread a thin layer on my skin . 
+ her fingers were so cold , 
+ it was painful to hold , 
+ but i knew she was doing me sin . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(spread -9.94)(a -2.54)(thin -4.59)(layer -1.76)(on -4.42)(my -1.98)(skin -2.54)(. -2.04) line score is : -3.453, look ahead score is : 0.000
+(her -2.04)(fingers -4.19)(were -3.44)(so -2.07)(cold -3.00)(, -3.02) line score is : -2.961, look ahead score is : 0.000
+(it -3.02)(was -1.66)(painful -2.84)(to -1.49)(hold -3.29)(, -1.28) line score is : -2.263, look ahead score is : 0.000
+(but -1.28)(i -3.32)(knew -4.50)(she -1.13)(was -1.23)(doing -3.19)(me -1.48)(sin -1.10)(. -3.11) line score is : -2.259, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.0265089196543538----------------------- 
+there once was a surgeon named simone 
+ who spread out her fingers for a bone . 
+ her fingers were so cold , 
+ it was painful to hold , 
+ but she knew she was getting them grown . 
+------------------------- score breakdown ------------------------ 
+(who -2.00)(spread -9.42)(out -3.06)(her -1.17)(fingers -3.07)(for -4.23)(a -2.09)(bone -6.03)(. -2.16) line score is : -3.693, look ahead score is : 0.000
+(her -2.16)(fingers -4.31)(were -1.62)(so -0.83)(cold -2.57)(, -5.24) line score is : -2.789, look ahead score is : 0.000
+(it -5.24)(was -1.76)(painful -2.94)(to -1.31)(hold -3.61)(, -1.55) line score is : -2.735, look ahead score is : 0.000
+(but -1.55)(she -2.99)(knew -4.20)(she -1.02)(was -0.95)(getting -3.64)(them -1.35)(grown -2.18)(. -3.85) line score is : -2.415, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1214591283952036----------------------- 
+there once was a surgeon named corazon 
+ who spread out her fingers for a bone . 
+ her fingers were so cold , 
+ it was painful to hold , 
+ and she looked down and saw her backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.00)(spread -9.42)(out -3.06)(her -1.17)(fingers -3.07)(for -4.23)(a -2.09)(bone -6.03)(. -2.16) line score is : -3.693, look ahead score is : 0.000
+(her -2.16)(fingers -4.31)(were -1.62)(so -0.83)(cold -2.57)(, -5.24) line score is : -2.789, look ahead score is : 0.000
+(it -5.24)(was -1.76)(painful -2.94)(to -1.31)(hold -3.61)(, -1.55) line score is : -2.735, look ahead score is : 0.000
+(and -1.55)(she -2.99)(looked -4.20)(down -1.45)(and -1.18)(saw -4.08)(her -3.45)(backbone -2.34)(. -1.05) line score is : -2.477, look ahead score is : 0.000

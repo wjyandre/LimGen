@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.93842785526067----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that the building he had worked a lot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(that -2.12)(the -5.36)(building -3.51)(he -4.16)(had -1.86)(worked -4.42)(a -3.72)(lot -1.14)(. -2.42) line score is : -3.189, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.939265267502877----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was met by a clerk , 
+ but he refused his orders and fought . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(met -0.60)(by -1.84)(a -5.53)(clerk -0.51)(, -1.18) line score is : -2.122, look ahead score is : 0.000
+(but -1.18)(he -7.48)(refused -2.41)(his -6.47)(orders -1.58)(and -2.79)(fought -4.67)(. -4.73) line score is : -3.914, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he never completed his task 
+-------------------------score:  -2.9607243877032707----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he suddenly realized his lot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(he -2.12)(suddenly -5.36)(realized -3.51)(his -4.31)(lot -8.58)(. -2.67) line score is : -4.425, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.0051202702111213----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he suddenly realized a plot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(he -2.12)(suddenly -5.36)(realized -3.51)(a -4.31)(plot -8.58)(. -2.67) line score is : -4.425, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.0233318584580577----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that no business was open but hot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(that -2.12)(no -5.36)(business -3.51)(was -4.16)(open -5.15)(but -4.89)(hot -1.58)(. -2.26) line score is : -3.629, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0646003810688853----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was called by a clerk , 
+ and he found down and buried his pot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(called -0.60)(by -1.84)(a -5.27)(clerk -2.66)(, -1.93) line score is : -2.498, look ahead score is : 0.000
+(and -1.93)(he -6.20)(found -2.54)(down -2.95)(and -2.49)(buried -2.75)(his -8.86)(pot -4.51)(. -5.45) line score is : -4.187, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but I guess that you probably gnu 
+-------------------------score:  -3.1076324899350443----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ but he swore that he never cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(but -2.12)(he -5.36)(swore -3.51)(that -7.38)(he -2.04)(never -7.73)(cannot -2.10)(. -0.54) line score is : -3.847, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2097990079782903----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ but he does not mention in his not . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(but -2.12)(he -5.36)(does -3.51)(not -7.38)(mention -2.04)(in -6.32)(his -0.04)(not -5.76)(. -5.40) line score is : -4.214, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.223498829640448----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and it was then like lightning of thought . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(and -2.12)(it -5.36)(was -3.51)(then -6.13)(like -4.35)(lightning -0.73)(of -3.13)(thought -8.87)(. -3.59) line score is : -4.199, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.2331183357164264----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and for hours they just dealt his pot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(met -0.60)(by -1.84)(a -5.53)(clerk -0.51)(, -1.18) line score is : -2.122, look ahead score is : 0.000
+(and -1.18)(for -7.48)(hours -2.41)(they -4.34)(just -6.23)(dealt -4.40)(his -2.23)(pot -6.13)(. -6.24) line score is : -4.515, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.258679198641931----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ for three years was unemployed at pot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(for -2.12)(three -5.36)(years -3.51)(was -6.83)(unemployed -6.90)(at -2.36)(pot -6.48)(. -4.32) line score is : -4.734, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.261208865046501----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was called by a clerk , 
+ and told his assistant a gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(called -0.60)(by -1.84)(a -5.27)(clerk -2.66)(, -1.93) line score is : -2.498, look ahead score is : 0.000
+(and -1.93)(told -6.20)(his -2.54)(assistant -2.95)(a -1.22)(gunshot -4.42)(. -5.98) line score is : -3.605, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ when he found there were five little chips 
+-------------------------score:  -3.2713534850627184----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ when he saw there was one last cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(when -2.12)(he -5.36)(saw -3.51)(there -7.21)(was -0.73)(one -4.48)(last -7.14)(cannot -0.33)(. -5.14) line score is : -4.002, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FROM THE NN NNS PRP COULD VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ from the comedy roles he could play 
+-------------------------score:  -3.278476273821246----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ from the office windows he could not . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(from -2.12)(the -5.36)(office -3.51)(windows -7.40)(he -1.54)(could -3.63)(not -7.00)(. -5.37) line score is : -4.492, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ in a sugary takeover bid 
+-------------------------score:  -3.286776424481951----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ in a desperate attempt cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(in -2.12)(a -5.36)(desperate -3.51)(attempt -5.37)(cannot -1.62)(. -5.16) line score is : -3.857, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.2977352822199464----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was called by a clerk , 
+ but he had none left owing him lot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(called -0.60)(by -1.84)(a -5.27)(clerk -2.66)(, -1.93) line score is : -2.498, look ahead score is : 0.000
+(but -1.93)(he -6.20)(had -2.54)(none -5.34)(left -1.31)(owing -2.47)(him -6.56)(lot -3.61)(. -10.05) line score is : -4.446, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that her head was bare 
+-------------------------score:  -3.3011220786078224----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that our department had cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(that -2.12)(our -5.36)(department -3.51)(had -4.16)(cannot -8.91)(. -5.40) line score is : -4.911, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.311259101475439----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ i have never gotten one or lot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(i -2.12)(have -5.36)(never -3.51)(gotten -6.90)(one -3.34)(or -4.46)(lot -5.70)(. -4.59) line score is : -4.498, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.348502756158511----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was found by a clerk , 
+ and he was shot instantly cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(found -0.60)(by -1.84)(a -5.36)(clerk -2.94)(, -1.60) line score is : -2.503, look ahead score is : 0.000
+(and -1.60)(he -7.60)(was -2.24)(shot -2.68)(instantly -2.71)(cannot -0.60)(. -4.99) line score is : -3.204, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.359114613263838----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he had all his clothes hanging cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(he -2.12)(had -5.36)(all -3.51)(his -4.31)(clothes -1.85)(hanging -7.03)(cannot -0.51)(. -4.92) line score is : -3.702, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.390198762378385----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and then a young man himself cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(and -2.12)(then -5.36)(a -3.51)(young -6.13)(man -3.05)(himself -2.42)(cannot -6.23)(. -1.65) line score is : -3.809, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that ungracious young lady in blue 
+-------------------------score:  -3.4231132278839747----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that ten hundred thousand in cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(that -2.12)(ten -5.36)(hundred -3.51)(thousand -4.16)(in -8.64)(cannot -5.05)(. -3.62) line score is : -4.638, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that man in a boat 
+-------------------------score:  -3.43641219570719----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that anything outside a cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(that -2.12)(anything -5.36)(outside -3.51)(a -4.16)(cannot -8.25)(. -6.08) line score is : -4.915, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to keep from soiling her feet 
+-------------------------score:  -3.452666649222374----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ to keep from disturbing his cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(to -2.12)(keep -5.36)(from -3.51)(disturbing -6.57)(his -3.98)(cannot -7.49)(. -5.24) line score is : -4.895, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.466820994692464----------------------- 
+there once was a boxer named scot 
+ who lost all his money in a squat . 
+ when he returned to work , 
+ he was told by a clerk , 
+ but he heard too little for cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(lost -3.51)(all -3.36)(his -0.42)(money -1.22)(in -1.67)(a -0.87)(squat -9.51)(. -1.60) line score is : -2.777, look ahead score is : 0.000
+(when -1.60)(he -3.95)(returned -0.86)(to -3.51)(work -1.11)(, -4.38) line score is : -2.568, look ahead score is : 0.000
+(he -4.38)(was -0.81)(told -0.60)(by -1.84)(a -2.60)(clerk -1.98)(, -2.12) line score is : -2.047, look ahead score is : 0.000
+(but -2.12)(he -5.36)(heard -3.51)(too -7.38)(little -2.04)(for -6.37)(cannot -6.54)(. -1.65) line score is : -4.371, look ahead score is : 0.000

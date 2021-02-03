@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.722595011486727----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ so he had to get down on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(so -1.39)(he -3.47)(had -1.85)(to -5.56)(get -1.36)(down -3.32)(on -1.95)(the -2.61)(spot -4.77)(. -1.14) line score is : -2.741, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he slipped through the straw and fell in 
+-------------------------score:  -2.7240949480822594----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he looked through the window and saw shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(looked -3.47)(through -1.85)(the -3.79)(window -2.88)(and -2.38)(saw -0.42)(shot -1.75)(. -1.41) line score is : -2.149, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.7931260273737064----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ so i walked up and hit on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(so -1.39)(i -3.47)(walked -1.85)(up -5.56)(and -1.02)(hit -3.56)(on -1.79)(the -1.57)(spot -5.36)(. -3.06) line score is : -2.865, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but nobody knew what he said 
+-------------------------score:  -2.869780651984676----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ but nobody answered what he thought . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(but -1.39)(nobody -3.47)(answered -1.85)(what -3.60)(he -4.21)(thought -1.36)(. -8.49) line score is : -3.483, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -2.895982037891041----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ but he said he was taking it hot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(but -1.39)(he -3.47)(said -1.85)(he -3.60)(was -1.22)(taking -4.04)(it -1.44)(hot -2.05)(. -5.62) line score is : -2.743, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -2.9377282623088723----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ then he saw me walk towards the spot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(then -1.39)(he -3.47)(saw -1.85)(me -6.15)(walk -0.62)(towards -3.57)(the -2.41)(spot -4.81)(. -4.75) line score is : -3.225, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ it s a polar bear out in the snow 
+-------------------------score:  -2.9382815641515396----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he has a black eye out in the shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(has -3.47)(a -1.85)(black -3.79)(eye -7.08)(out -1.19)(in -4.86)(the -1.89)(shot -5.47)(. -4.21) line score is : -3.521, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9409541077911854----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ but he forgot his glasses and fought . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(but -1.39)(he -3.47)(forgot -1.85)(his -3.60)(glasses -1.22)(and -4.58)(fought -1.27)(. -4.57) line score is : -2.743, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ then I sat on my moped and moped 
+-------------------------score:  -2.959993317271724----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ then he hit on his girlfriend and shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(then -1.39)(he -3.47)(hit -1.85)(on -6.15)(his -0.62)(girlfriend -5.40)(and -3.86)(shot -2.98)(. -2.35) line score is : -3.119, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.027792891487479----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ so he never opened on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(so -1.39)(he -3.47)(never -1.85)(opened -5.56)(on -1.36)(the -5.72)(spot -3.21)(. -8.14) line score is : -3.838, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he never completed his task 
+-------------------------score:  -3.098267896970113----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he suddenly realized his spot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(suddenly -3.47)(realized -1.85)(his -3.79)(spot -8.25)(. -3.13) line score is : -3.648, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ within weeks it was all in the past 
+-------------------------score:  -3.101833282095013----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ in seconds he was all in the shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(in -1.39)(seconds -3.47)(he -1.85)(was -6.28)(all -8.49)(in -2.29)(the -1.16)(shot -5.82)(. -4.04) line score is : -3.866, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ they bedded her down in the stable 
+-------------------------score:  -3.1159804901108146----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he opened it down in the gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(opened -3.47)(it -1.85)(down -3.79)(in -2.44)(the -0.48)(gunshot -8.63)(. -4.74) line score is : -3.348, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.135088830283194----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ but his pants were down to his gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(but -1.39)(his -3.47)(pants -1.85)(were -3.60)(down -3.91)(to -4.40)(his -0.66)(gunshot -3.09)(. -3.42) line score is : -2.868, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.1450865557417274----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ and now he has a broken gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(and -1.39)(now -3.47)(he -1.85)(has -0.49)(a -7.59)(broken -0.85)(gunshot -3.20)(. -2.04) line score is : -2.612, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.147419301668803----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he suddenly realized a thought . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(suddenly -3.47)(realized -1.85)(a -3.79)(thought -8.25)(. -3.13) line score is : -3.648, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.1856186281551016----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he turned it and walked upstairs and taught . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(turned -3.47)(it -1.85)(and -3.79)(walked -4.08)(upstairs -2.16)(and -2.79)(taught -3.36)(. -6.44) line score is : -3.260, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -3.197773273914091----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ because he was thinking his gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(because -1.39)(he -3.47)(was -1.85)(thinking -4.90)(his -0.56)(gunshot -1.77)(. -4.63) line score is : -2.652, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ what was shown on the cinema screen 
+-------------------------score:  -3.24761451408267----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ what was left on the counter cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(what -1.39)(was -3.47)(left -1.85)(on -9.09)(the -2.52)(counter -3.14)(cannot -4.17)(. -0.62) line score is : -3.280, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -3.2646686248481274----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he had all his clothes hanging cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(had -3.47)(all -1.85)(his -3.79)(clothes -3.71)(hanging -2.08)(cannot -0.22)(. -3.38) line score is : -2.487, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -3.355869196355343----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he never can get past it cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(never -3.47)(can -1.85)(get -3.79)(past -6.64)(it -9.11)(cannot -1.99)(. -4.90) line score is : -4.143, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ that ungracious young lady in blue 
+-------------------------score:  -3.3566733675618328----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ that little old lady in cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(that -1.39)(little -3.47)(old -1.85)(lady -6.92)(in -5.77)(cannot -3.50)(. -1.53) line score is : -3.490, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he was n't the wizard he woz 
+-------------------------score:  -3.36036329716444----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he was not the person you cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(was -3.47)(not -1.85)(the -3.79)(person -3.05)(you -5.07)(cannot -4.66)(. -4.00) line score is : -3.411, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.3991225883364677----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ he said when i come across cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(he -1.39)(said -3.47)(when -1.85)(i -3.79)(come -2.44)(across -7.92)(cannot -2.25)(. -3.46) line score is : -3.323, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ that unlucky old person of ems 
+-------------------------score:  -3.4096775016477032----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ that little old lady of cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(that -1.39)(little -3.47)(old -1.85)(lady -6.92)(of -5.77)(cannot -3.50)(. -1.53) line score is : -3.490, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -3.4881358332931995----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ i think maybe hit three or gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(i -1.39)(think -3.47)(maybe -1.85)(hit -5.60)(three -1.73)(or -6.13)(gunshot -6.74)(. -5.82) line score is : -4.092, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBG RB A NN OF FW FW . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ leaving only a pile of de brie 
+-------------------------score:  -3.7412876039743423----------------------- 
+there once was a man named scot 
+ who had all his money in a lot . 
+ he got back from the store , 
+ and he went to the door , 
+ trying almost a thousand of de pot . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(had -2.62)(all -5.55)(his -2.15)(money -2.73)(in -1.37)(a -1.57)(lot -6.39)(. -2.39) line score is : -2.993, look ahead score is : 0.000
+(he -2.39)(got -1.66)(back -3.89)(from -5.27)(the -2.31)(store -1.93)(, -3.67) line score is : -3.018, look ahead score is : 0.000
+(and -3.67)(he -2.18)(went -1.78)(to -2.07)(the -3.14)(door -1.41)(, -1.39) line score is : -2.234, look ahead score is : 0.000
+(trying -1.39)(almost -3.47)(a -1.85)(thousand -8.07)(of -9.95)(de -5.76)(pot -2.63)(. -6.37) line score is : -4.936, look ahead score is : 0.000

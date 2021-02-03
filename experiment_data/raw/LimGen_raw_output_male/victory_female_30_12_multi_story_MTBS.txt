@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was destined to go a long way 
+-------------------------score:  -2.9927787268534303----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ she was glad to have a good birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(she -1.50)(was -5.79)(glad -2.59)(to -5.56)(have -2.06)(a -5.89)(good -0.64)(birthday -2.79)(. -2.45) line score is : -3.253, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.0695993833003508----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ but she refused his summons and lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(but -1.50)(she -5.79)(refused -2.59)(his -4.04)(summons -1.89)(and -3.23)(lay -2.68)(. -5.24) line score is : -3.372, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.102010398171842----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ and let fall to her death in halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(and -1.50)(let -5.79)(fall -2.59)(to -3.04)(her -7.84)(death -4.82)(in -3.30)(halfway -1.97)(. -1.05) line score is : -3.544, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.1206737362569377----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ he said that his name was resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(he -1.50)(said -5.79)(that -2.59)(his -5.90)(name -3.14)(was -1.29)(resume -3.35)(. -1.92) line score is : -3.187, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.1935627623911826----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ he was also the hero she lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(he -1.50)(was -5.79)(also -2.59)(the -5.90)(hero -2.03)(she -3.78)(lay -3.10)(. -4.25) line score is : -3.620, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.2366609313795642----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ but they are not friendly for friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(but -1.50)(they -5.79)(are -2.59)(not -4.04)(friendly -4.47)(for -5.02)(friday -2.09)(. -4.20) line score is : -3.712, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.2388594313975303----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a light , 
+ and says she could not understand re . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(light -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(and -1.50)(says -6.99)(she -2.93)(could -2.11)(not -7.26)(understand -2.13)(re -3.88)(. -1.29) line score is : -3.512, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.2392990638812384----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ a strong warrior is no okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(a -1.50)(strong -5.79)(warrior -2.59)(is -2.78)(no -5.15)(okay -2.16)(. -8.47) line score is : -4.065, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.2459275078388954----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ he had all his knights riding halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(he -1.50)(had -5.79)(all -2.59)(his -5.90)(knights -2.75)(riding -6.73)(halfway -1.77)(. -2.96) line score is : -3.750, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to call my last novel impure 
+-------------------------score:  -3.2476635426282883----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ to be her first enemy halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(to -1.50)(be -5.79)(her -2.59)(first -6.87)(enemy -5.18)(halfway -2.50)(. -4.20) line score is : -4.090, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.2980709854633576----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ which was killed with the greatest cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(which -1.50)(was -5.79)(killed -2.59)(with -5.11)(the -2.18)(greatest -5.04)(cache -5.18)(. -2.11) line score is : -3.687, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.3188272854313254----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a light , 
+ in hopes it was all within the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(light -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(in -1.50)(hopes -6.99)(it -2.93)(was -6.14)(all -6.81)(within -4.40)(the -1.32)(day -5.97)(. -8.11) line score is : -4.908, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.3440939754247667----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ and since then has never resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(and -1.50)(since -5.79)(then -2.59)(has -3.04)(never -5.91)(resume -2.31)(. -4.22) line score is : -3.623, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.350268537959745----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ which makes it in pretty good okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(which -1.50)(makes -5.79)(it -2.59)(in -5.11)(pretty -7.13)(good -2.90)(okay -7.58)(. -6.09) line score is : -4.838, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.3577422310908633----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ he is a young warrior halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(he -1.50)(is -5.79)(a -2.59)(young -5.90)(warrior -5.82)(halfway -2.32)(. -3.34) line score is : -3.897, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.3736600731649706----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ and put within before all the fray . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(and -1.50)(put -5.79)(within -2.59)(before -3.04)(all -7.25)(the -6.80)(fray -9.83)(. -5.60) line score is : -5.301, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -3.3773106685839593----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ she outright beat him off if you play . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(she -1.50)(outright -5.79)(beat -2.59)(him -5.56)(off -9.93)(if -4.49)(you -0.17)(play -4.67)(. -7.40) line score is : -4.679, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.4269538050697697----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ you have probably heard one or say . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(you -1.50)(have -5.79)(probably -2.59)(heard -8.55)(one -3.97)(or -3.87)(say -1.25)(. -8.44) line score is : -4.495, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.5027210164454674----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ she said when she heard across halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(she -1.50)(said -5.79)(when -2.59)(she -5.56)(heard -3.99)(across -6.64)(halfway -0.87)(. -4.38) line score is : -3.917, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.5393183087148974----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a light , 
+ she then heard in a dream resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(light -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(she -1.50)(then -6.99)(heard -2.93)(in -4.94)(a -5.19)(dream -4.61)(resume -6.81)(. -1.88) line score is : -4.358, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.5422843358209057----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ she also can see in him friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(she -1.50)(also -5.79)(can -2.59)(see -5.56)(in -5.69)(him -7.69)(friday -3.67)(. -5.20) line score is : -4.712, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but nobody knew what he said 
+-------------------------score:  -3.6073165188233056----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ but something was what she resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(but -1.50)(something -5.79)(was -2.59)(what -4.04)(she -6.74)(resume -2.35)(. -9.30) line score is : -4.616, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to write verses relating to wind 
+-------------------------score:  -3.6300651798645656----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a sight , 
+ to be friends become to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(sight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(to -1.50)(be -7.69)(friends -5.23)(become -5.06)(to -2.46)(resume -7.88)(. -5.86) line score is : -5.098, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.652121044935719----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ to be precise men on us re . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(to -1.50)(be -5.79)(precise -2.59)(men -6.87)(on -5.18)(us -2.97)(re -10.96)(. -5.60) line score is : -5.183, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ great writers are fewer and fewer 
+-------------------------score:  -3.686815771460533----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a light , 
+ blue eyes appear earlier and weigh . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(light -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(blue -1.50)(eyes -6.99)(appear -2.93)(earlier -5.06)(and -6.34)(weigh -8.30)(. -9.34) line score is : -5.780, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and see what the critics all say 
+-------------------------score:  -3.6978945357184254----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ and set what the knights all resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(and -1.50)(set -5.79)(what -2.59)(the -3.04)(knights -8.01)(all -8.74)(resume -4.39)(. -3.17) line score is : -4.654, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.7809846298769116----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ and trying help him is but bad halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(and -1.50)(trying -5.79)(help -2.59)(him -3.04)(is -9.23)(but -10.42)(bad -2.63)(halfway -6.72)(. -7.67) line score is : -5.511, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but will ruminate on while I chew 
+-------------------------score:  -3.8129979150910533----------------------- 
+there was a fierce judge named kay 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ but will turn on while she resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(but -1.50)(will -5.79)(turn -2.59)(on -4.04)(while -9.66)(she -5.50)(resume -4.14)(. -12.26) line score is : -5.686, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ NNP MD RB VB JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ virginia couldn t be skinnier 
+-------------------------score:  -3.9462795021205115----------------------- 
+there was a fierce judge named renee 
+ who fought a great battle on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ lord ca ere figure resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(fought -4.82)(a -4.29)(great -2.55)(battle -0.42)(on -3.93)(her -2.56)(way -4.33)(. -4.04) line score is : -3.175, look ahead score is : 0.000
+(when -4.04)(she -4.14)(arrived -0.78)(to -2.65)(fight -3.41)(, -4.05) line score is : -3.179, look ahead score is : 0.000
+(she -4.05)(was -1.39)(met -0.61)(by -1.51)(a -3.37)(knight -0.44)(, -1.50) line score is : -1.839, look ahead score is : 0.000
+(lord -1.50)(ca -5.79)(ere -2.59)(figure -6.18)(resume -7.09)(. -4.06) line score is : -4.537, look ahead score is : 0.000

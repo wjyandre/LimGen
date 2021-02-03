@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.8404275234788656----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ and that is the story of this tale . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(and -1.28)(that -6.28)(is -4.48)(the -1.83)(story -5.48)(of -3.46)(this -2.79)(tale -3.92)(. -0.89) line score is : -3.379, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.037291867658496----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to trade , 
+ she was met by a raid , 
+ she was ordered to leave and to fail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(trade -1.18)(, -8.68) line score is : -3.327, look ahead score is : 0.000
+(she -8.68)(was -1.19)(met -0.51)(by -2.20)(a -4.16)(raid -0.80)(, -1.22) line score is : -2.682, look ahead score is : 0.000
+(she -1.22)(was -7.09)(ordered -3.43)(to -4.22)(leave -2.77)(and -4.30)(to -0.34)(fail -2.47)(. -2.29) line score is : -3.125, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.083910030126572----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ and opened with a single detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(and -1.28)(opened -6.28)(with -4.48)(a -1.83)(single -6.74)(detail -3.03)(. -1.03) line score is : -3.526, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.1696956353262067----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ but she does not recall in her tale . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(but -1.28)(she -6.28)(does -4.48)(not -3.47)(recall -1.91)(in -7.48)(her -0.08)(tale -1.94)(. -6.52) line score is : -3.716, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a regular brute of a bee 
+-------------------------score:  -3.254989104345441----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ she says a dead bolt of a female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(she -1.28)(says -6.28)(a -4.48)(dead -4.86)(bolt -1.91)(of -6.51)(a -5.92)(female -1.40)(. -6.11) line score is : -4.306, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2555369026958942----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to trade , 
+ she was met by a raid , 
+ and she was down and buried her tail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(trade -1.18)(, -8.68) line score is : -3.327, look ahead score is : 0.000
+(she -8.68)(was -1.19)(met -0.51)(by -2.20)(a -4.16)(raid -0.80)(, -1.22) line score is : -2.682, look ahead score is : 0.000
+(and -1.22)(she -7.09)(was -3.43)(down -1.41)(and -2.30)(buried -0.93)(her -8.67)(tail -3.98)(. -6.05) line score is : -3.897, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.256974808871746----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ and it was then like shooting of hail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(and -1.28)(it -6.28)(was -4.48)(then -1.83)(like -4.71)(shooting -0.80)(of -4.01)(hail -8.05)(. -5.73) line score is : -4.131, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.2679189313203096----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ she thought through the purchase and bought mail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(she -1.28)(thought -6.28)(through -4.48)(the -4.86)(purchase -3.47)(and -8.30)(bought -1.44)(mail -4.13)(. -1.30) line score is : -3.949, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.2717843194802603----------------------- 
+there once was a farmer named abigail 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ she says a white indian female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(she -1.28)(says -6.28)(a -4.48)(white -4.86)(indian -1.91)(female -6.51)(. -5.28) line score is : -4.372, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and returned on the previous night 
+-------------------------score:  -3.27220099568367----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ and opened on the second female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(and -1.28)(opened -6.28)(on -4.48)(the -1.83)(second -6.74)(female -5.46)(. -1.55) line score is : -3.946, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ what was shown on the cinema screen 
+-------------------------score:  -3.285662929857931----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to trade , 
+ she was met by a raid , 
+ what was described on the news detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(trade -1.18)(, -8.68) line score is : -3.327, look ahead score is : 0.000
+(she -8.68)(was -1.19)(met -0.51)(by -2.20)(a -4.16)(raid -0.80)(, -1.22) line score is : -2.682, look ahead score is : 0.000
+(what -1.22)(was -7.09)(described -3.43)(on -8.52)(the -3.00)(news -2.28)(detail -5.56)(. -0.76) line score is : -3.984, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.293034566566348----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ she told him and went upstairs and jail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(she -1.28)(told -6.28)(him -4.48)(and -4.86)(went -3.52)(upstairs -2.82)(and -3.98)(jail -5.02)(. -4.56) line score is : -4.090, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.33046434939869----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ made a promise no better than jail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(made -1.28)(a -6.28)(promise -4.48)(no -6.47)(better -3.10)(than -3.40)(jail -7.88)(. -5.75) line score is : -4.829, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.3395208790898323----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ in hopes it was all within the mail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(in -1.28)(hopes -6.28)(it -4.48)(was -5.13)(all -7.39)(within -4.43)(the -0.75)(mail -6.70)(. -8.73) line score is : -5.020, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.3696863392988843----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to trade , 
+ she was met by a raid , 
+ and since then appears only female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(trade -1.18)(, -8.68) line score is : -3.327, look ahead score is : 0.000
+(she -8.68)(was -1.19)(met -0.51)(by -2.20)(a -4.16)(raid -0.80)(, -1.22) line score is : -2.682, look ahead score is : 0.000
+(and -1.22)(since -7.09)(then -3.43)(appears -1.41)(only -6.97)(female -2.10)(. -9.16) line score is : -4.484, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ this did n't apply to her feet 
+-------------------------score:  -3.3952169053016172----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ this did not respond to our detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(this -1.28)(did -6.28)(not -4.48)(respond -7.02)(to -8.31)(our -0.10)(detail -6.17)(. -0.77) line score is : -4.302, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ kept insuring her during the service 
+-------------------------score:  -3.3973357558250425----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ locked following her during the trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(locked -1.28)(following -6.28)(her -4.48)(during -3.47)(the -10.96)(trail -2.42)(. -9.32) line score is : -5.458, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.398016953840852----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ not you see on her picture and fail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(not -1.28)(you -6.28)(see -4.48)(on -3.83)(her -9.04)(picture -3.12)(and -4.05)(fail -3.70)(. -1.92) line score is : -4.189, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.4012144400227453----------------------- 
+there once was a farmer named abigail 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ not set up all ready and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(not -1.28)(set -6.28)(up -4.48)(all -3.83)(ready -7.68)(and -2.19)(female -8.83)(. -3.33) line score is : -4.738, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he never completed his task 
+-------------------------score:  -3.4088255187560774----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to trade , 
+ she was met by a raid , 
+ she never recovered her female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(trade -1.18)(, -8.68) line score is : -3.327, look ahead score is : 0.000
+(she -8.68)(was -1.19)(met -0.51)(by -2.20)(a -4.16)(raid -0.80)(, -1.22) line score is : -2.682, look ahead score is : 0.000
+(she -1.22)(never -7.09)(recovered -3.43)(her -4.22)(female -7.01)(. -3.47) line score is : -4.405, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but I guess that you probably gnu 
+-------------------------score:  -3.4604352039675557----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ but she swore that it never female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(but -1.28)(she -6.28)(swore -4.48)(that -3.47)(it -1.91)(never -8.01)(female -1.93)(. -2.00) line score is : -3.669, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then grind out a limerick or two 
+-------------------------score:  -3.4810101043793464----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ not cut out a window or female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(not -1.28)(cut -6.28)(out -4.48)(a -3.83)(window -8.09)(or -1.76)(female -6.44)(. -4.07) line score is : -4.531, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -3.4888060744851828----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to trade , 
+ she was met by a raid , 
+ she was not let rest ate this detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(trade -1.18)(, -8.68) line score is : -3.327, look ahead score is : 0.000
+(she -8.68)(was -1.19)(met -0.51)(by -2.20)(a -4.16)(raid -0.80)(, -1.22) line score is : -2.682, look ahead score is : 0.000
+(she -1.22)(was -7.09)(not -3.43)(let -4.22)(rest -2.77)(ate -5.52)(this -5.65)(detail -6.76)(. -6.78) line score is : -4.827, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.496179178837807----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ she never heard in a year detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(she -1.28)(never -6.28)(heard -4.48)(in -4.86)(a -6.79)(year -3.02)(detail -6.84)(. -4.03) line score is : -4.698, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ what finished him off was the crust 
+-------------------------score:  -3.4978328231842286----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ what turned herself off was the detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(what -1.28)(turned -6.28)(herself -4.48)(off -8.25)(was -3.95)(the -9.63)(detail -5.94)(. -2.97) line score is : -5.347, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.5097609255462885----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ lead straight to work on her farm wholesale . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(lead -1.28)(straight -6.28)(to -4.48)(work -8.44)(on -5.99)(her -0.73)(farm -6.97)(wholesale -5.08)(. -2.08) line score is : -4.593, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.5362548962716134----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ she never can get past it female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(she -1.28)(never -6.28)(can -4.48)(get -4.86)(past -6.79)(it -8.22)(female -3.21)(. -3.42) line score is : -4.819, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ us camels get into a stew 
+-------------------------score:  -3.5754249076048534----------------------- 
+there once was a farmer named maile 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ locked doors appear into a detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(locked -1.28)(doors -6.28)(appear -4.48)(into -3.47)(a -7.37)(detail -8.68)(. -7.98) line score is : -5.647, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ great writers are fewer and fewer 
+-------------------------score:  -3.6906507194042204----------------------- 
+there once was a farmer named dayle 
+ who sold all her produce in a sale . 
+ when she returned to store , 
+ she was met by a door , 
+ locked doors become tighter and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(store -1.18)(, -7.90) line score is : -3.197, look ahead score is : 0.000
+(she -7.90)(was -1.32)(met -0.55)(by -2.18)(a -3.72)(door -0.53)(, -1.28) line score is : -2.497, look ahead score is : 0.000
+(locked -1.28)(doors -6.28)(become -4.48)(tighter -3.47)(and -7.37)(female -9.44)(. -7.52) line score is : -5.692, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.9391059819608927----------------------- 
+there once was a farmer named marcell 
+ who sold all her produce in a sale . 
+ when she returned to shop , 
+ she was met by a crop , 
+ and trying get it is but poor detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(sold -4.93)(all -4.24)(her -0.87)(produce -2.07)(in -2.85)(a -2.23)(sale -6.47)(. -1.73) line score is : -2.980, look ahead score is : 0.000
+(when -1.73)(she -4.20)(returned -1.18)(to -2.99)(shop -1.18)(, -7.84) line score is : -3.187, look ahead score is : 0.000
+(she -7.84)(was -1.13)(met -0.54)(by -2.21)(a -3.46)(crop -0.49)(, -1.20) line score is : -2.409, look ahead score is : 0.000
+(and -1.20)(trying -8.62)(get -5.38)(it -2.35)(is -8.97)(but -9.92)(poor -2.32)(detail -7.59)(. -8.10) line score is : -6.050, look ahead score is : 0.000

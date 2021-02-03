@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8287641620263457----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ so we had to go down on the board . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(so -0.92)(we -3.88)(had -1.13)(to -7.85)(go -1.69)(down -3.55)(on -0.57)(the -3.52)(board -4.92)(. -4.59) line score is : -3.262, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -2.8442461461790147----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ it was great to have a new landlord . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(it -0.92)(was -3.88)(great -1.13)(to -6.24)(have -1.52)(a -4.01)(new -1.72)(landlord -2.02)(. -2.23) line score is : -2.629, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.8857905000448225----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ but we had our moments and scored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(but -0.92)(we -3.88)(had -1.13)(our -5.96)(moments -2.55)(and -2.54)(scored -4.69)(. -1.96) line score is : -2.954, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.936257221736014----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ so we got up and put on the board . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(so -0.92)(we -3.88)(got -1.13)(up -7.85)(and -1.69)(put -4.09)(on -5.26)(the -1.11)(board -5.53)(. -1.97) line score is : -3.342, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -2.999541927377383----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ he was really the guy we ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(he -0.92)(was -3.88)(really -1.13)(the -6.34)(guy -1.47)(we -4.73)(ignored -3.71)(. -2.27) line score is : -3.055, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0224851657946905----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ so we always wanted on the board . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(so -0.92)(we -3.88)(always -1.13)(wanted -7.85)(on -1.69)(the -5.34)(board -2.48)(. -9.50) line score is : -4.098, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.037130658281967----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ we were able to say , 
+ well we got it right in the dashboard . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(we -2.29)(were -2.86)(able -1.16)(to -1.60)(say -4.81)(, -0.00) line score is : -2.118, look ahead score is : 0.000
+(well -0.00)(we -5.78)(got -0.72)(it -5.53)(right -3.38)(in -3.72)(the -2.97)(dashboard -2.50)(. -3.62) line score is : -3.134, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.096576164807043----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and go home to my wife in concord . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(go -3.88)(home -1.13)(to -6.16)(my -6.53)(wife -4.67)(in -3.21)(concord -3.01)(. -1.15) line score is : -3.405, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.1698940540513685----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ but we knew we were playing us toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(but -0.92)(we -3.88)(knew -1.13)(we -5.96)(were -2.55)(playing -3.35)(us -1.34)(toward -1.71)(. -2.96) line score is : -2.644, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and sideways he could n't be seen 
+-------------------------score:  -3.17493357360363----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and says it could never be ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(says -3.88)(it -1.13)(could -6.16)(never -9.28)(be -1.89)(ignored -7.95)(. -3.97) line score is : -4.397, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.226954972551715----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ go right to work on your job toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(go -0.92)(right -3.88)(to -1.13)(work -8.22)(on -4.67)(your -1.92)(job -3.55)(toward -3.13)(. -2.15) line score is : -3.284, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.270464842357943----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ it was tough to get and to toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(it -0.92)(was -3.88)(tough -1.13)(to -6.24)(get -1.52)(and -4.79)(to -0.89)(toward -2.74)(. -6.44) line score is : -3.171, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and now a new teacher they seek 
+-------------------------score:  -3.274062932531039----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and not a bad feeling we ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(not -3.88)(a -1.13)(bad -6.16)(feeling -5.22)(we -3.24)(ignored -3.86)(. -3.42) line score is : -3.477, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ this did n't apply to her feet 
+-------------------------score:  -3.2922967459773647----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ we were able to say , 
+ this was really come to our landlord . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(we -2.29)(were -2.86)(able -1.16)(to -1.60)(say -4.81)(, -0.00) line score is : -2.118, look ahead score is : 0.000
+(this -0.00)(was -5.78)(really -0.72)(come -5.31)(to -4.79)(our -4.46)(landlord -8.54)(. -3.05) line score is : -4.080, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but nobody knew what he said 
+-------------------------score:  -3.298294442481008----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ but nobody knew what i ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(but -0.92)(nobody -3.88)(knew -1.13)(what -5.96)(i -7.64)(ignored -2.30)(. -1.33) line score is : -3.307, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.299575927374404----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ we were able to say , 
+ we got through the season and put toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(we -2.29)(were -2.86)(able -1.16)(to -1.60)(say -4.81)(, -0.00) line score is : -2.118, look ahead score is : 0.000
+(we -0.00)(got -5.78)(through -0.72)(the -4.67)(season -4.05)(and -5.27)(put -1.95)(toward -2.59)(. -2.29) line score is : -3.036, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and returned on the previous night 
+-------------------------score:  -3.3028234270128327----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ we were able to say , 
+ and broadcast on the national board . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(we -2.29)(were -2.86)(able -1.16)(to -1.60)(say -4.81)(, -0.00) line score is : -2.118, look ahead score is : 0.000
+(and -0.00)(broadcast -5.78)(on -0.72)(the -7.43)(national -9.80)(board -3.80)(. -1.66) line score is : -4.170, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.323479445711259----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ we got it and made plays and ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(we -0.92)(got -3.88)(it -1.13)(and -4.72)(made -4.11)(plays -2.22)(and -4.26)(ignored -7.08)(. -5.01) line score is : -3.702, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.3344120885943993----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ we were able to say , 
+ we got that our team was toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(we -2.29)(were -2.86)(able -1.16)(to -1.60)(say -4.81)(, -0.00) line score is : -2.118, look ahead score is : 0.000
+(we -0.00)(got -5.78)(that -0.72)(our -4.67)(team -4.05)(was -4.38)(toward -8.01)(. -2.93) line score is : -3.817, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.3501644062584846----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and maybe could understand a chord . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(maybe -3.88)(could -1.13)(understand -6.16)(a -5.71)(chord -8.06)(. -5.54) line score is : -4.484, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ us camels get into a stew 
+-------------------------score:  -3.4361780809945075----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ great things happen into a dashboard . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(great -0.92)(things -3.88)(happen -1.13)(into -9.39)(a -4.57)(dashboard -2.81)(. -9.52) line score is : -4.602, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and finished the solo with honour 
+-------------------------score:  -3.4711054861545563----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and understood the team with concord . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(understood -3.88)(the -1.13)(team -6.16)(with -9.47)(concord -2.57)(. -4.48) line score is : -4.087, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ thirty days is the time he will do 
+-------------------------score:  -3.494749177848139----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ good times is the name we will toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(good -0.92)(times -3.88)(is -1.13)(the -9.10)(name -4.79)(we -6.55)(will -3.61)(toward -1.91)(. -3.45) line score is : -3.926, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.54737905243508----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ we were able to say , 
+ and broadcast with a certain dashboard . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(we -2.29)(were -2.86)(able -1.16)(to -1.60)(say -4.81)(, -0.00) line score is : -2.118, look ahead score is : 0.000
+(and -0.00)(broadcast -5.78)(with -0.72)(a -7.43)(certain -9.80)(dashboard -5.12)(. -3.43) line score is : -4.611, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and showed him many cstar 
+-------------------------score:  -3.562280204679285----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and understood it many ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(understood -3.88)(it -1.13)(many -6.16)(ignored -9.47)(. -3.25) line score is : -4.134, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and sometimes get quite cranky 
+-------------------------score:  -3.586675568350724----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and even consider quite ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(even -3.88)(consider -1.13)(quite -6.16)(ignored -4.71)(. -9.40) line score is : -4.364, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ that she pickled her internal workins' 
+-------------------------score:  -3.7118004858493805----------------------- 
+there was a loud artist named ward 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ that us left us open toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(that -0.92)(us -3.88)(left -1.13)(us -6.07)(open -9.61)(toward -8.63)(. -6.14) line score is : -5.198, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but will ruminate on while I chew 
+-------------------------score:  -3.793223898609479----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ but will improve on while they ignored . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(but -0.92)(will -3.88)(improve -1.13)(on -5.96)(while -9.23)(they -9.29)(ignored -3.53)(. -9.15) line score is : -5.385, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.8322180980636227----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ and trying do it is but kind toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(and -0.92)(trying -3.88)(do -1.13)(it -6.16)(is -9.34)(but -8.99)(kind -1.24)(toward -4.12)(. -9.23) line score is : -4.999, look ahead score is : 0.000
+======================= template: 30 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ VB BEFORE JJ VB JJ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ be before phoebe be phoebe bee-bee 
+-------------------------score:  -3.882648674578502----------------------- 
+there was a loud artist named gaylord 
+ who played a big role on our record . 
+ when we started to play , 
+ it was easy to say , 
+ go before high press early toward . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(played -2.41)(a -3.01)(big -4.91)(role -1.84)(on -3.24)(our -3.35)(record -3.69)(. -1.74) line score is : -2.935, look ahead score is : 0.000
+(when -1.74)(we -4.49)(started -0.93)(to -2.13)(play -3.06)(, -2.29) line score is : -2.439, look ahead score is : 0.000
+(it -2.29)(was -2.86)(easy -2.56)(to -0.32)(say -4.93)(, -0.92) line score is : -2.311, look ahead score is : 0.000
+(go -0.92)(before -3.88)(high -1.13)(press -8.22)(early -8.51)(toward -8.61)(. -3.80) line score is : -5.008, look ahead score is : 0.000

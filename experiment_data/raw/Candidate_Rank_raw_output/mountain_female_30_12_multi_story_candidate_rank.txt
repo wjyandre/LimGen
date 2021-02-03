@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.747499605640769----------------------- 
+there was a brave woman named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and that is the story of this play . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(town -1.23)(, -4.11) line score is : -3.189, look ahead score is : 0.000
+(she -4.11)(was -1.06)(met -0.61)(by -2.08)(a -2.62)(clown -0.40)(, -1.23) line score is : -1.730, look ahead score is : 0.000
+(and -1.23)(that -8.74)(is -2.35)(the -2.96)(story -5.28)(of -2.70)(this -2.72)(play -2.51)(. -0.98) line score is : -3.276, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8751639579281663----------------------- 
+there was a brave woman named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ so she asked to go down on the hay . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(town -1.23)(, -4.11) line score is : -3.189, look ahead score is : 0.000
+(she -4.11)(was -1.06)(met -0.61)(by -2.08)(a -2.62)(clown -0.40)(, -1.23) line score is : -1.730, look ahead score is : 0.000
+(so -1.23)(she -8.74)(asked -2.35)(to -5.86)(go -0.53)(down -3.45)(on -3.40)(the -3.09)(hay -3.86)(. -2.91) line score is : -3.543, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.904120116522818----------------------- 
+there was a brave woman named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ so she got up and put on the play . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(town -1.23)(, -4.11) line score is : -3.189, look ahead score is : 0.000
+(she -4.11)(was -1.06)(met -0.61)(by -2.08)(a -2.62)(clown -0.40)(, -1.23) line score is : -1.730, look ahead score is : 0.000
+(so -1.23)(she -8.74)(got -2.35)(up -5.86)(and -0.53)(put -4.44)(on -3.91)(the -0.55)(play -5.95)(. -0.99) line score is : -3.456, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -2.9578985552633963----------------------- 
+there was a brave woman named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was killed by a clown , 
+ and now she has a secret birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(town -1.23)(, -4.11) line score is : -3.189, look ahead score is : 0.000
+(she -4.11)(was -1.06)(killed -0.61)(by -2.08)(a -5.33)(clown -0.89)(, -1.04) line score is : -2.158, look ahead score is : 0.000
+(and -1.04)(now -8.53)(she -2.43)(has -1.60)(a -4.88)(secret -1.29)(birthday -2.40)(. -2.59) line score is : -3.095, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.004082477092743----------------------- 
+there was a brave woman named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a frown , 
+ because she was missing her cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(town -1.23)(, -4.11) line score is : -3.189, look ahead score is : 0.000
+(she -4.11)(was -1.06)(met -0.61)(by -2.08)(a -2.62)(frown -0.40)(, -1.23) line score is : -1.730, look ahead score is : 0.000
+(because -1.23)(she -9.67)(was -5.89)(missing -3.61)(her -1.17)(cache -1.34)(. -5.57) line score is : -4.070, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.086827853322029----------------------- 
+there was a brave woman named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was stopped by a clown , 
+ and left with a broken resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(town -1.23)(, -4.11) line score is : -3.189, look ahead score is : 0.000
+(she -4.11)(was -1.06)(stopped -0.61)(by -2.08)(a -4.70)(clown -0.29)(, -1.08) line score is : -1.991, look ahead score is : 0.000
+(and -1.08)(left -8.59)(with -2.42)(a -2.64)(broken -5.34)(resume -2.49)(. -1.09) line score is : -3.378, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.103263889589617----------------------- 
+there was a brave woman named kay 
+ who crossed a dead body on her way . 
+ when she returned to rest , 
+ she was shocked by her chest , 
+ which was covered with the most cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(crossed -7.43)(a -3.05)(dead -4.69)(body -0.98)(on -2.69)(her -1.77)(way -0.67)(. -5.52) line score is : -3.142, look ahead score is : 0.000
+(when -5.52)(she -4.17)(returned -0.85)(to -3.26)(rest -1.23)(, -8.30) line score is : -3.888, look ahead score is : 0.000
+(she -8.30)(was -1.03)(shocked -0.61)(by -1.95)(her -3.02)(chest -2.92)(, -2.19) line score is : -2.860, look ahead score is : 0.000
+(which -2.19)(was -7.04)(covered -2.41)(with -1.57)(the -0.91)(most -1.97)(cache -1.17)(. -3.89) line score is : -2.644, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.1384194851402314----------------------- 
+there was a fierce woman named kay 
+ who crossed a great river on her way . 
+ when she returned to land , 
+ she was met by a hand , 
+ which was filled with the greatest cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(crossed -8.77)(a -3.78)(great -3.45)(river -1.12)(on -4.02)(her -1.38)(way -1.89)(. -4.12) line score is : -3.300, look ahead score is : 0.000
+(when -4.12)(she -3.56)(returned -0.53)(to -3.92)(land -1.59)(, -5.44) line score is : -3.194, look ahead score is : 0.000
+(she -5.44)(was -0.96)(met -0.57)(by -1.94)(a -2.92)(hand -0.23)(, -1.10) line score is : -1.879, look ahead score is : 0.000
+(which -1.10)(was -7.81)(filled -4.11)(with -2.24)(the -2.71)(greatest -4.72)(cache -0.02)(. -3.19) line score is : -3.237, look ahead score is : 0.000

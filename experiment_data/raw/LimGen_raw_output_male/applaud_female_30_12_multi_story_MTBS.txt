@@ -1,0 +1,286 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.590070316568017----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by his word , 
+ and she fell down and began her deed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(his -3.88)(word -1.62)(, -4.38) line score is : -3.085, look ahead score is : 0.000
+(and -4.38)(she -6.75)(fell -1.41)(down -0.66)(and -2.21)(began -3.50)(her -2.55)(deed -3.38)(. -3.33) line score is : -3.129, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ then I sat on my moped and moped 
+-------------------------score:  -3.722954537719488----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by his word , 
+ then she swore on her forehead and read . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(his -3.88)(word -1.62)(, -4.38) line score is : -3.085, look ahead score is : 0.000
+(then -4.38)(she -6.75)(swore -1.41)(on -6.20)(her -2.45)(forehead -7.21)(and -4.36)(read -0.57)(. -3.11) line score is : -4.049, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ he never completed his task 
+-------------------------score:  -3.7355274434747368----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was shocked by her word , 
+ she suddenly realized her deed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(shocked -1.31)(by -2.01)(her -4.41)(word -2.94)(, -2.18) line score is : -3.035, look ahead score is : 0.000
+(she -2.18)(suddenly -7.22)(realized -1.75)(her -4.25)(deed -5.77)(. -2.76) line score is : -3.990, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.737628059461713----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by her word , 
+ she was glad to have a present need . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(her -3.88)(word -1.62)(, -3.44) line score is : -2.951, look ahead score is : 0.000
+(she -3.44)(was -7.95)(glad -1.49)(to -4.68)(have -1.97)(a -5.61)(present -1.72)(need -2.52)(. -2.52) line score is : -3.544, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.7461437433958054----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by her word , 
+ and she was not like woman of deed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(her -3.88)(word -1.62)(, -3.44) line score is : -2.951, look ahead score is : 0.000
+(and -3.44)(she -7.95)(was -1.49)(not -0.62)(like -2.38)(woman -2.77)(of -3.69)(deed -6.67)(. -6.93) line score is : -3.992, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.8250185307115316----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by his word , 
+ it was through the window and made heed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(his -3.88)(word -1.62)(, -4.38) line score is : -3.085, look ahead score is : 0.000
+(it -4.38)(was -6.75)(through -1.41)(the -6.38)(window -0.95)(and -7.01)(made -1.31)(heed -3.42)(. -3.03) line score is : -3.849, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.8752765674744882----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was shocked by her word , 
+ she never can say unless she read . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(shocked -1.31)(by -2.01)(her -4.41)(word -2.94)(, -2.18) line score is : -3.035, look ahead score is : 0.000
+(she -2.18)(never -7.22)(can -1.75)(say -4.25)(unless -5.52)(she -6.69)(read -3.31)(. -7.88) line score is : -4.851, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.93913234770298----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by her word , 
+ it was not till morning did this deed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(her -3.88)(word -1.62)(, -3.44) line score is : -2.951, look ahead score is : 0.000
+(it -3.44)(was -7.95)(not -1.49)(till -6.09)(morning -0.95)(did -3.29)(this -4.99)(deed -6.45)(. -2.74) line score is : -4.155, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.9391886009834707----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was shocked by her word , 
+ but she does not know unless her deed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(shocked -1.31)(by -2.01)(her -4.41)(word -2.94)(, -2.18) line score is : -3.035, look ahead score is : 0.000
+(but -2.18)(she -7.22)(does -1.75)(not -4.44)(know -1.86)(unless -7.53)(her -0.14)(deed -1.60)(. -9.13) line score is : -3.983, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but the telephone book caused him pain 
+-------------------------score:  -4.207251127689116----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was shocked by her word , 
+ but the feeling stayed untouched she freed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(shocked -1.31)(by -2.01)(her -4.41)(word -2.94)(, -2.18) line score is : -3.035, look ahead score is : 0.000
+(but -2.18)(the -7.22)(feeling -1.75)(stayed -4.44)(untouched -4.03)(she -4.38)(freed -5.03)(. -7.56) line score is : -4.575, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ I ll give you prostheses for free 
+-------------------------score:  -4.34257121047666----------------------- 
+there was a wise judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by his word , 
+ he ca call them lovers for deed . 
+------------------------- score breakdown ------------------------ 
+(who -2.24)(wished -6.57)(a -5.56)(good -2.90)(day -3.06)(on -5.30)(her -1.43)(indeed -10.38)(. -1.74) line score is : -4.353, look ahead score is : 0.000
+(but -1.74)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.051, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(his -3.88)(word -1.62)(, -4.38) line score is : -3.085, look ahead score is : 0.000
+(he -4.38)(ca -6.75)(call -1.41)(them -5.39)(lovers -8.41)(for -11.83)(deed -4.21)(. -5.56) line score is : -5.994, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ then he couldn t think of anything 
+-------------------------score:  -4.415227641982417----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by his word , 
+ then she ca not believe of heed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(his -3.88)(word -1.62)(, -4.38) line score is : -3.085, look ahead score is : 0.000
+(then -4.38)(she -6.75)(ca -1.41)(not -6.20)(believe -2.45)(of -9.24)(heed -13.57)(. -3.60) line score is : -5.950, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -4.4465413189703415----------------------- 
+there was a polite judge named dede 
+ who wished a good day on her indeed . 
+ but the moment she heard , 
+ she was struck by her word , 
+ she burst forth amidst seven or seed . 
+------------------------- score breakdown ------------------------ 
+(who -1.93)(wished -6.98)(a -5.35)(good -3.06)(day -2.09)(on -5.41)(her -1.48)(indeed -10.99)(. -1.71) line score is : -4.333, look ahead score is : 0.000
+(but -1.71)(the -4.57)(moment -2.95)(she -4.72)(heard -0.66)(, -3.67) line score is : -3.046, look ahead score is : 0.000
+(she -3.67)(was -4.72)(struck -1.31)(by -2.01)(her -3.88)(word -1.62)(, -3.44) line score is : -2.951, look ahead score is : 0.000
+(she -3.44)(burst -7.95)(forth -1.49)(amidst -4.68)(seven -5.74)(or -4.17)(seed -8.52)(. -9.51) line score is : -5.688, look ahead score is : 0.000

@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.472755804657936----------------------- 
+there was a doctor named zane 
+ who did a great treatment on my brain . 
+ he was a physician , 
+ he was on a mission , 
+ and he came down and treated my pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(treatment -5.09)(on -1.58)(my -3.14)(brain -3.86)(. -1.62) line score is : -2.851, look ahead score is : 0.000
+(he -1.62)(was -1.27)(a -2.47)(physician -1.77)(, -4.76) line score is : -2.378, look ahead score is : 0.000
+(he -4.76)(was -2.06)(on -1.81)(a -1.20)(mission -4.81)(, -2.33) line score is : -2.829, look ahead score is : 0.000
+(and -2.33)(he -2.71)(came -1.32)(down -1.26)(and -0.45)(treated -3.31)(my -3.17)(pain -1.47)(. -2.78) line score is : -2.091, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -2.5044283607421676----------------------- 
+there was a doctor named duane 
+ who did a great treatment on my brain . 
+ when i started to talk , 
+ i was able to walk , 
+ so i had to sit down on the train . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(treatment -5.09)(on -1.58)(my -3.14)(brain -3.86)(. -1.62) line score is : -2.851, look ahead score is : 0.000
+(when -1.62)(i -4.11)(started -0.79)(to -3.36)(talk -2.22)(, -3.60) line score is : -2.618, look ahead score is : 0.000
+(i -3.60)(was -1.77)(able -1.49)(to -2.03)(walk -2.08)(, -0.00) line score is : -1.830, look ahead score is : 0.000
+(so -0.00)(i -4.83)(had -2.15)(to -3.94)(sit -0.77)(down -3.27)(on -1.47)(the -3.98)(train -1.07)(. -3.07) line score is : -2.455, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.615368062761263----------------------- 
+there was a doctor named dewayne 
+ who did a great treatment on my brain . 
+ when i started to talk , 
+ i was able to walk , 
+ so i got up and put on the cane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(treatment -5.09)(on -1.58)(my -3.14)(brain -3.86)(. -1.62) line score is : -2.851, look ahead score is : 0.000
+(when -1.62)(i -4.11)(started -0.79)(to -3.36)(talk -2.22)(, -3.60) line score is : -2.618, look ahead score is : 0.000
+(i -3.60)(was -1.77)(able -1.49)(to -2.03)(walk -2.08)(, -0.00) line score is : -1.830, look ahead score is : 0.000
+(so -0.00)(i -4.83)(got -2.15)(up -3.94)(and -0.77)(put -3.52)(on -3.60)(the -0.91)(cane -5.43)(. -1.40) line score is : -2.656, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -2.6451843520005545----------------------- 
+there was a doctor named dewayne 
+ who did a great treatment on my brain . 
+ he was a physician , 
+ he was on a mission , 
+ he was trained to treat a severe pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(treatment -5.09)(on -1.58)(my -3.14)(brain -3.86)(. -1.62) line score is : -2.851, look ahead score is : 0.000
+(he -1.62)(was -1.27)(a -2.47)(physician -1.77)(, -4.76) line score is : -2.378, look ahead score is : 0.000
+(he -4.76)(was -2.06)(on -1.81)(a -1.20)(mission -4.81)(, -2.33) line score is : -2.829, look ahead score is : 0.000
+(he -2.33)(was -2.71)(trained -1.32)(to -0.73)(treat -0.93)(a -5.30)(severe -1.66)(pain -1.67)(. -3.92) line score is : -2.287, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ they bedded her down in the stable 
+-------------------------score:  -2.920664629031872----------------------- 
+there was a doctor named dwayne 
+ who did a great job on our brain . 
+ he was a physician , 
+ he was on a mission , 
+ he took us down in the insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(job -0.56)(on -2.60)(our -4.20)(brain -6.69)(. -2.07) line score is : -2.943, look ahead score is : 0.000
+(he -2.07)(was -1.17)(a -1.84)(physician -1.79)(, -4.95) line score is : -2.365, look ahead score is : 0.000
+(he -4.95)(was -1.95)(on -1.85)(a -1.06)(mission -4.92)(, -2.57) line score is : -2.884, look ahead score is : 0.000
+(he -2.57)(took -2.83)(us -1.27)(down -0.75)(in -4.40)(the -1.60)(insane -3.97)(. -3.85) line score is : -2.657, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.9373425830687796----------------------- 
+there was a doctor named jermaine 
+ who did a great treatment on my brain . 
+ he was a physician , 
+ he was on a mission , 
+ and he treated mine very insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(treatment -5.09)(on -1.58)(my -3.14)(brain -3.86)(. -1.62) line score is : -2.851, look ahead score is : 0.000
+(he -1.62)(was -1.27)(a -2.47)(physician -1.77)(, -4.76) line score is : -2.378, look ahead score is : 0.000
+(he -4.76)(was -2.06)(on -1.81)(a -1.20)(mission -4.81)(, -2.33) line score is : -2.829, look ahead score is : 0.000
+(and -2.33)(he -2.71)(treated -1.32)(mine -1.26)(very -0.45)(insane -3.96)(. -4.88) line score is : -2.417, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9511238254349808----------------------- 
+there was a doctor named duane 
+ who did a great treatment on my brain . 
+ he was a physician , 
+ he was on a mission , 
+ but he knew his patients and insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -3.39)(a -2.19)(great -3.05)(treatment -5.09)(on -1.58)(my -3.14)(brain -3.86)(. -1.62) line score is : -2.851, look ahead score is : 0.000
+(he -1.62)(was -1.27)(a -2.47)(physician -1.77)(, -4.76) line score is : -2.378, look ahead score is : 0.000
+(he -4.76)(was -2.06)(on -1.81)(a -1.20)(mission -4.81)(, -2.33) line score is : -2.829, look ahead score is : 0.000
+(but -2.33)(he -2.71)(knew -1.32)(his -3.21)(patients -0.56)(and -3.75)(insane -3.52)(. -2.13) line score is : -2.442, look ahead score is : 0.000

@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ she was ready to give and to take 
+-------------------------score:  -2.820338510697888----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ she was afraid to live and to eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(she -2.39)(was -8.24)(afraid -2.25)(to -3.01)(live -1.58)(and -5.22)(to -1.22)(eat -3.59)(. -3.57) line score is : -3.454, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -2.829832994379103----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ so he had to go down on the beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(so -2.39)(he -8.24)(had -2.25)(to -3.37)(go -1.20)(down -2.86)(on -0.45)(the -2.45)(beat -4.63)(. -3.87) line score is : -3.170, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.9161152485758066----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ so he sold up and live on the beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(so -2.39)(he -8.24)(sold -2.25)(up -3.37)(and -1.20)(live -2.76)(on -5.59)(the -0.69)(beat -7.73)(. -1.83) line score is : -3.603, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ because I was sniffing my toes 
+-------------------------score:  -2.9551026245643355----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ because she was losing her heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(because -2.39)(she -8.24)(was -2.25)(losing -5.75)(her -0.96)(heartbeat -1.56)(. -4.07) line score is : -3.603, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ and sideways he could n't be seen 
+-------------------------score:  -3.0019161383310955----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ and says she could not afford concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(and -2.39)(says -8.24)(she -2.25)(could -0.87)(not -7.87)(afford -1.09)(concrete -4.20)(. -0.82) line score is : -3.464, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.0335470063071095----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ he was through the roof and was upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(he -2.39)(was -8.24)(through -2.25)(the -2.62)(roof -1.87)(and -8.48)(was -3.46)(upbeat -0.21)(. -1.51) line score is : -3.448, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.051983015290622----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ and died with a serious heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(and -2.39)(died -8.24)(with -2.25)(a -0.87)(serious -3.27)(heartbeat -5.35)(. -2.41) line score is : -3.539, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ turned out to be plaster of paris 
+-------------------------score:  -3.058423082033793----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ went out to buy something of concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(went -2.39)(out -8.24)(to -2.25)(buy -3.69)(something -3.15)(of -1.71)(concrete -2.69)(. -3.91) line score is : -3.502, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ and returned on the previous night 
+-------------------------score:  -3.070222570978362----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ and died on the regular heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(and -2.39)(died -8.24)(on -2.25)(the -0.87)(regular -3.27)(heartbeat -3.71)(. -1.00) line score is : -3.104, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ then he walloped me square in the face 
+-------------------------score:  -3.0970689904305244----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ then she had him shot in the concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(then -2.39)(she -8.24)(had -2.25)(him -5.53)(shot -2.29)(in -2.95)(the -5.55)(concrete -3.10)(. -2.46) line score is : -3.862, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.103845844666163----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ got a job no longer than concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(got -2.39)(a -8.24)(job -2.25)(no -4.38)(longer -2.20)(than -0.95)(concrete -9.81)(. -0.30) line score is : -3.815, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.120588952495206----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ he left us and got drugs and concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(he -2.39)(left -8.24)(us -2.25)(and -2.62)(got -3.59)(drugs -2.38)(and -1.39)(concrete -4.63)(. -6.62) line score is : -3.790, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.126751972096307----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ he never recovered a heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(he -2.39)(never -8.24)(recovered -2.25)(a -2.62)(heartbeat -5.51)(. -3.20) line score is : -4.034, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ she sat up in bed and meowed 
+-------------------------score:  -3.154435928662618----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ she was up in heaven and concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(she -2.39)(was -8.24)(up -2.25)(in -3.01)(heaven -1.58)(and -7.04)(concrete -2.70)(. -3.12) line score is : -3.791, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.232491970062256----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ which was treated with the most concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(which -2.39)(was -8.24)(treated -2.25)(with -4.39)(the -2.23)(most -5.36)(concrete -2.59)(. -2.29) line score is : -3.717, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ I invariably get in a stew ! 
+-------------------------score:  -3.2410706082979837----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ she never slept in a bed concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(she -2.39)(never -8.24)(slept -2.25)(in -3.01)(a -5.57)(bed -4.14)(concrete -3.01)(. -2.89) line score is : -3.938, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ he never completed his task 
+-------------------------score:  -3.243891647883824----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ he finally sold our concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(he -2.39)(finally -8.24)(sold -2.25)(our -2.62)(concrete -6.62)(. -2.45) line score is : -4.093, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ and hop in before all the crowd 
+-------------------------score:  -3.2521380384763083----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ and slept outside before all the heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(and -2.39)(slept -8.24)(outside -2.25)(before -0.87)(all -8.47)(the -3.60)(heat -6.74)(. -6.35) line score is : -4.863, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ but the telephone book caused him pain 
+-------------------------score:  -3.298070267836253----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our store , 
+ his wife was a mentor , 
+ but the business model was self eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(store -3.54)(, -4.44) line score is : -2.830, look ahead score is : 0.000
+(his -4.44)(wife -2.09)(was -4.79)(a -0.91)(mentor -2.22)(, -1.84) line score is : -2.714, look ahead score is : 0.000
+(but -1.84)(the -8.62)(business -3.67)(model -3.73)(was -3.42)(self -3.49)(eat -4.66)(. -1.11) line score is : -3.818, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ a habit unpleasant but curious 
+-------------------------score:  -3.3272909096309116----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our store , 
+ his wife was a mentor , 
+ a grandmother friendly but upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(store -3.54)(, -4.44) line score is : -2.830, look ahead score is : 0.000
+(his -4.44)(wife -2.09)(was -4.79)(a -0.91)(mentor -2.22)(, -1.84) line score is : -2.714, look ahead score is : 0.000
+(a -1.84)(grandmother -8.62)(friendly -3.67)(but -2.43)(upbeat -4.87)(. -9.16) line score is : -5.100, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.329054021835327----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ he died when it hit across concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(he -2.39)(died -8.24)(when -2.25)(it -2.62)(hit -3.32)(across -4.42)(concrete -5.31)(. -2.40) line score is : -3.869, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ a word of ambiguous meaning 
+-------------------------score:  -3.354036118835211----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our store , 
+ his wife was a mentor , 
+ a member of various athlete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(store -3.54)(, -4.44) line score is : -2.830, look ahead score is : 0.000
+(his -4.44)(wife -2.09)(was -4.79)(a -0.91)(mentor -2.22)(, -1.84) line score is : -2.714, look ahead score is : 0.000
+(a -1.84)(member -8.62)(of -3.67)(various -2.43)(athlete -4.76)(. -0.03) line score is : -3.560, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ and could n't bend back again 
+-------------------------score:  -3.358069520572136----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ and could not continue back concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(and -2.39)(could -8.24)(not -2.25)(continue -0.87)(back -6.09)(concrete -0.59)(. -4.63) line score is : -3.578, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ then grind out a limerick or two 
+-------------------------score:  -3.365092889467875----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ then put out a newspaper or treat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(then -2.39)(put -8.24)(out -2.25)(a -5.53)(newspaper -7.16)(or -2.70)(treat -0.89)(. -3.64) line score is : -4.100, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ I did n't think life was this way 
+-------------------------score:  -3.385767869410976----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ he was not re kind led this upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(he -2.39)(was -8.24)(not -2.25)(re -2.62)(kind -1.87)(led -4.01)(this -7.97)(upbeat -5.59)(. -0.65) line score is : -3.953, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ but the other won several prizes 
+-------------------------score:  -3.448532593661341----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our store , 
+ his wife was a mentor , 
+ but the other was married concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(store -3.54)(, -4.44) line score is : -2.830, look ahead score is : 0.000
+(his -4.44)(wife -2.09)(was -4.79)(a -0.91)(mentor -2.22)(, -1.84) line score is : -2.714, look ahead score is : 0.000
+(but -1.84)(the -8.62)(other -3.67)(was -3.73)(married -3.42)(concrete -4.33)(. -5.77) line score is : -4.483, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP$ NN VBD A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ my mama was a goat 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.745658301538037----------------------- 
+there was a smart farmer named pete 
+ who owned a small farm on our street . 
+ the owner of our town , 
+ his wife had a breakdown , 
+ and trying help them is but good concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(owned -3.41)(a -0.72)(small -2.20)(farm -1.21)(on -2.78)(our -4.86)(street -2.43)(. -0.52) line score is : -2.195, look ahead score is : 0.000
+(the -0.52)(owner -3.69)(of -3.64)(our -1.15)(town -3.54)(, -4.74) line score is : -2.881, look ahead score is : 0.000
+(his -4.74)(wife -2.24)(had -4.11)(a -0.88)(breakdown -2.59)(, -2.39) line score is : -2.825, look ahead score is : 0.000
+(and -2.39)(trying -8.24)(help -2.25)(them -0.87)(is -9.60)(but -10.09)(good -2.59)(concrete -4.68)(. -8.95) line score is : -5.516, look ahead score is : 0.000

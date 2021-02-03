@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ so he had to sit down on the floor 
+-------------------------score:  -3.047149193007499----------------------- 
+there was a fierce lawyer named sharon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ so she had to go down on the bone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(so -2.81)(she -4.73)(had -2.88)(to -2.29)(go -0.62)(down -3.73)(on -0.23)(the -2.53)(bone -5.44)(. -3.53) line score is : -2.879, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.2288787700235844----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ so they gave up and put on the stone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(so -2.81)(they -4.73)(gave -2.88)(up -2.29)(and -1.84)(put -2.76)(on -3.09)(the -1.54)(stone -4.82)(. -5.70) line score is : -3.246, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.2466326702025627----------------------- 
+there was a fierce lawyer named jone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she went on a deadline , 
+ but her parents were down to their bone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(went -1.77)(on -0.72)(a -2.52)(deadline -3.66)(, -1.66) line score is : -2.480, look ahead score is : 0.000
+(but -1.66)(her -9.26)(parents -3.51)(were -3.28)(down -2.80)(to -0.64)(their -2.59)(bone -8.13)(. -0.94) line score is : -3.645, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.3447167853514355----------------------- 
+there was a fierce lawyer named concepcion 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ so she simply went on the backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(so -2.81)(she -4.73)(simply -2.88)(went -2.29)(on -0.62)(the -6.66)(backbone -3.07)(. -3.53) line score is : -3.323, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ so I sat on my moped and moped 
+-------------------------score:  -3.3776835876126445----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ so she slept on their couch and backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(so -2.81)(she -4.73)(slept -2.88)(on -2.29)(their -0.62)(couch -8.43)(and -1.40)(backbone -2.78)(. -0.52) line score is : -2.941, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ he was n't the wizard he woz 
+-------------------------score:  -3.3785688281059265----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she had only the money she own . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(had -4.73)(only -2.88)(the -2.80)(money -4.07)(she -4.77)(own -4.78)(. -2.29) line score is : -3.641, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ and finished the solo with honour 
+-------------------------score:  -3.412206054761492----------------------- 
+there was a fierce lawyer named sharon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ and needed the money with backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(and -2.81)(needed -4.73)(the -2.88)(money -1.07)(with -4.68)(backbone -2.58)(. -0.35) line score is : -2.730, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ but it does n't come out of my purse 
+-------------------------score:  -3.456527065846228----------------------- 
+there was a fierce lawyer named leone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ but she does not recall in his tone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(but -2.81)(she -4.73)(does -2.88)(not -2.57)(recall -1.66)(in -7.55)(his -0.82)(tone -3.14)(. -6.65) line score is : -3.646, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -3.501192738932948----------------------- 
+there was a fierce lawyer named sharon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she was sure to get a default thrown . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(was -4.73)(sure -2.88)(to -2.80)(get -3.27)(a -6.74)(default -2.88)(thrown -2.33)(. -1.99) line score is : -3.381, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.535535902746262----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ and it was not like buying of stone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(and -2.81)(it -4.73)(was -2.88)(not -1.07)(like -4.45)(buying -0.84)(of -3.57)(stone -5.21)(. -6.90) line score is : -3.607, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5407262526709458----------------------- 
+there was a fierce lawyer named concepcion 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ and she needed money soon backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(and -2.81)(she -4.73)(needed -2.88)(money -1.07)(soon -1.90)(backbone -3.62)(. -2.25) line score is : -2.751, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ and she baked really great apple pies 
+-------------------------score:  -3.5441557109355926----------------------- 
+there was a fierce lawyer named sharon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ and it was too much money backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(and -2.81)(it -4.73)(was -2.88)(too -1.07)(much -4.45)(money -0.84)(backbone -2.98)(. -3.50) line score is : -2.908, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ which pickled his internal workins 
+-------------------------score:  -3.5861454542194093----------------------- 
+there was a fierce lawyer named concepcion 
+ who sought out her parents for a loan . 
+ when they refused to act , 
+ she took on a contract , 
+ which included her former backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(act -1.40)(, -6.17) line score is : -2.732, look ahead score is : 0.000
+(she -6.17)(took -0.86)(on -0.85)(a -2.96)(contract -4.67)(, -2.19) line score is : -2.949, look ahead score is : 0.000
+(which -2.19)(included -6.08)(her -4.63)(former -2.54)(backbone -3.75)(. -3.03) line score is : -3.702, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ but I guess that you probably gnu 
+-------------------------score:  -3.604506587982178----------------------- 
+there was a fierce lawyer named jone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ but she heard that she probably own . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(but -2.81)(she -4.73)(heard -2.88)(that -2.57)(she -1.66)(probably -6.76)(own -2.33)(. -1.98) line score is : -3.216, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ he never completed his task 
+-------------------------score:  -3.616306768996375----------------------- 
+there was a fierce lawyer named concepcion 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she finally ended her backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(finally -4.73)(ended -2.88)(her -2.80)(backbone -6.77)(. -3.93) line score is : -3.988, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ then he walloped me square in the face 
+-------------------------score:  -3.619113068426809----------------------- 
+there was a fierce lawyer named leone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ then she had them turn in the backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(then -2.81)(she -4.73)(had -2.88)(them -6.05)(turn -3.08)(in -2.75)(the -6.45)(backbone -5.58)(. -2.67) line score is : -4.112, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.6764767368634543----------------------- 
+there was a fierce lawyer named sharon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ but they are still angry for backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(but -2.81)(they -4.73)(are -2.88)(still -2.57)(angry -2.40)(for -6.63)(backbone -1.61)(. -4.99) line score is : -3.579, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ which leaves him in very bad shape 
+-------------------------score:  -3.7037345727284747----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ which makes it in pretty bad limestone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(which -2.81)(makes -4.73)(it -2.88)(in -3.86)(pretty -6.25)(bad -1.21)(limestone -7.63)(. -5.90) line score is : -4.410, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.7099029360146356----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ and told her grandmother a limestone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(and -2.81)(told -4.73)(her -2.88)(grandmother -1.07)(a -5.10)(limestone -1.33)(. -5.51) line score is : -3.347, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.7182121199946248----------------------- 
+there was a fierce lawyer named leone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she told them and went downstairs and shown . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(told -4.73)(them -2.88)(and -2.80)(went -3.16)(downstairs -3.52)(and -3.79)(shown -3.49)(. -8.54) line score is : -3.971, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.7184768298576616----------------------- 
+there was a fierce lawyer named jone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she has a long medical backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(has -4.73)(a -2.88)(long -2.80)(medical -5.75)(backbone -3.30)(. -5.35) line score is : -3.945, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ which refreshed that person of ewell 
+-------------------------score:  -3.7986909973210303----------------------- 
+there was a fierce lawyer named jone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ which meant that tuition of backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(which -2.81)(meant -4.73)(that -2.88)(tuition -3.86)(of -1.30)(backbone -1.64)(. -8.45) line score is : -3.667, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ then grind out a limerick or two 
+-------------------------score:  -3.802152113119761----------------------- 
+there was a fierce lawyer named corazon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she went on a deadline , 
+ then put out a newspaper or thrown . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(went -1.77)(on -0.72)(a -2.52)(deadline -3.66)(, -1.66) line score is : -2.480, look ahead score is : 0.000
+(then -1.66)(put -9.26)(out -3.51)(a -4.82)(newspaper -5.81)(or -3.83)(thrown -0.72)(. -4.26) line score is : -4.233, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ he left all his fans wanting more 
+-------------------------score:  -3.825696078936259----------------------- 
+there was a fierce lawyer named concepcion 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she had all her debts coming backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(had -4.73)(all -2.88)(her -2.80)(debts -4.07)(coming -7.72)(backbone -1.03)(. -3.82) line score is : -3.734, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ you never can tell till you try 
+-------------------------score:  -3.9230400641759235----------------------- 
+there was a fierce lawyer named simone 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she was on a deadline , 
+ she never can get past them backbone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(was -1.77)(on -0.72)(a -2.35)(deadline -7.35)(, -2.81) line score is : -3.259, look ahead score is : 0.000
+(she -2.81)(never -4.73)(can -2.88)(get -2.80)(past -6.14)(them -7.91)(backbone -2.17)(. -6.47) line score is : -4.489, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ VBG RB A NN OF FW FW . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ she sat on a stile 
+ leaving only a pile of de brie 
+-------------------------score:  -4.051748073101043----------------------- 
+there was a fierce lawyer named sharon 
+ who sought out her parents for a loan . 
+ when they refused to sign , 
+ she went on a deadline , 
+ trying nearly a month of de limestone . 
+------------------------- score breakdown ------------------------ 
+(who -2.28)(sought -6.68)(out -2.40)(her -3.04)(parents -4.49)(for -1.60)(a -3.56)(loan -5.76)(. -1.35) line score is : -3.462, look ahead score is : 0.000
+(when -1.35)(they -3.88)(refused -1.91)(to -1.69)(sign -1.40)(, -4.56) line score is : -2.463, look ahead score is : 0.000
+(she -4.56)(went -1.77)(on -0.72)(a -2.52)(deadline -3.66)(, -1.66) line score is : -2.480, look ahead score is : 0.000
+(trying -1.66)(nearly -9.26)(a -3.51)(month -5.22)(of -8.52)(de -4.57)(limestone -2.79)(. -3.78) line score is : -4.914, look ahead score is : 0.000

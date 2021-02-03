@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ WITH THE NN OF A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ with the faith of a marytr 
+ and now he 's a college professor 
+-------------------------score:  -2.8354931412575146----------------------- 
+there was a wise cleaner named joycelyn 
+ who tried a new method on her skin . 
+ she decided to try , 
+ with the help of a guy , 
+ and now she has a permanent grin . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(tried -5.33)(a -5.18)(new -2.51)(method -2.49)(on -2.87)(her -1.56)(skin -4.12)(. -1.26) line score is : -3.019, look ahead score is : 0.000
+(she -1.26)(decided -1.78)(to -4.14)(try -0.31)(, -1.90) line score is : -1.879, look ahead score is : 0.000
+(with -1.90)(the -6.64)(help -4.48)(of -1.78)(a -1.14)(guy -0.01)(, -1.61) line score is : -2.508, look ahead score is : 0.000
+(and -1.61)(now -5.66)(she -3.74)(has -2.75)(a -5.12)(permanent -0.90)(grin -1.76)(. -1.57) line score is : -2.887, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.915386078879237----------------------- 
+there was a vain surgeon named shin 
+ who tried a new treatment on her skin . 
+ when she returned to work , 
+ she was told by her clerk , 
+ that the patient she saw was a twin . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(tried -4.66)(a -5.14)(new -3.11)(treatment -2.78)(on -1.50)(her -1.14)(skin -6.83)(. -1.47) line score is : -3.153, look ahead score is : 0.000
+(when -1.47)(she -3.67)(returned -0.94)(to -3.35)(work -1.13)(, -2.40) line score is : -2.159, look ahead score is : 0.000
+(she -2.40)(was -0.82)(told -0.67)(by -1.52)(her -2.08)(clerk -2.28)(, -0.93) line score is : -1.528, look ahead score is : 0.000
+(that -0.93)(the -11.85)(patient -2.84)(she -3.44)(saw -1.96)(was -2.91)(a -4.97)(twin -2.81)(. -1.71) line score is : -3.713, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.9422778952866793----------------------- 
+there was a vain surgeon named lin 
+ who tried a new treatment on her skin . 
+ when she returned to work , 
+ she was told by a clerk , 
+ that the woman she saw was a twin . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(tried -4.66)(a -5.14)(new -3.11)(treatment -2.78)(on -1.50)(her -1.14)(skin -6.83)(. -1.47) line score is : -3.153, look ahead score is : 0.000
+(when -1.47)(she -3.67)(returned -0.94)(to -3.35)(work -1.13)(, -2.40) line score is : -2.159, look ahead score is : 0.000
+(she -2.40)(was -0.82)(told -0.67)(by -1.52)(a -2.08)(clerk -2.28)(, -2.31) line score is : -1.725, look ahead score is : 0.000
+(that -2.31)(the -8.61)(woman -3.94)(she -4.51)(saw -1.97)(was -3.99)(a -3.67)(twin -2.69)(. -1.99) line score is : -3.742, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9453929346054792----------------------- 
+there was a vain surgeon named chin 
+ who tried a new treatment on her skin . 
+ when she returned to work , 
+ her husband was a clerk , 
+ so she had to go down on the chin . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(tried -4.66)(a -5.14)(new -3.11)(treatment -2.78)(on -1.50)(her -1.14)(skin -6.83)(. -1.47) line score is : -3.153, look ahead score is : 0.000
+(when -1.47)(she -3.67)(returned -0.94)(to -3.35)(work -1.13)(, -2.40) line score is : -2.159, look ahead score is : 0.000
+(her -2.40)(husband -0.82)(was -2.29)(a -3.95)(clerk -2.07)(, -4.39) line score is : -2.654, look ahead score is : 0.000
+(so -4.39)(she -7.32)(had -2.68)(to -2.58)(go -0.71)(down -2.64)(on -0.50)(the -3.14)(chin -5.28)(. -3.41) line score is : -3.266, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ WITH THE NN OF A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ with the faith of a marytr 
+ she was ready to give and to take 
+-------------------------score:  -2.9490919155594444----------------------- 
+there was a wise cleaner named trinh 
+ who tried a new method on her skin . 
+ she decided to try , 
+ with the help of a guy , 
+ she was able to heal and to win . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(tried -5.33)(a -5.18)(new -2.51)(method -2.49)(on -2.87)(her -1.56)(skin -4.12)(. -1.26) line score is : -3.019, look ahead score is : 0.000
+(she -1.26)(decided -1.78)(to -4.14)(try -0.31)(, -1.90) line score is : -1.879, look ahead score is : 0.000
+(with -1.90)(the -6.64)(help -4.48)(of -1.78)(a -1.14)(guy -0.01)(, -1.61) line score is : -2.508, look ahead score is : 0.000
+(she -1.61)(was -5.66)(able -3.74)(to -4.29)(heal -2.62)(and -0.34)(to -0.00)(win -4.70)(. -3.57) line score is : -2.948, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ my mama was a goat 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.087589552005132----------------------- 
+there was a vain surgeon named jocelyn 
+ who tried a new treatment on her skin . 
+ when she returned to work , 
+ her husband was a clerk , 
+ and her children were older and twin . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(tried -4.66)(a -5.14)(new -3.11)(treatment -2.78)(on -1.50)(her -1.14)(skin -6.83)(. -1.47) line score is : -3.153, look ahead score is : 0.000
+(when -1.47)(she -3.67)(returned -0.94)(to -3.35)(work -1.13)(, -2.40) line score is : -2.159, look ahead score is : 0.000
+(her -2.40)(husband -0.82)(was -2.29)(a -3.95)(clerk -2.07)(, -4.39) line score is : -2.654, look ahead score is : 0.000
+(and -4.39)(her -7.32)(children -2.68)(were -0.86)(older -2.37)(and -3.22)(twin -0.82)(. -5.39) line score is : -3.380, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ my mama was a goat 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.1028335267497646----------------------- 
+there was a vain surgeon named lin 
+ who tried a new treatment on her skin . 
+ when she returned to work , 
+ her husband was a clerk , 
+ and she did not like hearing of sin . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(tried -4.66)(a -5.14)(new -3.11)(treatment -2.78)(on -1.50)(her -1.14)(skin -6.83)(. -1.47) line score is : -3.153, look ahead score is : 0.000
+(when -1.47)(she -3.67)(returned -0.94)(to -3.35)(work -1.13)(, -2.40) line score is : -2.159, look ahead score is : 0.000
+(her -2.40)(husband -0.82)(was -2.29)(a -3.95)(clerk -2.07)(, -4.39) line score is : -2.654, look ahead score is : 0.000
+(and -4.39)(she -7.32)(did -2.68)(not -0.86)(like -0.86)(hearing -4.25)(of -0.58)(sin -4.43)(. -6.90) line score is : -3.584, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ WITH THE NN OF A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ with the faith of a marytr 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.166127544486274----------------------- 
+there was a wise cleaner named in 
+ who tried a new method on her skin . 
+ she decided to try , 
+ with the help of a guy , 
+ and her results were better and thin . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(tried -5.33)(a -5.18)(new -2.51)(method -2.49)(on -2.87)(her -1.56)(skin -4.12)(. -1.26) line score is : -3.019, look ahead score is : 0.000
+(she -1.26)(decided -1.78)(to -4.14)(try -0.31)(, -1.90) line score is : -1.879, look ahead score is : 0.000
+(with -1.90)(the -6.64)(help -4.48)(of -1.78)(a -1.14)(guy -0.01)(, -1.61) line score is : -2.508, look ahead score is : 0.000
+(and -1.61)(her -5.66)(results -3.74)(were -2.75)(better -3.96)(and -3.89)(thin -0.42)(. -4.95) line score is : -3.372, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ WITH THE NN OF A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ with the faith of a marytr 
+ to call my last novel impure 
+-------------------------score:  -3.2106068913728514----------------------- 
+there was a wise cleaner named lyn 
+ who tried a new method on her skin . 
+ she decided to try , 
+ with the help of a guy , 
+ to make her entire face akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(tried -5.33)(a -5.18)(new -2.51)(method -2.49)(on -2.87)(her -1.56)(skin -4.12)(. -1.26) line score is : -3.019, look ahead score is : 0.000
+(she -1.26)(decided -1.78)(to -4.14)(try -0.31)(, -1.90) line score is : -1.879, look ahead score is : 0.000
+(with -1.90)(the -6.64)(help -4.48)(of -1.78)(a -1.14)(guy -0.01)(, -1.61) line score is : -2.508, look ahead score is : 0.000
+(to -1.61)(make -5.66)(her -3.74)(entire -1.24)(face -2.38)(akin -1.08)(. -5.52) line score is : -3.033, look ahead score is : 0.000

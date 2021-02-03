@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -2.889623312279582----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was ready to play , 
+ so he went to work down on the lake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(ready -1.22)(to -2.38)(play -5.65)(, -0.51) line score is : -1.936, look ahead score is : 0.000
+(so -0.51)(he -5.25)(went -2.70)(to -2.35)(work -0.73)(down -2.48)(on -0.73)(the -3.39)(lake -8.17)(. -2.81) line score is : -2.912, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -2.9063761772647982----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ then he took me fishing in the lake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(then -0.94)(he -2.84)(took -3.42)(me -4.08)(fishing -3.26)(in -3.68)(the -3.95)(lake -5.93)(. -2.99) line score is : -3.455, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.022834129871861----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was happy to say , 
+ he was lucky to have and to make . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(happy -1.22)(to -2.38)(say -5.93)(, -1.06) line score is : -2.074, look ahead score is : 0.000
+(he -1.06)(was -5.36)(lucky -1.60)(to -1.55)(have -1.95)(and -5.92)(to -0.90)(make -0.97)(. -8.01) line score is : -3.033, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.1390228540666643----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was ready to play , 
+ but his parents were down to their lake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(ready -1.22)(to -2.38)(play -5.65)(, -0.51) line score is : -1.936, look ahead score is : 0.000
+(but -0.51)(his -5.25)(parents -2.70)(were -0.97)(down -1.99)(to -2.62)(their -2.19)(lake -6.72)(. -1.93) line score is : -2.764, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2562577378365303----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ and he came down and told his remake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(and -0.94)(he -2.84)(came -3.42)(down -0.89)(and -2.62)(told -3.27)(his -4.36)(remake -3.28)(. -2.70) line score is : -2.703, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ when he saw there were six little chips 
+-------------------------score:  -3.259359286677453----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ when he saw there were two large earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(when -0.94)(he -2.84)(saw -3.42)(there -3.65)(were -1.03)(two -1.43)(large -7.13)(earthquake -1.64)(. -2.67) line score is : -2.752, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.2744930487126114----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ which was filled with the latest earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(which -0.94)(was -2.84)(filled -3.42)(with -4.31)(the -1.58)(latest -6.88)(earthquake -0.06)(. -3.49) line score is : -2.941, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2839177308544034----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was happy to say , 
+ he went through the door and found earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(happy -1.22)(to -2.38)(say -5.93)(, -1.06) line score is : -2.074, look ahead score is : 0.000
+(he -1.06)(went -5.36)(through -1.60)(the -1.55)(door -3.80)(and -4.83)(found -1.39)(earthquake -4.19)(. -1.42) line score is : -2.799, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.2918797731399536----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ and for hours he just swung his snake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(and -0.94)(for -2.84)(hours -3.42)(he -0.89)(just -5.86)(swung -3.83)(his -0.90)(snake -5.80)(. -9.05) line score is : -3.726, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.300843691825867----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ and then he has a nightmare earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(and -0.94)(then -2.84)(he -3.42)(has -0.89)(a -4.34)(nightmare -1.86)(earthquake -7.42)(. -2.09) line score is : -2.976, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.341443254101661----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ and it was late like midnight of wake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(and -0.94)(it -2.84)(was -3.42)(late -0.89)(like -4.68)(midnight -0.54)(of -4.85)(wake -7.66)(. -2.04) line score is : -3.096, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ as his talent and confidence swelled 
+-------------------------score:  -3.3533910307390937----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ as his mother and sister intake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(as -0.94)(his -2.84)(mother -3.42)(and -4.89)(sister -2.87)(intake -2.07)(. -3.05) line score is : -2.869, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.355811719099681----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ so he always had on the remake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(so -0.94)(he -2.84)(always -3.42)(had -4.63)(on -1.20)(the -6.85)(remake -1.47)(. -5.09) line score is : -3.306, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.3618577281634012----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was happy to say , 
+ he had all his ducks sitting intake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(happy -1.22)(to -2.38)(say -5.93)(, -1.06) line score is : -2.074, look ahead score is : 0.000
+(he -1.06)(had -5.36)(all -1.60)(his -1.55)(ducks -1.54)(sitting -6.15)(intake -1.38)(. -3.62) line score is : -2.780, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ which pickled his internal workins 
+-------------------------score:  -3.366625283445631----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ which was our favorite intake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(which -0.94)(was -2.84)(our -3.42)(favorite -4.31)(intake -1.58)(. -7.24) line score is : -3.390, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.3940169076124826----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was ready to play , 
+ but he slept too early for intake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(ready -1.22)(to -2.38)(play -5.65)(, -0.51) line score is : -1.936, look ahead score is : 0.000
+(but -0.51)(he -5.25)(slept -2.70)(too -0.97)(early -1.81)(for -8.62)(intake -3.18)(. -3.78) line score is : -3.351, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ which leaves him in very bad shape 
+-------------------------score:  -3.416018778582414----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ which brings us in very close intake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(which -0.94)(brings -2.84)(us -3.42)(in -4.31)(very -6.78)(close -0.99)(intake -6.56)(. -5.61) line score is : -3.933, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ and kissed her because he was wuise 
+-------------------------score:  -3.421549900372823----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ and saw her because he was remake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(and -0.94)(saw -2.84)(her -3.42)(because -0.89)(he -3.38)(was -5.35)(remake -8.53)(. -1.21) line score is : -3.321, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.4413432152040544----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ then he hit on his sister and make . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(then -0.94)(he -2.84)(hit -3.42)(on -4.08)(his -3.26)(sister -6.71)(and -4.05)(make -2.41)(. -2.14) line score is : -3.317, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.4750331153472263----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ took a shower no longer than take . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(took -0.94)(a -2.84)(shower -3.42)(no -5.73)(longer -0.87)(than -3.33)(take -11.44)(. -3.17) line score is : -3.969, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ are making a nest in my beard 
+-------------------------score:  -3.541588028271993----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ heard coming a car outside his lake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(heard -0.94)(coming -2.84)(a -3.42)(car -6.57)(outside -8.13)(his -4.31)(lake -2.80)(. -4.11) line score is : -4.141, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ turned out to be plaster of paris 
+-------------------------score:  -3.575667750835419----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he went outside to play , 
+ ran out to meet someone of intake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(went -0.87)(outside -1.22)(to -3.25)(play -4.31)(, -0.94) line score is : -1.930, look ahead score is : 0.000
+(ran -0.94)(out -2.84)(to -3.42)(meet -6.26)(someone -3.68)(of -1.46)(intake -3.55)(. -4.83) line score is : -3.374, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ kept insuring her during the service 
+-------------------------score:  -3.652883696145025----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was happy to say , 
+ was looking its during the earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(happy -1.22)(to -2.38)(say -5.93)(, -1.06) line score is : -2.074, look ahead score is : 0.000
+(was -1.06)(looking -5.36)(its -1.60)(during -2.37)(the -7.13)(earthquake -7.29)(. -11.31) line score is : -5.157, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ THE NN OF PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ the cause of his sorrow 
+ he was ready to faint 
+ I d probably know two or three 
+-------------------------score:  -3.6547132697422056----------------------- 
+there was a shy grandpa named jake 
+ who loved a good story on his cake . 
+ the day of his birthday , 
+ he was able to say , 
+ i have never gotten one or break . 
+------------------------- score breakdown ------------------------ 
+(who -0.98)(loved -3.22)(a -5.49)(good -0.97)(story -2.32)(on -6.95)(his -1.82)(cake -9.74)(. -0.94) line score is : -3.603, look ahead score is : 0.000
+(the -0.94)(day -3.53)(of -4.55)(his -2.17)(birthday -2.36)(, -0.98) line score is : -2.420, look ahead score is : 0.000
+(he -0.98)(was -0.87)(able -1.22)(to -2.38)(say -5.17)(, -0.00) line score is : -1.771, look ahead score is : 0.000
+(i -0.00)(have -6.17)(never -3.33)(gotten -4.01)(one -3.05)(or -4.38)(break -5.08)(. -4.42) line score is : -3.803, look ahead score is : 0.000

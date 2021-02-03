@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ her hair got so light 
+ but they felt it was doing them good 
+-------------------------score:  -3.058624708364087----------------------- 
+there was a skinny boy named ted 
+ who felt a strange feeling on his head . 
+ he looked like a fairy , 
+ his hair was so hairy , 
+ but it seemed he was growing it red . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(felt -7.18)(a -3.47)(strange -3.58)(feeling -3.85)(on -3.82)(his -0.21)(head -3.70)(. -1.28) line score is : -3.163, look ahead score is : 0.000
+(he -1.28)(looked -1.21)(like -2.23)(a -2.57)(fairy -1.05)(, -6.76) line score is : -2.516, look ahead score is : 0.000
+(his -6.76)(hair -2.00)(was -3.75)(so -1.53)(hairy -0.90)(, -3.77) line score is : -3.117, look ahead score is : 0.000
+(but -3.77)(it -9.20)(seemed -1.52)(he -2.72)(was -2.37)(growing -2.91)(it -2.52)(red -1.07)(. -4.84) line score is : -3.434, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ her hair got so light 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.1558082473854863----------------------- 
+there was a skinny boy named chase 
+ who felt a strange feeling on his face . 
+ he looked like a fairy , 
+ his hair was so hairy , 
+ but his eyes were down to his birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(felt -7.18)(a -3.47)(strange -3.58)(feeling -3.85)(on -3.82)(his -0.21)(face -2.97)(. -1.23) line score is : -3.078, look ahead score is : 0.000
+(he -1.23)(looked -1.31)(like -2.06)(a -2.67)(fairy -1.13)(, -6.77) line score is : -2.529, look ahead score is : 0.000
+(his -6.77)(hair -2.04)(was -3.65)(so -1.66)(hairy -0.96)(, -3.70) line score is : -3.130, look ahead score is : 0.000
+(but -3.70)(his -9.42)(eyes -1.50)(were -2.79)(down -1.68)(to -0.76)(his -0.51)(birthplace -8.68)(. -2.02) line score is : -3.452, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.334484847322587----------------------- 
+there was a skinny boy named chase 
+ who felt a strange presence on his face . 
+ he looked like a fairy , 
+ his hair was a cherry , 
+ but his eyes were down to their birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(felt -7.18)(a -3.47)(strange -3.58)(presence -3.25)(on -3.54)(his -0.80)(face -3.49)(. -1.17) line score is : -3.096, look ahead score is : 0.000
+(he -1.17)(looked -1.19)(like -2.36)(a -2.15)(fairy -1.08)(, -6.88) line score is : -2.470, look ahead score is : 0.000
+(his -6.88)(hair -1.97)(was -3.69)(a -1.59)(cherry -1.19)(, -3.31) line score is : -3.105, look ahead score is : 0.000
+(but -3.31)(his -8.08)(eyes -3.18)(were -4.35)(down -1.34)(to -0.56)(their -0.46)(birthplace -8.66)(. -2.86) line score is : -3.645, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ her hair got so light 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.347177115082741----------------------- 
+there was a silly boy named ed 
+ who felt a strange feeling on his head . 
+ he looked like a fairy , 
+ his hair was so hairy , 
+ but he had his eyebrows and instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(felt -7.25)(a -3.47)(strange -3.48)(feeling -3.95)(on -4.02)(his -0.31)(head -3.23)(. -1.61) line score is : -3.191, look ahead score is : 0.000
+(he -1.61)(looked -1.25)(like -2.83)(a -2.76)(fairy -0.98)(, -6.13) line score is : -2.595, look ahead score is : 0.000
+(his -6.13)(hair -1.89)(was -3.89)(so -1.57)(hairy -0.83)(, -3.54) line score is : -2.976, look ahead score is : 0.000
+(but -3.54)(he -9.30)(had -1.36)(his -3.02)(eyebrows -1.15)(and -1.97)(instead -4.35)(. -4.70) line score is : -3.673, look ahead score is : 0.000

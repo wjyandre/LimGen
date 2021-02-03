@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he had to sit down on the floor 
+-------------------------score:  -2.775112257762389----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i was in the way , 
+ so i had to go down on the mess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(was -4.34)(in -1.78)(the -1.80)(way -4.23)(, -1.99) line score is : -2.425, look ahead score is : 0.000
+(so -1.99)(i -7.35)(had -2.19)(to -0.97)(go -0.51)(down -2.37)(on -0.30)(the -2.78)(mess -3.96)(. -1.98) line score is : -2.440, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.842115622578245----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i was in the way , 
+ so i got up and put on the mess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(was -4.34)(in -1.78)(the -1.80)(way -4.23)(, -1.99) line score is : -2.425, look ahead score is : 0.000
+(so -1.99)(i -7.35)(got -2.19)(up -0.97)(and -0.51)(put -3.75)(on -3.22)(the -1.05)(mess -4.12)(. -1.18) line score is : -2.632, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ then he walloped me square in the face 
+-------------------------score:  -2.9708125069737434----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ then i did it night in the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(then -2.29)(i -5.97)(did -1.97)(it -3.62)(night -1.71)(in -3.09)(the -0.69)(process -5.48)(. -3.96) line score is : -3.197, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and now he 's a college professor 
+-------------------------score:  -3.0104465215436873----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ and now it is a permanent mess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(and -2.40)(now -5.50)(it -2.54)(is -1.06)(a -5.37)(permanent -2.22)(mess -3.09)(. -2.95) line score is : -3.140, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ because I was sniffing my toes 
+-------------------------score:  -3.08885129292806----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i was in the way , 
+ because i was wearing her address . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(was -4.34)(in -1.78)(the -1.80)(way -4.23)(, -1.99) line score is : -2.425, look ahead score is : 0.000
+(because -1.99)(i -7.35)(was -2.19)(wearing -3.45)(her -0.77)(address -1.07)(. -3.05) line score is : -2.839, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ so I sat on my moped and moped 
+-------------------------score:  -3.1164504662156105----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ so it fit on my chest and excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(so -2.40)(it -5.50)(fit -2.54)(on -1.43)(my -1.98)(chest -4.15)(and -5.39)(excess -1.65)(. -2.36) line score is : -3.044, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.1477064322680235----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ and let slip to my room in progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(and -2.40)(let -5.50)(slip -2.54)(to -1.06)(my -7.93)(room -6.38)(in -2.75)(progress -1.54)(. -3.37) line score is : -3.719, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ but it does n't come out of my purse 
+-------------------------score:  -3.1548254657536745----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the way , 
+ but it does not get past my address . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(way -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(but -2.40)(it -5.85)(does -2.99)(not -1.05)(get -1.71)(past -6.01)(my -3.50)(address -4.42)(. -6.22) line score is : -3.794, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ then fell into a vat of grease 
+-------------------------score:  -3.160482818080533----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ then went into a room of excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(then -2.29)(went -5.97)(into -1.97)(a -3.62)(room -3.10)(of -3.72)(excess -2.25)(. -2.86) line score is : -3.221, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.1711207646312136----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ it is a long way out in the mess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(it -2.40)(is -5.50)(a -2.54)(long -4.86)(way -5.13)(out -2.14)(in -3.82)(the -2.83)(mess -4.39)(. -3.40) line score is : -3.701, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.209937886397044----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ and ended with a special address . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(and -2.29)(ended -5.97)(with -1.97)(a -1.30)(special -6.81)(address -3.98)(. -1.29) line score is : -3.372, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.226806394259135----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ it is a long overdue process . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(it -2.40)(is -5.50)(a -2.54)(long -4.86)(overdue -5.13)(process -2.14)(. -3.82) line score is : -3.770, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ it s a regular brute of a bee 
+-------------------------score:  -3.2292064279317856----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ it is a long way of a process . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(it -2.40)(is -5.50)(a -2.54)(long -4.86)(way -5.13)(of -2.14)(a -3.82)(process -2.83)(. -5.84) line score is : -3.896, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ he claimed that his costume was chile 
+-------------------------score:  -3.2461833646220546----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ i thought that my mother was impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(i -2.40)(thought -5.50)(that -2.54)(my -3.67)(mother -3.54)(was -3.23)(impress -4.08)(. -2.85) line score is : -3.477, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.272882607675368----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ for three days straight outside at recess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(for -2.29)(three -5.97)(days -1.97)(straight -4.55)(outside -5.91)(at -1.49)(recess -1.59)(. -9.64) line score is : -4.177, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ to call my last novel impure 
+-------------------------score:  -3.2850357711315157----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ to show my current boyfriend progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(to -2.40)(show -5.50)(my -2.54)(current -5.03)(boyfriend -3.32)(progress -1.27)(. -8.64) line score is : -4.101, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.2880836334079504----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ it was through the mail and had access . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(it -2.40)(was -5.50)(through -2.54)(the -4.86)(mail -0.54)(and -9.00)(had -1.60)(access -2.80)(. -1.83) line score is : -3.451, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.3026966702553535----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the way , 
+ but i have enough spare for progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(way -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(but -2.40)(i -5.85)(have -2.99)(enough -1.05)(spare -1.06)(for -4.86)(progress -5.58)(. -5.72) line score is : -3.689, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ then I sat on my moped and moped 
+-------------------------score:  -3.325021255761385----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ then i slept on my bed and access . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(then -2.29)(i -5.97)(slept -1.97)(on -3.62)(my -1.71)(bed -5.04)(and -2.57)(access -1.74)(. -1.33) line score is : -2.915, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ but the telephone book caused him pain 
+-------------------------score:  -3.328573211546867----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ but the girl upstairs had me address . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(but -2.40)(the -5.50)(girl -2.54)(upstairs -2.26)(had -3.42)(me -4.10)(address -5.97)(. -2.30) line score is : -3.562, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ to tutor two tutors to toot 
+-------------------------score:  -3.3493551443020504----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ to celebrate four years to progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(to -2.29)(celebrate -5.97)(four -1.97)(years -4.66)(to -1.63)(progress -8.47)(. -0.38) line score is : -3.625, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ but nobody knew what he said 
+-------------------------score:  -3.382577137152354----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ but yesterday was what i impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(but -2.29)(yesterday -5.97)(was -1.97)(what -1.90)(i -6.50)(impress -1.65)(. -7.26) line score is : -3.933, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ he left all his fans wanting more 
+-------------------------score:  -3.402037178316424----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ i had all my clothes laying access . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(i -2.40)(had -5.50)(all -2.54)(my -3.67)(clothes -2.60)(laying -4.99)(access -1.37)(. -1.38) line score is : -3.057, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and see what the critics all say 
+-------------------------score:  -3.4882019758224487----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ and look what the flowers all process . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(and -2.40)(look -5.50)(what -2.54)(the -1.06)(flowers -9.17)(all -1.80)(process -4.26)(. -6.06) line score is : -4.098, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ to write verses relating to wind 
+-------------------------score:  -3.5021056016286214----------------------- 
+there was a tailor named jess 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the day , 
+ to celebrate girls get to impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(day -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(to -2.40)(celebrate -5.50)(girls -2.54)(get -5.03)(to -1.95)(impress -8.64)(. -8.21) line score is : -4.895, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.5070779800415037----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ and wanted my husband a progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(and -2.29)(wanted -5.97)(my -1.97)(husband -1.30)(a -7.23)(progress -3.65)(. -2.94) line score is : -3.622, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ for not selling her waterproof paint 
+-------------------------score:  -3.5203665693600974----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ for not wearing it enough access . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(for -2.29)(not -5.97)(wearing -1.97)(it -4.55)(enough -6.75)(access -3.13)(. -2.91) line score is : -3.937, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and showed him many cstar 
+-------------------------score:  -3.5606337004694444----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i did in the day , 
+ and decided it many excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(did -4.34)(in -1.78)(the -4.01)(day -3.48)(, -2.29) line score is : -2.677, look ahead score is : 0.000
+(and -2.29)(decided -5.97)(it -1.97)(many -1.30)(excess -7.17)(. -3.16) line score is : -3.642, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and could n't bend back again 
+-------------------------score:  -3.575035484631856----------------------- 
+there was a tailor named wes 
+ who cut out my nipples for a dress . 
+ it was for his birthday , 
+ which i was in the way , 
+ and could only imagine back less . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(his -5.62)(birthday -3.30)(, -1.34) line score is : -2.744, look ahead score is : 0.000
+(which -1.34)(i -1.68)(was -4.20)(in -1.99)(the -1.88)(way -4.19)(, -2.12) line score is : -2.485, look ahead score is : 0.000
+(and -2.12)(could -6.77)(only -2.00)(imagine -1.91)(back -7.90)(less -2.46)(. -3.39) line score is : -3.792, look ahead score is : 0.000
+======================= template: 30 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he bought for his daughter 
+ which he loosed in the house 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.7268213257193565----------------------- 
+there was a tailor named les 
+ who cut out my nipples for a dress . 
+ it was for my birthday , 
+ which i got in the way , 
+ and trying make it looks but real progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cut -4.85)(out -3.33)(my -2.12)(nipples -4.47)(for -3.14)(a -2.45)(dress -3.92)(. -2.20) line score is : -3.086, look ahead score is : 0.000
+(it -2.20)(was -3.26)(for -0.75)(my -5.62)(birthday -1.92)(, -1.16) line score is : -2.484, look ahead score is : 0.000
+(which -1.16)(i -1.69)(got -4.34)(in -1.78)(the -3.69)(way -3.16)(, -2.40) line score is : -2.602, look ahead score is : 0.000
+(and -2.40)(trying -5.85)(make -2.99)(it -2.12)(looks -9.06)(but -8.25)(real -1.79)(progress -5.80)(. -7.98) line score is : -5.137, look ahead score is : 0.000

@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.958570048213005----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and that is the reason of this ban . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(and -2.24)(that -4.57)(is -3.54)(the -5.81)(reason -5.29)(of -3.73)(this -2.23)(ban -2.90)(. -3.01) line score is : -3.702, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.0625411584042013----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he was ordered to pay and to can . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(he -2.24)(was -4.57)(ordered -3.54)(to -4.14)(pay -1.26)(and -6.06)(to -0.22)(can -2.29)(. -6.52) line score is : -3.428, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.1114983214065433----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and drove home to his family in van . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(met -0.58)(by -1.92)(a -5.52)(clerk -0.47)(, -1.28) line score is : -2.216, look ahead score is : 0.000
+(and -1.28)(drove -6.72)(home -2.38)(to -4.09)(his -8.00)(family -3.98)(in -1.98)(van -2.32)(. -3.01) line score is : -3.751, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.1744264755398035----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ once he saw him walk towards the van . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(once -2.24)(he -4.57)(saw -3.54)(him -8.57)(walk -2.67)(towards -4.68)(the -1.16)(van -5.33)(. -6.30) line score is : -4.341, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.2367373518645763----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he was through the door and was afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(he -2.24)(was -4.57)(through -3.54)(the -4.14)(door -1.26)(and -9.82)(was -3.83)(afghan -1.74)(. -1.95) line score is : -3.676, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.2378079771995543----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ to bring two newspapers to milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(to -2.24)(bring -4.57)(two -3.54)(newspapers -6.35)(to -4.10)(milan -4.88)(. -6.67) line score is : -4.622, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.2686101477593184----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that the bill he had paid a milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(that -2.24)(the -4.57)(bill -3.54)(he -3.63)(had -1.89)(paid -4.85)(a -2.74)(milan -0.66)(. -1.57) line score is : -2.854, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.282800848445585----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he never can come unless he ran . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(he -2.24)(never -4.57)(can -3.54)(come -4.14)(unless -6.22)(he -6.19)(ran -2.68)(. -8.49) line score is : -4.760, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.2980163507163525----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ in letters he found all in the van . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(in -2.24)(letters -4.57)(he -3.54)(found -5.13)(all -7.52)(in -2.71)(the -3.30)(van -6.55)(. -5.80) line score is : -4.596, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -3.342355385903389----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and now he is a prisoner milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(and -2.24)(now -4.57)(he -3.54)(is -5.81)(a -5.92)(prisoner -2.57)(milan -2.06)(. -3.13) line score is : -3.729, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.3861495564060826----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he was up in heaven and milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(he -2.24)(was -4.57)(up -3.54)(in -4.14)(heaven -1.26)(and -7.08)(milan -3.69)(. -5.77) line score is : -4.037, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.3900075420256583----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and then a third person he afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(and -2.24)(then -4.57)(a -3.54)(third -5.81)(person -3.16)(he -2.49)(afghan -5.35)(. -2.08) line score is : -3.657, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.4121781347259397----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he had all his funds sitting afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(he -2.24)(had -4.57)(all -3.54)(his -4.14)(funds -1.75)(sitting -6.88)(afghan -0.42)(. -3.96) line score is : -3.439, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.4349668900171917----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and only could understand a ban . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(and -2.24)(only -4.57)(could -3.54)(understand -5.81)(a -5.24)(ban -9.09)(. -3.23) line score is : -4.816, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that unlucky old person of ems 
+-------------------------score:  -3.4727685530980428----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that ten hundred thousand of milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(that -2.24)(ten -4.57)(hundred -3.54)(thousand -3.63)(of -8.70)(milan -4.89)(. -3.57) line score is : -4.448, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.4813620215281844----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and for hours they just dealt his ban . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(met -0.58)(by -1.92)(a -5.52)(clerk -0.47)(, -1.28) line score is : -2.216, look ahead score is : 0.000
+(and -1.28)(for -6.72)(hours -2.38)(they -4.09)(just -6.43)(dealt -4.29)(his -2.70)(ban -6.35)(. -5.99) line score is : -4.470, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.488996909931302----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ it was him and said thanks and milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(it -2.24)(was -4.57)(him -3.54)(and -7.15)(said -0.46)(thanks -5.61)(and -3.61)(milan -5.55)(. -7.21) line score is : -4.438, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.5297186490028136----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ and let in before all the afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(and -2.24)(let -4.57)(in -3.54)(before -5.81)(all -7.64)(the -3.12)(afghan -5.79)(. -5.95) line score is : -4.832, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.543998625970656----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ i have never gotten three or an . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(i -2.24)(have -4.57)(never -3.54)(gotten -6.81)(three -3.50)(or -4.58)(an -5.10)(. -6.49) line score is : -4.603, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.561969898144404----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ as if he outright ignored milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(as -2.24)(if -4.57)(he -3.54)(outright -6.07)(ignored -3.26)(milan -0.95)(. -12.45) line score is : -4.725, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that man in a boat 
+-------------------------score:  -3.5640058270816146----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that anything outside a milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(that -2.24)(anything -4.57)(outside -3.54)(a -3.63)(milan -8.50)(. -6.18) line score is : -4.777, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ her career with damir is bizarre 
+-------------------------score:  -3.6959204385677973----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was met by a clerk , 
+ his wife with cash balances afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(met -0.58)(by -1.92)(a -5.52)(clerk -0.47)(, -1.28) line score is : -2.216, look ahead score is : 0.000
+(his -1.28)(wife -6.72)(with -2.38)(cash -5.53)(balances -1.80)(afghan -5.63)(. -6.71) line score is : -4.293, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I ll give you prostheses for free 
+-------------------------score:  -3.7670096274345153----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was told by a clerk , 
+ i wo bet i islands for afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(told -0.58)(by -1.92)(a -2.63)(clerk -2.01)(, -2.24) line score is : -2.161, look ahead score is : 0.000
+(i -2.24)(wo -4.57)(bet -3.54)(i -6.81)(islands -7.57)(for -8.02)(afghan -3.65)(. -8.48) line score is : -5.610, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.8897759867832065----------------------- 
+there was a vain man named stan 
+ who lost all his money in a plan . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and trying help him is but plain afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(lost -6.62)(all -2.82)(his -0.56)(money -0.68)(in -1.67)(a -1.43)(plan -7.86)(. -3.18) line score is : -2.956, look ahead score is : 0.000
+(when -3.18)(he -4.24)(returned -0.92)(to -3.38)(work -1.30)(, -4.73) line score is : -2.960, look ahead score is : 0.000
+(he -4.73)(was -1.02)(met -0.58)(by -1.92)(a -5.52)(clerk -0.47)(, -1.28) line score is : -2.216, look ahead score is : 0.000
+(and -1.28)(trying -6.72)(help -2.38)(him -4.09)(is -8.36)(but -10.98)(plain -0.53)(afghan -7.94)(. -7.99) line score is : -5.585, look ahead score is : 0.000

@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -2.864582340233028----------------------- 
+there was a smart boy named claudio 
+ who played a big role on our show . 
+ he would go to a game , 
+ he would get a nickname , 
+ but you knew he was playing it pro . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(played -3.96)(a -3.87)(big -3.93)(role -0.64)(on -4.17)(our -3.05)(show -2.71)(. -1.64) line score is : -2.829, look ahead score is : 0.000
+(he -1.64)(would -1.05)(go -4.20)(to -3.15)(a -1.63)(game -3.67)(, -4.19) line score is : -2.789, look ahead score is : 0.000
+(he -4.19)(would -1.81)(get -2.14)(a -0.60)(nickname -3.25)(, -2.12) line score is : -2.352, look ahead score is : 0.000
+(but -2.12)(you -6.58)(knew -0.85)(he -4.06)(was -4.24)(playing -2.67)(it -1.03)(pro -0.37)(. -4.27) line score is : -2.911, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and give vent to their terror in scremyss 
+-------------------------score:  -2.960658198222518----------------------- 
+there was a smart boy named sergio 
+ who played a big role on our show . 
+ he would come to a game , 
+ he would get a nickname , 
+ and go home to his house in willow . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(played -3.96)(a -3.87)(big -3.93)(role -0.64)(on -4.17)(our -3.05)(show -2.71)(. -1.64) line score is : -2.829, look ahead score is : 0.000
+(he -1.64)(would -1.05)(come -4.20)(to -2.15)(a -1.80)(game -5.07)(, -3.74) line score is : -2.805, look ahead score is : 0.000
+(he -3.74)(would -2.08)(get -2.09)(a -0.59)(nickname -3.25)(, -2.23) line score is : -2.329, look ahead score is : 0.000
+(and -2.23)(go -6.18)(home -0.78)(to -1.24)(his -6.44)(house -3.06)(in -3.13)(willow -1.39)(. -3.48) line score is : -3.104, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ he was n't the wizard he woz 
+-------------------------score:  -3.022635457977172----------------------- 
+there was a smart boy named romeo 
+ who played a big role on our show . 
+ he would go to a game , 
+ he would have a nickname , 
+ he was always the guy you shadow . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(played -3.96)(a -3.87)(big -3.93)(role -0.64)(on -4.17)(our -3.05)(show -2.71)(. -1.64) line score is : -2.829, look ahead score is : 0.000
+(he -1.64)(would -1.05)(go -4.20)(to -3.15)(a -1.63)(game -3.67)(, -4.19) line score is : -2.789, look ahead score is : 0.000
+(he -4.19)(would -1.81)(have -2.14)(a -0.60)(nickname -3.81)(, -1.13) line score is : -2.279, look ahead score is : 0.000
+(he -1.13)(was -8.70)(always -0.93)(the -0.90)(guy -3.47)(you -1.98)(shadow -3.09)(. -2.10) line score is : -2.788, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and some of the members are swines 
+-------------------------score:  -3.0799367870053938----------------------- 
+there was a smart boy named dario 
+ who played a big role on our show . 
+ he would come to a game , 
+ he would get a nickname , 
+ and some of the guys say potato . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(played -3.96)(a -3.87)(big -3.93)(role -0.64)(on -4.17)(our -3.05)(show -2.71)(. -1.64) line score is : -2.829, look ahead score is : 0.000
+(he -1.64)(would -1.05)(come -4.20)(to -2.15)(a -1.80)(game -5.07)(, -3.74) line score is : -2.805, look ahead score is : 0.000
+(he -3.74)(would -2.08)(get -2.09)(a -0.59)(nickname -3.25)(, -2.23) line score is : -2.329, look ahead score is : 0.000
+(and -2.23)(some -6.18)(of -0.78)(the -1.24)(guys -6.26)(say -1.25)(potato -0.83)(. -1.59) line score is : -2.544, look ahead score is : 0.000

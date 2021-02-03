@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.087746645323932----------------------- 
+there was a harsh boy named jerrell 
+ who rode a white horse on our trail . 
+ when we arrived to ride , 
+ we were told by our guide , 
+ he was dead to find a black female . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(rode -6.39)(a -2.31)(white -3.69)(horse -0.47)(on -3.83)(our -6.10)(trail -4.16)(. -1.47) line score is : -3.291, look ahead score is : 0.000
+(when -1.47)(we -3.69)(arrived -1.18)(to -2.09)(ride -4.17)(, -5.39) line score is : -2.997, look ahead score is : 0.000
+(we -5.39)(were -1.80)(told -1.63)(by -1.53)(our -3.03)(guide -2.02)(, -2.45) line score is : -2.551, look ahead score is : 0.000
+(he -2.45)(was -0.59)(dead -2.27)(to -5.37)(find -1.20)(a -4.53)(black -6.39)(female -4.77)(. -2.92) line score is : -3.388, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.133084093530973----------------------- 
+there was a harsh boy named jerrell 
+ who rode a white horse on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and he was terrific ally male . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(rode -6.39)(a -2.31)(white -3.69)(horse -0.47)(on -3.83)(our -6.10)(trail -4.16)(. -1.47) line score is : -3.291, look ahead score is : 0.000
+(when -1.47)(we -3.69)(arrived -1.18)(to -2.09)(ride -4.17)(, -5.39) line score is : -2.997, look ahead score is : 0.000
+(we -5.39)(were -1.80)(met -1.63)(by -1.53)(our -2.32)(guide -0.23)(, -3.66) line score is : -2.366, look ahead score is : 0.000
+(and -3.66)(he -2.71)(was -0.88)(terrific -4.45)(ally -1.89)(male -2.72)(. -8.00) line score is : -3.471, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.1901701877514523----------------------- 
+there was a harsh boy named nathanael 
+ who rode a white horse on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ a beautiful woman is no male . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(rode -6.39)(a -2.31)(white -3.69)(horse -0.47)(on -3.83)(our -6.10)(trail -4.16)(. -1.47) line score is : -3.291, look ahead score is : 0.000
+(when -1.47)(we -3.69)(arrived -1.18)(to -2.09)(ride -4.17)(, -5.39) line score is : -2.997, look ahead score is : 0.000
+(we -5.39)(were -1.80)(met -1.63)(by -1.53)(our -2.32)(guide -0.23)(, -3.66) line score is : -2.366, look ahead score is : 0.000
+(a -3.66)(beautiful -2.71)(woman -0.88)(is -2.00)(no -4.02)(male -1.92)(. -9.66) line score is : -3.548, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.249241762103573----------------------- 
+there was a harsh boy named jerrell 
+ who rode a white horse on our trail . 
+ when we arrived to town , 
+ we were met by a clown , 
+ but he was our guides and detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(rode -6.39)(a -2.31)(white -3.69)(horse -0.47)(on -3.83)(our -6.10)(trail -4.16)(. -1.47) line score is : -3.291, look ahead score is : 0.000
+(when -1.47)(we -3.69)(arrived -1.18)(to -2.09)(town -4.17)(, -4.82) line score is : -2.902, look ahead score is : 0.000
+(we -4.82)(were -0.90)(met -1.24)(by -1.81)(a -2.11)(clown -0.24)(, -1.20) line score is : -1.762, look ahead score is : 0.000
+(but -1.20)(he -9.21)(was -2.45)(our -4.90)(guides -1.50)(and -1.60)(detail -6.18)(. -5.43) line score is : -4.059, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.305000887917621----------------------- 
+there once was a man named brain 
+ who traveled together in a train . 
+ when they arrived to town , 
+ they were met by a clown , 
+ and they were hurt terribly insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.15)(traveled -5.68)(together -6.87)(in -3.27)(a -0.95)(train -3.65)(. -2.25) line score is : -3.547, look ahead score is : 0.000
+(when -2.25)(they -2.87)(arrived -1.26)(to -2.05)(town -4.87)(, -5.29) line score is : -3.099, look ahead score is : 0.000
+(they -5.29)(were -0.88)(met -1.32)(by -1.78)(a -2.55)(clown -0.23)(, -1.15) line score is : -1.886, look ahead score is : 0.000
+(and -1.15)(they -7.69)(were -2.28)(hurt -2.87)(terribly -2.47)(insane -1.74)(. -7.53) line score is : -3.675, look ahead score is : 0.000

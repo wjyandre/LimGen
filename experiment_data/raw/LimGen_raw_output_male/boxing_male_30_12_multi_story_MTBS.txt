@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then fell into a vat of grease 
+-------------------------score:  -2.472435891868607----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ then turned into a spirit of light . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(then -1.34)(turned -5.29)(into -4.11)(a -4.38)(spirit -4.55)(of -0.86)(light -0.36)(. -4.02) line score is : -3.114, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.555222197668627----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and that is the story of this night . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(that -5.29)(is -4.11)(the -1.43)(story -5.56)(of -3.57)(this -1.89)(night -3.19)(. -0.84) line score is : -3.025, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -2.6311665375251323----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ but he does not die in our sight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(but -1.34)(he -5.29)(does -4.11)(not -2.75)(die -1.83)(in -6.78)(our -1.51)(sight -3.79)(. -1.66) line score is : -3.229, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but the telephone book caused him pain 
+-------------------------score:  -2.6512912273887665----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ but the city council had it right . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(but -1.34)(the -5.29)(city -4.11)(council -2.75)(had -2.54)(it -5.23)(right -4.00)(. -3.77) line score is : -3.628, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.7263808243442327----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and he went down and buried his knight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(he -5.29)(went -4.11)(down -1.43)(and -2.96)(buried -4.48)(his -3.32)(knight -5.28)(. -4.40) line score is : -3.623, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -2.73003704052779----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and now he is a prisoner right . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(now -5.29)(he -4.11)(is -1.43)(a -5.03)(prisoner -0.91)(right -2.04)(. -3.24) line score is : -2.923, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he slipped through the straw and fell in 
+-------------------------score:  -2.744272566633299----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ he went through the roof and died outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(he -1.34)(went -5.29)(through -4.11)(the -4.36)(roof -4.62)(and -3.33)(died -2.83)(outright -4.26)(. -1.70) line score is : -3.538, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -2.7750765308737755----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ he never slept in a bed upright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(he -1.34)(never -5.29)(slept -4.11)(in -4.36)(a -4.03)(bed -6.76)(upright -2.97)(. -1.86) line score is : -3.840, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -2.781715823998374----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and he did not own anyone white . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(he -5.29)(did -4.11)(not -1.43)(own -2.96)(anyone -4.90)(white -0.28)(. -5.22) line score is : -3.191, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -2.7952429747674614----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and he did not like sleeping of night . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(he -5.29)(did -4.11)(not -1.43)(like -2.96)(sleeping -4.90)(of -0.28)(night -5.79)(. -7.80) line score is : -3.766, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -2.796613032867511----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ which happened that morning of midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(which -1.34)(happened -5.29)(that -4.11)(morning -2.34)(of -4.81)(midnight -5.97)(. -3.10) line score is : -3.852, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but her glasses slipped down to her toes 
+-------------------------score:  -2.8052015223074704----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ but his ashes came down to his might . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(but -1.34)(his -5.29)(ashes -4.11)(came -2.75)(down -1.87)(to -3.78)(his -4.49)(might -3.56)(. -2.02) line score is : -3.246, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -2.838926941396729----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ which was set with the greatest insight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(which -1.34)(was -5.29)(set -4.11)(with -2.34)(the -2.22)(greatest -3.02)(insight -4.85)(. -2.06) line score is : -3.153, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -2.8504495576489717----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ but he had it made paying him right . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(but -1.34)(he -5.29)(had -4.11)(it -2.75)(made -1.83)(paying -2.86)(him -6.29)(right -3.44)(. -8.55) line score is : -4.051, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.8662088602300613----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ but he had his ashes and rewrite . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(but -1.34)(he -5.29)(had -4.11)(his -2.75)(ashes -1.83)(and -2.86)(rewrite -3.69)(. -4.18) line score is : -3.257, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -2.9277524940669535----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and buried his body a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(buried -5.29)(his -4.11)(body -1.43)(a -6.49)(fortnight -5.03)(. -1.41) line score is : -3.585, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which pickled his internal workins 
+-------------------------score:  -2.9336333431560417----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ which happened his funeral invite . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(which -1.34)(happened -5.29)(his -4.11)(funeral -2.34)(invite -4.81)(. -7.63) line score is : -4.253, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was destined to go a long way 
+-------------------------score:  -2.9383362748194486----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ he got drunk to get a good insight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(he -1.34)(got -5.29)(drunk -4.11)(to -4.36)(get -4.33)(a -3.76)(good -5.16)(insight -2.74)(. -3.96) line score is : -3.894, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but the other won several prizes 
+-------------------------score:  -2.949591508756081----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ but the public was confused outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(but -1.34)(the -5.29)(public -4.11)(was -2.75)(confused -2.54)(outright -6.90)(. -2.79) line score is : -3.673, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -2.9706582457292825----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ it was not till someone found this site . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(it -1.34)(was -5.29)(not -4.11)(till -6.44)(someone -0.95)(found -4.50)(this -5.36)(site -6.76)(. -2.75) line score is : -4.166, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.0309584518113444----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and then a young woman he invite . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(then -5.29)(a -4.11)(young -1.43)(woman -3.68)(he -4.15)(invite -5.09)(. -1.84) line score is : -3.366, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.0368587740231305----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ then he swore on his life and outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(then -1.34)(he -5.29)(swore -4.11)(on -4.38)(his -3.39)(life -7.49)(and -4.92)(outright -1.16)(. -1.94) line score is : -3.779, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.05291511478924----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ he never can get past it outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(he -1.34)(never -5.29)(can -4.11)(get -4.36)(past -4.03)(it -8.29)(outright -2.19)(. -6.31) line score is : -4.490, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and sometimes get quite cranky 
+-------------------------score:  -3.1054658573763123----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ and never recover quite upright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(and -1.34)(never -5.29)(recover -4.11)(quite -1.43)(upright -6.04)(. -7.47) line score is : -4.280, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.127479917820423----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ he died when he slept across midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(he -1.34)(died -5.29)(when -4.11)(he -4.36)(slept -3.80)(across -4.51)(midnight -0.64)(. -7.63) line score is : -3.960, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.1987402201179536----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ i think maybe hit six or midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(i -1.34)(think -5.29)(maybe -4.11)(hit -7.49)(six -1.53)(or -6.68)(midnight -6.36)(. -7.90) line score is : -5.085, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then he couldn t think of anything 
+-------------------------score:  -3.231945808135694----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ not he ca ne re of midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(not -1.34)(he -5.29)(ca -4.11)(ne -3.78)(re -7.36)(of -8.44)(midnight -6.62)(. -4.72) line score is : -5.207, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ did anyone see where it went 
+-------------------------score:  -3.6006521813571455----------------------- 
+there was a fierce boxer named dwight 
+ who lost all his money in a fight . 
+ when he tried to retire , 
+ he was killed by a fire , 
+ was beaten awake where he outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.14)(lost -4.72)(all -3.39)(his -0.48)(money -1.64)(in -1.57)(a -1.07)(fight -1.44)(. -1.48) line score is : -1.991, look ahead score is : 0.000
+(when -1.48)(he -4.27)(tried -1.11)(to -4.11)(retire -0.12)(, -5.83) line score is : -2.819, look ahead score is : 0.000
+(he -5.83)(was -1.00)(killed -0.74)(by -1.58)(a -4.71)(fire -0.73)(, -1.34) line score is : -2.275, look ahead score is : 0.000
+(was -1.34)(beaten -5.29)(awake -4.11)(where -6.75)(he -4.29)(outright -9.69)(. -9.86) line score is : -5.904, look ahead score is : 0.000

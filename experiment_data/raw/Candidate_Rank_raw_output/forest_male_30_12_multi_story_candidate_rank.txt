@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ my mama was a goat 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9412966247262626----------------------- 
+there was a brave farmer named burt 
+ who harvested an acre of dirt . 
+ when he returned to town , 
+ his wife had a breakdown , 
+ and he ran down and buried his shirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(harvested -8.10)(an -4.66)(acre -2.46)(of -0.37)(dirt -7.33)(. -3.47) line score is : -3.941, look ahead score is : 0.000
+(when -3.47)(he -3.32)(returned -0.58)(to -2.78)(town -1.16)(, -3.22) line score is : -2.421, look ahead score is : 0.000
+(his -3.22)(wife -1.08)(had -2.60)(a -1.61)(breakdown -3.18)(, -3.30) line score is : -2.498, look ahead score is : 0.000
+(and -3.30)(he -6.09)(ran -1.81)(down -0.87)(and -1.13)(buried -4.25)(his -5.22)(shirt -2.02)(. -3.00) line score is : -3.077, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ my mama was a goat 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.009422699610392----------------------- 
+there was a brave farmer named curt 
+ who harvested an acre of dirt . 
+ when he returned to town , 
+ his wife had a breakdown , 
+ so he got up and put on the shirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(harvested -8.10)(an -4.66)(acre -2.46)(of -0.37)(dirt -7.33)(. -3.47) line score is : -3.941, look ahead score is : 0.000
+(when -3.47)(he -3.32)(returned -0.58)(to -2.78)(town -1.16)(, -3.22) line score is : -2.421, look ahead score is : 0.000
+(his -3.22)(wife -1.08)(had -2.60)(a -1.61)(breakdown -3.18)(, -3.30) line score is : -2.498, look ahead score is : 0.000
+(so -3.30)(he -6.09)(got -1.81)(up -2.91)(and -0.46)(put -4.32)(on -4.56)(the -0.96)(shirt -6.29)(. -1.58) line score is : -3.228, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ my mama was a goat 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0136148957535625----------------------- 
+there was a brave farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he returned to town , 
+ his wife had a breakdown , 
+ so he gave up and put on the veil . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(hunted -7.27)(as -5.70)(he -3.04)(went -2.50)(on -3.35)(a -3.46)(trail -4.33)(. -2.20) line score is : -3.672, look ahead score is : 0.000
+(when -2.20)(he -3.52)(returned -0.57)(to -3.33)(town -1.49)(, -3.06) line score is : -2.363, look ahead score is : 0.000
+(his -3.06)(wife -1.18)(had -2.90)(a -1.72)(breakdown -3.03)(, -3.48) line score is : -2.561, look ahead score is : 0.000
+(so -3.48)(he -5.68)(gave -1.72)(up -2.84)(and -0.46)(put -4.54)(on -1.44)(the -3.48)(veil -6.36)(. -2.67) line score is : -3.267, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0262930113257784----------------------- 
+there was a brave farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he returned to town , 
+ he was struck by a clown , 
+ so he ran up and slept on the rail . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(hunted -7.27)(as -5.70)(he -3.04)(went -2.50)(on -3.35)(a -3.46)(trail -4.33)(. -2.20) line score is : -3.672, look ahead score is : 0.000
+(when -2.20)(he -3.52)(returned -0.57)(to -3.33)(town -1.49)(, -3.06) line score is : -2.363, look ahead score is : 0.000
+(he -3.06)(was -1.18)(struck -0.49)(by -2.38)(a -4.92)(clown -0.26)(, -1.30) line score is : -1.944, look ahead score is : 0.000
+(so -1.30)(he -9.07)(ran -2.76)(up -4.38)(and -0.43)(slept -3.25)(on -3.15)(the -2.02)(rail -7.99)(. -2.14) line score is : -3.648, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ my mama was a goat 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0847048951733496----------------------- 
+there was a brave farmer named brock 
+ who planted as he went on a walk . 
+ when he returned to town , 
+ his wife had a breakdown , 
+ and he ran down and buried his rock . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(planted -5.26)(as -7.07)(he -5.01)(went -1.56)(on -3.35)(a -3.15)(walk -5.10)(. -2.26) line score is : -3.772, look ahead score is : 0.000
+(when -2.26)(he -3.30)(returned -0.48)(to -2.16)(town -1.77)(, -3.43) line score is : -2.234, look ahead score is : 0.000
+(his -3.43)(wife -1.18)(had -2.93)(a -1.83)(breakdown -2.92)(, -3.73) line score is : -2.670, look ahead score is : 0.000
+(and -3.73)(he -5.60)(ran -1.73)(down -0.87)(and -1.34)(buried -4.46)(his -5.11)(rock -2.37)(. -3.29) line score is : -3.167, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.094248397696403----------------------- 
+there was a brave farmer named curt 
+ who harvested an acre of dirt . 
+ when he returned to town , 
+ he was met by a clown , 
+ so he went up and put on the shirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(harvested -8.10)(an -4.66)(acre -2.46)(of -0.37)(dirt -7.33)(. -3.47) line score is : -3.941, look ahead score is : 0.000
+(when -3.47)(he -3.32)(returned -0.58)(to -2.78)(town -1.16)(, -3.22) line score is : -2.421, look ahead score is : 0.000
+(he -3.22)(was -1.08)(met -0.50)(by -2.45)(a -3.27)(clown -0.31)(, -1.12) line score is : -1.706, look ahead score is : 0.000
+(so -1.12)(he -9.22)(went -2.47)(up -6.39)(and -0.77)(put -3.03)(on -3.51)(the -2.53)(shirt -5.80)(. -2.17) line score is : -3.701, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2810572733481727----------------------- 
+there was a brave farmer named burt 
+ who harvested an acre of dirt . 
+ when he returned to town , 
+ he was met by a clown , 
+ and he went down and shot his turret . 
+------------------------- score breakdown ------------------------ 
+(who -1.19)(harvested -8.10)(an -4.66)(acre -2.46)(of -0.37)(dirt -7.33)(. -3.47) line score is : -3.941, look ahead score is : 0.000
+(when -3.47)(he -3.32)(returned -0.58)(to -2.78)(town -1.16)(, -3.22) line score is : -2.421, look ahead score is : 0.000
+(he -3.22)(was -1.08)(met -0.50)(by -2.45)(a -3.27)(clown -0.31)(, -1.12) line score is : -1.706, look ahead score is : 0.000
+(and -1.12)(he -9.22)(went -2.47)(down -3.52)(and -2.22)(shot -4.29)(his -3.96)(turret -3.51)(. -3.95) line score is : -3.808, look ahead score is : 0.000

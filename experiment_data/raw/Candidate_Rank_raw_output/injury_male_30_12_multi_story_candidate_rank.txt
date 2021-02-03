@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.893210042550257----------------------- 
+there once was a surgeon named tyree 
+ who healed a gunshot wound on his knee . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ so he went to look down on the sea . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(fight -0.79)(, -7.33) line score is : -2.579, look ahead score is : 0.000
+(he -7.33)(was -1.21)(shocked -0.65)(by -1.50)(his -4.53)(sight -2.20)(, -1.90) line score is : -2.760, look ahead score is : 0.000
+(so -1.90)(he -7.34)(went -2.21)(to -3.91)(look -0.49)(down -3.55)(on -1.06)(the -4.61)(sea -6.28)(. -2.16) line score is : -3.350, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9468644053082573----------------------- 
+there once was a surgeon named marquis 
+ who healed a gunshot wound on his knee . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ so he had to go down on the tree . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(fight -0.79)(, -7.33) line score is : -2.579, look ahead score is : 0.000
+(he -7.33)(was -1.21)(killed -0.65)(by -1.50)(a -4.11)(knight -1.08)(, -1.49) line score is : -2.483, look ahead score is : 0.000
+(so -1.49)(he -8.28)(had -2.94)(to -5.10)(go -1.70)(down -2.82)(on -0.49)(the -3.26)(tree -4.60)(. -3.21) line score is : -3.389, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -2.9476545415236615----------------------- 
+there once was a surgeon named marquis 
+ who healed a gunshot wound on his knee . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ but he knew he was doing it free . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(fight -0.79)(, -7.33) line score is : -2.579, look ahead score is : 0.000
+(he -7.33)(was -1.21)(shocked -0.65)(by -1.50)(his -4.53)(sight -2.20)(, -1.90) line score is : -2.760, look ahead score is : 0.000
+(but -1.90)(he -7.34)(knew -2.21)(he -2.31)(was -2.01)(doing -4.09)(it -1.22)(free -1.77)(. -4.87) line score is : -3.079, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9625686322688125----------------------- 
+there once was a surgeon named marquis 
+ who healed a gunshot wound on his knee . 
+ when he returned to court , 
+ he had the wrong passport , 
+ so he had to go down on the plea . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(court -0.79)(, -6.05) line score is : -2.365, look ahead score is : 0.000
+(he -6.05)(had -0.76)(the -1.07)(wrong -3.23)(passport -3.46)(, -5.06) line score is : -3.271, look ahead score is : 0.000
+(so -5.06)(he -8.45)(had -1.84)(to -2.35)(go -0.62)(down -1.69)(on -0.10)(the -2.87)(plea -7.11)(. -4.23) line score is : -3.433, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.003628477849292----------------------- 
+there once was a surgeon named tyree 
+ who healed a gunshot wound on his knee . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ so he ran up and beat on the tree . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(fight -0.79)(, -7.33) line score is : -2.579, look ahead score is : 0.000
+(he -7.33)(was -1.21)(shocked -0.65)(by -1.50)(his -4.53)(sight -2.20)(, -1.90) line score is : -2.760, look ahead score is : 0.000
+(so -1.90)(he -7.34)(ran -2.21)(up -3.91)(and -0.49)(beat -3.93)(on -4.18)(the -2.51)(tree -5.40)(. -4.55) line score is : -3.642, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.1044386704141895----------------------- 
+there once was a surgeon named marquis 
+ who healed a gunshot wound on his knee . 
+ when he returned to fight , 
+ he was shocked by his plight , 
+ and left the arena with sunday . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(fight -0.79)(, -7.33) line score is : -2.579, look ahead score is : 0.000
+(he -7.33)(was -1.21)(shocked -0.65)(by -1.50)(his -4.53)(plight -2.20)(, -1.90) line score is : -2.760, look ahead score is : 0.000
+(and -1.90)(left -9.50)(the -2.06)(arena -1.38)(with -4.88)(sunday -1.31)(. -2.50) line score is : -3.362, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.1712624410828276----------------------- 
+there once was a surgeon named marquis 
+ who healed a gunshot wound on his knee . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ so he quickly moved on the sunday . 
+------------------------- score breakdown ------------------------ 
+(who -4.30)(healed -7.36)(a -3.34)(gunshot -5.63)(wound -0.02)(on -2.60)(his -1.32)(knee -2.80)(. -0.86) line score is : -3.138, look ahead score is : 0.000
+(when -0.86)(he -3.43)(returned -1.20)(to -1.87)(fight -0.79)(, -7.33) line score is : -2.579, look ahead score is : 0.000
+(he -7.33)(was -1.21)(shocked -0.65)(by -1.50)(his -4.53)(sight -2.20)(, -1.90) line score is : -2.760, look ahead score is : 0.000
+(so -1.90)(he -7.34)(quickly -2.21)(moved -3.91)(on -0.49)(the -4.53)(sunday -4.46)(. -2.62) line score is : -3.433, look ahead score is : 0.000

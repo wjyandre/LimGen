@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9003500324307065----------------------- 
+there was a harsh girl named grace 
+ who made a bad comment on my face . 
+ when she started to smile , 
+ i was shocked by her style , 
+ so i went to sit down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.85)(a -2.82)(bad -4.47)(comment -4.16)(on -1.92)(my -1.52)(face -3.87)(. -1.20) line score is : -2.925, look ahead score is : 0.000
+(when -1.20)(she -4.51)(started -1.74)(to -3.79)(smile -1.88)(, -6.16) line score is : -3.213, look ahead score is : 0.000
+(i -6.16)(was -1.16)(shocked -0.52)(by -2.75)(her -3.20)(style -3.30)(, -1.20) line score is : -2.612, look ahead score is : 0.000
+(so -1.20)(i -7.99)(went -2.28)(to -3.46)(sit -0.30)(down -3.93)(on -1.07)(the -4.50)(base -1.68)(. -3.07) line score is : -2.948, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9180078316818583----------------------- 
+there was a woman named kay 
+ who led a small family on their way . 
+ when they arrived to sea , 
+ they were met by a tree , 
+ so they had to climb down on the bay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(led -7.55)(a -2.03)(small -4.01)(family -3.58)(on -3.81)(their -2.48)(way -1.54)(. -2.95) line score is : -3.243, look ahead score is : 0.000
+(when -2.95)(they -3.61)(arrived -1.44)(to -1.69)(sea -4.31)(, -7.46) line score is : -3.577, look ahead score is : 0.000
+(they -7.46)(were -0.82)(met -1.15)(by -1.28)(a -2.59)(tree -0.26)(, -1.09) line score is : -2.092, look ahead score is : 0.000
+(so -1.09)(they -8.54)(had -2.48)(to -4.46)(climb -1.11)(down -3.54)(on -0.30)(the -2.02)(bay -2.47)(. -3.83) line score is : -2.984, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.0314238891005516----------------------- 
+there was a woman named kay 
+ who led a small family on their way . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ that the place they worked had a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(led -7.55)(a -2.03)(small -4.01)(family -3.58)(on -3.81)(their -2.48)(way -1.54)(. -2.95) line score is : -3.243, look ahead score is : 0.000
+(when -2.95)(they -3.61)(arrived -1.44)(to -1.69)(work -4.31)(, -6.18) line score is : -3.365, look ahead score is : 0.000
+(they -6.18)(were -1.37)(told -1.25)(by -1.26)(a -2.69)(clerk -1.93)(, -1.50) line score is : -2.310, look ahead score is : 0.000
+(that -1.50)(the -5.23)(place -3.66)(they -4.06)(worked -1.79)(had -4.27)(a -2.98)(birthday -2.98)(. -2.11) line score is : -3.175, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ and she baked really great apple pies 
+-------------------------score:  -3.2084596544504165----------------------- 
+there was a woman named freda 
+ who lit a small candle on her head . 
+ she looked like a shadow , 
+ her skin was a rainbow , 
+ and she had long golden hair widespread . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lit -9.03)(a -1.63)(small -4.64)(candle -1.83)(on -2.69)(her -2.06)(head -3.14)(. -2.04) line score is : -3.144, look ahead score is : 0.000
+(she -2.04)(looked -1.59)(like -3.81)(a -1.95)(shadow -1.00)(, -7.43) line score is : -2.969, look ahead score is : 0.000
+(her -7.43)(skin -1.98)(was -2.83)(a -2.87)(rainbow -1.31)(, -3.23) line score is : -3.275, look ahead score is : 0.000
+(and -3.23)(she -8.02)(had -1.42)(long -0.98)(golden -1.23)(hair -1.50)(widespread -2.76)(. -3.76) line score is : -2.863, look ahead score is : 0.000

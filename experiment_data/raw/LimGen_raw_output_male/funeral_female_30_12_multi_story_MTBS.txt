@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.8793375845998526----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ and that is the story of this play . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(and -1.17)(that -9.39)(is -2.25)(the -2.79)(story -5.26)(of -2.89)(this -2.72)(play -2.38)(. -1.08) line score is : -3.325, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.0990222077816725----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ she was afraid to leave and to stay . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(she -1.17)(was -9.39)(afraid -2.25)(to -6.37)(leave -2.60)(and -4.56)(to -1.68)(stay -1.67)(. -3.03) line score is : -3.636, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.1549467357896988----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ and says she could barely walk halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(and -1.40)(says -9.90)(she -3.14)(could -1.66)(barely -7.21)(walk -0.66)(halfway -4.36)(. -2.31) line score is : -3.828, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.190446941121932----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ which had come with the latest survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(which -1.40)(had -9.90)(come -3.14)(with -1.99)(the -3.38)(latest -3.85)(survey -3.98)(. -1.64) line score is : -3.659, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.2174693826706178----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ and she was not happy till sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(and -1.17)(she -9.39)(was -2.25)(not -2.79)(happy -2.34)(till -1.72)(sunday -5.30)(. -2.14) line score is : -3.387, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2363990042358637----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ and she ran down and hid her cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(and -1.17)(she -9.39)(ran -2.25)(down -2.79)(and -2.34)(hid -3.83)(her -5.69)(cache -4.19)(. -4.19) line score is : -3.982, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which pickled his internal workins 
+-------------------------score:  -3.2509036444384476----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ which shattered her upper resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(which -1.40)(shattered -9.90)(her -3.14)(upper -1.99)(resume -3.52)(. -0.54) line score is : -3.414, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and returned on the previous night 
+-------------------------score:  -3.2911629299322764----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ and died on the second resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(and -1.40)(died -9.90)(on -3.14)(the -1.66)(second -3.77)(resume -3.11)(. -0.36) line score is : -3.334, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.30395266811053----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ because she was carrying her may . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(because -1.17)(she -9.39)(was -2.25)(carrying -7.30)(her -1.23)(may -1.17)(. -4.67) line score is : -3.881, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3104901053011417----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ and it was then like magic of day . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(and -1.17)(it -9.39)(was -2.25)(then -2.79)(like -4.43)(magic -0.98)(of -2.48)(day -8.91)(. -4.43) line score is : -4.092, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.3130462881057494----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a frown , 
+ and then a stern look herself sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(frown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(and -1.17)(then -9.62)(a -5.17)(stern -1.18)(look -3.51)(herself -1.25)(sunday -3.68)(. -1.22) line score is : -3.349, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.363844401637713----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ and lost her position a friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(and -1.40)(lost -9.90)(her -3.14)(position -1.66)(a -4.62)(friday -0.77)(. -7.82) line score is : -4.186, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.402268453951805----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ she thought that her father was halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(she -1.17)(thought -9.39)(that -2.25)(her -6.37)(father -3.72)(was -3.09)(halfway -4.24)(. -2.67) line score is : -4.113, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ us camels get into a stew 
+-------------------------score:  -3.4570380886395773----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was met by a cruel , 
+ stern teachers report into a play . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(met -0.72)(by -1.52)(a -4.68)(cruel -0.66)(, -1.09) line score is : -1.810, look ahead score is : 0.000
+(stern -1.09)(teachers -7.48)(report -3.26)(into -5.42)(a -6.89)(play -7.49)(. -6.35) line score is : -5.426, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.466802168277002----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ he had all her clothes hanging friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(he -1.17)(had -9.39)(all -2.25)(her -6.82)(clothes -3.43)(hanging -6.76)(friday -1.80)(. -1.46) line score is : -4.135, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.474597099327272----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ she was up in class and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(she -1.40)(was -9.90)(up -3.14)(in -5.21)(class -2.86)(and -8.39)(resume -1.76)(. -3.92) line score is : -4.572, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.5168700486421587----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was struck by a tool , 
+ and could hardly walk back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(struck -0.72)(by -1.52)(a -5.17)(tool -0.44)(, -1.40) line score is : -1.893, look ahead score is : 0.000
+(and -1.40)(could -9.90)(hardly -3.14)(walk -1.66)(back -5.97)(resume -3.42)(. -1.77) line score is : -3.894, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and as far as the bucket 
+-------------------------score:  -3.528425686309735----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ and as quickly as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(and -1.17)(as -9.39)(quickly -2.25)(as -2.79)(the -4.63)(resume -7.42)(. -0.06) line score is : -3.958, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that unlucky old person of ems 
+-------------------------score:  -3.530836437145869----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ that same exact person of sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(that -1.17)(same -9.39)(exact -2.25)(person -7.14)(of -4.91)(sunday -6.80)(. -3.47) line score is : -5.018, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ for not selling her waterproof paint 
+-------------------------score:  -3.535663876930873----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ for not showing him enough okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(for -1.17)(not -9.39)(showing -2.25)(him -7.73)(enough -7.61)(okay -3.15)(. -4.26) line score is : -5.080, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.581364356702374----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ she never can get past him okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(she -1.17)(never -9.39)(can -2.25)(get -6.37)(past -6.74)(him -8.46)(okay -3.88)(. -4.38) line score is : -5.331, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that ungracious young lady in blue 
+-------------------------score:  -3.64731124440829----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ that same female child in resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(that -1.17)(same -9.39)(female -2.25)(child -7.14)(in -4.91)(resume -6.46)(. -4.02) line score is : -5.049, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ did anyone see where it went 
+-------------------------score:  -3.647924482822418----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was met by a cruel , 
+ closed door routine where they resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(met -0.72)(by -1.52)(a -4.68)(cruel -0.66)(, -1.09) line score is : -1.810, look ahead score is : 0.000
+(closed -1.09)(door -7.48)(routine -3.26)(where -6.74)(they -1.87)(resume -8.17)(. -3.48) line score is : -4.586, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB NNS VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and hope reinforcements arrive 
+-------------------------score:  -3.6489923681531633----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was met by a cruel , 
+ and intimate teachers resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(met -0.72)(by -1.52)(a -4.68)(cruel -0.66)(, -1.09) line score is : -1.810, look ahead score is : 0.000
+(and -1.09)(intimate -7.48)(teachers -3.26)(resume -5.37)(. -9.99) line score is : -5.440, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.653051656484604----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ to make two excuses to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(to -1.17)(make -9.39)(two -2.25)(excuses -6.91)(to -5.84)(resume -7.56)(. -6.62) line score is : -5.678, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.7251051049078665----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a frown , 
+ she was when she heard across sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(frown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(she -1.17)(was -9.62)(when -5.17)(she -4.66)(heard -2.37)(across -9.88)(sunday -0.65)(. -4.11) line score is : -4.703, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.725141873282771----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ he then hit in a car resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(he -1.17)(then -9.39)(hit -2.25)(in -6.82)(a -4.77)(car -5.13)(resume -7.92)(. -2.36) line score is : -4.975, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that her head was bare 
+-------------------------score:  -3.79954187828919----------------------- 
+there was a brave nurse named renee 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was shocked by a rule , 
+ that our department had okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(shocked -0.72)(by -1.52)(a -2.64)(rule -2.54)(, -3.51) line score is : -2.132, look ahead score is : 0.000
+(that -3.51)(our -8.93)(department -4.77)(had -3.18)(okay -8.99)(. -6.53) line score is : -5.986, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.946466539055109----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to school , 
+ she was met by a cruel , 
+ and trying stare she has but enough may . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(school -1.63)(, -3.01) line score is : -2.894, look ahead score is : 0.000
+(she -3.01)(was -0.99)(met -0.72)(by -1.52)(a -4.68)(cruel -0.66)(, -1.09) line score is : -1.810, look ahead score is : 0.000
+(and -1.09)(trying -7.48)(stare -3.26)(she -5.37)(has -8.89)(but -7.81)(enough -5.16)(may -3.63)(. -10.13) line score is : -5.870, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I ll give you prostheses for free 
+-------------------------score:  -4.001746841015354----------------------- 
+there was a brave nurse named kay 
+ who told a young girl on her birthday . 
+ when she returned to town , 
+ she was met by a clown , 
+ i wo dam i people for okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.56)(told -4.50)(a -4.60)(young -3.37)(girl -2.01)(on -4.71)(her -1.70)(birthday -4.04)(. -3.21) line score is : -3.298, look ahead score is : 0.000
+(when -3.21)(she -4.34)(returned -1.35)(to -3.84)(town -1.63)(, -4.43) line score is : -3.132, look ahead score is : 0.000
+(she -4.43)(was -0.91)(met -0.74)(by -1.94)(a -3.16)(clown -0.46)(, -1.17) line score is : -1.830, look ahead score is : 0.000
+(i -1.17)(wo -9.39)(dam -2.25)(i -8.01)(people -6.35)(for -8.41)(okay -4.95)(. -9.67) line score is : -6.276, look ahead score is : 0.000

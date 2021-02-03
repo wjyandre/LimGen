@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -2.7809688737615943----------------------- 
+there was a wise boy named bill 
+ who lost all his money in a will . 
+ when he returned to school , 
+ his father was a fool , 
+ so he went to live down on the hill . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(lost -6.50)(all -3.98)(his -0.28)(money -0.82)(in -1.62)(a -1.00)(will -10.77)(. -0.99) line score is : -3.104, look ahead score is : 0.000
+(when -0.99)(he -3.74)(returned -0.82)(to -3.83)(school -1.18)(, -3.99) line score is : -2.426, look ahead score is : 0.000
+(his -3.99)(father -0.96)(was -2.45)(a -2.50)(fool -2.52)(, -3.47) line score is : -2.647, look ahead score is : 0.000
+(so -3.47)(he -8.28)(went -1.71)(to -2.56)(live -0.47)(down -3.17)(on -0.74)(the -1.69)(hill -7.15)(. -3.66) line score is : -3.290, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ my mama was a goat 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.937404504045844----------------------- 
+there was a wise boy named jake 
+ who lost all his money in a wake . 
+ when he returned to school , 
+ his teacher was a fool , 
+ so he gave up and quit on the lake . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(lost -6.50)(all -3.98)(his -0.28)(money -0.82)(in -1.62)(a -1.00)(wake -10.44)(. -1.60) line score is : -3.135, look ahead score is : 0.000
+(when -1.60)(he -4.05)(returned -0.93)(to -2.96)(school -1.56)(, -4.20) line score is : -2.550, look ahead score is : 0.000
+(his -4.20)(teacher -0.97)(was -2.54)(a -2.05)(fool -2.85)(, -3.11) line score is : -2.619, look ahead score is : 0.000
+(so -3.11)(he -8.25)(gave -1.79)(up -3.01)(and -0.38)(quit -4.26)(on -1.38)(the -2.61)(lake -3.90)(. -5.58) line score is : -3.429, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD TO VB , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he wanted to see 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9716211456444954----------------------- 
+there was a wise boy named jake 
+ who lost all his money in a wake . 
+ he decided to run , 
+ and he ran to the sun , 
+ and he came down and saw our lake . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(lost -6.50)(all -3.98)(his -0.28)(money -0.82)(in -1.62)(a -1.00)(wake -10.44)(. -1.60) line score is : -3.135, look ahead score is : 0.000
+(he -1.60)(decided -2.05)(to -4.57)(run -0.22)(, -4.41) line score is : -2.571, look ahead score is : 0.000
+(and -4.41)(he -4.43)(ran -1.63)(to -2.13)(the -1.77)(sun -2.74)(, -1.46) line score is : -2.653, look ahead score is : 0.000
+(and -1.46)(he -6.63)(came -2.01)(down -1.65)(and -0.73)(saw -4.35)(our -3.48)(lake -2.23)(. -3.40) line score is : -2.883, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ my mama was a goat 
+ but they felt it was doing them good 
+-------------------------score:  -3.103734056795797----------------------- 
+there was a wise boy named jake 
+ who lost all his money in a wake . 
+ when he returned to school , 
+ his teacher was a fool , 
+ but he knew she was telling him fake . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(lost -6.50)(all -3.98)(his -0.28)(money -0.82)(in -1.62)(a -1.00)(wake -10.44)(. -1.60) line score is : -3.135, look ahead score is : 0.000
+(when -1.60)(he -4.05)(returned -0.93)(to -2.96)(school -1.56)(, -4.20) line score is : -2.550, look ahead score is : 0.000
+(his -4.20)(teacher -0.97)(was -2.54)(a -2.05)(fool -2.85)(, -3.11) line score is : -2.619, look ahead score is : 0.000
+(but -3.11)(he -8.25)(knew -1.79)(she -2.96)(was -1.20)(telling -4.02)(him -3.29)(fake -0.79)(. -4.73) line score is : -3.349, look ahead score is : 0.000

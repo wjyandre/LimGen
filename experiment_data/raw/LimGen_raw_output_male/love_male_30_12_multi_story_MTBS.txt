@@ -1,0 +1,1012 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.812140921751658----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ so he had to go down on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(so -1.66)(he -8.18)(had -3.54)(to -3.98)(go -1.03)(down -2.71)(on -1.59)(the -2.73)(spot -3.72)(. -3.72) line score is : -3.286, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.910115796508211----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ so he came up and slept on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(so -1.66)(he -8.18)(came -3.54)(up -3.98)(and -1.03)(slept -3.53)(on -2.40)(the -1.97)(spot -7.82)(. -1.53) line score is : -3.564, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.104530990123749----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ and he came down and had his gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(and -1.66)(he -8.18)(came -3.54)(down -0.62)(and -1.33)(had -3.94)(his -3.65)(gunshot -1.60)(. -3.81) line score is : -3.148, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.248794427141547----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the day , 
+ but his parents were down to their pot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(day -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(but -1.66)(his -7.68)(parents -5.36)(were -2.67)(down -3.72)(to -3.10)(their -2.08)(pot -6.48)(. -3.23) line score is : -3.999, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ she was destined to go a long way 
+-------------------------score:  -3.260251118801534----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ it was nice to have a big gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(it -1.66)(was -8.18)(nice -3.54)(to -5.97)(have -0.31)(a -5.16)(big -2.42)(gunshot -1.93)(. -1.47) line score is : -3.406, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ when he saw there were six little chips 
+-------------------------score:  -3.270942287519574----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ when he heard there were two big gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(when -1.66)(he -8.18)(heard -3.54)(there -5.96)(were -1.02)(two -2.72)(big -3.80)(gunshot -1.96)(. -2.93) line score is : -3.532, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.2890142586923417----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ which was called with the biggest gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(which -1.66)(was -8.18)(called -3.54)(with -3.65)(the -0.57)(biggest -2.78)(gunshot -6.42)(. -1.95) line score is : -3.595, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -3.3100569824377697----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ because he was getting his cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(because -1.66)(he -8.18)(was -3.54)(getting -4.59)(his -0.72)(cannot -1.68)(. -4.46) line score is : -3.549, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.3359489552676678----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ he came through the door and looked gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(came -8.18)(through -3.54)(the -3.85)(door -3.94)(and -4.99)(looked -0.96)(gunshot -1.50)(. -1.26) line score is : -3.320, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.3505945186461172----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ and it was too bad nobody sought . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(and -1.66)(it -8.18)(was -3.54)(too -0.62)(bad -3.39)(nobody -0.39)(sought -5.31)(. -2.92) line score is : -3.252, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and sideways he could n't be seen 
+-------------------------score:  -3.402763343626453----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ and says he could not believe cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(and -1.66)(says -8.18)(he -3.54)(could -0.62)(not -7.48)(believe -1.67)(cannot -4.82)(. -1.76) line score is : -3.717, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.4240796826779842----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ and for reasons he just knows his plot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(and -1.66)(for -8.18)(reasons -3.54)(he -0.62)(just -6.50)(knows -6.21)(his -2.28)(plot -5.72)(. -4.32) line score is : -4.338, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.4958205427974463----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ he saw me and said thanks and cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(saw -8.18)(me -3.54)(and -3.85)(said -3.85)(thanks -3.10)(and -2.13)(cannot -1.92)(. -6.49) line score is : -3.859, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ he never completed his task 
+-------------------------score:  -3.498365659138252----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the day , 
+ he never expected his onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(day -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(never -7.68)(expected -5.36)(his -3.38)(onslaught -5.10)(. -4.51) line score is : -4.615, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4992107556712244----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the day , 
+ he never slept in a bed cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(day -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(never -7.68)(slept -5.36)(in -3.38)(a -5.10)(bed -6.11)(cannot -2.94)(. -2.74) line score is : -4.371, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and hop in before all the crowd 
+-------------------------score:  -3.515887084507173----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ and put in before all the cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(and -1.66)(put -8.18)(in -3.54)(before -0.62)(all -6.97)(the -3.35)(cannot -8.32)(. -4.35) line score is : -4.625, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.518942392641498----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ but he hit too early for onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(but -1.66)(he -8.18)(hit -3.54)(too -3.09)(early -1.20)(for -6.53)(onslaught -5.49)(. -4.67) line score is : -4.297, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ she sat up in bed and meowed 
+-------------------------score:  -3.52174747567023----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ he was up in heaven and cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(was -8.18)(up -3.54)(in -3.85)(heaven -2.43)(and -5.29)(cannot -2.54)(. -4.27) line score is : -3.971, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ they bedded her down in the stable 
+-------------------------score:  -3.558947111329725----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ he saw me down outside the cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(saw -8.18)(me -3.54)(down -3.85)(outside -3.85)(the -3.10)(cannot -5.99)(. -7.19) line score is : -4.671, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ which refreshed that person of ewell 
+-------------------------score:  -3.5866931200027468----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ which was that restaurant of cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(which -1.66)(was -8.18)(that -3.54)(restaurant -3.65)(of -0.57)(cannot -6.47)(. -6.44) line score is : -4.361, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ she was ready to give and to take 
+-------------------------score:  -3.58899421710521----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ it was good to see and to cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(it -1.66)(was -8.18)(good -3.54)(to -5.97)(see -0.31)(and -4.83)(to -3.64)(cannot -0.72)(. -5.79) line score is : -3.849, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ I did n't think life was this way 
+-------------------------score:  -3.589696149341762----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ it was not till dinner did this shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(it -1.66)(was -8.18)(not -3.54)(till -5.97)(dinner -0.31)(did -5.36)(this -7.51)(shot -5.94)(. -5.06) line score is : -4.838, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -3.600192141148352----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the way , 
+ he never can be in it cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(way -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(never -9.21)(can -4.89)(be -2.92)(in -4.80)(it -7.31)(cannot -3.37)(. -3.86) line score is : -4.755, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ which leaves him in very bad shape 
+-------------------------score:  -3.647709321591162----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ which is it in pretty much cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(which -1.66)(is -8.18)(it -3.54)(in -3.65)(pretty -2.02)(much -7.38)(cannot -4.17)(. -8.63) line score is : -4.905, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -3.677588951203131----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the play , 
+ and read what the people all cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(play -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(and -1.66)(read -8.18)(what -3.54)(the -0.62)(people -8.72)(all -5.29)(cannot -2.66)(. -4.79) line score is : -4.435, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.7231551716404576----------------------- 
+there was a lucky man named scot 
+ who got all his money in a lot . 
+ it was for his birthday , 
+ and he went to the day , 
+ he said when he heard across gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(got -2.91)(all -4.87)(his -2.01)(money -1.43)(in -2.43)(a -2.05)(lot -5.68)(. -3.50) line score is : -2.962, look ahead score is : 0.000
+(it -3.50)(was -3.63)(for -1.19)(his -6.07)(birthday -2.81)(, -3.69) line score is : -3.481, look ahead score is : 0.000
+(and -3.69)(he -1.85)(went -1.48)(to -0.80)(the -4.20)(day -1.02)(, -1.66) line score is : -2.099, look ahead score is : 0.000
+(he -1.66)(said -7.68)(when -5.36)(he -3.38)(heard -3.09)(across -6.99)(gunshot -0.41)(. -4.65) line score is : -4.152, look ahead score is : 0.000
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8505589605280846----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ so we had to sit down on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(so -2.71)(we -9.10)(had -1.38)(to -7.00)(sit -0.78)(down -2.72)(on -0.82)(the -4.06)(spot -0.95)(. -3.51) line score is : -3.303, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.079958153945027----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ so we got up and set on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(so -2.71)(we -9.10)(got -1.38)(up -7.00)(and -0.78)(set -3.39)(on -3.26)(the -0.80)(spot -5.78)(. -6.05) line score is : -4.025, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.1816306696273386----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and that is the reason of this spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(that -9.10)(is -1.38)(the -4.08)(reason -5.57)(of -3.44)(this -2.68)(spot -3.52)(. -4.23) line score is : -4.080, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.396905089262873----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but her eyes were down to our knot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(but -2.71)(her -9.10)(eyes -1.38)(were -6.46)(down -5.26)(to -3.95)(our -0.75)(knot -5.34)(. -3.80) line score is : -4.306, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.424923819024116----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and drove right to our place in onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(drove -9.10)(right -1.38)(to -4.08)(our -8.47)(place -4.01)(in -2.01)(onslaught -1.80)(. -3.74) line score is : -4.146, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.4381147478707135----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ in hopes we were all within the shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(in -2.71)(hopes -9.10)(we -1.38)(were -6.51)(all -7.89)(within -3.39)(the -2.73)(shot -3.14)(. -7.52) line score is : -4.931, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.4381574493262077----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and let in before all the onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(let -9.10)(in -1.38)(before -4.08)(all -7.20)(the -1.54)(onslaught -4.48)(. -5.28) line score is : -4.472, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but the telephone book caused him pain 
+-------------------------score:  -3.505788828576765----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but the store assistant was none not . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(but -2.71)(the -9.10)(store -1.38)(assistant -6.46)(was -3.13)(none -4.87)(not -5.25)(. -1.74) line score is : -4.332, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.5321878577272097----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ a wonderful woman is no hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(a -2.71)(wonderful -9.10)(woman -1.38)(is -3.03)(no -3.39)(hot -1.10)(. -9.55) line score is : -4.322, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but nobody knew what he said 
+-------------------------score:  -3.573245837787787----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but nobody knew what we cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(but -2.71)(nobody -9.10)(knew -1.38)(what -6.46)(we -6.50)(cannot -2.54)(. -2.34) line score is : -4.432, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and sideways he could n't be seen 
+-------------------------score:  -3.628838879927512----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and says he could not believe cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(says -9.10)(he -1.38)(could -4.08)(not -9.30)(believe -2.40)(cannot -4.49)(. -0.84) line score is : -4.289, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and returned on the previous night 
+-------------------------score:  -3.6589881802598634----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and found on the opposite cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(found -9.10)(on -1.38)(the -4.08)(opposite -6.86)(cannot -5.33)(. -0.69) line score is : -4.308, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but the other won several prizes 
+-------------------------score:  -3.6855286265412968----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ but the other was busy cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(but -2.71)(the -9.10)(other -1.38)(was -6.46)(busy -3.13)(cannot -4.06)(. -6.98) line score is : -4.832, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which refreshed that person of ewell 
+-------------------------score:  -3.686177828411261----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ which meant that production of cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(which -2.71)(meant -9.10)(that -1.38)(production -5.56)(of -4.07)(cannot -1.24)(. -9.47) line score is : -4.791, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.706351236470284----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and her eyes were bigger and cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(her -9.10)(eyes -1.38)(were -4.08)(bigger -4.69)(and -5.43)(cannot -1.28)(. -7.83) line score is : -4.563, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and see what the critics all say 
+-------------------------score:  -3.7635911573325433----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and tell what the customers all caught . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(tell -9.10)(what -1.38)(the -4.08)(customers -9.49)(all -6.61)(caught -3.25)(. -6.45) line score is : -5.385, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and showed him many cstar 
+-------------------------score:  -3.7962698345554284----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ and found ourselves many cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(and -2.71)(found -9.10)(ourselves -1.38)(many -4.08)(cannot -6.86)(. -4.37) line score is : -4.752, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ us camels get into a stew 
+-------------------------score:  -3.892161725461483----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ mad men usher into a gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(mad -2.71)(men -9.10)(usher -1.38)(into -7.51)(a -6.51)(gunshot -8.01)(. -10.40) line score is : -6.518, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ great writers are fewer and fewer 
+-------------------------score:  -4.025113461911678----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by our clerk , 
+ young ladies are easier and spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(our -3.02)(clerk -0.47)(, -2.71) line score is : -2.150, look ahead score is : 0.000
+(young -2.71)(ladies -9.10)(are -1.38)(easier -8.82)(and -5.11)(spot -7.73)(. -9.73) line score is : -6.369, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.214440225157887----------------------- 
+there was a lucky boy named scot 
+ who did a great job on our lot . 
+ when we arrived to work , 
+ we were met by their clerk , 
+ and trying get us drinks but due cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(did -4.27)(a -2.70)(great -2.17)(job -0.18)(on -3.11)(our -4.33)(lot -8.46)(. -1.95) line score is : -3.201, look ahead score is : 0.000
+(when -1.95)(we -4.99)(arrived -1.29)(to -3.39)(work -3.34)(, -4.71) line score is : -3.279, look ahead score is : 0.000
+(we -4.71)(were -1.52)(met -1.31)(by -1.31)(their -3.02)(clerk -0.47)(, -6.88) line score is : -2.746, look ahead score is : 0.000
+(and -6.88)(trying -8.50)(get -1.24)(us -3.68)(drinks -9.72)(but -9.29)(due -3.37)(cannot -6.64)(. -6.61) line score is : -6.213, look ahead score is : 0.000

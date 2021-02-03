@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD TO VB , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he wanted to see 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9408135334650676----------------------- 
+there was a funny witch named lise 
+ who happened on one of our guys . 
+ we decided to go , 
+ and we went to the show , 
+ and we came down and got our prize . 
+------------------------- score breakdown ------------------------ 
+(who -2.34)(happened -5.87)(on -7.27)(one -4.44)(of -0.21)(our -2.39)(guys -5.99)(. -2.29) line score is : -3.848, look ahead score is : 0.000
+(we -2.29)(decided -2.67)(to -4.16)(go -0.41)(, -2.51) line score is : -2.407, look ahead score is : 0.000
+(and -2.51)(we -5.77)(went -1.21)(to -1.73)(the -2.73)(show -1.22)(, -1.83) line score is : -2.428, look ahead score is : 0.000
+(and -1.83)(we -5.11)(came -1.84)(down -0.46)(and -1.23)(got -4.13)(our -4.10)(prize -1.71)(. -3.19) line score is : -2.624, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD TO VB , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he wanted to see 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -3.104651847193318----------------------- 
+there was a funny witch named lise 
+ who happened on one of our guys . 
+ we decided to go , 
+ and we went to the show , 
+ so we had to come down on the rise . 
+------------------------- score breakdown ------------------------ 
+(who -2.34)(happened -5.87)(on -7.27)(one -4.44)(of -0.21)(our -2.39)(guys -5.99)(. -2.29) line score is : -3.848, look ahead score is : 0.000
+(we -2.29)(decided -2.67)(to -4.16)(go -0.41)(, -2.51) line score is : -2.407, look ahead score is : 0.000
+(and -2.51)(we -5.77)(went -1.21)(to -1.73)(the -2.73)(show -1.22)(, -1.83) line score is : -2.428, look ahead score is : 0.000
+(so -1.83)(we -5.11)(had -1.84)(to -4.04)(come -0.92)(down -3.02)(on -1.72)(the -3.81)(rise -3.38)(. -3.93) line score is : -2.961, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD TO VB , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he wanted to see 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -3.109354787639209----------------------- 
+there was a funny witch named lise 
+ who happened on one of our guys . 
+ we decided to go , 
+ and we went to the show , 
+ because we were doing our eyes . 
+------------------------- score breakdown ------------------------ 
+(who -2.34)(happened -5.87)(on -7.27)(one -4.44)(of -0.21)(our -2.39)(guys -5.99)(. -2.29) line score is : -3.848, look ahead score is : 0.000
+(we -2.29)(decided -2.67)(to -4.16)(go -0.41)(, -2.51) line score is : -2.407, look ahead score is : 0.000
+(and -2.51)(we -5.77)(went -1.21)(to -1.73)(the -2.73)(show -1.22)(, -1.83) line score is : -2.428, look ahead score is : 0.000
+(because -1.83)(we -5.11)(were -1.84)(doing -4.66)(our -0.93)(eyes -1.77)(. -4.88) line score is : -3.004, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHOSE NN VBD JJ AND JJ . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+whose knowledge grew green and strong 
+ he ran like a flash 
+ her hair got so light 
+ but they felt it was doing them good 
+-------------------------score:  -3.193213799904133----------------------- 
+there was a funny witch named maud 
+ whose name sounded horrible and odd . 
+ she looked like a fairy , 
+ her face was so scary , 
+ but she said she was helping you god . 
+------------------------- score breakdown ------------------------ 
+(whose -5.54)(name -2.11)(sounded -4.03)(horrible -6.75)(and -2.18)(odd -6.29)(. -1.32) line score is : -4.033, look ahead score is : 0.000
+(she -1.32)(looked -1.85)(like -3.25)(a -0.82)(fairy -1.04)(, -5.09) line score is : -2.228, look ahead score is : 0.000
+(her -5.09)(face -2.34)(was -4.07)(so -3.47)(scary -1.13)(, -2.73) line score is : -3.138, look ahead score is : 0.000
+(but -2.73)(she -4.78)(said -1.61)(she -2.08)(was -0.98)(helping -4.35)(you -1.19)(god -0.79)(. -6.03) line score is : -2.728, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD TO VB , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he wanted to see 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.327893242753785----------------------- 
+there was a funny witch named lise 
+ who happened on one of our guys . 
+ we decided to go , 
+ and we got to the show , 
+ and it was still pretty dark sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -2.34)(happened -5.87)(on -7.27)(one -4.44)(of -0.21)(our -2.39)(guys -5.99)(. -2.29) line score is : -3.848, look ahead score is : 0.000
+(we -2.29)(decided -2.67)(to -4.16)(go -0.41)(, -2.51) line score is : -2.407, look ahead score is : 0.000
+(and -2.51)(we -5.77)(got -1.21)(to -1.73)(the -2.90)(show -1.92)(, -2.43) line score is : -2.638, look ahead score is : 0.000
+(and -2.43)(it -5.18)(was -1.90)(still -0.36)(pretty -2.50)(dark -0.29)(sunrise -6.50)(. -3.24) line score is : -2.799, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHOSE NN VBD JJ AND JJ . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+whose knowledge grew green and strong 
+ he ran like a flash 
+ my mama was a goat 
+ and she baked really great apple pies 
+-------------------------score:  -3.356176615559629----------------------- 
+there was a funny witch named maude 
+ whose name sounded horrible and odd . 
+ she looked like a fairy , 
+ her face was a cherry , 
+ and she had long brown hair cod . 
+------------------------- score breakdown ------------------------ 
+(whose -5.54)(name -2.11)(sounded -4.03)(horrible -6.75)(and -2.18)(odd -6.29)(. -1.32) line score is : -4.033, look ahead score is : 0.000
+(she -1.32)(looked -1.85)(like -3.25)(a -0.82)(fairy -1.04)(, -5.09) line score is : -2.228, look ahead score is : 0.000
+(her -5.09)(face -2.34)(was -4.07)(a -3.47)(cherry -1.13)(, -3.36) line score is : -3.243, look ahead score is : 0.000
+(and -3.36)(she -7.65)(had -2.83)(long -0.98)(brown -0.83)(hair -1.11)(cod -2.59)(. -3.00) line score is : -2.795, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHOSE NN VBD JJ AND JJ . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+whose knowledge grew green and strong 
+ he ran like a flash 
+ her hair got so light 
+ and she baked really great apple pies 
+-------------------------score:  -3.4683498633759364----------------------- 
+there was a funny witch named natividad 
+ whose name sounded horrible and odd . 
+ she looked like a fairy , 
+ her face was so scary , 
+ and she had long dark blonde cod . 
+------------------------- score breakdown ------------------------ 
+(whose -5.54)(name -2.11)(sounded -4.03)(horrible -6.75)(and -2.18)(odd -6.29)(. -1.32) line score is : -4.033, look ahead score is : 0.000
+(she -1.32)(looked -1.85)(like -3.25)(a -0.82)(fairy -1.04)(, -5.09) line score is : -2.228, look ahead score is : 0.000
+(her -5.09)(face -2.34)(was -4.07)(so -3.47)(scary -1.13)(, -2.73) line score is : -3.138, look ahead score is : 0.000
+(and -2.73)(she -4.78)(had -1.61)(long -2.01)(dark -0.87)(blonde -1.56)(cod -3.12)(. -3.47) line score is : -2.520, look ahead score is : 0.000

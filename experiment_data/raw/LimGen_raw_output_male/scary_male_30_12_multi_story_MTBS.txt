@@ -1,0 +1,506 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.11518781451929----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he was willing to learn and to lean . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(was -5.90)(willing -3.54)(to -2.69)(learn -0.75)(and -3.43)(to -0.05)(lean -3.75)(. -1.89) line score is : -2.478, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -3.1221607951447368----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ so we had to go down on the screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(so -0.31)(we -5.90)(had -3.54)(to -2.89)(go -0.78)(down -3.48)(on -0.64)(the -3.49)(screen -4.81)(. -4.65) line score is : -3.047, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.2168111426215016----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ but he said he was getting it seen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(but -0.31)(he -5.90)(said -3.54)(he -1.61)(was -1.60)(getting -3.49)(it -0.76)(seen -1.87)(. -4.62) line score is : -2.633, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.2248963942130406----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he said that his family was clean . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(said -5.90)(that -3.54)(his -2.69)(family -3.21)(was -3.28)(clean -3.97)(. -4.18) line score is : -3.384, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.298701658364265----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he was through the door and was fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(was -5.90)(through -3.54)(the -2.69)(door -0.75)(and -9.15)(was -1.57)(fifteen -1.84)(. -1.62) line score is : -3.041, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.37896423637867----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ so i really wanted on the screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(so -0.31)(i -5.90)(really -3.54)(wanted -2.89)(on -1.66)(the -6.17)(screen -1.90)(. -9.32) line score is : -3.960, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.4405596226453783----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and now he is a member fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(now -5.90)(he -3.54)(is -1.42)(a -4.92)(member -0.86)(fifteen -2.06)(. -2.98) line score is : -2.748, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.4510457079325403----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he totally understood our screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(totally -5.90)(understood -3.54)(our -2.69)(screen -8.10)(. -2.05) line score is : -3.765, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.452225061193589----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and he did not like jumping of screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(he -5.90)(did -3.54)(not -1.42)(like -1.81)(jumping -3.09)(of -3.98)(screen -4.72)(. -6.31) line score is : -3.454, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -3.468217423249935----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ because he was doing his fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(because -0.31)(he -5.90)(was -3.54)(doing -4.97)(his -0.49)(fifteen -1.63)(. -4.76) line score is : -3.085, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.486701504460403----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he totally understood a screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(totally -5.90)(understood -3.54)(a -2.69)(screen -8.10)(. -2.05) line score is : -3.765, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.554190527776192----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and also could handle a fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(also -5.90)(could -3.54)(handle -1.42)(a -6.42)(fifteen -5.91)(. -3.64) line score is : -3.878, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.5592473377784093----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ but i am always careful for screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(but -0.31)(i -5.90)(am -3.54)(always -1.61)(careful -2.32)(for -5.95)(screen -3.81)(. -3.88) line score is : -3.415, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.577994766831398----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he had all his skills working fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(had -5.90)(all -3.54)(his -2.69)(skills -2.55)(working -3.21)(fifteen -2.02)(. -3.74) line score is : -2.995, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.665470710685176----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and for years he just keeps our screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(for -5.90)(years -3.54)(he -1.42)(just -5.45)(keeps -5.01)(our -1.36)(screen -5.45)(. -6.99) line score is : -3.937, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and hop in before all the crowd 
+-------------------------score:  -3.7009423722823462----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and be in before all the fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(be -5.90)(in -3.54)(before -1.42)(all -7.01)(the -3.45)(fifteen -9.56)(. -5.28) line score is : -4.559, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and now a new teacher they seek 
+-------------------------score:  -3.7011077950398126----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and not a bad person he fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(not -5.90)(a -3.54)(bad -1.42)(person -5.86)(he -3.81)(fifteen -3.71)(. -3.91) line score is : -3.558, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.7681640030876284----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ he was well read stuff covered this screen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(he -0.31)(was -5.90)(well -3.54)(read -2.69)(stuff -0.75)(covered -6.45)(this -4.92)(screen -9.30)(. -7.57) line score is : -4.605, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but the other won several prizes 
+-------------------------score:  -3.7832923870662163----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ but the same was evident fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(but -0.31)(the -5.90)(same -3.54)(was -1.61)(evident -3.58)(fifteen -6.07)(. -3.22) line score is : -3.462, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ I d probably know two or three 
+-------------------------score:  -3.7869473924239476----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ i mean really want one or fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(i -0.31)(mean -5.90)(really -3.54)(want -3.90)(one -5.29)(or -3.55)(fifteen -4.88)(. -8.73) line score is : -4.513, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ which refreshed that person of ewell 
+-------------------------score:  -3.8046290206498115----------------------- 
+there was a boring boy named valentin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ which made that decision of fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(which -0.31)(made -5.90)(that -3.54)(decision -3.78)(of -3.23)(fifteen -5.73)(. -3.19) line score is : -3.669, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and showed him many cstar 
+-------------------------score:  -3.8102375087993487----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and wanted us many fifteen . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(wanted -5.90)(us -3.54)(many -1.42)(fifteen -5.73)(. -3.43) line score is : -3.389, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.011107213074161----------------------- 
+there was a boring boy named joaquin 
+ who seemed a good fit on our scene . 
+ when we started to talk , 
+ he was ready to walk , 
+ and trying do it is but small protein . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(seemed -5.23)(a -4.21)(good -3.70)(fit -1.85)(on -6.12)(our -2.97)(scene -6.77)(. -1.40) line score is : -3.743, look ahead score is : 0.000
+(when -1.40)(we -4.65)(started -1.37)(to -2.58)(talk -2.72)(, -2.76) line score is : -2.582, look ahead score is : 0.000
+(he -2.76)(was -2.12)(ready -1.11)(to -1.84)(walk -4.67)(, -0.31) line score is : -2.136, look ahead score is : 0.000
+(and -0.31)(trying -5.90)(do -3.54)(it -1.42)(is -9.72)(but -9.13)(small -1.85)(protein -5.39)(. -9.10) line score is : -5.152, look ahead score is : 0.000

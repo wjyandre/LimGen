@@ -1,0 +1,462 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.2577587831765413----------------------- 
+there was a doctor named zane 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ and that is the reason of this pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(and -3.50)(that -6.23)(is -2.32)(the -1.98)(reason -3.92)(of -3.80)(this -2.86)(pain -1.24)(. -4.55) line score is : -3.377, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so I sat on my moped and moped 
+-------------------------score:  -3.499408856034279----------------------- 
+there was a doctor named blaine 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ so i am on my guard and insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(so -3.50)(i -6.23)(am -2.32)(on -4.32)(my -0.55)(guard -6.02)(and -6.67)(insane -2.19)(. -2.64) line score is : -3.828, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.52753621532071----------------------- 
+there was a doctor named dwayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ and then he is a genius insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(and -3.50)(then -6.23)(he -2.32)(is -1.98)(a -4.55)(genius -2.65)(insane -5.78)(. -2.77) line score is : -3.724, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he never completed his task 
+-------------------------score:  -3.5499487745350806----------------------- 
+there was a doctor named dewayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ i never expected his insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(i -3.50)(never -6.23)(expected -2.32)(his -4.86)(insane -4.69)(. -1.72) line score is : -3.888, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.576052442673714----------------------- 
+there was a doctor named dewayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ which was designed with the most insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(which -3.50)(was -6.23)(designed -2.32)(with -3.09)(the -1.20)(most -6.00)(insane -3.76)(. -2.07) line score is : -3.524, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and now a new teacher they seek 
+-------------------------score:  -3.5801518732501614----------------------- 
+there was a doctor named blaine 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ and not a good impression i train . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(and -3.50)(not -6.23)(a -2.32)(good -1.98)(impression -4.82)(i -3.74)(train -3.84)(. -3.34) line score is : -3.723, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what was shown on the cinema screen 
+-------------------------score:  -3.589709808749537----------------------- 
+there was a doctor named zane 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by my style , 
+ what was written on the page insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(my -3.59)(style -2.36)(, -2.84) line score is : -2.992, look ahead score is : 0.000
+(what -2.84)(was -8.01)(written -2.58)(on -5.46)(the -3.39)(page -3.90)(insane -1.17)(. -0.81) line score is : -3.521, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then fell into a vat of grease 
+-------------------------score:  -3.614451789086865----------------------- 
+there was a doctor named jermaine 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ not made into a victim of pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(not -3.50)(made -6.23)(into -2.32)(a -5.12)(victim -8.97)(of -6.09)(pain -0.57)(. -5.40) line score is : -4.776, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.636100471019745----------------------- 
+there was a doctor named dwayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ but he does not show in his insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(but -3.50)(he -6.23)(does -2.32)(not -2.86)(show -2.49)(in -6.63)(his -2.83)(insane -3.82)(. -6.02) line score is : -4.078, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.6431179469631565----------------------- 
+there was a doctor named dwayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ and wonder in before all the pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(and -3.50)(wonder -6.23)(in -2.32)(before -1.98)(all -7.37)(the -6.11)(pain -10.03)(. -5.43) line score is : -5.373, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and see what the critics all say 
+-------------------------score:  -3.665040477629631----------------------- 
+there was a doctor named brain 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ and wonder what the others all train . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(and -3.50)(wonder -6.23)(what -2.32)(the -1.98)(others -7.37)(all -2.01)(train -3.35)(. -5.32) line score is : -4.011, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which pickled his internal workins 
+-------------------------score:  -3.673126327580419----------------------- 
+there was a doctor named brain 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ which was our favorite insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(which -3.50)(was -6.23)(our -2.32)(favorite -3.09)(insane -1.20)(. -9.10) line score is : -4.241, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.6928391514285916----------------------- 
+there was a surgeon named zane 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ he really hit in a way insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(caused -8.64)(a -1.72)(big -4.25)(problem -2.73)(on -4.84)(my -2.92)(brain -5.49)(. -1.67) line score is : -3.783, look ahead score is : 0.000
+(when -1.67)(i -4.42)(got -0.93)(to -2.79)(trial -2.05)(, -8.08) line score is : -3.325, look ahead score is : 0.000
+(i -8.08)(was -1.16)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.053, look ahead score is : 0.000
+(he -3.50)(really -6.23)(hit -2.32)(in -4.25)(a -4.40)(way -5.19)(insane -6.94)(. -2.69) line score is : -4.440, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.7303089595610097----------------------- 
+there was a doctor named wayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ he really can get in me insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(he -3.50)(really -6.23)(can -2.32)(get -4.25)(in -4.40)(me -6.74)(insane -4.16)(. -3.16) line score is : -4.345, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and could n't bend back again 
+-------------------------score:  -3.7732306083043414----------------------- 
+there was a doctor named dewayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ and could not imagine back insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(and -3.50)(could -6.23)(not -2.32)(imagine -1.98)(back -6.36)(insane -0.76)(. -3.88) line score is : -3.577, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to call my last novel impure 
+-------------------------score:  -3.791583130757014----------------------- 
+there was a doctor named blaine 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ to say my first impression insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(to -3.50)(say -6.23)(my -2.32)(first -5.96)(impression -0.69)(insane -8.57)(. -3.80) line score is : -4.440, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.815443716943264----------------------- 
+there was a doctor named wayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ work hard to be on his side insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(work -3.50)(hard -6.23)(to -2.32)(be -8.20)(on -7.36)(his -3.90)(side -2.93)(insane -3.83)(. -3.50) line score is : -4.641, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what finished him off was the crust 
+-------------------------score:  -3.857575987615893----------------------- 
+there was a doctor named brain 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ what made him off ended the insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(what -3.50)(made -6.23)(him -2.32)(off -5.43)(ended -5.17)(the -0.22)(insane -8.98)(. -7.25) line score is : -4.889, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but nobody knew what he said 
+-------------------------score:  -3.9538894057273866----------------------- 
+there was a doctor named dewayne 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ but nobody knew what we insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(but -3.50)(nobody -6.23)(knew -2.32)(what -2.86)(we -8.15)(insane -2.99)(. -1.40) line score is : -3.924, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to tutor two tutors to toot 
+-------------------------score:  -3.9672414859135947----------------------- 
+there was a doctor named blaine 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was stunned by his style , 
+ to be two positions to insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(stunned -0.93)(by -1.75)(his -5.26)(style -1.99)(, -3.09) line score is : -3.213, look ahead score is : 0.000
+(to -3.09)(be -6.19)(two -2.25)(positions -6.20)(to -2.48)(insane -10.30)(. -6.58) line score is : -5.298, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which refreshed that person of ewell 
+-------------------------score:  -3.969822883605957----------------------- 
+there was a doctor named brain 
+ who caused a big problem on my brain . 
+ when i got to trial , 
+ i was shocked by his style , 
+ which was that nobody of insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(caused -8.88)(a -1.91)(big -4.07)(problem -2.42)(on -4.75)(my -2.91)(brain -5.62)(. -1.63) line score is : -3.770, look ahead score is : 0.000
+(when -1.63)(i -4.32)(got -0.85)(to -2.78)(trial -1.99)(, -8.38) line score is : -3.327, look ahead score is : 0.000
+(i -8.38)(was -1.10)(shocked -0.93)(by -1.75)(his -3.59)(style -2.36)(, -3.50) line score is : -3.088, look ahead score is : 0.000
+(which -3.50)(was -6.23)(that -2.32)(nobody -3.09)(of -1.20)(insane -5.29)(. -7.18) line score is : -4.116, look ahead score is : 0.000

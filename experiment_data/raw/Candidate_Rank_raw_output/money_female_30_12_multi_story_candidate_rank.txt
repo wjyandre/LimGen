@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.724631409160793----------------------- 
+there was a woman named kay 
+ who got a flat tire on her way . 
+ when she went to someone , 
+ she was told by her son , 
+ that the person she called was a stray . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -5.07)(a -3.04)(flat -6.31)(tire -0.51)(on -2.05)(her -1.26)(way -1.07)(. -7.00) line score is : -3.060, look ahead score is : 0.000
+(when -7.00)(she -3.57)(went -0.56)(to -3.45)(someone -0.42)(, -6.78) line score is : -3.630, look ahead score is : 0.000
+(she -6.78)(was -2.53)(told -0.94)(by -1.42)(her -0.57)(son -2.62)(, -2.78) line score is : -2.520, look ahead score is : 0.000
+(that -2.78)(the -5.18)(person -1.78)(she -2.99)(called -2.36)(was -2.64)(a -2.88)(stray -2.58)(. -1.09) line score is : -2.698, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.75382497953251----------------------- 
+there was a woman named maude 
+ who lost all her money in a fraud . 
+ when she went to someone , 
+ she was told by her son , 
+ that the person she called was a god . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.51)(all -4.40)(her -0.33)(money -2.00)(in -1.96)(a -1.40)(fraud -5.41)(. -1.92) line score is : -2.796, look ahead score is : 0.000
+(when -1.92)(she -4.26)(went -0.82)(to -3.05)(someone -0.18)(, -7.26) line score is : -2.915, look ahead score is : 0.000
+(she -7.26)(was -3.05)(told -0.98)(by -1.21)(her -0.65)(son -2.84)(, -2.64) line score is : -2.660, look ahead score is : 0.000
+(that -2.64)(the -5.57)(person -1.73)(she -2.43)(called -2.45)(was -2.01)(a -2.52)(god -3.40)(. -0.82) line score is : -2.620, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was destined to go a long way 
+-------------------------score:  -2.9181159790605307----------------------- 
+there was a woman named natividad 
+ who lost all her money in a fraud . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she was due to see a female god . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.51)(all -4.40)(her -0.33)(money -2.00)(in -1.96)(a -1.40)(fraud -5.41)(. -1.92) line score is : -2.796, look ahead score is : 0.000
+(when -1.92)(she -4.26)(returned -0.82)(to -3.89)(work -0.88)(, -3.58) line score is : -2.558, look ahead score is : 0.000
+(she -3.58)(was -0.88)(told -0.45)(by -1.41)(a -1.74)(clerk -2.07)(, -2.15) line score is : -1.754, look ahead score is : 0.000
+(she -2.15)(was -5.34)(due -3.84)(to -3.97)(see -1.13)(a -6.92)(female -1.27)(god -4.11)(. -1.31) line score is : -3.337, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.930244842544198----------------------- 
+there was a woman named maud 
+ who lost all her money in a fraud . 
+ when she returned to work , 
+ she was told by a clerk , 
+ that the business she owned had a god . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.51)(all -4.40)(her -0.33)(money -2.00)(in -1.96)(a -1.40)(fraud -5.41)(. -1.92) line score is : -2.796, look ahead score is : 0.000
+(when -1.92)(she -4.26)(returned -0.82)(to -3.89)(work -0.88)(, -3.58) line score is : -2.558, look ahead score is : 0.000
+(she -3.58)(was -0.88)(told -0.45)(by -1.41)(a -1.74)(clerk -2.07)(, -2.15) line score is : -1.754, look ahead score is : 0.000
+(that -2.15)(the -5.34)(business -3.84)(she -3.90)(owned -2.20)(had -4.57)(a -3.72)(god -2.96)(. -1.30) line score is : -3.332, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.9589792918413877----------------------- 
+there was a woman named kay 
+ who got a flat tire on her way . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ that the place she worked was a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -5.07)(a -3.04)(flat -6.31)(tire -0.51)(on -2.05)(her -1.26)(way -1.07)(. -7.00) line score is : -3.060, look ahead score is : 0.000
+(when -7.00)(she -3.57)(arrived -0.56)(to -3.06)(work -2.94)(, -4.57) line score is : -3.619, look ahead score is : 0.000
+(she -4.57)(was -1.10)(told -0.59)(by -1.60)(a -1.61)(clerk -1.85)(, -1.28) line score is : -1.801, look ahead score is : 0.000
+(that -1.28)(the -5.12)(place -3.61)(she -3.86)(worked -1.84)(was -4.53)(a -3.14)(birthday -1.65)(. -0.98) line score is : -2.890, look ahead score is : 0.000

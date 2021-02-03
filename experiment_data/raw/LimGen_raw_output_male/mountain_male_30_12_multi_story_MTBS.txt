@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ then fell into a vat of grease 
+-------------------------score:  -3.17639435159749----------------------- 
+there was a quiet man named jermaine 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ then turned into a tunnel of pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(then -2.45)(turned -3.29)(into -2.29)(a -3.82)(tunnel -3.45)(of -3.15)(pain -1.17)(. -3.13) line score is : -2.846, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and kissed her because he was wuise 
+-------------------------score:  -3.228347790652308----------------------- 
+there was a quiet man named dane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and met her because he was insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(met -3.29)(her -2.29)(because -1.36)(he -4.58)(was -4.20)(insane -6.96)(. -1.02) line score is : -3.269, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.300268995761871----------------------- 
+there was a quiet man named wayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and he came down and saw her insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(he -3.29)(came -2.29)(down -1.36)(and -2.08)(saw -2.42)(her -4.38)(insane -3.35)(. -2.72) line score is : -2.705, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and now he 's a college professor 
+-------------------------score:  -3.316343434925737----------------------- 
+there was a quiet man named dane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he was down the road , 
+ and then he sees a woman insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(was -3.57)(down -1.04)(the -1.85)(road -7.28)(, -2.74) line score is : -3.456, look ahead score is : 0.000
+(and -2.74)(then -2.25)(he -2.16)(sees -1.37)(a -3.46)(woman -1.03)(insane -5.54)(. -1.62) line score is : -2.523, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ but they felt it was doing them good 
+-------------------------score:  -3.400112974643707----------------------- 
+there was a quiet man named dewayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he was down the road , 
+ but he saw it was going it plain . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(was -3.57)(down -1.04)(the -1.85)(road -7.28)(, -2.74) line score is : -3.456, look ahead score is : 0.000
+(but -2.74)(he -2.25)(saw -2.16)(it -1.95)(was -1.11)(going -3.29)(it -3.75)(plain -3.79)(. -3.63) line score is : -2.741, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ but I guess that you probably gnu 
+-------------------------score:  -3.4011266272643517----------------------- 
+there was a quiet man named dane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so it was down the road , 
+ but i know that he never insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(it -2.28)(was -3.57)(down -3.03)(the -0.77)(road -7.88)(, -1.99) line score is : -3.565, look ahead score is : 0.000
+(but -1.99)(i -1.94)(know -1.99)(that -1.54)(he -2.42)(never -4.65)(insane -2.17)(. -1.49) line score is : -2.273, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.4073585847328447----------------------- 
+there was a quiet man named wayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he was down the road , 
+ but he got his bearings and insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(was -3.57)(down -1.04)(the -1.85)(road -7.28)(, -2.74) line score is : -3.456, look ahead score is : 0.000
+(but -2.74)(he -2.25)(got -2.16)(his -1.95)(bearings -1.11)(and -3.29)(insane -4.39)(. -3.14) line score is : -2.630, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.410019611490184----------------------- 
+there was a quiet man named jermaine 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ which was covered with the most insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(which -2.45)(was -3.29)(covered -2.29)(with -4.21)(the -0.94)(most -4.88)(insane -0.27)(. -3.72) line score is : -2.757, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ within weeks it was all in the past 
+-------------------------score:  -3.4210649053255717----------------------- 
+there was a quiet man named dwayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ past places he knew all in the rain . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(past -2.45)(places -3.29)(he -2.29)(knew -4.82)(all -6.59)(in -2.74)(the -1.99)(rain -5.02)(. -6.68) line score is : -3.987, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.432096464293344----------------------- 
+there was a quiet man named dwayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and met with a runaway insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(met -3.29)(with -2.29)(a -1.36)(runaway -4.58)(insane -3.21)(. -1.62) line score is : -2.686, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and she baked really great apple pies 
+-------------------------score:  -3.4702712955146002----------------------- 
+there was a quiet man named dwayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he was down the road , 
+ and they were right outside town insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(was -3.57)(down -1.04)(the -1.85)(road -7.28)(, -2.74) line score is : -3.456, look ahead score is : 0.000
+(and -2.74)(they -2.25)(were -2.16)(right -1.37)(outside -2.94)(town -1.53)(insane -4.66)(. -4.17) line score is : -2.728, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.4977143961807777----------------------- 
+there was a quiet man named dane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ got a ticket no less than insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(got -2.45)(a -3.29)(ticket -2.29)(no -3.96)(less -2.67)(than -2.85)(insane -8.38)(. -3.65) line score is : -3.693, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ but the other won several prizes 
+-------------------------score:  -3.5253713577985764----------------------- 
+there was a quiet man named brain 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he was down the road , 
+ but the other fell asleep insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(was -3.57)(down -1.04)(the -1.85)(road -7.28)(, -2.74) line score is : -3.456, look ahead score is : 0.000
+(but -2.74)(the -2.25)(other -2.16)(fell -1.95)(asleep -3.04)(insane -3.69)(. -7.00) line score is : -3.261, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ are all easy marks for a jolly 
+-------------------------score:  -3.5555165923874954----------------------- 
+there was a quiet man named dewayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ beat all other riders for a gain . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(beat -2.45)(all -3.29)(other -2.29)(riders -7.66)(for -5.58)(a -6.24)(gain -3.09)(. -4.56) line score is : -4.395, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and now a new teacher they seek 
+-------------------------score:  -3.5614545838586213----------------------- 
+there was a quiet man named dwayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and then a short distance he insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(then -3.29)(a -2.29)(short -1.36)(distance -3.07)(he -4.92)(insane -4.70)(. -0.72) line score is : -2.852, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and sideways he could n't be seen 
+-------------------------score:  -3.565048425362028----------------------- 
+there was a quiet man named zane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and says he could only see insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(says -3.29)(he -2.29)(could -1.36)(only -8.45)(see -1.11)(insane -4.35)(. -5.40) line score is : -3.588, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and returned on the previous night 
+-------------------------score:  -3.569980697972434----------------------- 
+there was a quiet man named dewayne 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and got on the opposite insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(got -3.29)(on -2.29)(the -1.36)(opposite -4.52)(insane -2.65)(. -0.63) line score is : -2.456, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and hop in before all the crowd 
+-------------------------score:  -3.578767984077848----------------------- 
+there was a quiet man named blaine 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and put in before all the insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(put -3.29)(in -2.29)(before -1.36)(all -7.49)(the -3.25)(insane -6.44)(. -5.57) line score is : -4.017, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.5844630173274448----------------------- 
+there was a quiet man named jermaine 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and found his grandfather a insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(found -3.29)(his -2.29)(grandfather -1.36)(a -4.45)(insane -2.66)(. -5.77) line score is : -3.182, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and finished the solo with honour 
+-------------------------score:  -3.623962104320526----------------------- 
+there was a quiet man named brain 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and met the policeman with insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(met -3.29)(the -2.29)(policeman -1.36)(with -4.58)(insane -2.45)(. -5.62) line score is : -3.149, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and see what the critics all say 
+-------------------------score:  -3.6265912713675665----------------------- 
+there was a quiet man named duane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and see what the people all insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(see -3.29)(what -2.29)(the -1.36)(people -8.31)(all -2.39)(insane -2.66)(. -3.32) line score is : -3.259, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ which refreshed that person of ewell 
+-------------------------score:  -3.635638475418091----------------------- 
+there was a quiet man named blaine 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so it was down the road , 
+ which was that direction of insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(it -2.28)(was -3.57)(down -3.03)(the -0.77)(road -7.88)(, -1.99) line score is : -3.565, look ahead score is : 0.000
+(which -1.99)(was -1.94)(that -1.99)(direction -4.50)(of -1.20)(insane -6.61)(. -3.53) line score is : -3.108, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.6522066508020674----------------------- 
+there was a quiet man named zane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ and suddenly could see a insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(and -2.45)(suddenly -3.29)(could -2.29)(see -1.36)(a -5.79)(insane -8.28)(. -1.11) line score is : -3.511, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ you never can tell till you try 
+-------------------------score:  -3.7419662722225846----------------------- 
+there was a quiet man named zane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he was down the road , 
+ he probably can be in it rain . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(was -3.57)(down -1.04)(the -1.85)(road -7.28)(, -2.74) line score is : -3.456, look ahead score is : 0.000
+(he -2.74)(probably -2.25)(can -2.16)(be -3.52)(in -6.40)(it -6.75)(rain -3.42)(. -3.81) line score is : -3.882, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ because of his scanty regalia 
+-------------------------score:  -3.831252717054807----------------------- 
+there was a quiet man named duane 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so he went down the road , 
+ towards our general insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(he -2.28)(went -3.57)(down -1.04)(the -4.21)(road -3.25)(, -2.45) line score is : -3.178, look ahead score is : 0.000
+(towards -2.45)(our -3.29)(general -2.29)(insane -6.93)(. -5.76) line score is : -4.146, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD RB IN A NN . 
+ PRP VBD ON THE NN , 
+ SO PRP VBD DOWN THE NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ it said on the door 
+ so he went down the mall 
+ thirty days is the time he will do 
+-------------------------score:  -4.082043087482452----------------------- 
+there was a quiet man named jermaine 
+ who traveled together in a train . 
+ he was on the railroad , 
+ so it was down the road , 
+ right towards mars the day he will insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.80)(traveled -7.23)(together -6.06)(in -3.47)(a -1.65)(train -3.60)(. -2.40) line score is : -3.745, look ahead score is : 0.000
+(he -2.40)(was -1.66)(on -1.53)(the -5.29)(railroad -1.15)(, -5.44) line score is : -2.912, look ahead score is : 0.000
+(so -5.44)(it -2.28)(was -3.57)(down -3.03)(the -0.77)(road -7.88)(, -1.99) line score is : -3.565, look ahead score is : 0.000
+(right -1.99)(towards -1.94)(mars -1.99)(the -4.49)(day -5.75)(he -9.90)(will -7.18)(insane -3.92)(. -1.75) line score is : -4.325, look ahead score is : 0.000

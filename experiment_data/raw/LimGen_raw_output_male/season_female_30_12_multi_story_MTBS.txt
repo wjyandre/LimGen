@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ she was ready to give and to take 
+-------------------------score:  -2.8627157419687137----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she was happy to play and to call . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(was -4.73)(happy -1.34)(to -0.60)(play -1.92)(and -4.91)(to -0.41)(call -3.25)(. -4.27) line score is : -2.660, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ she was destined to go a long way 
+-------------------------score:  -2.9632875056704506----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she was thrilled to be a female ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(was -4.73)(thrilled -1.34)(to -0.60)(be -1.92)(a -5.57)(female -0.81)(ball -1.66)(. -2.60) line score is : -2.416, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ then he walloped me square in the face 
+-------------------------score:  -2.984887318103574----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ then he did it right outside the wall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(then -2.16)(he -3.79)(did -2.29)(it -6.39)(right -1.16)(outside -3.90)(the -2.10)(wall -4.08)(. -7.43) line score is : -3.701, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ he never completed his task 
+-------------------------score:  -3.021619027416254----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she never forgot her fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(never -4.73)(forgot -1.34)(her -0.60)(fireball -4.21)(. -3.92) line score is : -2.885, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ he was n't the wizard he woz 
+-------------------------score:  -3.0447077052968163----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she was always the girl you recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(was -4.73)(always -1.34)(the -0.60)(girl -1.92)(you -3.66)(recall -2.87)(. -3.64) line score is : -2.659, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ so he had to sit down on the floor 
+-------------------------score:  -3.051974315873601----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ so he had to stay down on the ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(so -2.16)(he -3.79)(had -2.29)(to -7.78)(stay -3.14)(down -3.08)(on -1.99)(the -3.36)(ball -6.90)(. -3.12) line score is : -3.761, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ they bedded her down in the stable 
+-------------------------score:  -3.0935036187931413----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she did it down underneath the ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(did -4.73)(it -1.34)(down -0.60)(underneath -4.21)(the -3.71)(ball -7.91)(. -9.95) line score is : -4.370, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ he left all his fans wanting more 
+-------------------------score:  -3.1389167841163372----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she had all her friends playing fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(had -4.73)(all -1.34)(her -0.60)(friends -2.97)(playing -6.63)(fireball -2.78)(. -2.60) line score is : -3.018, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.184187355800532----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she took it and ran backwards and tall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(took -4.73)(it -1.34)(and -0.60)(ran -4.18)(backwards -2.66)(and -5.92)(tall -1.14)(. -9.17) line score is : -3.584, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.2067773159360513----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ it was through the roof and was fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(it -2.51)(was -4.73)(through -1.34)(the -4.02)(roof -0.50)(and -6.60)(was -1.34)(fireball -2.51)(. -3.86) line score is : -3.045, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ when he saw there were six little chips 
+-------------------------score:  -3.2358793498715386----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ when she was there was one big recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(when -2.51)(she -4.73)(was -1.34)(there -6.71)(was -0.51)(one -1.12)(big -6.27)(recall -4.53)(. -4.32) line score is : -3.559, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ I did n't think life was this way 
+-------------------------score:  -3.2480139484396204----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she did not let fear conquer this ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(did -4.73)(not -1.34)(let -0.60)(fear -4.21)(conquer -0.86)(this -4.07)(ball -5.60)(. -7.23) line score is : -3.462, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.2514722648887866----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ so he never went on the recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(so -2.16)(he -3.79)(never -2.29)(went -7.78)(on -3.14)(the -3.96)(recall -3.65)(. -3.89) line score is : -3.833, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ so I sat on my moped and moped 
+-------------------------score:  -3.43668715225067----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ so he slept on his couch and recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(so -2.16)(he -3.79)(slept -2.29)(on -7.78)(his -3.14)(couch -8.57)(and -1.90)(recall -2.92)(. -1.68) line score is : -3.804, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.522932913394705----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ it was when she heard across recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(it -2.51)(was -4.73)(when -1.34)(she -4.02)(heard -0.50)(across -6.11)(recall -0.50)(. -4.99) line score is : -3.086, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ that man in a boat 
+-------------------------score:  -3.5481963192337544----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she loved in the fall , 
+ that interest in a fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(loved -6.01)(in -1.17)(the -2.73)(fall -5.13)(, -2.47) line score is : -3.554, look ahead score is : 0.000
+(that -2.47)(interest -4.90)(in -0.54)(a -5.96)(fireball -4.53)(. -3.79) line score is : -3.700, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ ALL OF THIS NN AFTER NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ all of this homework after school 
+-------------------------score:  -3.5549269590526817----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ all of this time after fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(all -2.51)(of -4.73)(this -1.34)(time -6.86)(after -2.50)(fireball -4.11)(. -4.27) line score is : -3.760, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ I d probably know two or three 
+-------------------------score:  -3.5681507850606597----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ she hit only average four or small . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(she -2.51)(hit -4.73)(only -1.34)(average -0.60)(four -6.59)(or -3.75)(small -7.38)(. -8.43) line score is : -4.416, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ this did n't apply to her feet 
+-------------------------score:  -3.5765379430545914----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ this was not keen to his fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(this -2.51)(was -4.73)(not -1.34)(keen -7.14)(to -1.30)(his -3.00)(fireball -9.87)(. -1.64) line score is : -3.941, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ that unlucky old person of ems 
+-------------------------score:  -3.58987038868169----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ that first major season of recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(that -2.16)(first -3.79)(major -2.29)(season -5.51)(of -5.45)(recall -6.37)(. -4.80) line score is : -4.340, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.6185141795825575----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ but it hit too close for fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(but -2.16)(it -3.79)(hit -2.29)(too -7.60)(close -3.47)(for -7.90)(fireball -4.32)(. -0.57) line score is : -4.012, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ that ungracious young lady in blue 
+-------------------------score:  -3.650236218546828----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ that first major league in fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(that -2.16)(first -3.79)(major -2.29)(league -5.51)(in -5.45)(fireball -6.37)(. -0.83) line score is : -3.771, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ but nobody knew what he said 
+-------------------------score:  -3.6811810209105413----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ but nobody knew what i recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(but -2.51)(nobody -4.73)(knew -1.34)(what -7.43)(i -8.90)(recall -2.00)(. -2.76) line score is : -4.239, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.6936959983600723----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ then hit up all different and small . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(then -2.51)(hit -4.73)(up -1.34)(all -7.58)(different -6.84)(and -5.26)(small -4.94)(. -6.11) line score is : -4.913, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ but the other won several prizes 
+-------------------------score:  -3.70873234209915----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ but the other was much fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(but -2.51)(the -4.73)(other -1.34)(was -7.43)(much -5.71)(fireball -5.50)(. -4.28) line score is : -4.500, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ that she pickled her internal workins' 
+-------------------------score:  -3.714066369707386----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on his football . 
+ when he got to baseball , 
+ which he did in the fall , 
+ that he had it pretty fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(his -3.25)(football -6.85)(. -1.87) line score is : -2.772, look ahead score is : 0.000
+(when -1.87)(he -4.09)(got -1.51)(to -3.00)(baseball -2.14)(, -7.11) line score is : -3.286, look ahead score is : 0.000
+(which -7.11)(he -0.91)(did -6.50)(in -1.09)(the -1.87)(fall -2.10)(, -2.16) line score is : -3.106, look ahead score is : 0.000
+(that -2.16)(he -3.79)(had -2.29)(it -5.51)(pretty -6.63)(fireball -2.77)(. -6.51) line score is : -4.238, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.8366641284665093----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ and sing coach she has but few recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(and -2.51)(sing -4.73)(coach -1.34)(she -5.24)(has -9.79)(but -9.60)(few -5.38)(recall -5.33)(. -9.51) line score is : -5.936, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ which he loosed in the house 
+ and could n't bend back again 
+-------------------------score:  -3.8531451894591253----------------------- 
+there was a shy captain named amal 
+ who kept a close eye on her football . 
+ when it came to baseball , 
+ which she played in the fall , 
+ and could not afford back fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.38)(kept -5.04)(a -3.17)(close -3.20)(eye -0.17)(on -0.03)(her -1.37)(football -7.51)(. -2.77) line score is : -2.738, look ahead score is : 0.000
+(when -2.77)(it -4.06)(came -3.66)(to -0.96)(baseball -0.96)(, -6.81) line score is : -3.203, look ahead score is : 0.000
+(which -6.81)(she -0.56)(played -6.01)(in -1.17)(the -2.55)(fall -2.63)(, -2.51) line score is : -3.177, look ahead score is : 0.000
+(and -2.51)(could -4.73)(not -1.34)(afford -5.24)(back -7.21)(fireball -1.44)(. -2.95) line score is : -3.631, look ahead score is : 0.000

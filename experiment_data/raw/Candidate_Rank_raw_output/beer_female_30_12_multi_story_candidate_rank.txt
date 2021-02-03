@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.837488513101231----------------------- 
+there was a waitress named renee 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ and she got to the car , 
+ and she sat down and had her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(and -2.83)(she -1.99)(got -2.67)(to -2.31)(the -5.58)(car -4.10)(, -2.04) line score is : -3.075, look ahead score is : 0.000
+(and -2.04)(she -6.57)(sat -1.73)(down -0.50)(and -0.49)(had -4.35)(her -1.87)(birthday -1.54)(. -4.09) line score is : -2.576, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -2.8441591020673513----------------------- 
+there was a waitress named kay 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ she would order a car , 
+ she was ready to leave and to stay . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(she -2.83)(would -1.99)(order -4.33)(a -0.65)(car -3.35)(, -1.48) line score is : -2.440, look ahead score is : 0.000
+(she -1.48)(was -6.57)(ready -1.68)(to -0.67)(leave -4.67)(and -5.89)(to -0.29)(stay -3.15)(. -2.93) line score is : -3.037, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.8592221280559897----------------------- 
+there was a waitress named renee 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ she would order a car , 
+ and that is the point of this survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(she -2.83)(would -1.99)(order -4.33)(a -0.65)(car -3.35)(, -1.48) line score is : -2.440, look ahead score is : 0.000
+(and -1.48)(that -6.57)(is -1.68)(the -1.58)(point -4.64)(of -3.74)(this -2.66)(survey -4.03)(. -1.57) line score is : -3.105, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8724680729210377----------------------- 
+there was a waitress named renee 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ she would order a car , 
+ and she went down and had her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(she -2.83)(would -1.99)(order -4.33)(a -0.65)(car -3.35)(, -1.48) line score is : -2.440, look ahead score is : 0.000
+(and -1.48)(she -6.57)(went -1.68)(down -1.58)(and -0.92)(had -6.21)(her -4.97)(birthday -3.16)(. -2.84) line score is : -3.268, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -2.9320967365056276----------------------- 
+there was a waitress named kay 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ she would order a car , 
+ but she knew she was doing it gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(she -2.83)(would -1.99)(order -4.33)(a -0.65)(car -3.35)(, -1.48) line score is : -2.440, look ahead score is : 0.000
+(but -1.48)(she -6.57)(knew -1.68)(she -3.81)(was -0.96)(doing -4.52)(it -1.19)(gay -1.38)(. -4.36) line score is : -2.883, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.092566531500779----------------------- 
+there was a waitress named kay 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ and she got to the car , 
+ and she drank too much water okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(and -2.83)(she -1.99)(got -2.67)(to -2.31)(the -5.58)(car -4.10)(, -2.04) line score is : -3.075, look ahead score is : 0.000
+(and -2.04)(she -6.57)(drank -1.73)(too -0.50)(much -0.49)(water -4.37)(okay -4.25)(. -0.04) line score is : -2.499, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.1022803511080004----------------------- 
+there was a waitress named nicolle 
+ who drank all her coffee in a bowl . 
+ when she started to smoke , 
+ she was able to choke , 
+ but it seemed she was getting it whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(drank -7.49)(all -3.32)(her -2.38)(coffee -2.06)(in -2.16)(a -2.28)(bowl -4.45)(. -2.21) line score is : -3.071, look ahead score is : 0.000
+(when -2.21)(she -3.30)(started -0.86)(to -3.87)(smoke -1.89)(, -4.85) line score is : -2.830, look ahead score is : 0.000
+(she -4.85)(was -1.61)(able -0.70)(to -2.79)(choke -4.34)(, -0.00) line score is : -2.381, look ahead score is : 0.000
+(but -0.00)(it -6.18)(seemed -4.30)(she -1.35)(was -3.09)(getting -4.31)(it -2.79)(whole -1.13)(. -2.79) line score is : -2.882, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and she baked really great apple pies 
+-------------------------score:  -3.147656323448304----------------------- 
+there was a waitress named renee 
+ who ate all her money in a day . 
+ she would go to a bar , 
+ she would order a car , 
+ and she had too much alcohol play . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(ate -6.48)(all -2.75)(her -2.74)(money -4.43)(in -2.80)(a -1.84)(day -3.07)(. -1.78) line score is : -3.020, look ahead score is : 0.000
+(she -1.78)(would -1.89)(go -3.42)(to -2.95)(a -1.44)(bar -2.90)(, -2.83) line score is : -2.459, look ahead score is : 0.000
+(she -2.83)(would -1.99)(order -4.33)(a -0.65)(car -3.35)(, -1.48) line score is : -2.440, look ahead score is : 0.000
+(and -1.48)(she -6.57)(had -1.68)(too -1.58)(much -0.92)(alcohol -4.95)(play -6.43)(. -0.51) line score is : -3.016, look ahead score is : 0.000

@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -2.9994358867406845----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was pretty to see , 
+ she was pretty to hear and to say . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(pretty -2.43)(to -1.11)(see -4.88)(, -6.63) line score is : -4.494, look ahead score is : 0.000
+(she -6.63)(was -4.94)(pretty -1.29)(to -1.62)(hear -0.87)(and -3.15)(to -2.27)(say -2.70)(. -2.31) line score is : -2.863, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.0754185832779983----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ and now she has a baby okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(and -1.28)(now -8.51)(she -1.57)(has -1.72)(a -3.85)(baby -0.34)(okay -2.58)(. -1.52) line score is : -2.673, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ but it does n't come out of my purse 
+-------------------------score:  -3.088116559386253----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ but she has always come in my way . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(but -1.28)(she -8.51)(has -1.57)(always -2.03)(come -0.61)(in -5.16)(my -3.49)(way -5.91)(. -3.47) line score is : -3.560, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1211515117076134----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ so she got up and put on the play . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(so -1.28)(she -8.51)(got -1.57)(up -3.43)(and -1.10)(put -3.68)(on -5.28)(the -1.68)(play -5.15)(. -0.78) line score is : -3.246, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ but I guess that you probably gnu 
+-------------------------score:  -3.2320316649716476----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was pretty to see , 
+ but i think that she really okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(pretty -2.43)(to -1.11)(see -4.88)(, -6.63) line score is : -4.494, look ahead score is : 0.000
+(but -6.63)(i -4.94)(think -1.29)(that -0.96)(she -2.70)(really -2.98)(okay -2.89)(. -1.67) line score is : -3.007, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.248343779095288----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ and her kids were bigger and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(and -1.28)(her -8.51)(kids -1.57)(were -1.72)(bigger -3.37)(and -2.33)(okay -0.69)(. -8.02) line score is : -3.437, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.2580006072918573----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ she did it and had kids and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(she -1.28)(did -8.51)(it -1.57)(and -1.14)(had -3.69)(kids -3.53)(and -4.74)(okay -4.41)(. -2.52) line score is : -3.489, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2884064902861914----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ she worked through the night and was sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(she -1.28)(worked -8.51)(through -1.57)(the -1.14)(night -3.82)(and -6.60)(was -1.78)(sunday -1.90)(. -2.42) line score is : -3.225, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.341329357233541----------------------- 
+there was a silly girl named renee 
+ who did a good job on my birthday . 
+ she was a nobody , 
+ she was pretty to see , 
+ but she did her jobs and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(did -4.13)(a -2.51)(good -4.09)(job -0.20)(on -3.48)(my -3.11)(birthday -4.64)(. -2.29) line score is : -2.883, look ahead score is : 0.000
+(she -2.29)(was -2.23)(a -1.84)(nobody -2.82)(, -9.65) line score is : -3.763, look ahead score is : 0.000
+(she -9.65)(was -1.77)(pretty -2.42)(to -1.09)(see -4.55)(, -6.67) line score is : -4.357, look ahead score is : 0.000
+(but -6.67)(she -4.74)(did -1.37)(her -1.06)(jobs -0.70)(and -2.04)(resume -2.25)(. -5.19) line score is : -3.002, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.348721071563918----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ she was up in heaven and halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(she -1.28)(was -8.51)(up -1.57)(in -1.14)(heaven -1.08)(and -7.09)(halfway -2.08)(. -2.83) line score is : -3.198, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.365202997265191----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ she was not the daughter i survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(she -1.28)(was -8.51)(not -1.57)(the -1.14)(daughter -1.08)(i -3.61)(survey -3.80)(. -3.46) line score is : -3.056, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.3678122371435166----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ then she hit on her husband and say . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(then -1.28)(she -8.51)(hit -1.57)(on -5.96)(her -0.81)(husband -6.10)(and -3.01)(say -3.44)(. -0.78) line score is : -3.495, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.376634124252531----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ she probably got a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(she -1.28)(probably -8.51)(got -1.57)(a -1.14)(resume -6.74)(. -3.71) line score is : -3.824, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ so I sat on my moped and moped 
+-------------------------score:  -3.4807460655768714----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ so i guess on my day and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(so -1.28)(i -8.51)(guess -1.57)(on -3.43)(my -1.89)(day -3.77)(and -6.91)(okay -1.61)(. -3.96) line score is : -3.659, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.519396341840426----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ and for years she just has her resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(and -1.28)(for -8.51)(years -1.57)(she -1.72)(just -5.96)(has -4.02)(her -0.49)(resume -4.09)(. -7.22) line score is : -3.873, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ for not selling her waterproof paint 
+-------------------------score:  -3.529513383550303----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ for not giving me enough okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(for -1.28)(not -8.51)(giving -1.57)(me -6.65)(enough -6.74)(okay -4.52)(. -1.03) line score is : -4.328, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.5319140520360737----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ she basically lived her resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(she -1.28)(basically -8.51)(lived -1.57)(her -1.14)(resume -7.53)(. -3.23) line score is : -3.877, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.5851079872969924----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ but i think sometimes bad for okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(but -1.28)(i -8.51)(think -1.57)(sometimes -2.03)(bad -3.03)(for -2.95)(okay -6.68)(. -6.99) line score is : -4.129, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ that she pickled her internal workins' 
+-------------------------score:  -3.593329109251499----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ that she was self satisfied okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(that -1.28)(she -8.51)(was -1.57)(self -5.61)(satisfied -3.55)(okay -1.61)(. -7.76) line score is : -4.270, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and now a new teacher they seek 
+-------------------------score:  -3.6219506664522765----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ and then a young mother herself way . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(and -1.28)(then -8.51)(a -1.57)(young -1.72)(mother -3.81)(herself -4.84)(way -5.70)(. -3.11) line score is : -3.819, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ which refreshed that person of ewell 
+-------------------------score:  -3.739174501172134----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ which made that aspect of resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(which -1.28)(made -8.51)(that -1.57)(aspect -5.95)(of -3.36)(resume -5.32)(. -6.69) line score is : -4.669, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and hop in before all the crowd 
+-------------------------score:  -3.7438386092925895----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ and put in before all the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(and -1.28)(put -8.51)(in -1.57)(before -1.72)(all -8.42)(the -3.36)(survey -9.35)(. -5.45) line score is : -4.958, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ which leaves him in very bad shape 
+-------------------------score:  -3.7440620999911736----------------------- 
+there was a shy woman named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ which means she in very few okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(which -1.28)(means -8.51)(she -1.57)(in -5.95)(very -3.33)(few -0.50)(okay -9.03)(. -7.10) line score is : -4.659, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and could n't bend back again 
+-------------------------score:  -3.7478066331573894----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ and could never have back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(and -1.28)(could -8.51)(never -1.57)(have -1.72)(back -7.40)(resume -2.40)(. -2.54) line score is : -3.632, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ but will ruminate on while I chew 
+-------------------------score:  -3.7517934924569625----------------------- 
+there was a shy girl named renee 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was pretty to see , 
+ but will be on while i resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(did -4.71)(a -3.02)(great -2.80)(job -0.18)(on -3.55)(my -2.69)(birthday -4.96)(. -2.19) line score is : -2.806, look ahead score is : 0.000
+(she -2.19)(was -1.85)(a -1.81)(nobody -2.84)(, -9.98) line score is : -3.733, look ahead score is : 0.000
+(she -9.98)(was -1.99)(pretty -2.45)(to -1.11)(see -4.66)(, -6.66) line score is : -4.475, look ahead score is : 0.000
+(but -6.66)(will -4.91)(be -1.31)(on -0.96)(while -8.78)(i -2.03)(resume -6.11)(. -9.88) line score is : -5.081, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ what finished him off was the crust 
+-------------------------score:  -3.805729186740415----------------------- 
+there was a shy woman named kay 
+ who did a great job on my birthday . 
+ she was a nobody , 
+ she was married to be , 
+ what was it off ended the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.11)(did -4.67)(a -3.19)(great -2.56)(job -0.19)(on -3.54)(my -2.67)(birthday -5.08)(. -2.11) line score is : -2.790, look ahead score is : 0.000
+(she -2.11)(was -1.78)(a -1.81)(nobody -2.87)(, -10.03) line score is : -3.719, look ahead score is : 0.000
+(she -10.03)(was -1.88)(married -2.43)(to -1.11)(be -5.21)(, -1.28) line score is : -3.657, look ahead score is : 0.000
+(what -1.28)(was -8.51)(it -1.57)(off -5.84)(ended -2.60)(the -2.54)(survey -9.94)(. -6.50) line score is : -4.847, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and as far as the bucket 
+-------------------------score:  -3.8184965620083466----------------------- 
+there was a shy girl named renee 
+ who did a good job on my birthday . 
+ she was a nobody , 
+ she was pretty to see , 
+ and as always as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(did -4.71)(a -3.02)(good -3.24)(job -0.15)(on -4.01)(my -2.70)(birthday -5.00)(. -2.07) line score is : -2.896, look ahead score is : 0.000
+(she -2.07)(was -2.01)(a -1.76)(nobody -2.75)(, -9.79) line score is : -3.677, look ahead score is : 0.000
+(she -9.79)(was -1.86)(pretty -2.42)(to -1.09)(see -4.55)(, -6.67) line score is : -4.395, look ahead score is : 0.000
+(and -6.67)(as -4.74)(always -1.37)(as -1.92)(the -5.48)(resume -5.08)(. -7.20) line score is : -4.636, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -4.004045863089891----------------------- 
+there was a silly girl named kay 
+ who did a good job on my birthday . 
+ she was a nobody , 
+ she was pretty to see , 
+ and thank what the gods all resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(did -4.13)(a -2.51)(good -4.09)(job -0.20)(on -3.48)(my -3.11)(birthday -4.64)(. -2.29) line score is : -2.883, look ahead score is : 0.000
+(she -2.29)(was -2.23)(a -1.84)(nobody -2.82)(, -9.65) line score is : -3.763, look ahead score is : 0.000
+(she -9.65)(was -1.77)(pretty -2.42)(to -1.09)(see -4.55)(, -6.67) line score is : -4.357, look ahead score is : 0.000
+(and -6.67)(thank -4.74)(what -1.37)(the -1.92)(gods -7.42)(all -9.88)(resume -3.85)(. -2.86) line score is : -4.838, look ahead score is : 0.000

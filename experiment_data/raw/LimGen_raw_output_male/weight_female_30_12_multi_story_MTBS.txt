@@ -1,0 +1,462 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.1614107709610835----------------------- 
+there was a nervous girl named chin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ and that is the beauty of this spin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(and -0.46)(that -3.47)(is -8.08)(the -1.43)(beauty -4.25)(of -2.93)(this -2.86)(spin -3.29)(. -0.14) line score is : -2.989, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.302454362739809----------------------- 
+there was a nervous girl named lin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to make , 
+ she was through the process and was in . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(make -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(she -0.46)(was -3.70)(through -8.18)(the -1.38)(process -0.42)(and -8.36)(was -2.17)(in -3.45)(. -2.34) line score is : -3.382, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.517619040911086----------------------- 
+there was a nervous girl named linn 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ and she was here like crazy of win . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(and -0.46)(she -3.47)(was -8.08)(here -1.43)(like -1.09)(crazy -1.05)(of -4.41)(win -7.52)(. -4.92) line score is : -3.603, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.5563348951982334----------------------- 
+there was a nervous girl named in 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ then she hit on my girlfriend and pin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(then -0.46)(she -3.47)(hit -8.08)(on -5.70)(my -1.02)(girlfriend -4.66)(and -5.33)(pin -3.35)(. -2.84) line score is : -3.879, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.5631242209346965----------------------- 
+there was a nervous girl named lynne 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ now it was me turn in the akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(now -0.46)(it -3.47)(was -8.08)(me -5.48)(turn -2.34)(in -0.43)(the -6.03)(akin -5.14)(. -3.35) line score is : -3.864, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.588691159722305----------------------- 
+there was a nervous girl named chin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ we were ready to make , 
+ and our hearts were heavier and sin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(we -5.38)(were -2.50)(ready -4.09)(to -1.31)(make -3.45)(, -0.52) line score is : -2.877, look ahead score is : 0.000
+(and -0.52)(our -3.94)(hearts -7.74)(were -0.72)(heavier -4.29)(and -4.05)(sin -0.51)(. -7.64) line score is : -3.674, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.603016300667678----------------------- 
+there was a nervous girl named trinh 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ but we are not satisfied for been . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(but -0.46)(we -3.47)(are -8.08)(not -3.49)(satisfied -2.61)(for -5.16)(been -2.14)(. -5.49) line score is : -3.863, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.6318331458155186----------------------- 
+there was a nervous girl named lin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ she was not the person we akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(she -0.46)(was -3.47)(not -8.08)(the -1.65)(person -0.45)(we -5.34)(akin -4.16)(. -3.92) line score is : -3.442, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.6402525427984074----------------------- 
+there was a nervous girl named lynne 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ but she had it made getting it win . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(but -0.46)(she -3.47)(had -8.08)(it -3.49)(made -1.47)(getting -2.31)(it -6.43)(win -3.76)(. -8.41) line score is : -4.208, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but I guess that you probably gnu 
+-------------------------score:  -3.6457702624461343----------------------- 
+there was a nervous girl named trinh 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ but i know that she never akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(but -0.46)(i -3.47)(know -8.08)(that -3.49)(she -2.42)(never -4.58)(akin -1.99)(. -1.33) line score is : -3.228, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.6895166646328663----------------------- 
+there was a nervous girl named shin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ she had all her friends coming akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(she -0.46)(had -3.47)(all -8.08)(her -1.65)(friends -2.81)(coming -3.88)(akin -1.75)(. -3.50) line score is : -3.199, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.753930720811089----------------------- 
+there was a nervous girl named lynne 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ and she was right everywhere akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(and -0.46)(she -3.47)(was -8.08)(right -1.43)(everywhere -1.09)(akin -1.05)(. -5.48) line score is : -3.008, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.801957115647383----------------------- 
+there was a nervous girl named lin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ she was not let slip tonight this spin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(she -0.46)(was -3.47)(not -8.08)(let -1.65)(slip -0.45)(tonight -5.34)(this -6.86)(spin -6.20)(. -8.69) line score is : -4.578, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and finished the solo with honour 
+-------------------------score:  -3.806332489972313----------------------- 
+there was a nervous girl named shin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ and had the potential with akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(and -0.46)(had -3.47)(the -8.08)(potential -1.43)(with -5.73)(akin -3.32)(. -5.91) line score is : -4.057, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.8143671128200367----------------------- 
+there was a nervous girl named gwyn 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ she had it and had friends and akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(she -0.46)(had -3.47)(it -8.08)(and -1.65)(had -2.81)(friends -5.64)(and -4.81)(akin -5.01)(. -7.21) line score is : -4.348, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ you never can tell till you try 
+-------------------------score:  -3.8270867843060725----------------------- 
+there was a nervous girl named lynne 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ she still can be in us akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(she -0.46)(still -3.47)(can -8.08)(be -1.65)(in -6.43)(us -5.20)(akin -1.45)(. -4.45) line score is : -3.900, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.880624176119454----------------------- 
+there was a nervous girl named in 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ and for months she just has her akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(and -0.46)(for -3.47)(months -8.08)(she -1.43)(just -5.37)(has -5.99)(her -1.28)(akin -4.60)(. -6.86) line score is : -4.171, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.931085244868882----------------------- 
+there was a nervous girl named jin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ in words she was all in the akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(in -0.46)(words -3.47)(she -8.08)(was -5.51)(all -6.25)(in -3.50)(the -3.82)(akin -5.52)(. -4.67) line score is : -4.587, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ to balance green peas on her fork 
+-------------------------score:  -4.064123739278124----------------------- 
+there was a nervous girl named trinh 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to make , 
+ to be good friends on us akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(make -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(to -0.46)(be -3.70)(good -8.18)(friends -3.32)(on -2.73)(us -5.07)(akin -4.98)(. -7.12) line score is : -4.444, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ to keep from soiling her feet 
+-------------------------score:  -4.113132271294792----------------------- 
+there was a nervous girl named linh 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ to get from beginning my akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.28)(put -6.75)(a -2.85)(big -4.19)(smile -0.96)(on -0.03)(our -2.98)(skin -7.78)(. -1.69) line score is : -3.168, look ahead score is : 0.000
+(she -1.69)(was -1.99)(back -1.64)(from -7.38)(the -2.52)(break -2.46)(, -5.38) line score is : -3.296, look ahead score is : 0.000
+(she -5.38)(was -2.50)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.656, look ahead score is : 0.000
+(to -0.46)(get -3.47)(from -8.08)(beginning -3.96)(my -2.99)(akin -7.12)(. -6.93) line score is : -4.715, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.258947453985456----------------------- 
+there was a skinny girl named chin 
+ who put a big smile on our skin . 
+ she was back from the break , 
+ she was ready to take , 
+ and trying make it looks but hard akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(put -6.99)(a -2.78)(big -3.78)(smile -1.09)(on -0.03)(our -3.03)(skin -7.82)(. -1.62) line score is : -3.184, look ahead score is : 0.000
+(she -1.62)(was -2.18)(back -1.48)(from -7.58)(the -2.51)(break -2.42)(, -5.21) line score is : -3.287, look ahead score is : 0.000
+(she -5.21)(was -2.38)(ready -3.40)(to -1.05)(take -3.15)(, -0.46) line score is : -2.607, look ahead score is : 0.000
+(and -0.46)(trying -3.47)(make -8.08)(it -1.43)(looks -9.79)(but -9.53)(hard -2.50)(akin -8.26)(. -8.48) line score is : -5.777, look ahead score is : 0.000

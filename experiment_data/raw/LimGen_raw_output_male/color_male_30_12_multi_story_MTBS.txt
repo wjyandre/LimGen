@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ so he had to sit down on the floor 
+-------------------------score:  -3.15297532442116----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ so i had to go down on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(so -4.95)(i -11.78)(had -2.29)(to -4.26)(go -0.23)(down -3.78)(on -0.27)(the -3.76)(place -5.08)(. -0.84) line score is : -3.725, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ but it does n't come out of my purse 
+-------------------------score:  -3.184125235925118----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ but it does not work in our case . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(but -4.95)(it -11.78)(does -2.29)(not -3.77)(work -2.45)(in -7.16)(our -0.38)(case -3.28)(. -3.89) line score is : -4.439, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ then he walloped me square in the face 
+-------------------------score:  -3.2877326255043346----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ then he hit me right in the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(then -4.95)(he -11.78)(hit -2.29)(me -5.15)(right -2.59)(in -3.21)(the -0.17)(staircase -4.94)(. -0.68) line score is : -3.974, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.310401717076699----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ that the person he hit was a case . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(that -4.95)(the -11.78)(person -2.29)(he -3.18)(hit -3.41)(was -4.64)(a -3.24)(case -1.79)(. -1.41) line score is : -4.077, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.3564734352131684----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ he looked through the mirror and saw grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(he -4.95)(looked -11.78)(through -2.29)(the -4.08)(mirror -4.19)(and -5.81)(saw -1.65)(grace -2.45)(. -0.72) line score is : -4.213, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ he claimed that his costume was chile 
+-------------------------score:  -3.380998806963707----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ i knew that his intention was base . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(i -4.95)(knew -11.78)(that -2.29)(his -3.89)(intention -3.97)(was -2.45)(base -4.14)(. -2.93) line score is : -4.551, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and returned on the previous night 
+-------------------------score:  -3.4394019600003958----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and started on the second staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(started -11.78)(on -2.29)(the -2.43)(second -4.48)(staircase -5.80)(. -1.66) line score is : -4.771, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.47407890483737----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and it was then like lightning of grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(it -11.78)(was -2.29)(then -2.43)(like -4.39)(lightning -1.16)(of -3.75)(grace -5.45)(. -4.25) line score is : -4.494, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ they bedded her down in the stable 
+-------------------------score:  -3.4810204107699723----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ he hit me down towards the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(he -4.95)(hit -11.78)(me -2.29)(down -4.08)(towards -3.98)(the -0.37)(staircase -5.79)(. -8.76) line score is : -5.251, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ she was ready to give and to take 
+-------------------------score:  -3.492815788835287----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ i was ready to cry and to brace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(i -4.95)(was -11.78)(ready -2.29)(to -3.89)(cry -2.61)(and -4.93)(to -0.29)(brace -2.89)(. -2.63) line score is : -4.029, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ then I sat on my moped and moped 
+-------------------------score:  -3.5806931627293426----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ then he beat on my head and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(then -4.95)(he -11.78)(beat -2.29)(on -5.15)(my -2.59)(head -5.18)(and -4.46)(replace -1.01)(. -0.68) line score is : -4.233, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.5990288011729716----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and for hours i just froze his place . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(for -11.78)(hours -2.29)(i -2.43)(just -6.34)(froze -5.23)(his -0.98)(place -3.39)(. -6.99) line score is : -4.932, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ I did n't think life was this way 
+-------------------------score:  -3.6389831038812797----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ it was not till someone brought this case . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(it -4.95)(was -11.78)(not -2.29)(till -5.44)(someone -0.85)(brought -4.75)(this -7.26)(case -5.65)(. -4.38) line score is : -5.261, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.6630564920072044----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and suddenly could see a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(suddenly -11.78)(could -2.29)(see -2.43)(a -5.94)(staircase -9.17)(. -2.68) line score is : -5.607, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.664545685328819----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ i never expected a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(i -4.95)(never -11.78)(expected -2.29)(a -3.89)(staircase -5.21)(. -4.11) line score is : -5.371, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and she baked really great apple pies 
+-------------------------score:  -3.7232578327429704----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and it was too much pressure replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(it -11.78)(was -2.29)(too -2.43)(much -4.39)(pressure -1.16)(replace -3.78)(. -2.66) line score is : -4.180, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ I d probably know two or three 
+-------------------------score:  -3.7657974991818954----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ i have never heard one or replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(i -4.95)(have -11.78)(never -2.29)(heard -3.89)(one -4.99)(or -1.57)(replace -1.62)(. -5.78) line score is : -4.610, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ that her head was bare 
+-------------------------score:  -3.7780132373725928----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ that our religion was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(that -4.95)(our -11.78)(religion -2.29)(was -3.18)(replace -7.09)(. -5.52) line score is : -5.803, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.780139875465206----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and i started crying then replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(i -11.78)(started -2.29)(crying -2.43)(then -1.97)(replace -3.83)(. -1.92) line score is : -4.168, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ a word of ambiguous meaning 
+-------------------------score:  -3.802353852790677----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ a series of meaningless replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(a -4.95)(series -11.78)(of -2.29)(meaningless -4.73)(replace -6.22)(. -0.00) line score is : -4.998, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ I invariably get in a stew ! 
+-------------------------score:  -3.853776158186896----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ i never want in a fight replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(i -4.95)(never -11.78)(want -2.29)(in -3.89)(a -5.21)(fight -4.40)(replace -7.17)(. -2.35) line score is : -5.255, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and hop in before all the crowd 
+-------------------------score:  -3.8895683116440116----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and run towards before all the space . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(run -11.78)(towards -2.29)(before -2.43)(all -8.85)(the -4.39)(space -10.54)(. -6.12) line score is : -6.420, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ you never can tell till you try 
+-------------------------score:  -3.9314145869736015----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ i never can get past it replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(i -4.95)(never -11.78)(can -2.29)(get -3.89)(past -5.21)(it -6.08)(replace -3.67)(. -4.66) line score is : -5.317, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ that man in a boat 
+-------------------------score:  -4.0077200104241015----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ that violence towards a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(that -4.95)(violence -11.78)(towards -2.29)(a -3.18)(staircase -8.42)(. -6.09) line score is : -6.119, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ and see what the critics all say 
+-------------------------score:  -4.071238130587956----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ and put what the doctors all replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(and -4.95)(put -11.78)(what -2.29)(the -2.43)(doctors -5.09)(all -7.10)(replace -5.85)(. -5.56) line score is : -5.632, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD NN IN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ it sucked everything in 
+ a habit unpleasant but curious 
+-------------------------score:  -4.248549495858175----------------------- 
+there was a cleaner named chase 
+ who used a big hammer on my face . 
+ when i tried to object , 
+ he said something perfect , 
+ a comment inspired but replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(used -3.75)(a -3.90)(big -5.42)(hammer -3.04)(on -2.32)(my -2.99)(face -3.90)(. -1.89) line score is : -3.182, look ahead score is : 0.000
+(when -1.89)(i -3.83)(tried -0.87)(to -2.56)(object -0.10)(, -8.48) line score is : -2.957, look ahead score is : 0.000
+(he -8.48)(said -0.77)(something -0.43)(perfect -2.19)(, -4.95) line score is : -3.366, look ahead score is : 0.000
+(a -4.95)(comment -11.78)(inspired -2.29)(but -4.73)(replace -5.38)(. -7.99) line score is : -6.188, look ahead score is : 0.000

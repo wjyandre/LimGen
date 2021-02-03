@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8749356269836426----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was afraid to get , 
+ so she tried to go down on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(she -4.24)(was -0.59)(afraid -1.56)(to -3.11)(get -4.37)(, -1.61) line score is : -2.578, look ahead score is : 0.000
+(so -1.61)(she -3.28)(tried -8.73)(to -1.41)(go -0.63)(down -3.51)(on -0.35)(the -4.32)(place -4.03)(. -1.69) line score is : -2.956, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9010286191196153----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was scared by his threat , 
+ so she tried to go down on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(she -4.24)(was -0.59)(scared -1.56)(by -3.11)(his -4.24)(threat -5.27)(, -2.94) line score is : -3.135, look ahead score is : 0.000
+(so -2.94)(she -5.96)(tried -1.83)(to -1.63)(go -0.29)(down -3.39)(on -0.17)(the -4.65)(place -4.16)(. -1.73) line score is : -2.675, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.902350276708603----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was afraid to get , 
+ so she got up and beat on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(she -4.24)(was -0.59)(afraid -1.56)(to -3.11)(get -4.37)(, -1.61) line score is : -2.578, look ahead score is : 0.000
+(so -1.61)(she -3.28)(got -8.73)(up -1.41)(and -0.63)(beat -3.72)(on -2.40)(the -0.61)(place -6.46)(. -2.71) line score is : -3.156, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she was destined to go a long way 
+-------------------------score:  -3.0014247014637916----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ it was hard to get a good replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(her -4.24)(hair -0.59)(became -3.74)(so -3.50)(wet -3.76)(, -3.17) line score is : -3.164, look ahead score is : 0.000
+(it -3.17)(was -3.53)(hard -2.27)(to -1.87)(get -2.04)(a -4.37)(good -0.06)(replace -2.93)(. -2.20) line score is : -2.494, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0092696643644765----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was shocked by his threat , 
+ so she quickly got on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(she -4.24)(was -0.59)(shocked -1.56)(by -3.11)(his -3.56)(threat -2.42)(, -2.89) line score is : -2.624, look ahead score is : 0.000
+(so -2.89)(she -7.54)(quickly -2.30)(got -2.48)(on -0.28)(the -3.50)(staircase -3.65)(. -3.49) line score is : -3.267, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0145990487300987----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was shocked by his threat , 
+ so she ran up and beat on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(she -4.24)(was -0.59)(shocked -1.56)(by -3.11)(his -3.56)(threat -2.42)(, -2.89) line score is : -2.624, look ahead score is : 0.000
+(so -2.89)(she -7.54)(ran -2.30)(up -2.48)(and -0.28)(beat -3.39)(on -4.71)(the -2.42)(place -5.59)(. -3.62) line score is : -3.522, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.130474740459073----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was shocked by his threat , 
+ but she refused his demands and case . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(sweat -1.26)(, -4.24) line score is : -2.624, look ahead score is : 0.000
+(she -4.24)(was -0.59)(shocked -1.56)(by -3.11)(his -3.56)(threat -2.42)(, -2.89) line score is : -2.624, look ahead score is : 0.000
+(but -2.89)(she -7.54)(refused -2.30)(his -1.19)(demands -1.62)(and -4.58)(case -3.16)(. -3.40) line score is : -3.334, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.1818890889485676----------------------- 
+there was a harsh cleaner named chase 
+ who stuck a hot iron on her face . 
+ when she started to smell , 
+ she ran outside to yell , 
+ but she saw her parents and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stuck -7.16)(a -3.32)(hot -4.87)(iron -1.90)(on -2.88)(her -3.23)(face -2.96)(. -1.28) line score is : -3.204, look ahead score is : 0.000
+(when -1.28)(she -3.93)(started -1.02)(to -4.02)(smell -1.26)(, -5.69) line score is : -2.866, look ahead score is : 0.000
+(she -5.69)(ran -2.17)(outside -0.99)(to -3.15)(yell -3.00)(, -1.28) line score is : -2.714, look ahead score is : 0.000
+(but -1.28)(she -5.93)(saw -2.22)(her -1.24)(parents -1.93)(and -4.12)(staircase -3.02)(. -3.86) line score is : -2.951, look ahead score is : 0.000

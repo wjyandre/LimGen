@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but it does n't come out of my purse 
+-------------------------score:  -3.4790516972541807----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ but it does not happen in my role . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(but -4.52)(it -7.74)(does -0.86)(not -3.48)(happen -1.57)(in -6.94)(my -1.14)(role -4.10)(. -2.80) line score is : -3.684, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -3.494170840581258----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ i was trained to follow and to roll . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(i -4.52)(was -7.74)(trained -0.86)(to -4.35)(follow -2.64)(and -4.78)(to -0.79)(roll -1.77)(. -2.94) line score is : -3.377, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ so he had to sit down on the floor 
+-------------------------score:  -3.500666049218947----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ so we had to get down on the pole . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(so -4.52)(we -7.74)(had -0.86)(to -4.98)(get -2.42)(down -2.93)(on -0.71)(the -3.19)(pole -5.58)(. -2.86) line score is : -3.580, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ she was destined to go a long way 
+-------------------------score:  -3.5904390076796213----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ i was blessed to have a great console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(i -4.52)(was -7.74)(blessed -0.86)(to -4.35)(have -2.64)(a -4.65)(great -0.53)(console -1.51)(. -3.12) line score is : -3.325, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ turned out to be plaster of paris 
+-------------------------score:  -3.6286678684168847----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ set out to create something of role . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(set -4.52)(out -7.74)(to -0.86)(create -6.53)(something -1.49)(of -1.71)(role -3.78)(. -2.51) line score is : -3.642, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.665577798054136----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ but it had its reasons and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(but -4.52)(it -7.74)(had -0.86)(its -3.48)(reasons -1.57)(and -3.34)(console -2.57)(. -5.02) line score is : -3.637, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ to call my last novel impure 
+-------------------------score:  -3.6900344448430196----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ to marry his own daughter console . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(to -4.94)(marry -8.59)(his -0.51)(own -0.57)(daughter -2.96)(console -2.82)(. -2.91) line score is : -3.328, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ when he saw there were six little chips 
+-------------------------score:  -3.756606622536977----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ when he died there was one last console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(when -4.52)(he -7.74)(died -0.86)(there -5.49)(was -1.63)(one -2.88)(last -6.13)(console -0.61)(. -4.29) line score is : -3.796, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.775249411319864----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ but i am not ashamed for role . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(but -4.52)(i -7.74)(am -0.86)(not -3.48)(ashamed -2.36)(for -4.21)(role -1.39)(. -5.59) line score is : -3.769, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ to tutor two tutors to toot 
+-------------------------score:  -3.78006480208465----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ to marry one women to console . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(to -4.94)(marry -8.59)(one -0.51)(women -0.57)(to -2.96)(console -3.85)(. -7.58) line score is : -4.143, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but I guess that you probably gnu 
+-------------------------score:  -3.78147319267536----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ but i know that it never console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(but -4.52)(i -7.74)(know -0.86)(that -3.48)(it -2.36)(never -5.10)(console -1.88)(. -2.29) line score is : -3.530, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ she sat up in bed and meowed 
+-------------------------score:  -3.806965375768727----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ he wanted up in heaven and stole . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(he -4.94)(wanted -8.59)(up -0.51)(in -4.53)(heaven -2.12)(and -9.46)(stole -3.09)(. -1.33) line score is : -4.321, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ I did n't think life was this way 
+-------------------------score:  -3.842831830183665----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ he had once set something called this goal . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(he -4.52)(had -7.74)(once -0.86)(set -3.81)(something -1.99)(called -5.52)(this -4.15)(goal -7.85)(. -4.99) line score is : -4.602, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.8472753097613652----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ he told me and brought stories and stole . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(he -4.52)(told -7.74)(me -0.86)(and -3.81)(brought -3.23)(stories -0.23)(and -4.84)(stole -7.19)(. -4.90) line score is : -4.146, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ they bedded her down in the stable 
+-------------------------score:  -3.855659608183236----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ he wanted them down in the charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(he -4.94)(wanted -8.59)(them -0.51)(down -4.53)(in -2.12)(the -5.58)(charcoal -7.80)(. -2.66) line score is : -4.590, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ are all easy marks for a jolly 
+-------------------------score:  -3.8676137102061303----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ go all different places for a goal . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(go -4.52)(all -7.74)(different -0.86)(places -9.01)(for -4.83)(a -7.54)(goal -2.59)(. -3.58) line score is : -5.083, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ that she pickled her internal workins' 
+-------------------------score:  -3.883111527987889----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ that he wanted them married console . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(that -4.94)(he -8.59)(wanted -0.51)(them -2.35)(married -1.29)(console -3.01)(. -4.87) line score is : -3.652, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.8949307159141258----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ he never neglected a console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(he -4.52)(never -7.74)(neglected -0.86)(a -3.81)(console -4.36)(. -4.77) line score is : -4.343, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.9014794707298277----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ and for years it just seems our goal . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(and -4.52)(for -7.74)(years -0.86)(it -2.05)(just -4.68)(seems -3.66)(our -2.51)(goal -5.24)(. -6.35) line score is : -4.178, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.9091375708580016----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ we were through the door and had charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(we -4.52)(were -7.74)(through -0.86)(the -5.13)(door -2.24)(and -7.99)(had -2.60)(charcoal -2.35)(. -2.03) line score is : -3.940, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ I invariably get in a stew ! 
+-------------------------score:  -3.9166312587672265----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ i never heard in a church console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(i -4.52)(never -7.74)(heard -0.86)(in -4.35)(a -4.55)(church -3.44)(console -6.06)(. -3.95) line score is : -4.431, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ for not selling her waterproof paint 
+-------------------------score:  -3.9526981370789662----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ for not giving him enough console . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(for -4.94)(not -8.59)(giving -0.51)(him -2.09)(enough -7.30)(console -6.94)(. -3.28) line score is : -4.808, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.98464648326238----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ work hard to be on your way console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(work -4.52)(hard -7.74)(to -0.86)(be -9.41)(on -4.42)(your -2.06)(way -3.13)(console -4.34)(. -2.97) line score is : -4.384, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ for six sikhs were seasick at eos 
+-------------------------score:  -4.013883619472899----------------------- 
+there was a vain man named cole 
+ who loved a young woman on his soul . 
+ he had a desire , 
+ he would tell a liar , 
+ for two girls aged sixteen at console . 
+------------------------- score breakdown ------------------------ 
+(who -1.79)(loved -4.73)(a -4.11)(young -5.04)(woman -1.33)(on -6.34)(his -2.67)(soul -6.62)(. -1.61) line score is : -3.803, look ahead score is : 0.000
+(he -1.61)(had -2.04)(a -2.70)(desire -2.09)(, -5.82) line score is : -2.852, look ahead score is : 0.000
+(he -5.82)(would -4.15)(tell -2.86)(a -3.66)(liar -1.61)(, -4.94) line score is : -3.841, look ahead score is : 0.000
+(for -4.94)(two -8.59)(girls -0.51)(aged -2.09)(sixteen -6.42)(at -3.10)(console -6.26)(. -2.50) line score is : -4.302, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and now a new teacher they seek 
+-------------------------score:  -4.028276788777318----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ and not a mere habit we console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(and -4.52)(not -7.74)(a -0.86)(mere -2.05)(habit -5.66)(we -1.80)(console -3.70)(. -4.56) line score is : -3.860, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ I relaxed when I eos across aunt 
+-------------------------score:  -4.075957849107939----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ we had when we heard across console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(we -4.52)(had -7.74)(when -0.86)(we -5.13)(heard -2.03)(across -4.93)(console -0.54)(. -7.03) line score is : -4.097, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ what finished him off was the crust 
+-------------------------score:  -4.128694182839887----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ he would say a mission , 
+ what made him off loaded the console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(he -6.72)(would -3.02)(say -2.76)(a -3.45)(mission -1.48)(, -6.38) line score is : -3.968, look ahead score is : 0.000
+(what -6.38)(made -8.57)(him -0.98)(off -6.71)(loaded -3.71)(the -0.95)(console -9.89)(. -8.73) line score is : -5.739, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ great writers are fewer and fewer 
+-------------------------score:  -4.340998832668577----------------------- 
+there was a honest man named cole 
+ who loved a good story on his soul . 
+ it was a tradition , 
+ i would say a mission , 
+ amongst friends come closer and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(loved -4.94)(a -4.86)(good -1.72)(story -2.43)(on -7.52)(his -1.95)(soul -7.12)(. -1.72) line score is : -3.805, look ahead score is : 0.000
+(it -1.72)(was -3.90)(a -0.84)(tradition -1.92)(, -6.72) line score is : -3.021, look ahead score is : 0.000
+(i -6.72)(would -3.02)(say -4.09)(a -3.87)(mission -0.96)(, -4.52) line score is : -3.863, look ahead score is : 0.000
+(amongst -4.52)(friends -7.74)(come -0.86)(closer -8.92)(and -3.83)(console -9.92)(. -8.26) line score is : -6.292, look ahead score is : 0.000

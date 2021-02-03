@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.726769146594134----------------------- 
+there was a bright man named kip 
+ who lived a long time on our ship . 
+ he came back from the war , 
+ and he went to the shore , 
+ and that is the story of this trip . 
+------------------------- score breakdown ------------------------ 
+(who -2.73)(lived -2.65)(a -4.03)(long -3.37)(time -0.54)(on -5.32)(our -5.09)(ship -4.89)(. -0.86) line score is : -3.277, look ahead score is : 0.000
+(he -0.86)(came -1.17)(back -4.07)(from -3.15)(the -1.82)(war -1.99)(, -1.95) line score is : -2.145, look ahead score is : 0.000
+(and -1.95)(he -2.30)(went -1.26)(to -1.51)(the -4.00)(shore -1.11)(, -2.22) line score is : -2.051, look ahead score is : 0.000
+(and -2.22)(that -7.08)(is -1.97)(the -0.48)(story -5.19)(of -2.41)(this -2.46)(trip -3.13)(. -0.91) line score is : -2.873, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.805160815224928----------------------- 
+there was a bright man named kip 
+ who lived a long time on our ship . 
+ he came back from the war , 
+ and he went to the store , 
+ so i had to come down on the trip . 
+------------------------- score breakdown ------------------------ 
+(who -2.73)(lived -2.65)(a -4.03)(long -3.37)(time -0.54)(on -5.32)(our -5.09)(ship -4.89)(. -0.86) line score is : -3.277, look ahead score is : 0.000
+(he -0.86)(came -1.17)(back -4.07)(from -3.15)(the -1.82)(war -1.99)(, -1.95) line score is : -2.145, look ahead score is : 0.000
+(and -1.95)(he -2.30)(went -1.26)(to -1.51)(the -4.00)(store -1.11)(, -2.22) line score is : -2.051, look ahead score is : 0.000
+(so -2.22)(i -6.07)(had -2.10)(to -5.19)(come -1.33)(down -3.38)(on -1.18)(the -3.91)(trip -2.78)(. -4.31) line score is : -3.247, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.920929377569872----------------------- 
+there was a bright man named kip 
+ who lived a long time on our ship . 
+ he came back from the war , 
+ and he went to the store , 
+ so i got up and put on the whip . 
+------------------------- score breakdown ------------------------ 
+(who -2.73)(lived -2.65)(a -4.03)(long -3.37)(time -0.54)(on -5.32)(our -5.09)(ship -4.89)(. -0.86) line score is : -3.277, look ahead score is : 0.000
+(he -0.86)(came -1.17)(back -4.07)(from -3.15)(the -1.82)(war -1.99)(, -1.95) line score is : -2.145, look ahead score is : 0.000
+(and -1.95)(he -2.30)(went -1.26)(to -1.51)(the -4.00)(store -1.11)(, -2.22) line score is : -2.051, look ahead score is : 0.000
+(so -2.22)(i -6.07)(got -2.10)(up -5.19)(and -1.33)(put -3.14)(on -4.81)(the -1.32)(whip -4.52)(. -1.50) line score is : -3.220, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -2.9743191780466023----------------------- 
+there was a bright man named kip 
+ who lived a long time on our ship . 
+ he came back from the war , 
+ and he went to the store , 
+ but he said he was having none hip . 
+------------------------- score breakdown ------------------------ 
+(who -2.73)(lived -2.65)(a -4.03)(long -3.37)(time -0.54)(on -5.32)(our -5.09)(ship -4.89)(. -0.86) line score is : -3.277, look ahead score is : 0.000
+(he -0.86)(came -1.17)(back -4.07)(from -3.15)(the -1.82)(war -1.99)(, -1.95) line score is : -2.145, look ahead score is : 0.000
+(and -1.95)(he -2.30)(went -1.26)(to -1.51)(the -4.00)(store -1.11)(, -2.22) line score is : -2.051, look ahead score is : 0.000
+(but -2.22)(he -6.07)(said -2.10)(he -3.81)(was -0.79)(having -3.86)(none -1.03)(hip -2.13)(. -5.83) line score is : -3.094, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -2.993414554744959----------------------- 
+there was a bright man named kip 
+ who lived a good life on our ship . 
+ he came back from the war , 
+ and he went to the store , 
+ and then he has a family trip . 
+------------------------- score breakdown ------------------------ 
+(who -2.73)(lived -2.65)(a -4.03)(good -3.16)(life -0.21)(on -4.23)(our -5.72)(ship -5.08)(. -0.79) line score is : -3.178, look ahead score is : 0.000
+(he -0.79)(came -1.41)(back -4.71)(from -2.89)(the -1.81)(war -1.89)(, -1.60) line score is : -2.158, look ahead score is : 0.000
+(and -1.60)(he -2.49)(went -1.56)(to -1.87)(the -3.91)(store -1.01)(, -2.38) line score is : -2.116, look ahead score is : 0.000
+(and -2.38)(then -6.28)(he -2.15)(has -0.56)(a -4.47)(family -0.38)(trip -7.21)(. -2.38) line score is : -3.226, look ahead score is : 0.000

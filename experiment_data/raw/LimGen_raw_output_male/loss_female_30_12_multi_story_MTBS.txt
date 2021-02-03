@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.052828766645924----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ but she survived his arrows and lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(but -1.21)(she -6.27)(survived -2.62)(his -2.37)(arrows -2.05)(and -2.27)(lay -4.33)(. -3.66) line score is : -3.099, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.114362065990766----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ because he was wearing her cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(because -1.21)(he -6.27)(was -2.62)(wearing -6.18)(her -1.77)(cache -1.96)(. -4.68) line score is : -3.527, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -3.154106048807021----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and now she is a ghost resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(now -6.27)(she -2.62)(is -1.57)(a -5.21)(ghost -1.45)(resume -1.71)(. -2.65) line score is : -2.838, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but I guess that you probably gnu 
+-------------------------score:  -3.1720376870324536----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ but i think that she really okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(but -1.21)(i -6.27)(think -2.62)(that -2.37)(she -5.69)(really -3.38)(okay -2.11)(. -2.13) line score is : -3.223, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.199403272010386----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was struck by a light , 
+ but her wounds healed down to her resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(struck -0.56)(by -1.68)(a -4.64)(light -1.40)(, -1.04) line score is : -2.716, look ahead score is : 0.000
+(but -1.04)(her -6.21)(wounds -3.47)(healed -2.80)(down -3.15)(to -2.02)(her -1.61)(resume -10.46)(. -1.29) line score is : -3.562, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.200842254360517----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and she was betrayed again halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(she -6.27)(was -2.62)(betrayed -1.57)(again -3.17)(halfway -1.43)(. -6.60) line score is : -3.269, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.2082260462921113----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was joined by a knight , 
+ and they were soon like family of day . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(joined -0.56)(by -1.68)(a -4.85)(knight -0.08)(, -1.86) line score is : -2.675, look ahead score is : 0.000
+(and -1.86)(they -6.12)(were -2.42)(soon -2.74)(like -2.46)(family -2.51)(of -2.58)(day -9.06)(. -3.61) line score is : -3.708, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.236972517544223----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ but i am still glad for friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(but -1.21)(i -6.27)(am -2.62)(still -2.37)(glad -5.69)(for -3.55)(friday -3.78)(. -3.43) line score is : -3.616, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.241800766798758----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was met by a sight , 
+ for two men stood opposite at bay . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(met -0.56)(by -1.68)(a -4.32)(sight -0.75)(, -1.27) line score is : -2.611, look ahead score is : 0.000
+(for -1.27)(two -7.77)(men -5.67)(stood -3.82)(opposite -5.40)(at -1.89)(bay -2.27)(. -3.92) line score is : -4.003, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.242484634121259----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and was his companion a sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(was -6.27)(his -2.62)(companion -1.57)(a -3.28)(sunday -6.85)(. -4.73) line score is : -3.790, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to call my last novel impure 
+-------------------------score:  -3.257625229159991----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ to save her own family resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(to -1.21)(save -6.27)(her -2.62)(own -6.50)(family -3.92)(resume -0.93)(. -3.14) line score is : -3.513, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.2803490767876307----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was struck by a light , 
+ and could not continue back halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(struck -0.56)(by -1.68)(a -4.64)(light -1.40)(, -1.04) line score is : -2.716, look ahead score is : 0.000
+(and -1.04)(could -6.21)(not -3.47)(continue -1.43)(back -5.19)(halfway -0.55)(. -3.52) line score is : -3.058, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.2841752546448864----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and her sons were better and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(her -6.27)(sons -2.62)(were -1.57)(better -1.72)(and -6.00)(okay -1.32)(. -9.38) line score is : -3.761, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and some of the members are swines 
+-------------------------score:  -3.2879741586023763----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and some of the soldiers swore sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(some -6.27)(of -2.62)(the -1.57)(soldiers -6.91)(swore -1.78)(sunday -0.99)(. -3.44) line score is : -3.099, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.299207009615437----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and it was not long beforehand may . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(it -6.27)(was -2.62)(not -1.57)(long -4.38)(beforehand -0.71)(may -3.40)(. -2.87) line score is : -2.880, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.3010143423452973----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ but she had she died fighting she lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(but -1.21)(she -6.27)(had -2.62)(she -2.37)(died -2.05)(fighting -3.27)(she -7.52)(lay -2.77)(. -4.41) line score is : -3.611, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.3069902630522847----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ then she swore on her sword and birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(then -1.21)(she -6.27)(swore -2.62)(on -5.20)(her -3.84)(sword -5.98)(and -5.47)(birthday -1.04)(. -1.66) line score is : -3.699, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and finished the solo with honour 
+-------------------------score:  -3.3251653681198756----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and left the convent with resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(left -6.27)(the -2.62)(convent -1.57)(with -5.89)(resume -2.91)(. -5.96) line score is : -3.777, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.3307289530833564----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and never could learn a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(never -6.27)(could -2.62)(learn -1.57)(a -6.46)(resume -5.17)(. -3.48) line score is : -3.827, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but nobody knew what he said 
+-------------------------score:  -3.3347209304571153----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ but nobody knew what she okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(but -1.21)(nobody -6.27)(knew -2.62)(what -2.37)(she -7.62)(okay -2.36)(. -2.64) line score is : -3.587, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.406015076513948----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ the hero is introduced halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(the -1.21)(hero -6.27)(is -2.62)(introduced -3.76)(halfway -4.20)(. -5.46) line score is : -3.922, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to write verses relating to wind 
+-------------------------score:  -3.4558501054843265----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ to help others overcome to day . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(to -1.21)(help -6.27)(others -2.62)(overcome -6.50)(to -5.49)(day -4.78)(. -5.02) line score is : -4.556, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sometimes get quite cranky 
+-------------------------score:  -3.4848831409010392----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and never recover quite halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(never -6.27)(recover -2.62)(quite -1.57)(halfway -6.46)(. -8.15) line score is : -4.380, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ in a sugary takeover bid 
+-------------------------score:  -3.547618990314418----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ in a desperate effort resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(in -1.21)(a -6.27)(desperate -2.62)(effort -5.71)(resume -2.17)(. -4.47) line score is : -3.743, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.657230878068555----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and gar in before all the sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(gar -6.27)(in -2.62)(before -1.57)(all -7.52)(the -4.10)(sunday -9.93)(. -6.37) line score is : -4.950, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because of his scanty regalia 
+-------------------------score:  -3.6634054705500603----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ although our noble resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(although -1.21)(our -6.27)(noble -2.62)(resume -5.11)(. -8.15) line score is : -4.672, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and showed him many cstar 
+-------------------------score:  -3.671726885540732----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and was herself many resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(and -1.21)(was -6.27)(herself -2.62)(many -1.57)(resume -3.28)(. -7.92) line score is : -3.812, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.713487320144971----------------------- 
+there was a wise woman named kay 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ as if she outright fought resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(as -1.21)(if -6.27)(she -2.62)(outright -4.96)(fought -5.02)(resume -1.01)(. -13.08) line score is : -4.883, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.754074055340982----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ to make sure men on she resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(to -1.21)(make -6.27)(sure -2.62)(men -6.50)(on -4.80)(she -1.74)(resume -7.84)(. -6.39) line score is : -4.674, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ did anyone see where it went 
+-------------------------score:  -3.986150233944257----------------------- 
+there was a wise woman named renee 
+ who helped a poor widow on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ brought home rotten where it resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(helped -6.03)(a -3.86)(poor -3.62)(widow -2.78)(on -5.01)(her -0.46)(way -0.54)(. -3.17) line score is : -2.954, look ahead score is : 0.000
+(when -3.17)(she -3.68)(returned -0.91)(to -3.44)(fight -1.56)(, -8.31) line score is : -3.511, look ahead score is : 0.000
+(she -8.31)(was -1.39)(killed -0.56)(by -1.68)(a -3.29)(knight -1.25)(, -1.21) line score is : -2.527, look ahead score is : 0.000
+(brought -1.21)(home -6.27)(rotten -2.62)(where -7.16)(it -4.33)(resume -9.02)(. -8.59) line score is : -5.600, look ahead score is : 0.000

@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.862052135395281----------------------- 
+there was a bright lady named bok 
+ who went out her windows for a walk . 
+ she came back from the street , 
+ and she walked to the seat , 
+ and she sat down and began her talk . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(went -4.76)(out -2.62)(her -6.17)(windows -5.80)(for -5.13)(a -1.40)(walk -1.98)(. -1.92) line score is : -3.478, look ahead score is : 0.000
+(she -1.92)(came -1.56)(back -3.19)(from -0.38)(the -4.69)(street -0.93)(, -4.12) line score is : -2.399, look ahead score is : 0.000
+(and -4.12)(she -2.27)(walked -2.23)(to -2.18)(the -4.52)(seat -3.40)(, -1.08) line score is : -2.828, look ahead score is : 0.000
+(and -1.08)(she -8.12)(sat -3.48)(down -0.68)(and -0.73)(began -1.28)(her -0.54)(talk -2.28)(. -4.98) line score is : -2.574, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ her hair got so light 
+ she was ready to give and to take 
+-------------------------score:  -2.875565053955201----------------------- 
+there was a bright lady named bok 
+ who went out her windows for a walk . 
+ when she returned to bed , 
+ her body was so red , 
+ she was afraid to sleep and to talk . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(went -4.76)(out -2.62)(her -6.17)(windows -5.80)(for -5.13)(a -1.40)(walk -1.98)(. -1.92) line score is : -3.478, look ahead score is : 0.000
+(when -1.92)(she -3.86)(returned -0.32)(to -1.22)(bed -2.71)(, -5.35) line score is : -2.562, look ahead score is : 0.000
+(her -5.35)(body -0.89)(was -2.56)(so -4.35)(red -0.56)(, -3.75) line score is : -2.910, look ahead score is : 0.000
+(she -3.75)(was -4.88)(afraid -2.48)(to -1.08)(sleep -2.21)(and -2.93)(to -1.37)(talk -1.99)(. -3.69) line score is : -2.709, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ her hair got so light 
+ she was destined to go a long way 
+-------------------------score:  -2.951214401952682----------------------- 
+there was a bright lady named bok 
+ who went out her windows for a walk . 
+ when she returned to bed , 
+ her body was so red , 
+ she was sure to have a severe shock . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(went -4.76)(out -2.62)(her -6.17)(windows -5.80)(for -5.13)(a -1.40)(walk -1.98)(. -1.92) line score is : -3.478, look ahead score is : 0.000
+(when -1.92)(she -3.86)(returned -0.32)(to -1.22)(bed -2.71)(, -5.35) line score is : -2.562, look ahead score is : 0.000
+(her -5.35)(body -0.89)(was -2.56)(so -4.35)(red -0.56)(, -3.75) line score is : -2.910, look ahead score is : 0.000
+(she -3.75)(was -4.88)(sure -2.48)(to -1.08)(have -2.21)(a -3.82)(severe -3.62)(shock -2.30)(. -2.51) line score is : -2.963, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ they came back from the ride 
+ with a hat on my head 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.971783708442341----------------------- 
+there was a bright lady named bok 
+ who went out her windows for a walk . 
+ she came back from the street , 
+ with a bag on her seat , 
+ and she looked down and spotted my cock . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(went -4.76)(out -2.62)(her -6.17)(windows -5.80)(for -5.13)(a -1.40)(walk -1.98)(. -1.92) line score is : -3.478, look ahead score is : 0.000
+(she -1.92)(came -1.56)(back -3.19)(from -0.38)(the -4.69)(street -0.93)(, -4.12) line score is : -2.399, look ahead score is : 0.000
+(with -4.12)(a -2.27)(bag -4.32)(on -1.31)(her -3.15)(seat -3.23)(, -0.08) line score is : -2.639, look ahead score is : 0.000
+(and -0.08)(she -8.40)(looked -0.94)(down -1.18)(and -2.75)(spotted -3.57)(my -2.76)(cock -1.54)(. -5.89) line score is : -3.011, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9858532012440264----------------------- 
+there was a bright lady named bok 
+ who went out her windows for a walk . 
+ when she returned to land , 
+ she was met by a hand , 
+ and she looked down and saw our cock . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(went -4.76)(out -2.62)(her -6.17)(windows -5.80)(for -5.13)(a -1.40)(walk -1.98)(. -1.92) line score is : -3.478, look ahead score is : 0.000
+(when -1.92)(she -3.86)(returned -0.32)(to -1.22)(land -2.71)(, -7.80) line score is : -2.972, look ahead score is : 0.000
+(she -7.80)(was -1.18)(met -0.43)(by -2.30)(a -3.43)(hand -0.23)(, -0.99) line score is : -2.338, look ahead score is : 0.000
+(and -0.99)(she -7.64)(looked -3.87)(down -1.90)(and -1.87)(saw -3.88)(our -2.10)(cock -1.16)(. -0.33) line score is : -2.638, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.001891090111299----------------------- 
+there was a bright lady named bok 
+ who went out her windows for a walk . 
+ when she returned to town , 
+ she was met by a clown , 
+ so she ran up and beat on the clock . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(went -4.76)(out -2.62)(her -6.17)(windows -5.80)(for -5.13)(a -1.40)(walk -1.98)(. -1.92) line score is : -3.478, look ahead score is : 0.000
+(when -1.92)(she -3.86)(returned -0.32)(to -1.22)(town -2.71)(, -5.21) line score is : -2.540, look ahead score is : 0.000
+(she -5.21)(was -1.21)(met -0.44)(by -2.47)(a -3.14)(clown -0.30)(, -1.10) line score is : -1.981, look ahead score is : 0.000
+(so -1.10)(she -8.48)(ran -2.22)(up -5.59)(and -0.52)(beat -2.93)(on -3.01)(the -2.34)(clock -5.45)(. -3.48) line score is : -3.512, look ahead score is : 0.000

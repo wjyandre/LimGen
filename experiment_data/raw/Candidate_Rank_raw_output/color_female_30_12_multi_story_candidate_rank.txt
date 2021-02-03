@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.1098930727818916----------------------- 
+there was a chunky girl named grace 
+ who used a red lipstick on her face . 
+ she looked like a rainbow , 
+ her hair was a shadow , 
+ and she wore makeup everywhere place . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(used -4.71)(a -4.74)(red -5.82)(lipstick -2.98)(on -3.60)(her -0.23)(face -1.38)(. -1.34) line score is : -2.947, look ahead score is : 0.000
+(she -1.34)(looked -1.96)(like -2.81)(a -1.31)(rainbow -1.22)(, -7.75) line score is : -2.733, look ahead score is : 0.000
+(her -7.75)(hair -2.39)(was -3.89)(a -1.81)(shadow -0.84)(, -3.14) line score is : -3.301, look ahead score is : 0.000
+(and -3.14)(she -7.82)(wore -1.75)(makeup -0.80)(everywhere -0.94)(place -1.40)(. -4.76) line score is : -2.944, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ BUT VBD A JJ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ but got a great fright 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.1450237920207362----------------------- 
+there was a neat artist named grace 
+ who used a red lipstick on her face . 
+ it looked like a rainbow , 
+ but was a black shadow , 
+ and she did not like color of base . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(used -4.45)(a -3.13)(red -6.06)(lipstick -3.46)(on -2.98)(her -0.46)(face -1.43)(. -1.97) line score is : -3.040, look ahead score is : 0.000
+(it -1.97)(looked -3.18)(like -2.44)(a -1.47)(rainbow -1.48)(, -5.13) line score is : -2.610, look ahead score is : 0.000
+(but -5.13)(was -1.89)(a -1.13)(black -3.40)(shadow -3.71)(, -4.00) line score is : -3.209, look ahead score is : 0.000
+(and -4.00)(she -4.43)(did -2.95)(not -1.65)(like -2.18)(color -4.68)(of -1.21)(base -2.74)(. -6.00) line score is : -3.316, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ BUT VBD A JJ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ but got a great fright 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.156646798054377----------------------- 
+there was a neat artist named grace 
+ who used a red lipstick on her face . 
+ it looked like a rainbow , 
+ but had a black shadow , 
+ and her eyebrows were lighter and lace . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(used -4.45)(a -3.13)(red -6.06)(lipstick -3.46)(on -2.98)(her -0.46)(face -1.43)(. -1.97) line score is : -3.040, look ahead score is : 0.000
+(it -1.97)(looked -3.18)(like -2.44)(a -1.47)(rainbow -1.48)(, -5.13) line score is : -2.610, look ahead score is : 0.000
+(but -5.13)(had -1.89)(a -1.13)(black -5.66)(shadow -1.32)(, -3.78) line score is : -3.152, look ahead score is : 0.000
+(and -3.78)(her -4.63)(eyebrows -3.18)(were -1.24)(lighter -3.44)(and -4.13)(lace -0.33)(. -7.07) line score is : -3.475, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.161029601469636----------------------- 
+there was a neat artist named grace 
+ who used a red lipstick on her face . 
+ it looked like a rainbow , 
+ and i got to the show , 
+ and it was not like something of race . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(used -4.45)(a -3.13)(red -6.06)(lipstick -3.46)(on -2.98)(her -0.46)(face -1.43)(. -1.97) line score is : -3.040, look ahead score is : 0.000
+(it -1.97)(looked -3.18)(like -2.44)(a -1.47)(rainbow -1.48)(, -5.13) line score is : -2.610, look ahead score is : 0.000
+(and -5.13)(i -1.89)(got -1.68)(to -2.05)(the -4.56)(show -2.22)(, -4.86) line score is : -3.199, look ahead score is : 0.000
+(and -4.86)(it -6.66)(was -2.91)(not -0.48)(like -2.20)(something -0.47)(of -5.29)(race -3.06)(. -5.42) line score is : -3.484, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.1980289573470753----------------------- 
+there was a chunky girl named grace 
+ who used a red lipstick on her face . 
+ she looked like a rainbow , 
+ her hair was a shadow , 
+ and her glasses were smaller and base . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(used -4.71)(a -4.74)(red -5.82)(lipstick -2.98)(on -3.60)(her -0.23)(face -1.38)(. -1.34) line score is : -2.947, look ahead score is : 0.000
+(she -1.34)(looked -1.96)(like -2.81)(a -1.31)(rainbow -1.22)(, -7.75) line score is : -2.733, look ahead score is : 0.000
+(her -7.75)(hair -2.39)(was -3.89)(a -1.81)(shadow -0.84)(, -3.14) line score is : -3.301, look ahead score is : 0.000
+(and -3.14)(her -7.82)(glasses -1.75)(were -0.80)(smaller -0.90)(and -4.97)(base -0.56)(. -7.68) line score is : -3.451, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ BUT VBD A JJ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ but got a great fright 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.205547234107708----------------------- 
+there was a neat artist named grace 
+ who used a red lipstick on her face . 
+ it looked like a rainbow , 
+ but had a black shadow , 
+ and she wore makeup everywhere base . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(used -4.45)(a -3.13)(red -6.06)(lipstick -3.46)(on -2.98)(her -0.46)(face -1.43)(. -1.97) line score is : -3.040, look ahead score is : 0.000
+(it -1.97)(looked -3.18)(like -2.44)(a -1.47)(rainbow -1.48)(, -5.13) line score is : -2.610, look ahead score is : 0.000
+(but -5.13)(had -1.89)(a -1.13)(black -5.66)(shadow -1.32)(, -3.78) line score is : -3.152, look ahead score is : 0.000
+(and -3.78)(she -4.63)(wore -3.18)(makeup -1.24)(everywhere -2.52)(base -2.38)(. -4.53) line score is : -3.178, look ahead score is : 0.000

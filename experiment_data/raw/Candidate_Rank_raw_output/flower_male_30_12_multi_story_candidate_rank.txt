@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ so he went down the mall 
+ and now he 's a college professor 
+-------------------------score:  -2.8045734954216788----------------------- 
+there was a lucky boy named saul 
+ who carved a big circle on his wall . 
+ it was for his birthday , 
+ so he wrote down the day , 
+ and then he gets a telephone call . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(was -2.34)(for -0.86)(his -4.73)(birthday -1.46)(, -3.71) line score is : -2.540, look ahead score is : 0.000
+(so -3.71)(he -1.68)(wrote -2.61)(down -0.83)(the -4.31)(day -4.06)(, -1.37) line score is : -2.653, look ahead score is : 0.000
+(and -1.37)(then -4.33)(he -2.45)(gets -1.39)(a -1.95)(telephone -1.69)(call -8.60)(. -1.59) line score is : -2.922, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8158497087883227----------------------- 
+there was a lucky boy named jamal 
+ who carved a big circle on his wall . 
+ it looked like a rainbow , 
+ and it stuck to the snow , 
+ so it had to come down on the fall . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(looked -2.34)(like -3.65)(a -0.33)(rainbow -0.58)(, -6.03) line score is : -2.510, look ahead score is : 0.000
+(and -6.03)(it -1.71)(stuck -1.42)(to -2.15)(the -4.81)(snow -2.03)(, -0.83) line score is : -2.713, look ahead score is : 0.000
+(so -0.83)(it -7.21)(had -2.81)(to -2.45)(come -2.05)(down -3.15)(on -1.02)(the -5.28)(fall -0.39)(. -4.02) line score is : -2.919, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.882418849505484----------------------- 
+there was a lucky boy named jamal 
+ who carved a big circle on his wall . 
+ it looked like a rainbow , 
+ and it stuck to the snow , 
+ and it hung down and covered his hall . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(looked -2.34)(like -3.65)(a -0.33)(rainbow -0.58)(, -6.03) line score is : -2.510, look ahead score is : 0.000
+(and -6.03)(it -1.71)(stuck -1.42)(to -2.15)(the -4.81)(snow -2.03)(, -0.83) line score is : -2.713, look ahead score is : 0.000
+(and -0.83)(it -7.21)(hung -2.81)(down -1.26)(and -1.30)(covered -4.86)(his -2.89)(hall -3.25)(. -3.57) line score is : -3.109, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ SO PRP VBD DOWN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ so he went down the mall 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9223227482853513----------------------- 
+there was a lucky boy named jamal 
+ who carved a big circle on his wall . 
+ it was for his birthday , 
+ so he wrote down the day , 
+ so he had to write down on the ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(was -2.34)(for -0.86)(his -4.73)(birthday -1.46)(, -3.71) line score is : -2.540, look ahead score is : 0.000
+(so -3.71)(he -1.68)(wrote -2.61)(down -0.83)(the -4.31)(day -4.06)(, -1.37) line score is : -2.653, look ahead score is : 0.000
+(so -1.37)(he -4.33)(had -2.45)(to -4.29)(write -1.06)(down -3.99)(on -2.36)(the -2.37)(ball -1.72)(. -5.92) line score is : -2.986, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9441444259136915----------------------- 
+there was a lucky boy named saul 
+ who carved a big circle on his wall . 
+ it was for my birthday , 
+ and i got to the day , 
+ and i looked down and saw his fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(was -2.34)(for -0.86)(my -4.73)(birthday -4.15)(, -2.21) line score is : -2.738, look ahead score is : 0.000
+(and -2.21)(i -1.83)(got -1.16)(to -1.14)(the -3.79)(day -1.36)(, -5.44) line score is : -2.418, look ahead score is : 0.000
+(and -5.44)(i -5.89)(looked -3.77)(down -0.92)(and -1.54)(saw -3.07)(his -2.33)(fireball -1.06)(. -2.03) line score is : -2.896, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -2.9456779351157527----------------------- 
+there was a lucky boy named saul 
+ who carved a big circle on his wall . 
+ it looked like a rainbow , 
+ and it stuck to the snow , 
+ and now it is a giant fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(looked -2.34)(like -3.65)(a -0.33)(rainbow -0.58)(, -6.03) line score is : -2.510, look ahead score is : 0.000
+(and -6.03)(it -1.71)(stuck -1.42)(to -2.15)(the -4.81)(snow -2.03)(, -0.83) line score is : -2.713, look ahead score is : 0.000
+(and -0.83)(now -7.21)(it -2.81)(is -1.26)(a -5.53)(giant -1.14)(fireball -3.52)(. -2.72) line score is : -3.127, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ SO PRP VBD DOWN THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ so he went down the mall 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.949238121509552----------------------- 
+there was a lucky boy named saul 
+ who carved a big circle on his wall . 
+ it was for his birthday , 
+ so he wrote down the day , 
+ and we went down and had our ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(was -2.34)(for -0.86)(his -4.73)(birthday -1.46)(, -3.71) line score is : -2.540, look ahead score is : 0.000
+(so -3.71)(he -1.68)(wrote -2.61)(down -0.83)(the -4.31)(day -4.06)(, -1.37) line score is : -2.653, look ahead score is : 0.000
+(and -1.37)(we -4.33)(went -2.45)(down -1.39)(and -4.99)(had -3.02)(our -3.15)(ball -2.79)(. -2.65) line score is : -2.906, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9724266727765403----------------------- 
+there was a lucky boy named saul 
+ who carved a big circle on his wall . 
+ it was for his birthday , 
+ and he had to the day , 
+ so he had to go down on the ball . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(carved -8.85)(a -1.86)(big -4.38)(circle -3.67)(on -1.75)(his -1.81)(wall -3.56)(. -2.13) line score is : -3.292, look ahead score is : 0.000
+(it -2.13)(was -2.34)(for -0.86)(his -4.73)(birthday -1.46)(, -3.71) line score is : -2.540, look ahead score is : 0.000
+(and -3.71)(he -1.68)(had -1.20)(to -0.89)(the -2.02)(day -3.37)(, -9.37) line score is : -3.176, look ahead score is : 0.000
+(so -9.37)(he -3.87)(had -4.16)(to -2.08)(go -0.49)(down -2.76)(on -1.95)(the -3.83)(ball -3.87)(. -3.86) line score is : -3.623, look ahead score is : 0.000

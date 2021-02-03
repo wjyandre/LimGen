@@ -1,0 +1,1 @@
+Raw output data from Candidate-Rank and LimGen methods for diversity evaluation. 

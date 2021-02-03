@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3846927727422407----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ and it was much like writing of chess . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(and -2.22)(it -8.94)(was -2.61)(much -1.54)(like -3.33)(writing -1.51)(of -5.38)(chess -2.57)(. -3.76) line score is : -3.541, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.3986773014068605----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ but i am now ready for progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(but -2.91)(i -7.92)(am -2.35)(now -1.32)(ready -1.11)(for -6.81)(progress -2.27)(. -5.62) line score is : -3.790, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.51029053889215----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a network , 
+ so he got up and put on the dress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(network -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(so -2.22)(he -8.79)(got -4.56)(up -3.97)(and -0.89)(put -5.05)(on -5.32)(the -2.73)(dress -5.89)(. -2.02) line score is : -4.143, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.512129872075973----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would take a framework , 
+ and go home to his room in progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(take -0.77)(a -2.96)(framework -3.70)(, -1.85) line score is : -2.556, look ahead score is : 0.000
+(and -1.85)(go -9.48)(home -2.28)(to -2.24)(his -4.63)(room -5.04)(in -2.65)(progress -2.23)(. -3.16) line score is : -3.729, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ he never completed his task 
+-------------------------score:  -3.5233864933252335----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i basically followed his progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(basically -7.92)(followed -2.35)(his -2.91)(progress -7.04)(. -4.25) line score is : -4.563, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.5756300648053485----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ which was built with the latest progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(which -2.22)(was -8.94)(built -2.61)(with -3.34)(the -1.81)(latest -5.03)(progress -3.31)(. -1.99) line score is : -3.655, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ but the telephone book caused him pain 
+-------------------------score:  -3.577008350690206----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ but the end result was you progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(but -2.22)(the -8.94)(end -2.61)(result -2.19)(was -3.57)(you -4.92)(progress -0.44)(. -1.09) line score is : -3.247, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.587554844220479----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ but they are not perfect for progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(but -2.22)(they -8.94)(are -2.61)(not -2.19)(perfect -5.32)(for -4.60)(progress -2.05)(. -4.36) line score is : -4.037, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.618566357320355----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i worked through the problem and tried less . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(worked -7.92)(through -2.35)(the -2.91)(problem -4.02)(and -4.21)(tried -1.36)(less -6.26)(. -2.68) line score is : -3.846, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ they bedded her down in the stable 
+-------------------------score:  -3.6245901346206666----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ he wanted it down in the address . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(he -2.22)(wanted -8.94)(it -2.61)(down -2.77)(in -6.06)(the -3.18)(address -6.24)(. -3.78) line score is : -4.474, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but the telephone book caused him pain 
+-------------------------score:  -3.638808204730352----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ but the knowledge base got me access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(but -2.91)(the -7.92)(knowledge -2.35)(base -1.32)(got -3.36)(me -5.04)(access -2.38)(. -4.70) line score is : -3.747, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ and now he 's a college professor 
+-------------------------score:  -3.639177081982295----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ and then he has a system progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(and -2.22)(then -8.94)(he -2.61)(has -1.54)(a -1.79)(system -0.83)(progress -8.27)(. -2.35) line score is : -3.569, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ what was shown on the cinema screen 
+-------------------------score:  -3.668754569689433----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ what was needed on the day access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(what -2.22)(was -8.94)(needed -2.61)(on -5.90)(the -2.91)(day -3.30)(access -4.31)(. -1.23) line score is : -3.927, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.6908936301867166----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ and his tools were easier and less . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(and -2.22)(his -8.94)(tools -2.61)(were -1.54)(easier -4.62)(and -5.41)(less -1.95)(. -6.63) line score is : -4.242, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.700720347207168----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a network , 
+ and he had someone always access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(network -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(and -2.22)(he -8.79)(had -4.56)(someone -1.61)(always -1.39)(access -3.02)(. -5.24) line score is : -3.834, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.705025376812104----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ he used it and made changes and yes . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(he -2.22)(used -8.94)(it -2.61)(and -2.77)(made -6.01)(changes -2.60)(and -3.55)(yes -5.20)(. -2.50) line score is : -4.044, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.7140146685498103----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i even created a progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(even -7.92)(created -2.35)(a -2.91)(progress -6.34)(. -5.04) line score is : -4.578, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.726674993191996----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i knew it and had tools and address . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(knew -7.92)(it -2.35)(and -2.91)(had -2.62)(tools -3.45)(and -3.54)(address -3.75)(. -6.93) line score is : -4.042, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ when he saw there were six little chips 
+-------------------------score:  -3.747926364983282----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ when he worked there was one big access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(when -2.22)(he -8.94)(worked -2.61)(there -6.89)(was -0.23)(one -3.02)(big -5.60)(access -2.40)(. -5.11) line score is : -4.114, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP WOULD VB A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he would wave a cigar 
+ to call my last novel impure 
+-------------------------score:  -3.7644441579950265----------------------- 
+there was a writer named les 
+ who learned a great deal on his process . 
+ when he started to work , 
+ he would have a framework , 
+ to follow his own advice progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(he -4.54)(started -1.49)(to -2.55)(work -3.33)(, -3.07) line score is : -2.806, look ahead score is : 0.000
+(he -3.07)(would -2.99)(have -0.77)(a -2.96)(framework -3.61)(, -2.22) line score is : -2.602, look ahead score is : 0.000
+(to -2.22)(follow -8.94)(his -2.61)(own -5.85)(advice -3.90)(progress -3.21)(. -1.91) line score is : -4.092, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ she sat up in bed and meowed 
+-------------------------score:  -3.803012392918269----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i was up in heaven and access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(was -7.92)(up -2.35)(in -2.91)(heaven -2.03)(and -6.82)(access -3.09)(. -6.50) line score is : -4.317, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.9332796394824983----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i knew when i have across access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(knew -7.92)(when -2.35)(i -2.91)(have -2.62)(across -5.63)(access -1.39)(. -6.51) line score is : -4.030, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ you never can tell till you try 
+-------------------------score:  -3.9606471836566923----------------------- 
+there was a writer named jess 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i really can say in it progress . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(really -7.92)(can -2.35)(say -2.91)(in -6.00)(it -7.62)(progress -3.26)(. -5.65) line score is : -4.827, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ I d probably know two or three 
+-------------------------score:  -4.001085287332534----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ i have always gotten three or yes . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(i -2.91)(have -7.92)(always -2.35)(gotten -2.91)(three -5.37)(or -5.52)(yes -6.08)(. -7.62) line score is : -5.085, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but will ruminate on while I chew 
+-------------------------score:  -4.065452859799067----------------------- 
+there was a writer named wes 
+ who learned a great deal on his process . 
+ when i started to work , 
+ i had the same framework , 
+ but will follow on while i access . 
+------------------------- score breakdown ------------------------ 
+(who -3.22)(learned -7.84)(a -3.06)(great -2.87)(deal -0.07)(on -5.36)(his -1.65)(process -8.72)(. -1.86) line score is : -3.850, look ahead score is : 0.000
+(when -1.86)(i -4.54)(started -1.40)(to -2.91)(work -3.26)(, -2.79) line score is : -2.792, look ahead score is : 0.000
+(i -2.79)(had -3.59)(the -0.80)(same -2.56)(framework -3.33)(, -2.91) line score is : -2.663, look ahead score is : 0.000
+(but -2.91)(will -7.92)(follow -2.35)(on -1.32)(while -10.00)(i -6.26)(access -6.36)(. -7.84) line score is : -5.619, look ahead score is : 0.000

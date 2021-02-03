@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.00659831802571----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ she was able to write and to play . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(she -0.33)(was -0.76)(able -5.87)(to -3.19)(write -1.77)(and -2.74)(to -0.00)(play -3.75)(. -3.23) line score is : -2.405, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.1655999858464514----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ she only remembered her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(she -0.33)(only -0.76)(remembered -5.87)(her -3.19)(birthday -6.71)(. -2.07) line score is : -3.157, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ then fell into a vat of grease 
+-------------------------score:  -3.2685189495484033----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ still locked into a body of clay . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(still -0.33)(locked -0.76)(into -5.87)(a -5.77)(body -6.19)(of -2.19)(clay -2.63)(. -3.66) line score is : -3.424, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.2941213010965535----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to fight , 
+ she was able to write , 
+ so she also wrote on the survey . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(fight -0.97)(, -8.59) line score is : -4.043, look ahead score is : 0.000
+(she -8.59)(was -1.34)(able -0.55)(to -1.78)(write -3.83)(, -0.00) line score is : -2.682, look ahead score is : 0.000
+(so -0.00)(she -6.98)(also -4.15)(wrote -5.22)(on -0.64)(the -5.19)(survey -3.23)(. -4.33) line score is : -3.717, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ did anyone see where it went 
+-------------------------score:  -3.3467445332428505----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ had somehow forgotten where she lay . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(had -0.33)(somehow -0.76)(forgotten -5.87)(where -6.85)(she -6.45)(lay -3.38)(. -4.32) line score is : -3.995, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ that she pickled her internal workins' 
+-------------------------score:  -3.3961631912609627----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ that she felt she understood okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(that -0.33)(she -0.76)(felt -5.87)(she -5.24)(understood -1.18)(okay -5.22)(. -4.64) line score is : -3.319, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.4178334285815555----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ it was all her friends talking birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(it -0.33)(was -0.76)(all -5.87)(her -5.13)(friends -0.68)(talking -3.33)(birthday -3.38)(. -4.77) line score is : -3.031, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ what was shown on the cinema screen 
+-------------------------score:  -3.4180651833613713----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ what was written on the board friday . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(what -0.33)(was -0.76)(written -5.87)(on -6.33)(the -2.91)(board -4.74)(friday -0.84)(. -0.74) line score is : -2.816, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.4454665347453086----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ in words she knew all within the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(in -0.33)(words -0.76)(she -5.87)(knew -2.50)(all -6.06)(within -1.32)(the -3.21)(day -3.89)(. -10.30) line score is : -3.804, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.484696070032735----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ once she got it right within the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(once -0.33)(she -0.76)(got -5.87)(it -3.79)(right -4.11)(within -3.51)(the -3.53)(day -1.98)(. -10.32) line score is : -3.800, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.487306761164819----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ he was through the door and was resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(he -0.33)(was -0.76)(through -5.87)(the -6.22)(door -1.41)(and -9.37)(was -1.91)(resume -1.15)(. -2.51) line score is : -3.282, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.4882950355609257----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ but i think still grateful for friday . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(but -0.33)(i -0.76)(think -5.87)(still -5.15)(grateful -6.78)(for -2.76)(friday -4.01)(. -3.63) line score is : -3.662, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.5009613583485284----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ she was not the girl she resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(she -0.33)(was -0.76)(not -5.87)(the -3.19)(girl -1.77)(she -2.69)(resume -2.97)(. -3.97) line score is : -2.693, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ when he saw there were six little chips 
+-------------------------score:  -3.526445862747008----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ when she thought there were two distinct day . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(when -0.33)(she -0.76)(thought -5.87)(there -5.01)(were -0.54)(two -4.03)(distinct -5.52)(day -1.71)(. -4.39) line score is : -3.129, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.5305031047713373----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ once she hit on her name and birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(once -0.33)(she -0.76)(hit -5.87)(on -3.79)(her -4.11)(name -6.36)(and -3.06)(birthday -2.65)(. -3.43) line score is : -3.373, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.547857826940405----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to hell , 
+ she was able to tell , 
+ she was up in heaven and halfway . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(hell -0.97)(, -8.93) line score is : -4.100, look ahead score is : 0.000
+(she -8.93)(was -0.67)(able -0.59)(to -1.97)(tell -4.15)(, -0.00) line score is : -2.719, look ahead score is : 0.000
+(she -0.00)(was -4.28)(up -6.71)(in -2.18)(heaven -1.52)(and -8.27)(halfway -3.26)(. -1.16) line score is : -3.424, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but nobody knew what he said 
+-------------------------score:  -3.6693184663429212----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to hell , 
+ she was able to yell , 
+ but nobody answered what she they . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(hell -0.97)(, -8.93) line score is : -4.100, look ahead score is : 0.000
+(she -8.93)(was -0.67)(able -0.59)(to -1.97)(yell -4.15)(, -0.00) line score is : -2.719, look ahead score is : 0.000
+(but -0.00)(nobody -8.99)(answered -2.81)(what -3.66)(she -5.63)(they -2.87)(. -7.62) line score is : -4.512, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ to tutor two tutors to toot 
+-------------------------score:  -3.7106245971959213----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ to have two subjects to resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(to -0.33)(have -0.76)(two -5.87)(subjects -3.83)(to -7.84)(resume -6.59)(. -7.39) line score is : -4.659, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ to call my last novel impure 
+-------------------------score:  -3.757754869502166----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ to add her own version resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(to -0.33)(add -0.76)(her -5.87)(own -3.83)(version -8.01)(resume -2.68)(. -0.36) line score is : -3.121, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ you never can tell till you try 
+-------------------------score:  -3.7617594808340074----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ she still can read in it resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(she -0.33)(still -0.76)(can -5.87)(read -3.19)(in -5.34)(it -5.91)(resume -3.99)(. -4.52) line score is : -3.739, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ to keep from soiling her feet 
+-------------------------score:  -3.791340462012409----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to fight , 
+ she was able to write , 
+ to learn from surviving their cache . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(fight -0.97)(, -8.59) line score is : -4.043, look ahead score is : 0.000
+(she -8.59)(was -1.34)(able -0.55)(to -1.78)(write -3.83)(, -0.00) line score is : -2.682, look ahead score is : 0.000
+(to -0.00)(learn -6.98)(from -4.15)(surviving -4.63)(their -3.22)(cache -4.21)(. -7.56) line score is : -4.392, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ that unlucky old person of ems 
+-------------------------score:  -3.8077610124801766----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ that old english teacher of sunday . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(that -0.33)(old -0.76)(english -5.87)(teacher -5.24)(of -8.04)(sunday -5.59)(. -2.88) line score is : -4.101, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ as if he 'd been invited 
+-------------------------score:  -3.9096052173830182----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to hell , 
+ she was able to tell , 
+ as if she outright recognized they . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(hell -0.97)(, -8.93) line score is : -4.100, look ahead score is : 0.000
+(she -8.93)(was -0.67)(able -0.59)(to -1.97)(tell -4.15)(, -0.00) line score is : -2.719, look ahead score is : 0.000
+(as -0.00)(if -4.28)(she -6.71)(outright -3.40)(recognized -3.75)(they -1.44)(. -13.56) line score is : -4.736, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ WOULD VB AROUND JJ WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ would fall around helpless with laughter 
+-------------------------score:  -3.995056700089882----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ would be around thirty with halfway . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(would -0.33)(be -0.76)(around -5.87)(thirty -9.99)(with -1.83)(halfway -7.49)(. -5.10) line score is : -4.480, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ great writers are fewer and fewer 
+-------------------------score:  -4.066930138859256----------------------- 
+there was a professor named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ amongst books are older and essay . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(amongst -0.33)(books -0.76)(are -5.87)(older -7.05)(and -5.73)(essay -9.01)(. -7.33) line score is : -5.153, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ NNP MD RB VB JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ virginia couldn t be skinnier 
+-------------------------score:  -4.246741176715919----------------------- 
+there was a professor named kay 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ oh wo never worry resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.19)(learned -7.01)(a -3.17)(new -3.77)(language -1.37)(on -4.68)(her -1.55)(way -2.82)(. -6.68) line score is : -3.695, look ahead score is : 0.000
+(when -6.68)(she -4.16)(returned -0.90)(to -2.96)(mind -0.97)(, -9.90) line score is : -4.261, look ahead score is : 0.000
+(she -9.90)(was -0.92)(surprised -0.55)(to -2.15)(find -3.44)(, -0.33) line score is : -2.881, look ahead score is : 0.000
+(oh -0.33)(wo -0.76)(never -5.87)(worry -7.24)(resume -9.28)(. -10.66) line score is : -5.691, look ahead score is : 0.000

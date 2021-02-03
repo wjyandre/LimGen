@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -2.6799156598506437----------------------- 
+there was a harsh soldier named dwight 
+ who killed all his family in a fight . 
+ when he returned to hell , 
+ he was saved by a spell , 
+ and now he is a warrior knight . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(fight -4.89)(. -1.86) line score is : -2.921, look ahead score is : 0.000
+(when -1.86)(he -3.55)(returned -0.82)(to -2.50)(hell -1.08)(, -6.64) line score is : -2.741, look ahead score is : 0.000
+(he -6.64)(was -0.95)(saved -0.45)(by -2.20)(a -4.68)(spell -0.22)(, -1.28) line score is : -2.347, look ahead score is : 0.000
+(and -1.28)(now -7.21)(he -3.23)(is -1.36)(a -3.34)(warrior -1.24)(knight -1.64)(. -2.31) line score is : -2.702, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.682416583552505----------------------- 
+there was a harsh soldier named salvador 
+ who killed all his family in a war . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and he looked down and saw his mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(war -3.92)(. -1.88) line score is : -2.816, look ahead score is : 0.000
+(he -1.88)(came -1.50)(back -4.56)(from -1.44)(the -2.18)(grave -1.05)(, -3.49) line score is : -2.301, look ahead score is : 0.000
+(and -3.49)(he -2.57)(went -2.35)(to -2.84)(the -4.42)(cave -1.05)(, -2.00) line score is : -2.674, look ahead score is : 0.000
+(and -2.00)(he -6.71)(looked -2.55)(down -0.63)(and -0.64)(saw -3.90)(his -2.59)(mentor -1.77)(. -1.35) line score is : -2.458, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.7500396407011785----------------------- 
+there was a harsh soldier named salvador 
+ who killed all his family in a war . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and that is the story of this door . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(war -3.92)(. -1.88) line score is : -2.816, look ahead score is : 0.000
+(he -1.88)(came -1.50)(back -4.56)(from -1.44)(the -2.18)(grave -1.05)(, -3.49) line score is : -2.301, look ahead score is : 0.000
+(and -3.49)(he -2.57)(went -2.35)(to -2.84)(the -4.42)(cave -1.05)(, -2.00) line score is : -2.674, look ahead score is : 0.000
+(and -2.00)(that -6.71)(is -2.55)(the -0.63)(story -5.55)(of -2.12)(this -2.54)(door -2.42)(. -0.59) line score is : -2.789, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ my mama was a goat 
+ and now he 's a college professor 
+-------------------------score:  -2.8097938299179077----------------------- 
+there was a harsh soldier named salvador 
+ who killed all his family in a war . 
+ when he returned to fight , 
+ his father was a knight , 
+ and now he is a warrior mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(war -3.92)(. -1.88) line score is : -2.816, look ahead score is : 0.000
+(when -1.88)(he -3.54)(returned -0.77)(to -2.55)(fight -1.08)(, -6.61) line score is : -2.741, look ahead score is : 0.000
+(his -6.61)(father -1.74)(was -2.81)(a -2.43)(knight -2.09)(, -3.53) line score is : -3.202, look ahead score is : 0.000
+(and -3.53)(now -5.42)(he -1.88)(is -1.01)(a -4.26)(warrior -1.03)(mentor -1.83)(. -1.35) line score is : -2.539, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH THE NN OF A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ with the faith of a marytr 
+ and now he 's a college professor 
+-------------------------score:  -2.849494838505052----------------------- 
+there was a harsh soldier named salvador 
+ who killed all his family in a war . 
+ he came back from the grave , 
+ with the help of a slave , 
+ and now he is a master mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(war -3.92)(. -1.88) line score is : -2.816, look ahead score is : 0.000
+(he -1.88)(came -1.50)(back -4.56)(from -1.44)(the -2.18)(grave -1.05)(, -3.49) line score is : -2.301, look ahead score is : 0.000
+(with -3.49)(the -2.57)(help -3.72)(of -2.37)(a -3.35)(slave -0.02)(, -1.61) line score is : -2.447, look ahead score is : 0.000
+(and -1.61)(now -7.95)(he -2.74)(is -1.34)(a -4.49)(master -1.37)(mentor -1.65)(. -2.26) line score is : -2.926, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -2.9348442098125815----------------------- 
+there was a harsh soldier named dwight 
+ who killed all his family in a fight . 
+ he came back from the war , 
+ and he went to the store , 
+ and then he kills a woman outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(fight -4.89)(. -1.86) line score is : -2.921, look ahead score is : 0.000
+(he -1.86)(came -1.50)(back -4.78)(from -1.46)(the -2.10)(war -1.05)(, -1.43) line score is : -2.027, look ahead score is : 0.000
+(and -1.43)(he -3.25)(went -2.43)(to -2.73)(the -4.17)(store -0.96)(, -2.20) line score is : -2.453, look ahead score is : 0.000
+(and -2.20)(then -6.52)(he -2.40)(kills -0.73)(a -4.66)(woman -0.36)(outright -6.27)(. -2.77) line score is : -3.240, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -2.938250357285142----------------------- 
+there was a harsh soldier named theodore 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was saved by a spell , 
+ but he does not live in our lore . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(war -3.92)(. -1.88) line score is : -2.816, look ahead score is : 0.000
+(when -1.88)(he -3.54)(returned -0.77)(to -2.55)(hell -1.08)(, -6.80) line score is : -2.772, look ahead score is : 0.000
+(he -6.80)(was -0.95)(saved -0.43)(by -2.31)(a -4.60)(spell -0.23)(, -1.22) line score is : -2.365, look ahead score is : 0.000
+(but -1.22)(he -7.30)(does -3.28)(not -1.46)(live -2.06)(in -5.46)(our -0.23)(lore -4.65)(. -2.08) line score is : -3.083, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0307174036579747----------------------- 
+there was a harsh soldier named salvador 
+ who killed all his family in a war . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and it was dark underground therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(war -3.92)(. -1.88) line score is : -2.816, look ahead score is : 0.000
+(he -1.88)(came -1.50)(back -4.56)(from -1.44)(the -2.18)(grave -1.05)(, -3.49) line score is : -2.301, look ahead score is : 0.000
+(and -3.49)(he -2.57)(went -2.35)(to -2.84)(the -4.42)(cave -1.05)(, -2.00) line score is : -2.674, look ahead score is : 0.000
+(and -2.00)(it -6.71)(was -2.55)(dark -0.63)(underground -4.72)(therefore -0.62)(. -3.14) line score is : -2.909, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.046428682282567----------------------- 
+there was a harsh soldier named dwight 
+ who killed all his family in a fight . 
+ he came back from the war , 
+ and he went to the store , 
+ and it was too much trouble outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(killed -5.14)(all -3.11)(his -2.01)(family -4.05)(in -2.48)(a -1.49)(fight -4.89)(. -1.86) line score is : -2.921, look ahead score is : 0.000
+(he -1.86)(came -1.50)(back -4.78)(from -1.46)(the -2.10)(war -1.05)(, -1.43) line score is : -2.027, look ahead score is : 0.000
+(and -1.43)(he -3.25)(went -2.43)(to -2.73)(the -4.17)(store -0.96)(, -2.20) line score is : -2.453, look ahead score is : 0.000
+(and -2.20)(it -6.52)(was -2.40)(too -0.73)(much -5.02)(trouble -0.56)(outright -5.52)(. -2.41) line score is : -3.170, look ahead score is : 0.000

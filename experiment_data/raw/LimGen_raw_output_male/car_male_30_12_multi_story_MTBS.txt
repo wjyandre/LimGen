@@ -1,0 +1,506 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.092803966253996----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would come to a place , 
+ we were on a staircase , 
+ and say hi to my daughter in heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(come -3.31)(to -2.84)(a -2.14)(place -5.47)(, -3.81) line score is : -2.870, look ahead score is : 0.000
+(we -3.81)(were -2.55)(on -4.32)(a -2.92)(staircase -4.21)(, -2.16) line score is : -3.328, look ahead score is : 0.000
+(and -2.16)(say -8.32)(hi -0.81)(to -0.65)(my -3.62)(daughter -4.66)(in -0.65)(heat -3.54)(. -2.68) line score is : -3.011, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.175266154607137----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and suddenly could hear a heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(suddenly -9.38)(could -0.90)(hear -0.95)(a -5.24)(heartbeat -9.25)(. -1.37) line score is : -4.134, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.206713017076254----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and that is the point of this concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(that -9.38)(is -0.90)(the -0.95)(point -5.45)(of -3.43)(this -2.87)(concrete -4.22)(. -1.86) line score is : -3.434, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2167188487946987----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and he was down and started his beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(he -9.38)(was -0.90)(down -0.95)(and -0.98)(started -3.22)(his -6.30)(beat -3.18)(. -6.22) line score is : -3.665, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and kissed her because he was wuise 
+-------------------------score:  -3.224955993313943----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ and hit her because she was concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(and -2.32)(hit -8.39)(her -0.90)(because -0.71)(she -7.47)(was -3.37)(concrete -5.29)(. -0.67) line score is : -3.640, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and finished the solo with honour 
+-------------------------score:  -3.2398475805918374----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and hit the piano with concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(hit -9.38)(the -0.90)(piano -0.95)(with -7.14)(concrete -1.89)(. -5.67) line score is : -3.968, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.26890367269516----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and he had somebody nearby eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(he -9.38)(had -0.90)(somebody -0.95)(nearby -0.98)(eat -4.25)(. -5.86) line score is : -3.452, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.3462520645510767----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ he was when you walk across concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(he -1.85)(was -9.38)(when -0.90)(you -1.38)(walk -2.38)(across -8.90)(concrete -2.88)(. -2.79) line score is : -3.807, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3488674722611904----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and he was not like someone of meat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(he -9.38)(was -0.90)(not -0.95)(like -0.98)(someone -3.22)(of -5.73)(meat -5.73)(. -4.47) line score is : -3.690, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.3519034571945667----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and for hours he just talks his beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(for -9.38)(hours -0.90)(he -0.95)(just -6.38)(talks -3.84)(his -0.70)(beat -4.77)(. -6.57) line score is : -3.926, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and now he 's a college professor 
+-------------------------score:  -3.3667219435015032----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ and once he sees a woman athlete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(and -2.32)(once -8.39)(he -0.90)(sees -0.71)(a -5.66)(woman -0.92)(athlete -5.60)(. -1.49) line score is : -3.248, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ he left all his fans wanting more 
+-------------------------score:  -3.3767299459826563----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ he had all his clothes hanging concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(he -1.85)(had -9.38)(all -0.90)(his -1.38)(clothes -3.43)(hanging -5.41)(concrete -1.52)(. -2.09) line score is : -3.244, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ to call my last novel impure 
+-------------------------score:  -3.451606730620066----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ to get his own cigarette concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(to -2.32)(get -8.39)(his -0.90)(own -4.66)(cigarette -2.20)(concrete -2.81)(. -5.19) line score is : -3.782, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ that she pickled her internal workins' 
+-------------------------score:  -3.474996505180995----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would come to a place , 
+ we were on a staircase , 
+ that he knew he understood concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(come -3.31)(to -2.84)(a -2.14)(place -5.47)(, -3.81) line score is : -2.870, look ahead score is : 0.000
+(we -3.81)(were -2.55)(on -4.32)(a -2.92)(staircase -4.21)(, -2.16) line score is : -3.328, look ahead score is : 0.000
+(that -2.16)(he -8.32)(knew -0.81)(he -6.10)(understood -2.20)(concrete -2.42)(. -3.84) line score is : -3.693, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ to write verses relating to wind 
+-------------------------score:  -3.528251584370931----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ to get cigarettes cut to concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(to -2.32)(get -8.39)(cigarettes -0.90)(cut -4.66)(to -2.20)(concrete -4.42)(. -8.09) line score is : -4.426, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ I invariably get in a stew ! 
+-------------------------score:  -3.533198871920186----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ he always come in a suit athlete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(he -2.32)(always -8.39)(come -0.90)(in -1.92)(a -5.36)(suit -6.77)(athlete -2.44)(. -4.02) line score is : -4.016, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ I did n't think life was this way 
+-------------------------score:  -3.5645621344447136----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ he was here till midnight was this beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(he -1.85)(was -9.38)(here -0.90)(till -1.38)(midnight -2.38)(was -6.50)(this -6.33)(beat -3.17)(. -9.97) line score is : -4.651, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ and now a new teacher they seek 
+-------------------------score:  -3.576024209299395----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ and then a young woman he athlete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(and -1.85)(then -9.38)(a -0.90)(young -0.95)(woman -4.04)(he -4.67)(athlete -4.77)(. -1.42) line score is : -3.496, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ to tutor two tutors to toot 
+-------------------------score:  -3.585114510854085----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ to buy two tomatoes to concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(to -2.32)(buy -8.39)(two -0.90)(tomatoes -4.66)(to -1.96)(concrete -5.70)(. -6.62) line score is : -4.365, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.6230193614959716----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ we were on a staircase , 
+ a little door opens no concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(we -4.01)(were -3.40)(on -5.03)(a -2.80)(staircase -4.10)(, -2.32) line score is : -3.611, look ahead score is : 0.000
+(a -2.32)(little -8.39)(door -0.90)(opens -4.34)(no -3.43)(concrete -3.72)(. -5.89) line score is : -4.142, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ to keep from soiling her feet 
+-------------------------score:  -3.738750098148982----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ i was on a staircase , 
+ to buy from including our feet . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(i -4.01)(was -3.40)(on -4.98)(a -3.26)(staircase -5.06)(, -2.58) line score is : -3.883, look ahead score is : 0.000
+(to -2.58)(buy -7.93)(from -1.09)(including -4.43)(our -1.72)(feet -7.82)(. -12.80) line score is : -5.481, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ or does gravity miss things so small 
+-------------------------score:  -3.770052663741573----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would go to a place , 
+ he was on a staircase , 
+ or has someone put flowers so sweet . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(go -3.31)(to -3.74)(a -1.55)(place -3.14)(, -4.01) line score is : -2.610, look ahead score is : 0.000
+(he -4.01)(was -3.40)(on -3.26)(a -3.26)(staircase -4.95)(, -1.85) line score is : -3.454, look ahead score is : 0.000
+(or -1.85)(has -9.38)(someone -0.90)(put -4.82)(flowers -9.57)(so -4.56)(sweet -6.27)(. -4.81) line score is : -5.269, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD ON A NN , 
+ VB BEFORE JJ VB JJ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ she sat on a stile 
+ be before phoebe be phoebe bee-bee 
+-------------------------score:  -3.9284755686918893----------------------- 
+there was a loud cleaner named pete 
+ who ran a small shop on our street . 
+ he would come to a place , 
+ we were on a staircase , 
+ go before dark till early concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(ran -4.16)(a -2.53)(small -3.32)(shop -2.37)(on -2.53)(our -4.91)(street -0.84)(. -1.21) line score is : -2.582, look ahead score is : 0.000
+(he -1.21)(would -1.31)(come -3.31)(to -2.84)(a -2.14)(place -5.47)(, -3.81) line score is : -2.870, look ahead score is : 0.000
+(we -3.81)(were -2.55)(on -4.32)(a -2.92)(staircase -4.21)(, -2.16) line score is : -3.328, look ahead score is : 0.000
+(go -2.16)(before -8.32)(dark -0.81)(till -5.68)(early -8.70)(concrete -6.76)(. -7.28) line score is : -5.672, look ahead score is : 0.000

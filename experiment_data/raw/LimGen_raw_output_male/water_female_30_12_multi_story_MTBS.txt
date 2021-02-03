@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a regular brute of a bee 
+-------------------------score:  -2.9824282544723246----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she has a severe case of a clot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(has -5.94)(a -2.11)(severe -3.68)(case -4.85)(of -3.32)(a -4.05)(clot -2.04)(. -0.01) line score is : -3.114, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -2.996040926911519----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she was able to walk and to squat . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(was -5.94)(able -2.11)(to -3.68)(walk -3.07)(and -5.11)(to -0.00)(squat -1.87)(. -1.97) line score is : -2.866, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.0046371777852374----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and left with a physical onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(left -5.94)(with -2.11)(a -1.23)(physical -5.46)(onslaught -2.40)(. -1.46) line score is : -2.947, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.024126261472702----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and she went down and got her gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(she -5.94)(went -2.11)(down -1.23)(and -2.28)(got -3.76)(her -3.95)(gunshot -3.63)(. -3.02) line score is : -3.104, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.0944702010000906----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she was up in hospital and shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(was -5.94)(up -2.11)(in -3.68)(hospital -3.07)(and -7.50)(shot -2.66)(. -4.21) line score is : -3.899, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.1004155820066277----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she has a black eye out in the shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(has -5.94)(a -2.11)(black -3.68)(eye -4.85)(out -3.32)(in -4.99)(the -0.81)(shot -7.57)(. -4.22) line score is : -3.952, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.1025917612273117----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she suddenly realized a lot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(suddenly -5.94)(realized -2.11)(a -3.68)(lot -7.04)(. -3.21) line score is : -4.001, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.178332124986956----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ which was followed with the worst onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(which -2.02)(was -5.94)(followed -2.11)(with -2.42)(the -3.22)(worst -1.58)(onslaught -5.74)(. -3.98) line score is : -3.378, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.188957154750824----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and it was then like shooting of shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(it -5.94)(was -2.11)(then -1.23)(like -4.45)(shooting -1.54)(of -3.22)(shot -8.61)(. -5.45) line score is : -3.841, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which pickled his internal workins 
+-------------------------score:  -3.190383234414561----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ which ended her regular onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(which -2.02)(ended -5.94)(her -2.11)(regular -2.42)(onslaught -4.15)(. -0.22) line score is : -2.811, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.2246835708618162----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and left her apartment a gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(left -5.94)(her -2.11)(apartment -1.23)(a -5.46)(gunshot -2.15)(. -3.40) line score is : -3.188, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.254874507586161----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she has a severe mental onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(has -5.94)(a -2.11)(severe -3.68)(mental -4.85)(onslaught -3.32)(. -4.05) line score is : -3.710, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ when he saw there were six little chips 
+-------------------------score:  -3.270183365792036----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ when she died there was one last cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(when -2.02)(she -5.94)(died -2.11)(there -6.57)(was -0.55)(one -4.18)(last -5.88)(cannot -0.70)(. -5.04) line score is : -3.666, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2894741855561733----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she went through the pain and was cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(went -5.94)(through -2.11)(the -3.68)(pain -4.67)(and -4.38)(was -3.40)(cannot -3.19)(. -1.67) line score is : -3.453, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.3118843853473665----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and since then has constantly cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(since -5.94)(then -2.11)(has -1.23)(constantly -5.05)(cannot -0.48)(. -2.14) line score is : -2.711, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.3218978335780482----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and it was too much alcohol brought . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(it -5.94)(was -2.11)(too -1.23)(much -4.45)(alcohol -1.54)(brought -4.11)(. -2.69) line score is : -3.011, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.3301875311881304----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and for years she just froze her cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(for -5.94)(years -2.11)(she -1.23)(just -4.77)(froze -2.50)(her -0.67)(cannot -5.82)(. -9.04) line score is : -3.790, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.3595220350450083----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she never slept in a hotel hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(never -5.94)(slept -2.11)(in -3.68)(a -5.26)(hotel -5.76)(hot -4.10)(. -2.48) line score is : -3.921, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.4264575878779095----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ which made that decision of cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(which -2.02)(made -5.94)(that -2.11)(decision -2.42)(of -3.65)(cannot -6.81)(. -3.44) line score is : -3.771, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.4297824021308654----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she had all her teeth working cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(had -5.94)(all -2.11)(her -3.68)(teeth -3.56)(working -5.97)(cannot -0.46)(. -1.54) line score is : -3.162, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.442876619100571----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ and could not continue back cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(and -2.02)(could -5.94)(not -2.11)(continue -1.23)(back -5.33)(cannot -0.68)(. -4.47) line score is : -3.112, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.448457552540687----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ which puts you in very bad cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(which -2.02)(puts -5.94)(you -2.11)(in -2.42)(very -8.77)(bad -3.53)(cannot -1.09)(. -6.03) line score is : -3.989, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ for not selling her waterproof paint 
+-------------------------score:  -3.5772067228953044----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ for not doing it enough cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(for -2.02)(not -5.94)(doing -2.11)(it -6.94)(enough -7.22)(cannot -5.07)(. -2.29) line score is : -4.514, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.584487149792333----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ then froze up all nervous and gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(then -2.02)(froze -5.94)(up -2.11)(all -3.66)(nervous -8.24)(and -2.78)(gunshot -6.27)(. -8.96) line score is : -4.997, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.6092513299757436----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ she now can see in herself cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(she -2.02)(now -5.94)(can -2.11)(see -3.68)(in -6.02)(herself -4.92)(cannot -3.56)(. -4.42) line score is : -4.084, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.69756846081826----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ it was when she slept across gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(it -2.02)(was -5.94)(when -2.11)(she -7.13)(slept -1.03)(across -5.65)(gunshot -0.18)(. -7.99) line score is : -4.007, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.833098623060411----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ i think maybe hit five or cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(i -2.02)(think -5.94)(maybe -2.11)(hit -8.08)(five -1.88)(or -5.80)(cannot -7.29)(. -6.83) line score is : -4.995, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ great writers are fewer and fewer 
+-------------------------score:  -3.849566125869751----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ spent years awake longer and gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(spent -2.02)(years -5.94)(awake -2.11)(longer -7.66)(and -3.58)(gunshot -7.78)(. -11.63) line score is : -5.819, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ thirty days is the time he will do 
+-------------------------score:  -3.9253376089036465----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she was struck by a stroke , 
+ spent weeks is the time she will cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(was -1.40)(struck -0.72)(by -2.41)(a -6.00)(stroke -0.64)(, -2.02) line score is : -2.329, look ahead score is : 0.000
+(spent -2.02)(weeks -5.94)(is -2.11)(the -7.66)(time -3.78)(she -11.03)(will -4.78)(cannot -3.88)(. -1.87) line score is : -4.786, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.956904549151659----------------------- 
+there was a bright cleaner named dot 
+ who put all her money in a pot . 
+ when she started to smoke , 
+ she got hooked by a joke , 
+ and trying make it stops but real cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(put -5.95)(all -4.30)(her -1.84)(money -3.05)(in -1.32)(a -1.68)(pot -4.43)(. -2.52) line score is : -2.941, look ahead score is : 0.000
+(when -2.52)(she -4.08)(started -1.20)(to -4.45)(smoke -2.06)(, -3.12) line score is : -2.907, look ahead score is : 0.000
+(she -3.12)(got -1.40)(hooked -0.72)(by -3.23)(a -3.22)(joke -5.35)(, -3.05) line score is : -2.870, look ahead score is : 0.000
+(and -3.05)(trying -8.36)(make -3.07)(it -1.36)(stops -9.40)(but -9.72)(real -1.91)(cannot -7.70)(. -6.84) line score is : -5.712, look ahead score is : 0.000

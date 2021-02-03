@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9061800921053598----------------------- 
+there was a smart teacher named ward 
+ who found a strange object on his board . 
+ when he returned to school , 
+ he was caught by a rule , 
+ so he had to sit down on the sword . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(school -1.34)(, -2.21) line score is : -2.107, look ahead score is : 0.000
+(he -2.21)(was -0.96)(caught -0.52)(by -2.04)(a -5.23)(rule -1.39)(, -1.91) line score is : -2.038, look ahead score is : 0.000
+(so -1.91)(he -9.23)(had -3.69)(to -4.24)(sit -0.59)(down -1.80)(on -0.11)(the -3.06)(sword -2.98)(. -2.86) line score is : -3.047, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ so he had to sit down on the floor 
+-------------------------score:  -3.020570820197463----------------------- 
+there was a smart teacher named gaylord 
+ who found a strange object on his board . 
+ when he returned to school , 
+ it was the perfect tool , 
+ so he went to work down on the ward . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(school -1.34)(, -2.21) line score is : -2.107, look ahead score is : 0.000
+(it -2.21)(was -0.96)(the -3.00)(perfect -0.72)(tool -3.22)(, -4.39) line score is : -2.416, look ahead score is : 0.000
+(so -4.39)(he -5.45)(went -3.68)(to -3.56)(work -0.43)(down -3.21)(on -0.86)(the -1.44)(ward -9.71)(. -2.70) line score is : -3.542, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0346211116193444----------------------- 
+there was a smart teacher named ward 
+ who found a strange object on his board . 
+ when he returned to class , 
+ he was able to pass , 
+ so he went to check down on the sword . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(class -1.34)(, -3.92) line score is : -2.392, look ahead score is : 0.000
+(he -3.92)(was -0.96)(able -0.63)(to -2.21)(pass -5.00)(, -0.00) line score is : -2.121, look ahead score is : 0.000
+(so -0.00)(he -6.26)(went -4.81)(to -4.17)(check -0.55)(down -1.94)(on -1.00)(the -4.85)(sword -8.61)(. -0.62) line score is : -3.281, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -3.086079528837493----------------------- 
+there was a smart teacher named gaylord 
+ who found a strange object on his board . 
+ when he returned to class , 
+ he was shocked by its mass , 
+ so he tried to pull down on the cord . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(class -1.34)(, -3.92) line score is : -2.392, look ahead score is : 0.000
+(he -3.92)(was -0.96)(shocked -0.63)(by -2.21)(its -1.94)(mass -3.03)(, -4.39) line score is : -2.440, look ahead score is : 0.000
+(so -4.39)(he -7.26)(tried -1.96)(to -4.66)(pull -0.56)(down -3.95)(on -0.27)(the -4.65)(cord -5.38)(. -5.36) line score is : -3.844, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.1134080524633947----------------------- 
+there was a smart teacher named ward 
+ who found a strange object on his board . 
+ when he returned to class , 
+ he was able to pass , 
+ but he told his parents and landlord . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(class -1.34)(, -3.92) line score is : -2.392, look ahead score is : 0.000
+(he -3.92)(was -0.96)(able -0.63)(to -2.21)(pass -5.00)(, -0.00) line score is : -2.121, look ahead score is : 0.000
+(but -0.00)(he -6.26)(told -4.81)(his -0.90)(parents -2.41)(and -4.98)(landlord -1.04)(. -3.32) line score is : -2.965, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but they felt it was doing them good 
+-------------------------score:  -3.14222792848464----------------------- 
+there was a smart teacher named gaylord 
+ who found a strange object on his board . 
+ when he returned to school , 
+ it was the perfect tool , 
+ but he felt it was taking him bored . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(school -1.34)(, -2.21) line score is : -2.107, look ahead score is : 0.000
+(it -2.21)(was -0.96)(the -3.00)(perfect -0.72)(tool -3.22)(, -4.39) line score is : -2.416, look ahead score is : 0.000
+(but -4.39)(he -5.45)(felt -3.68)(it -1.99)(was -1.56)(taking -4.74)(him -2.68)(bored -0.81)(. -6.34) line score is : -3.514, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.1924413070082664----------------------- 
+there was a smart teacher named gaylord 
+ who found a strange object on his board . 
+ when he returned to class , 
+ he was shocked by its mass , 
+ but he thought he was seeing he sword . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(class -1.34)(, -3.92) line score is : -2.392, look ahead score is : 0.000
+(he -3.92)(was -0.96)(shocked -0.63)(by -2.21)(its -1.94)(mass -3.03)(, -4.39) line score is : -2.440, look ahead score is : 0.000
+(but -4.39)(he -7.26)(thought -1.96)(he -3.02)(was -2.20)(seeing -4.39)(he -2.13)(sword -1.78)(. -1.96) line score is : -3.231, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.2233032757611646----------------------- 
+there was a smart teacher named gaylord 
+ who found a strange object on his board . 
+ when he returned to class , 
+ he was able to pass , 
+ but he knew it was telling him ward . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(class -1.34)(, -3.92) line score is : -2.392, look ahead score is : 0.000
+(he -3.92)(was -0.96)(able -0.63)(to -2.21)(pass -5.00)(, -0.00) line score is : -2.121, look ahead score is : 0.000
+(but -0.00)(he -6.26)(knew -4.81)(it -0.90)(was -2.41)(telling -4.69)(him -2.70)(ward -0.59)(. -8.34) line score is : -3.411, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.254841105143229----------------------- 
+there was a smart teacher named ward 
+ who found a strange object on his board . 
+ when he returned to school , 
+ it was the perfect tool , 
+ but it had its problems and record . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(found -5.92)(a -2.18)(strange -5.46)(object -3.62)(on -2.28)(his -1.83)(board -6.30)(. -1.34) line score is : -3.427, look ahead score is : 0.000
+(when -1.34)(he -3.22)(returned -0.66)(to -3.87)(school -1.34)(, -2.21) line score is : -2.107, look ahead score is : 0.000
+(it -2.21)(was -0.96)(the -3.00)(perfect -0.72)(tool -3.22)(, -4.39) line score is : -2.416, look ahead score is : 0.000
+(but -4.39)(it -5.45)(had -3.68)(its -1.99)(problems -2.16)(and -2.37)(record -5.27)(. -2.84) line score is : -3.520, look ahead score is : 0.000

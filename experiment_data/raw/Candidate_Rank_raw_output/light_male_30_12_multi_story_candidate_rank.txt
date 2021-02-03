@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.753710685297847----------------------- 
+there was a loud cleaner named jed 
+ who used a big hammer on my head . 
+ when i started to fall , 
+ i was pushed by a wall , 
+ and i fell down and hit our bed . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(used -4.44)(a -4.08)(big -4.71)(hammer -2.77)(on -1.98)(my -2.59)(head -2.23)(. -1.87) line score is : -2.896, look ahead score is : 0.000
+(when -1.87)(i -3.39)(started -0.91)(to -3.89)(fall -1.58)(, -4.40) line score is : -2.673, look ahead score is : 0.000
+(i -4.40)(was -1.82)(pushed -1.88)(by -2.62)(a -4.89)(wall -2.97)(, -1.83) line score is : -2.917, look ahead score is : 0.000
+(and -1.83)(i -5.02)(fell -2.56)(down -1.59)(and -1.92)(hit -1.63)(our -2.51)(bed -2.98)(. -1.59) line score is : -2.403, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.7963294425318317----------------------- 
+there was a loud cleaner named jed 
+ who used a big hammer on my head . 
+ when i started to fall , 
+ he kicked the concrete wall , 
+ and i fell down and hit our bed . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(used -4.44)(a -4.08)(big -4.71)(hammer -2.77)(on -1.98)(my -2.59)(head -2.23)(. -1.87) line score is : -2.896, look ahead score is : 0.000
+(when -1.87)(i -3.39)(started -0.91)(to -3.89)(fall -1.58)(, -4.40) line score is : -2.673, look ahead score is : 0.000
+(he -4.40)(kicked -1.82)(the -0.69)(concrete -3.70)(wall -3.17)(, -6.04) line score is : -3.302, look ahead score is : 0.000
+(and -6.04)(i -3.45)(fell -3.19)(down -1.83)(and -1.36)(hit -1.29)(our -2.77)(bed -3.31)(. -1.57) line score is : -2.756, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.804071515212737----------------------- 
+there was a loud cleaner named ned 
+ who used a big hammer on my head . 
+ when i started to fall , 
+ i was able to crawl , 
+ and i fell down and hit our bed . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(used -4.44)(a -4.08)(big -4.71)(hammer -2.77)(on -1.98)(my -2.59)(head -2.23)(. -1.87) line score is : -2.896, look ahead score is : 0.000
+(when -1.87)(i -3.39)(started -0.91)(to -3.89)(fall -1.58)(, -4.40) line score is : -2.673, look ahead score is : 0.000
+(i -4.40)(was -1.82)(able -1.88)(to -2.62)(crawl -2.93)(, -0.00) line score is : -2.277, look ahead score is : 0.000
+(and -0.00)(i -4.18)(fell -5.21)(down -2.20)(and -1.89)(hit -3.92)(our -2.48)(bed -3.23)(. -2.21) line score is : -2.814, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.8481005632784218----------------------- 
+there was a loud cleaner named ed 
+ who used a big hammer on my head . 
+ when i started to fall , 
+ i was able to crawl , 
+ but he hit my abdomen and fled . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(used -4.44)(a -4.08)(big -4.71)(hammer -2.77)(on -1.98)(my -2.59)(head -2.23)(. -1.87) line score is : -2.896, look ahead score is : 0.000
+(when -1.87)(i -3.39)(started -0.91)(to -3.89)(fall -1.58)(, -4.40) line score is : -2.673, look ahead score is : 0.000
+(i -4.40)(was -1.82)(able -1.88)(to -2.62)(crawl -2.93)(, -0.00) line score is : -2.277, look ahead score is : 0.000
+(but -0.00)(he -4.18)(hit -5.21)(my -0.71)(abdomen -3.50)(and -2.94)(fled -2.39)(. -6.20) line score is : -3.143, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -2.9943039129520286----------------------- 
+there was a loud cleaner named ed 
+ who used a big hammer on my head . 
+ when i started to fall , 
+ i was afraid to crawl , 
+ because he was holding my instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(used -4.44)(a -4.08)(big -4.71)(hammer -2.77)(on -1.98)(my -2.59)(head -2.23)(. -1.87) line score is : -2.896, look ahead score is : 0.000
+(when -1.87)(i -3.39)(started -0.91)(to -3.89)(fall -1.58)(, -4.40) line score is : -2.673, look ahead score is : 0.000
+(i -4.40)(was -1.82)(afraid -1.88)(to -2.62)(crawl -4.20)(, -1.88) line score is : -2.803, look ahead score is : 0.000
+(because -1.88)(he -5.67)(was -2.91)(holding -2.19)(my -2.58)(instead -1.30)(. -3.69) line score is : -2.889, look ahead score is : 0.000

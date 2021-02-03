@@ -1,0 +1,66 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1768582184468546----------------------- 
+there was a loud lady named kai 
+ who panicked as i stepped on a guy . 
+ she screamed for her boyfriend , 
+ her brother and her friend , 
+ and they came down and helped her nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(panicked -9.58)(as -4.12)(i -3.15)(stepped -3.92)(on -2.32)(a -2.74)(guy -6.53)(. -3.12) line score is : -4.109, look ahead score is : 0.000
+(she -3.12)(screamed -2.21)(for -3.62)(her -2.63)(boyfriend -2.64)(, -2.64) line score is : -2.810, look ahead score is : 0.000
+(her -2.64)(brother -2.35)(and -4.61)(her -3.15)(friend -1.48)(, -1.30) line score is : -2.588, look ahead score is : 0.000
+(and -1.30)(they -2.45)(came -2.33)(down -1.95)(and -2.84)(helped -3.78)(her -5.51)(nearby -1.75)(. -1.63) line score is : -2.615, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.2154771331697702----------------------- 
+there was a loud lady named lorelei 
+ who panicked as i stepped on a guy . 
+ she screamed for her boyfriend , 
+ her brother and her friend , 
+ so i ran up and put on the tie . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(panicked -9.58)(as -4.12)(i -3.15)(stepped -3.92)(on -2.32)(a -2.74)(guy -6.53)(. -3.12) line score is : -4.109, look ahead score is : 0.000
+(she -3.12)(screamed -2.21)(for -3.62)(her -2.63)(boyfriend -2.64)(, -2.64) line score is : -2.810, look ahead score is : 0.000
+(her -2.64)(brother -2.35)(and -4.61)(her -3.15)(friend -1.48)(, -1.30) line score is : -2.588, look ahead score is : 0.000
+(so -1.30)(i -2.45)(ran -2.33)(up -5.21)(and -0.89)(put -2.24)(on -3.37)(the -2.18)(tie -4.42)(. -4.30) line score is : -2.871, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ then fell into a vat of grease 
+-------------------------score:  -3.3474162817001343----------------------- 
+there was a loud lady named kai 
+ who panicked as i stepped on a guy . 
+ she screamed for her boyfriend , 
+ her brother and her friend , 
+ then ran into a house of ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(panicked -9.58)(as -4.12)(i -3.15)(stepped -3.92)(on -2.32)(a -2.74)(guy -6.53)(. -3.12) line score is : -4.109, look ahead score is : 0.000
+(she -3.12)(screamed -2.21)(for -3.62)(her -2.63)(boyfriend -2.64)(, -2.64) line score is : -2.810, look ahead score is : 0.000
+(her -2.64)(brother -2.35)(and -4.61)(her -3.15)(friend -1.48)(, -1.30) line score is : -2.588, look ahead score is : 0.000
+(then -1.30)(ran -2.45)(into -2.33)(a -4.14)(house -2.14)(of -2.75)(ally -2.04)(. -3.25) line score is : -2.550, look ahead score is : 0.000

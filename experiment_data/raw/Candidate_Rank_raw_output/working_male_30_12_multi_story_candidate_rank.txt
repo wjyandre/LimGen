@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.581642802324026----------------------- 
+there was a smart teacher named jess 
+ who kept a close eye on my progress . 
+ when i started to talk , 
+ it was easy to walk , 
+ but i knew he was watching me dress . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(kept -5.46)(a -3.02)(close -4.18)(eye -0.25)(on -0.03)(my -2.42)(progress -1.22)(. -0.78) line score is : -2.143, look ahead score is : 0.000
+(when -0.78)(i -3.87)(started -0.86)(to -2.99)(talk -2.20)(, -5.12) line score is : -2.638, look ahead score is : 0.000
+(it -5.12)(was -2.18)(easy -3.70)(to -0.87)(walk -2.78)(, -0.56) line score is : -2.537, look ahead score is : 0.000
+(but -0.56)(i -6.34)(knew -3.54)(he -1.55)(was -2.17)(watching -3.59)(me -3.34)(dress -1.17)(. -0.70) line score is : -2.551, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.730604205156366----------------------- 
+there was a smart teacher named wes 
+ who kept a close eye on my progress . 
+ when i started to talk , 
+ it was easy to walk , 
+ so i quickly got on the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(kept -5.46)(a -3.02)(close -4.18)(eye -0.25)(on -0.03)(my -2.42)(progress -1.22)(. -0.78) line score is : -2.143, look ahead score is : 0.000
+(when -0.78)(i -3.87)(started -0.86)(to -2.99)(talk -2.20)(, -5.12) line score is : -2.638, look ahead score is : 0.000
+(it -5.12)(was -2.18)(easy -3.70)(to -0.87)(walk -2.78)(, -0.56) line score is : -2.537, look ahead score is : 0.000
+(so -0.56)(i -6.34)(quickly -3.54)(got -3.37)(on -0.64)(the -4.75)(process -2.85)(. -3.02) line score is : -3.132, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -2.7737343132752796----------------------- 
+there was a smart teacher named les 
+ who kept a close eye on my progress . 
+ when i began to talk , 
+ it was easy to walk , 
+ because i was using my process . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(kept -5.46)(a -3.02)(close -4.18)(eye -0.25)(on -0.03)(my -2.42)(progress -1.22)(. -0.78) line score is : -2.143, look ahead score is : 0.000
+(when -0.78)(i -3.87)(began -0.86)(to -4.56)(talk -1.22)(, -4.94) line score is : -2.704, look ahead score is : 0.000
+(it -4.94)(was -2.20)(easy -3.76)(to -0.85)(walk -2.72)(, -0.48) line score is : -2.492, look ahead score is : 0.000
+(because -0.48)(i -6.48)(was -3.53)(using -3.89)(my -1.29)(process -1.46)(. -5.43) line score is : -3.225, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -2.7976786024247606----------------------- 
+there was a smart teacher named wes 
+ who kept a close eye on my progress . 
+ when i started to talk , 
+ i was able to walk , 
+ and my movements were quicker and less . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(kept -5.46)(a -3.02)(close -4.18)(eye -0.25)(on -0.03)(my -2.42)(progress -1.22)(. -0.78) line score is : -2.143, look ahead score is : 0.000
+(when -0.78)(i -3.87)(started -0.86)(to -2.99)(talk -2.20)(, -5.12) line score is : -2.638, look ahead score is : 0.000
+(i -5.12)(was -2.18)(able -3.04)(to -1.77)(walk -3.39)(, -0.00) line score is : -2.584, look ahead score is : 0.000
+(and -0.00)(my -6.17)(movements -3.18)(were -2.45)(quicker -2.98)(and -4.82)(less -0.93)(. -3.70) line score is : -3.027, look ahead score is : 0.000

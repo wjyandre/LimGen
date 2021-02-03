@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.3234059251844883----------------------- 
+there was a cunning witch named lorelei 
+ who fooled all her family in a lie . 
+ when she returned to hide , 
+ she was met by her side , 
+ but she knew she was doing it dry . 
+------------------------- score breakdown ------------------------ 
+(who -1.76)(fooled -7.36)(all -4.02)(her -2.36)(family -4.10)(in -3.64)(a -2.95)(lie -6.93)(. -1.59) line score is : -3.858, look ahead score is : 0.000
+(when -1.59)(she -4.23)(returned -1.31)(to -3.83)(hide -1.13)(, -6.69) line score is : -3.132, look ahead score is : 0.000
+(she -6.69)(was -2.30)(met -0.68)(by -1.89)(her -3.43)(side -0.58)(, -2.24) line score is : -2.545, look ahead score is : 0.000
+(but -2.24)(she -8.52)(knew -2.41)(she -2.41)(was -1.74)(doing -3.36)(it -1.65)(dry -1.44)(. -5.48) line score is : -3.250, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.367440966765086----------------------- 
+there was a cunning witch named kai 
+ who fooled all her family in a lie . 
+ when she returned to hide , 
+ she was found by her bride , 
+ and they had sex secretly nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.76)(fooled -7.36)(all -4.02)(her -2.36)(family -4.10)(in -3.64)(a -2.95)(lie -6.93)(. -1.59) line score is : -3.858, look ahead score is : 0.000
+(when -1.59)(she -4.23)(returned -1.31)(to -3.83)(hide -1.13)(, -6.69) line score is : -3.132, look ahead score is : 0.000
+(she -6.69)(was -2.30)(found -0.68)(by -1.89)(her -3.41)(bride -1.15)(, -1.82) line score is : -2.562, look ahead score is : 0.000
+(and -1.82)(they -9.39)(had -1.56)(sex -2.24)(secretly -3.23)(nearby -2.82)(. -1.24) line score is : -3.184, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.405184797702297----------------------- 
+there was a cunning witch named kai 
+ who fooled all her family in a lie . 
+ when she returned to hide , 
+ she was caught by his side , 
+ but she escaped his arms and nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.76)(fooled -7.36)(all -4.02)(her -2.36)(family -4.10)(in -3.64)(a -2.95)(lie -6.93)(. -1.59) line score is : -3.858, look ahead score is : 0.000
+(when -1.59)(she -4.23)(returned -1.31)(to -3.83)(hide -1.13)(, -6.69) line score is : -3.132, look ahead score is : 0.000
+(she -6.69)(was -2.30)(caught -0.68)(by -1.89)(his -3.76)(side -1.37)(, -5.48) line score is : -3.168, look ahead score is : 0.000
+(but -5.48)(she -5.71)(escaped -1.92)(his -2.21)(arms -1.95)(and -2.35)(nearby -4.02)(. -4.43) line score is : -3.507, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.426632233460744----------------------- 
+there was a cunning witch named lorelei 
+ who fooled all her family in a lie . 
+ when she returned to hide , 
+ she was killed by her side , 
+ because she was telling her goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.76)(fooled -7.36)(all -4.02)(her -2.36)(family -4.10)(in -3.64)(a -2.95)(lie -6.93)(. -1.59) line score is : -3.858, look ahead score is : 0.000
+(when -1.59)(she -4.23)(returned -1.31)(to -3.83)(hide -1.13)(, -6.69) line score is : -3.132, look ahead score is : 0.000
+(she -6.69)(was -2.30)(killed -0.68)(by -1.89)(her -4.39)(side -0.47)(, -1.88) line score is : -2.615, look ahead score is : 0.000
+(because -1.88)(she -8.10)(was -2.91)(telling -4.39)(her -0.65)(goodbye -1.38)(. -5.15) line score is : -3.495, look ahead score is : 0.000

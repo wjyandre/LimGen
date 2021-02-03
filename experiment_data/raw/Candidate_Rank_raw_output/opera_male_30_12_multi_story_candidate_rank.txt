@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -2.63371022939682----------------------- 
+there was a actor named dario 
+ who played a big role on our show . 
+ he was a musician , 
+ he was on a mission , 
+ he made sure to get a good photo . 
+------------------------- score breakdown ------------------------ 
+(who -2.23)(played -1.50)(a -1.84)(big -4.54)(role -0.88)(on -3.44)(our -5.07)(show -0.78)(. -1.75) line score is : -2.449, look ahead score is : 0.000
+(he -1.75)(was -1.23)(a -1.01)(musician -1.70)(, -6.35) line score is : -2.406, look ahead score is : 0.000
+(he -6.35)(was -1.63)(on -1.84)(a -0.77)(mission -4.84)(, -1.97) line score is : -2.900, look ahead score is : 0.000
+(he -1.97)(made -5.95)(sure -1.12)(to -0.60)(get -4.49)(a -3.21)(good -2.69)(photo -2.62)(. -3.46) line score is : -2.903, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now he 's a college professor 
+-------------------------score:  -2.739044995143496----------------------- 
+there was a actor named beau 
+ who played a big role on our show . 
+ he was a musician , 
+ he was on a mission , 
+ and now he gets a job tomorrow . 
+------------------------- score breakdown ------------------------ 
+(who -2.23)(played -1.50)(a -1.84)(big -4.54)(role -0.88)(on -3.44)(our -5.07)(show -0.78)(. -1.75) line score is : -2.449, look ahead score is : 0.000
+(he -1.75)(was -1.23)(a -1.01)(musician -1.70)(, -6.35) line score is : -2.406, look ahead score is : 0.000
+(he -6.35)(was -1.63)(on -1.84)(a -0.77)(mission -4.84)(, -1.97) line score is : -2.900, look ahead score is : 0.000
+(and -1.97)(now -5.95)(he -1.12)(gets -1.28)(a -4.83)(job -0.27)(tomorrow -5.06)(. -2.70) line score is : -2.898, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she baked really great apple pies 
+-------------------------score:  -2.8007858241426535----------------------- 
+there was a actor named romeo 
+ who played a big part on our show . 
+ he was a musician , 
+ he was on a mission , 
+ and he was here last year tomorrow . 
+------------------------- score breakdown ------------------------ 
+(who -2.23)(played -1.50)(a -1.84)(big -4.54)(part -0.89)(on -4.31)(our -4.77)(show -0.94)(. -1.73) line score is : -2.528, look ahead score is : 0.000
+(he -1.73)(was -1.20)(a -1.01)(musician -1.69)(, -6.25) line score is : -2.376, look ahead score is : 0.000
+(he -6.25)(was -1.64)(on -1.73)(a -0.77)(mission -4.83)(, -1.97) line score is : -2.865, look ahead score is : 0.000
+(and -1.97)(he -5.95)(was -1.12)(here -1.33)(last -0.44)(year -1.33)(tomorrow -5.43)(. -5.88) line score is : -2.933, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he was n't the wizard he woz 
+-------------------------score:  -2.8689819409929473----------------------- 
+there was a actor named romeo 
+ who played a big role on our show . 
+ he was a musician , 
+ he was on a mission , 
+ he was always the guy you shadow . 
+------------------------- score breakdown ------------------------ 
+(who -2.23)(played -1.50)(a -1.84)(big -4.54)(role -0.88)(on -3.44)(our -5.07)(show -0.78)(. -1.75) line score is : -2.449, look ahead score is : 0.000
+(he -1.75)(was -1.23)(a -1.01)(musician -1.70)(, -6.35) line score is : -2.406, look ahead score is : 0.000
+(he -6.35)(was -1.63)(on -1.84)(a -0.77)(mission -4.84)(, -1.97) line score is : -2.900, look ahead score is : 0.000
+(he -1.97)(was -5.95)(always -1.12)(the -0.60)(guy -0.66)(you -3.81)(shadow -4.82)(. -2.72) line score is : -2.708, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.906185099056789----------------------- 
+there was a actor named benito 
+ who played a big role on our show . 
+ he was a musician , 
+ he was on a mission , 
+ and he was someone very although . 
+------------------------- score breakdown ------------------------ 
+(who -2.23)(played -1.50)(a -1.84)(big -4.54)(role -0.88)(on -3.44)(our -5.07)(show -0.78)(. -1.75) line score is : -2.449, look ahead score is : 0.000
+(he -1.75)(was -1.23)(a -1.01)(musician -1.70)(, -6.35) line score is : -2.406, look ahead score is : 0.000
+(he -6.35)(was -1.63)(on -1.84)(a -0.77)(mission -4.84)(, -1.97) line score is : -2.900, look ahead score is : 0.000
+(and -1.97)(he -5.95)(was -1.12)(someone -1.28)(very -0.42)(although -1.30)(. -5.50) line score is : -2.506, look ahead score is : 0.000

@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.965398826636374----------------------- 
+there was a cruel witch named kay 
+ who cursed a small village on her way . 
+ when she arrived to fight , 
+ she was met by a knight , 
+ and she fell down and became her prey . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(cursed -5.37)(a -4.01)(small -4.50)(village -2.74)(on -4.12)(her -2.39)(way -1.35)(. -4.93) line score is : -3.433, look ahead score is : 0.000
+(when -4.93)(she -3.59)(arrived -1.29)(to -2.23)(fight -3.29)(, -6.54) line score is : -3.645, look ahead score is : 0.000
+(she -6.54)(was -1.58)(met -0.61)(by -1.88)(a -2.45)(knight -0.51)(, -1.24) line score is : -2.116, look ahead score is : 0.000
+(and -1.24)(she -5.84)(fell -2.71)(down -3.18)(and -2.31)(became -4.24)(her -3.43)(prey -2.70)(. -3.82) line score is : -3.273, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.994312805659843----------------------- 
+there was a cruel witch named kay 
+ who cursed a small village on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ so she had to go down on the hay . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(cursed -5.37)(a -4.01)(small -4.50)(village -2.74)(on -4.12)(her -2.39)(way -1.35)(. -4.93) line score is : -3.433, look ahead score is : 0.000
+(when -4.93)(she -3.59)(returned -1.29)(to -2.76)(fight -1.53)(, -7.25) line score is : -3.560, look ahead score is : 0.000
+(she -7.25)(was -1.54)(killed -0.53)(by -1.95)(a -3.60)(knight -0.71)(, -1.39) line score is : -2.425, look ahead score is : 0.000
+(so -1.39)(she -4.93)(had -2.76)(to -4.22)(go -1.10)(down -3.04)(on -0.46)(the -3.15)(hay -5.10)(. -3.28) line score is : -2.944, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.0460557841485545----------------------- 
+there was a cruel witch named kay 
+ who cursed a small village on her way . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ but she survived her wounds and birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(cursed -5.37)(a -4.01)(small -4.50)(village -2.74)(on -4.12)(her -2.39)(way -1.35)(. -4.93) line score is : -3.433, look ahead score is : 0.000
+(when -4.93)(she -3.59)(returned -1.29)(to -2.76)(fight -1.53)(, -7.25) line score is : -3.560, look ahead score is : 0.000
+(she -7.25)(was -1.54)(killed -0.53)(by -1.95)(a -3.60)(knight -0.71)(, -1.39) line score is : -2.425, look ahead score is : 0.000
+(but -1.39)(she -4.93)(survived -2.76)(her -2.39)(wounds -2.04)(and -1.94)(birthday -4.15)(. -2.66) line score is : -2.783, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0734792331854504----------------------- 
+there was a cruel witch named kay 
+ who cursed a small village on her way . 
+ when she returned to hell , 
+ she was killed by a spell , 
+ and she was reborn somewhere okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(cursed -5.37)(a -4.01)(small -4.50)(village -2.74)(on -4.12)(her -2.39)(way -1.35)(. -4.93) line score is : -3.433, look ahead score is : 0.000
+(when -4.93)(she -3.59)(returned -1.29)(to -2.76)(hell -1.53)(, -6.93) line score is : -3.505, look ahead score is : 0.000
+(she -6.93)(was -0.97)(killed -0.52)(by -2.41)(a -5.19)(spell -0.47)(, -1.45) line score is : -2.563, look ahead score is : 0.000
+(and -1.45)(she -5.49)(was -3.37)(reborn -1.32)(somewhere -2.79)(okay -1.38)(. -1.91) line score is : -2.530, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.124485029776891----------------------- 
+there was a cruel witch named renee 
+ who cursed a small village on her way . 
+ when she returned to hell , 
+ she was killed by her spell , 
+ and she was reborn somewhere okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(cursed -5.37)(a -4.01)(small -4.50)(village -2.74)(on -4.12)(her -2.39)(way -1.35)(. -4.93) line score is : -3.433, look ahead score is : 0.000
+(when -4.93)(she -3.59)(returned -1.29)(to -2.76)(hell -1.53)(, -6.93) line score is : -3.505, look ahead score is : 0.000
+(she -6.93)(was -0.97)(killed -0.52)(by -2.41)(her -5.19)(spell -0.47)(, -2.10) line score is : -2.656, look ahead score is : 0.000
+(and -2.10)(she -7.22)(was -2.32)(reborn -1.26)(somewhere -2.65)(okay -1.40)(. -2.15) line score is : -2.729, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.188687113198367----------------------- 
+there was a cruel witch named renee 
+ who cursed a small village on her way . 
+ when she arrived to fight , 
+ she was stopped by a knight , 
+ so she went up and beat on the clay . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(cursed -5.37)(a -4.01)(small -4.50)(village -2.74)(on -4.12)(her -2.39)(way -1.35)(. -4.93) line score is : -3.433, look ahead score is : 0.000
+(when -4.93)(she -3.59)(arrived -1.29)(to -2.23)(fight -3.29)(, -6.54) line score is : -3.645, look ahead score is : 0.000
+(she -6.54)(was -1.58)(stopped -0.61)(by -1.88)(a -4.34)(knight -0.21)(, -1.17) line score is : -2.333, look ahead score is : 0.000
+(so -1.17)(she -4.78)(went -2.61)(up -5.32)(and -0.41)(beat -3.29)(on -4.06)(the -2.91)(clay -4.27)(. -5.23) line score is : -3.405, look ahead score is : 0.000

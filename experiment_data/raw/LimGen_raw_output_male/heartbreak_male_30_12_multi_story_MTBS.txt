@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.6840159888520385----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and he sat down and wrote his prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(he -7.20)(sat -1.93)(down -0.60)(and -0.67)(wrote -3.25)(his -1.03)(prayer -1.91)(. -3.08) line score is : -2.406, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -3.014030936448013----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ so he had to climb down on the bear . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(so -1.98)(he -7.20)(had -1.93)(to -5.10)(climb -2.06)(down -3.52)(on -1.26)(the -4.11)(bear -2.72)(. -3.88) line score is : -3.376, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.049604577710852----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ which was filled with the deepest prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(which -1.98)(was -7.20)(filled -1.93)(with -4.13)(the -1.12)(deepest -4.04)(prayer -0.05)(. -2.47) line score is : -2.865, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.0759811378084123----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and now he is a hero elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(now -7.20)(he -1.93)(is -0.60)(a -6.67)(hero -0.64)(elsewhere -1.84)(. -3.28) line score is : -3.018, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -3.1271510790102184----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ he saw all his friends standing nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(he -1.98)(saw -7.20)(all -1.93)(his -4.19)(friends -2.98)(standing -3.53)(nowhere -2.22)(. -1.40) line score is : -3.178, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.1634076287349067----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and he was still like weeping of hair . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(he -7.20)(was -1.93)(still -0.60)(like -0.67)(weeping -3.39)(of -4.27)(hair -5.74)(. -6.34) line score is : -3.569, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.218972637783736----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and he was not frightened till prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(he -7.20)(was -1.93)(not -0.60)(frightened -0.67)(till -3.39)(prayer -3.98)(. -4.08) line score is : -2.978, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -3.2201337195001543----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he said to the slave , 
+ you never can tell unless you stare . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(said -2.18)(to -2.47)(the -3.06)(slave -1.47)(, -2.78) line score is : -2.292, look ahead score is : 0.000
+(you -2.78)(never -8.74)(can -1.78)(tell -4.77)(unless -5.71)(you -3.67)(stare -2.25)(. -6.44) line score is : -4.517, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.238389144792701----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ but he said he was going it bare . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(but -1.98)(he -7.20)(said -1.93)(he -3.62)(was -1.07)(going -4.79)(it -1.93)(bare -2.11)(. -2.15) line score is : -2.976, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.2785534816794097----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and his eyes were bigger and nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(his -7.20)(eyes -1.93)(were -0.60)(bigger -4.69)(and -2.92)(nowhere -0.98)(. -7.03) line score is : -3.416, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.282956524193287----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he said to the slave , 
+ i never expected a prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(said -2.18)(to -2.47)(the -3.06)(slave -1.47)(, -2.78) line score is : -2.292, look ahead score is : 0.000
+(i -2.78)(never -8.74)(expected -1.78)(a -3.94)(prayer -5.05)(. -4.95) line score is : -4.539, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ which leaves him in very bad shape 
+-------------------------score:  -3.3041519741527736----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ which bears him in very great prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(which -1.98)(bears -7.20)(him -1.93)(in -4.13)(very -7.44)(great -3.17)(prayer -3.22)(. -6.30) line score is : -4.422, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -3.3136334472125575----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ because he was trying his welfare . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(because -1.98)(he -7.20)(was -1.93)(trying -4.58)(his -0.70)(welfare -1.87)(. -6.68) line score is : -3.563, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ when he saw there were six little chips 
+-------------------------score:  -3.316875930536877----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ when he heard there were two great prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(when -1.98)(he -7.20)(heard -1.93)(there -6.21)(were -0.91)(two -1.86)(great -5.02)(prayer -1.72)(. -2.85) line score is : -3.297, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he never completed his task 
+-------------------------score:  -3.3272984340786933----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ he never recovered his prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(he -1.98)(never -7.20)(recovered -1.93)(his -4.19)(prayer -5.65)(. -6.57) line score is : -4.588, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.3274111996094384----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ he found me and said thanks and welfare . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(he -1.98)(found -7.20)(me -1.93)(and -4.19)(said -3.06)(thanks -4.41)(and -2.09)(welfare -2.54)(. -8.90) line score is : -4.034, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ to write verses relating to wind 
+-------------------------score:  -3.342163325798127----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ to find things forgotten to nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(to -1.98)(find -7.20)(things -1.93)(forgotten -3.06)(to -3.21)(nowhere -6.73)(. -4.36) line score is : -4.068, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.3463898738545756----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and suddenly could see a prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(suddenly -7.20)(could -1.93)(see -0.60)(a -7.30)(prayer -8.83)(. -1.51) line score is : -4.193, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but the telephone book caused him pain 
+-------------------------score:  -3.3764442200772464----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ but the stone door opened itself their . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(but -1.98)(the -7.20)(stone -1.93)(door -3.62)(opened -2.42)(itself -4.72)(their -3.70)(. -3.40) line score is : -3.622, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ to balance green peas on her fork 
+-------------------------score:  -3.4407608485780656----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ to get fresh wounds on himself elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(to -1.98)(get -7.20)(fresh -1.93)(wounds -3.06)(on -4.53)(himself -5.30)(elsewhere -5.63)(. -3.65) line score is : -4.162, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.455046101938933----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ he saw when he come across prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(he -1.98)(saw -7.20)(when -1.93)(he -4.19)(come -2.98)(across -7.60)(prayer -0.77)(. -5.97) line score is : -4.078, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ to tutor two tutors to toot 
+-------------------------score:  -3.4907330846594227----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ to find two companions to nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(to -1.98)(find -7.20)(two -1.93)(companions -3.06)(to -3.21)(nowhere -6.56)(. -6.27) line score is : -4.318, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -3.5028380970470607----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and read what the angels all prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(read -7.20)(what -1.93)(the -0.60)(angels -7.56)(all -4.78)(prayer -2.33)(. -4.89) line score is : -3.908, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and since then has never benzene 
+-------------------------score:  -3.510687568014668----------------------- 
+there once was a boy named pierre 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and since then has probably nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(and -1.98)(since -7.20)(then -1.93)(has -0.60)(probably -8.86)(nowhere -0.99)(. -4.48) line score is : -3.721, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ to keep from soiling her feet 
+-------------------------score:  -3.6340502995637154----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ to sleep from consuming their welfare . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(went -2.18)(to -2.47)(the -4.15)(cave -1.35)(, -1.98) line score is : -2.316, look ahead score is : 0.000
+(to -1.98)(sleep -7.20)(from -1.93)(consuming -3.06)(their -3.60)(welfare -7.40)(. -9.98) line score is : -5.021, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ then he couldn t think of anything 
+-------------------------score:  -3.6930164485238492----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and he said to the slave , 
+ now it ca always be of care . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(he -2.23)(said -2.18)(to -2.47)(the -3.06)(slave -1.47)(, -2.78) line score is : -2.292, look ahead score is : 0.000
+(now -2.78)(it -8.74)(ca -1.78)(always -6.57)(be -4.06)(of -11.51)(care -8.42)(. -0.63) line score is : -5.562, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.853914334466963----------------------- 
+there once was a boy named javier 
+ who cried all his life in a nightmare . 
+ he came back from the grave , 
+ and it was to the brave , 
+ and trying work he has but few elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cried -5.90)(all -3.70)(his -3.70)(life -0.19)(in -4.77)(a -2.65)(nightmare -7.36)(. -1.87) line score is : -3.553, look ahead score is : 0.000
+(he -1.87)(came -1.78)(back -4.67)(from -2.69)(the -1.66)(grave -1.29)(, -1.85) line score is : -2.259, look ahead score is : 0.000
+(and -1.85)(it -2.23)(was -2.18)(to -4.28)(the -0.63)(brave -4.85)(, -2.85) line score is : -2.696, look ahead score is : 0.000
+(and -2.85)(trying -8.63)(work -3.70)(he -4.50)(has -9.33)(but -5.33)(few -2.69)(elsewhere -3.85)(. -9.04) line score is : -5.548, look ahead score is : 0.000

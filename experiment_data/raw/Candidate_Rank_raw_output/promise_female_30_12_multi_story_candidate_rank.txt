@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8142081759870052----------------------- 
+there was a vain lady named renee 
+ who did a good deed on our way . 
+ when we arrived to rest , 
+ we were met by our guest , 
+ and we sat down and enjoyed our day . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(did -4.65)(a -4.07)(good -3.22)(deed -2.52)(on -3.81)(our -4.26)(way -3.63)(. -3.19) line score is : -3.464, look ahead score is : 0.000
+(when -3.19)(we -4.43)(arrived -0.63)(to -1.77)(rest -4.01)(, -8.13) line score is : -3.694, look ahead score is : 0.000
+(we -8.13)(were -1.53)(met -1.30)(by -1.67)(our -3.09)(guest -0.34)(, -2.86) line score is : -2.703, look ahead score is : 0.000
+(and -2.86)(we -5.08)(sat -1.30)(down -3.78)(and -1.95)(enjoyed -3.33)(our -0.31)(day -2.57)(. -3.23) line score is : -2.710, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.83319512461171----------------------- 
+there was a vain lady named kay 
+ who did a great service on her way . 
+ she came back from the break , 
+ and we went to the lake , 
+ and we sat down and enjoyed our day . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(did -4.65)(a -4.07)(great -2.81)(service -3.36)(on -4.76)(her -2.81)(way -3.53)(. -3.37) line score is : -3.467, look ahead score is : 0.000
+(she -3.37)(came -2.17)(back -3.97)(from -2.60)(the -2.48)(break -2.00)(, -7.34) line score is : -3.420, look ahead score is : 0.000
+(and -7.34)(we -3.17)(went -1.52)(to -2.73)(the -2.58)(lake -1.16)(, -1.88) line score is : -2.911, look ahead score is : 0.000
+(and -1.88)(we -6.30)(sat -2.19)(down -0.73)(and -2.41)(enjoyed -2.17)(our -1.04)(day -1.50)(. -4.81) line score is : -2.560, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9571453938260674----------------------- 
+there was a vain lady named kay 
+ who gave a great sermon on her way . 
+ when she returned to rest , 
+ she was met by a guest , 
+ and she sat down and began her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(gave -4.78)(a -3.93)(great -3.82)(sermon -3.62)(on -2.37)(her -3.58)(way -2.99)(. -3.41) line score is : -3.370, look ahead score is : 0.000
+(when -3.41)(she -4.39)(returned -1.22)(to -3.52)(rest -1.82)(, -8.24) line score is : -3.766, look ahead score is : 0.000
+(she -8.24)(was -1.16)(met -0.83)(by -2.01)(a -4.59)(guest -0.29)(, -1.59) line score is : -2.674, look ahead score is : 0.000
+(and -1.59)(she -7.46)(sat -2.11)(down -2.94)(and -2.09)(began -3.82)(her -0.44)(day -2.71)(. -2.57) line score is : -2.861, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ as his talent and confidence swelled 
+-------------------------score:  -3.276879519224167----------------------- 
+there was a vain lady named renee 
+ who gave a great sermon on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ as her husband and family lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(gave -4.78)(a -3.93)(great -3.82)(sermon -3.62)(on -2.37)(her -3.58)(way -2.99)(. -3.41) line score is : -3.370, look ahead score is : 0.000
+(when -3.41)(she -4.39)(returned -1.22)(to -3.52)(mind -1.82)(, -8.86) line score is : -3.870, look ahead score is : 0.000
+(she -8.86)(was -1.25)(surprised -0.55)(to -2.26)(find -3.50)(, -0.36) line score is : -2.796, look ahead score is : 0.000
+(as -0.36)(her -0.86)(husband -5.85)(and -2.32)(family -3.68)(lay -3.24)(. -3.72) line score is : -2.863, look ahead score is : 0.000

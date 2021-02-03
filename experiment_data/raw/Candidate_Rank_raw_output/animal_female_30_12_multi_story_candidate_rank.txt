@@ -1,0 +1,66 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8184821596651366----------------------- 
+there once was a farmer named maile 
+ who found a strange object on her tail . 
+ when she returned to land , 
+ she was struck by a hand , 
+ so she had to stay down on the trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(found -5.48)(a -1.29)(strange -4.10)(object -3.88)(on -2.35)(her -1.20)(tail -8.83)(. -1.14) line score is : -3.301, look ahead score is : 0.000
+(when -1.14)(she -3.22)(returned -0.49)(to -3.28)(land -1.40)(, -6.83) line score is : -2.727, look ahead score is : 0.000
+(she -6.83)(was -1.11)(struck -0.45)(by -2.14)(a -4.76)(hand -0.51)(, -1.41) line score is : -2.461, look ahead score is : 0.000
+(so -1.41)(she -7.97)(had -2.78)(to -4.50)(stay -0.60)(down -4.04)(on -0.36)(the -3.84)(trail -4.51)(. -2.58) line score is : -3.260, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8267322119438285----------------------- 
+there once was a farmer named abigail 
+ who found a strange object on her tail . 
+ when she returned to land , 
+ she was struck by her hand , 
+ so she had to stay down on the trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(found -5.48)(a -1.29)(strange -4.10)(object -3.88)(on -2.35)(her -1.20)(tail -8.83)(. -1.14) line score is : -3.301, look ahead score is : 0.000
+(when -1.14)(she -3.22)(returned -0.49)(to -3.28)(land -1.40)(, -6.83) line score is : -2.727, look ahead score is : 0.000
+(she -6.83)(was -1.11)(struck -0.45)(by -2.14)(her -4.76)(hand -0.51)(, -4.88) line score is : -2.956, look ahead score is : 0.000
+(so -4.88)(she -6.09)(had -1.93)(to -4.10)(stay -0.56)(down -3.77)(on -0.44)(the -3.96)(trail -4.73)(. -2.49) line score is : -3.295, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.0305442847311497----------------------- 
+there once was a farmer named marcell 
+ who found a strange object on her tail . 
+ when she returned to land , 
+ she was met by a hand , 
+ but she thought she was seeing it fail . 
+------------------------- score breakdown ------------------------ 
+(who -1.44)(found -5.48)(a -1.29)(strange -4.10)(object -3.88)(on -2.35)(her -1.20)(tail -8.83)(. -1.14) line score is : -3.301, look ahead score is : 0.000
+(when -1.14)(she -3.22)(returned -0.49)(to -3.28)(land -1.40)(, -6.83) line score is : -2.727, look ahead score is : 0.000
+(she -6.83)(was -1.11)(met -0.45)(by -2.14)(a -3.03)(hand -0.33)(, -1.00) line score is : -2.130, look ahead score is : 0.000
+(but -1.00)(she -8.06)(thought -3.30)(she -3.82)(was -1.87)(seeing -4.82)(it -1.83)(fail -0.89)(. -3.30) line score is : -3.209, look ahead score is : 0.000

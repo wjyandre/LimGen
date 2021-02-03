@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -2.5748774468898774----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ she was blessed to have a perfect day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(she -1.95)(was -3.80)(blessed -0.74)(to -0.60)(have -0.70)(a -5.59)(perfect -2.28)(day -0.80)(. -1.40) line score is : -1.986, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.7003744636972744----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and that is the beauty of this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(that -3.80)(is -0.74)(the -1.27)(beauty -4.83)(of -3.39)(this -2.99)(day -3.64)(. -0.11) line score is : -2.526, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he claimed that his costume was chile 
+-------------------------score:  -2.8338104876978645----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ she loved that her family was gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(she -1.95)(loved -3.80)(that -0.74)(her -0.60)(family -2.94)(was -6.32)(gay -3.84)(. -2.72) line score is : -2.866, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ so he had to sit down on the floor 
+-------------------------score:  -2.842535222730329----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ so she had to go down on the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(so -2.27)(she -2.86)(had -0.67)(to -5.45)(go -1.00)(down -2.73)(on -1.65)(the -2.94)(day -5.15)(. -3.14) line score is : -2.786, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.8557684298219352----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ but she loved her children and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(but -2.27)(she -2.86)(loved -0.67)(her -3.72)(children -0.71)(and -3.50)(sunday -1.18)(. -2.78) line score is : -2.211, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8994397620360055----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and she was down and wanted her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(she -3.80)(was -0.74)(down -1.27)(and -0.41)(wanted -1.12)(her -7.67)(day -3.05)(. -7.15) line score is : -3.020, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.9741508683988025----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and she was someone truly okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(she -3.80)(was -0.74)(someone -1.27)(truly -0.41)(okay -1.12)(. -6.27) line score is : -2.225, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she baked really great apple pies 
+-------------------------score:  -2.9801624191218408----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ and she was not married till okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(and -2.27)(she -2.86)(was -0.67)(not -1.36)(married -0.38)(till -1.09)(okay -4.81)(. -4.12) line score is : -2.194, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she slipped through the straw and fell in 
+-------------------------score:  -2.988945116599401----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ she was through the door and was sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(she -1.95)(was -3.80)(through -0.74)(the -0.60)(door -0.70)(and -8.21)(was -2.31)(sunday -3.20)(. -2.09) line score is : -2.624, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.9991838973144005----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ so she never got on the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(so -2.27)(she -2.86)(never -0.67)(got -5.45)(on -1.00)(the -5.04)(survey -2.71)(. -5.80) line score is : -3.226, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but it does n't come out of my purse 
+-------------------------score:  -3.010253194967906----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ but she has always put in her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(but -2.27)(she -2.86)(has -0.67)(always -3.72)(put -0.71)(in -6.83)(her -2.73)(day -6.35)(. -5.19) line score is : -3.480, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ when he saw there were six little chips 
+-------------------------score:  -3.1446010073026023----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ when she died there was one big sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(when -2.27)(she -2.86)(died -0.67)(there -7.36)(was -0.92)(one -1.30)(big -4.67)(sunday -0.43)(. -5.08) line score is : -2.841, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he was n't the wizard he woz 
+-------------------------score:  -3.1585166022695343----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ she was really the type you okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(she -1.95)(was -3.80)(really -0.74)(the -0.60)(type -0.70)(you -5.46)(okay -4.44)(. -2.68) line score is : -2.548, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.1865627339908054----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and was with a beautiful cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(was -3.80)(with -0.74)(a -1.27)(beautiful -5.29)(cache -5.70)(. -2.25) line score is : -3.003, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ you never can tell till you try 
+-------------------------score:  -3.252062293989905----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ she even can dance in it okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(she -1.95)(even -3.80)(can -0.74)(dance -0.60)(in -6.03)(it -9.50)(okay -1.63)(. -3.88) line score is : -3.518, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ within weeks it was all in the past 
+-------------------------score:  -3.276012533903122----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ in ways she was all within the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(physician -2.12)(, -7.25) line score is : -2.760, look ahead score is : 0.000
+(she -7.25)(was -1.43)(on -3.06)(a -1.40)(mission -5.31)(, -2.27) line score is : -3.452, look ahead score is : 0.000
+(in -2.27)(ways -2.86)(she -0.67)(was -6.22)(all -7.74)(within -1.71)(the -2.42)(day -6.77)(. -8.29) line score is : -4.327, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and sideways he could n't be seen 
+-------------------------score:  -3.2876427009187896----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and lives she could never have friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(lives -3.80)(she -0.74)(could -1.27)(never -9.55)(have -6.38)(friday -4.34)(. -2.14) line score is : -3.773, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and hop in before all the crowd 
+-------------------------score:  -3.31173915287544----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and be outside before all the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(be -3.80)(outside -0.74)(before -1.27)(all -9.78)(the -9.05)(day -6.38)(. -5.75) line score is : -4.842, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ ALL OF THIS NN AFTER NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ all of this homework after school 
+-------------------------score:  -3.3170467700277055----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ all of this stuff after resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(all -1.95)(of -3.80)(this -0.74)(stuff -6.22)(after -1.45)(resume -2.23)(. -1.91) line score is : -2.617, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and could n't bend back again 
+-------------------------score:  -3.431151956319809----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and could even sing back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(could -3.80)(even -0.74)(sing -1.27)(back -7.93)(resume -4.76)(. -1.57) line score is : -3.148, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and finished the solo with honour 
+-------------------------score:  -3.431775212287903----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and had the misfortune with sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(had -3.80)(the -0.74)(misfortune -1.27)(with -5.61)(sunday -3.35)(. -6.17) line score is : -3.272, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ that ungracious young lady in blue 
+-------------------------score:  -3.4780334319387163----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ that little sweet heart in resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(that -1.95)(little -3.80)(sweet -0.74)(heart -6.61)(in -6.58)(resume -5.84)(. -1.82) line score is : -3.907, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ VBG RB A NN OF FW FW . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ leaving only a pile of de brie 
+-------------------------score:  -3.579299022411478----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ trying not a lot of pro resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(trying -1.95)(not -3.80)(a -0.74)(lot -7.89)(of -5.74)(pro -8.67)(resume -1.78)(. -0.57) line score is : -3.895, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ that she pickled her internal workins' 
+-------------------------score:  -3.5799422221524373----------------------- 
+there once was a woman named renee 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ that she wanted us young resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(that -1.95)(she -3.80)(wanted -0.74)(us -6.61)(young -2.64)(resume -2.76)(. -4.95) line score is : -3.350, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and since then has never benzene 
+-------------------------score:  -3.5970834493637085----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and since then has also resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(since -3.80)(then -0.74)(has -1.27)(also -7.68)(resume -3.95)(. -5.56) line score is : -3.566, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.6760493338108065----------------------- 
+there once was a woman named kay 
+ who lived a good life on her birthday . 
+ she was a musician , 
+ she was on a mission , 
+ and trying make it is but hard halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(lived -2.37)(a -4.27)(good -3.07)(life -0.28)(on -4.55)(her -1.91)(birthday -6.78)(. -1.24) line score is : -2.888, look ahead score is : 0.000
+(she -1.24)(was -1.67)(a -1.52)(musician -2.12)(, -7.12) line score is : -2.734, look ahead score is : 0.000
+(she -7.12)(was -1.31)(on -2.76)(a -1.28)(mission -5.13)(, -1.95) line score is : -3.260, look ahead score is : 0.000
+(and -1.95)(trying -3.80)(make -0.74)(it -1.27)(is -9.15)(but -9.05)(hard -1.57)(halfway -7.62)(. -8.21) line score is : -4.819, look ahead score is : 0.000

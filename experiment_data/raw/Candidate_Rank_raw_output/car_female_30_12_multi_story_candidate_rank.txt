@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -2.884071637876332----------------------- 
+there was a smart cleaner named margarete 
+ who ran a pet store on our street . 
+ she would go to a shop , 
+ she would have a workshop , 
+ she was happy to talk and to eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(ran -4.78)(a -1.41)(pet -5.42)(store -0.94)(on -3.58)(our -4.80)(street -1.05)(. -1.30) line score is : -2.717, look ahead score is : 0.000
+(she -1.30)(would -1.08)(go -3.30)(to -3.33)(a -1.52)(shop -3.00)(, -4.69) line score is : -2.604, look ahead score is : 0.000
+(she -4.69)(would -2.18)(have -4.04)(a -0.50)(workshop -4.18)(, -1.22) line score is : -2.803, look ahead score is : 0.000
+(she -1.22)(was -9.59)(happy -0.86)(to -0.42)(talk -4.25)(and -5.72)(to -1.26)(eat -2.65)(. -3.29) line score is : -3.252, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.996898405253887----------------------- 
+there was a smart cleaner named margarete 
+ who ran a pet store on our street . 
+ she would go to a shop , 
+ she would have a workshop , 
+ and that is the beauty of this beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(ran -4.78)(a -1.41)(pet -5.42)(store -0.94)(on -3.58)(our -4.80)(street -1.05)(. -1.30) line score is : -2.717, look ahead score is : 0.000
+(she -1.30)(would -1.08)(go -3.30)(to -3.33)(a -1.52)(shop -3.00)(, -4.69) line score is : -2.604, look ahead score is : 0.000
+(she -4.69)(would -2.18)(have -4.04)(a -0.50)(workshop -4.18)(, -1.22) line score is : -2.803, look ahead score is : 0.000
+(and -1.22)(that -9.59)(is -0.86)(the -1.92)(beauty -4.63)(of -3.65)(this -3.12)(beat -4.25)(. -0.10) line score is : -3.259, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and now he 's a college professor 
+-------------------------score:  -3.0443853668628202----------------------- 
+there was a smart cleaner named margarete 
+ who ran a pet store on our street . 
+ she would go to a shop , 
+ she would have a workshop , 
+ and then she has a family seat . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(ran -4.78)(a -1.41)(pet -5.42)(store -0.94)(on -3.58)(our -4.80)(street -1.05)(. -1.30) line score is : -2.717, look ahead score is : 0.000
+(she -1.30)(would -1.08)(go -3.30)(to -3.33)(a -1.52)(shop -3.00)(, -4.69) line score is : -2.604, look ahead score is : 0.000
+(she -4.69)(would -2.18)(have -4.04)(a -0.50)(workshop -4.18)(, -1.22) line score is : -2.803, look ahead score is : 0.000
+(and -1.22)(then -9.59)(she -0.86)(has -1.92)(a -2.37)(family -0.42)(seat -8.72)(. -1.68) line score is : -3.346, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.082410579547286----------------------- 
+there was a smart cleaner named margarete 
+ who ran a small shop on our street . 
+ she would go to a place , 
+ she would take a staircase , 
+ and come home to my mother in heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(ran -4.78)(a -1.41)(small -3.96)(shop -3.20)(on -2.75)(our -5.06)(street -0.81)(. -1.39) line score is : -2.728, look ahead score is : 0.000
+(she -1.39)(would -1.07)(go -3.20)(to -3.42)(a -1.42)(place -2.98)(, -4.02) line score is : -2.500, look ahead score is : 0.000
+(she -4.02)(would -3.23)(take -3.77)(a -0.61)(staircase -3.33)(, -1.45) line score is : -2.735, look ahead score is : 0.000
+(and -1.45)(come -11.48)(home -1.26)(to -1.15)(my -4.30)(mother -4.30)(in -2.49)(heat -3.99)(. -2.19) line score is : -3.623, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ VBD THE NN ON PRP$ NNS , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ wet the bloom on her cheeks 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.1106772368604485----------------------- 
+there was a smart cleaner named margarete 
+ who ran a pet shop on our street . 
+ she would go to a yard , 
+ put the dog on her card , 
+ and walk home to her daughter in heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(ran -4.78)(a -1.41)(pet -5.42)(shop -1.40)(on -3.19)(our -4.77)(street -0.92)(. -1.32) line score is : -2.710, look ahead score is : 0.000
+(she -1.32)(would -1.09)(go -3.17)(to -3.40)(a -1.53)(yard -3.00)(, -5.19) line score is : -2.672, look ahead score is : 0.000
+(put -5.19)(the -2.96)(dog -3.60)(on -2.71)(her -2.41)(card -2.76)(, -2.35) line score is : -3.140, look ahead score is : 0.000
+(and -2.35)(walk -10.44)(home -1.06)(to -0.77)(her -3.61)(daughter -3.57)(in -2.81)(heat -2.28)(. -4.65) line score is : -3.504, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and she baked really great apple pies 
+-------------------------score:  -3.2296487381381374----------------------- 
+there was a smart cleaner named bridgette 
+ who ran a pet store on our street . 
+ she would go to a shop , 
+ she would have a workshop , 
+ and she was still pretty cool upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(ran -4.78)(a -1.41)(pet -5.42)(store -0.94)(on -3.58)(our -4.80)(street -1.05)(. -1.30) line score is : -2.717, look ahead score is : 0.000
+(she -1.30)(would -1.08)(go -3.30)(to -3.33)(a -1.52)(shop -3.00)(, -4.69) line score is : -2.604, look ahead score is : 0.000
+(she -4.69)(would -2.18)(have -4.04)(a -0.50)(workshop -4.18)(, -1.22) line score is : -2.803, look ahead score is : 0.000
+(and -1.22)(she -9.59)(was -0.86)(still -1.92)(pretty -0.65)(cool -3.17)(upbeat -5.97)(. -5.22) line score is : -3.574, look ahead score is : 0.000

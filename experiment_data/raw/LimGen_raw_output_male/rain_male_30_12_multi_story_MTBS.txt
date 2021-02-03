@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.843906481284648----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and that is the story of this tale . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(that -2.63)(is -1.07)(the -4.32)(story -5.92)(of -2.90)(this -3.22)(tale -3.43)(. -0.56) line score is : -3.038, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.925160148932088----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ so we quickly started on the rail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(so -3.29)(we -2.63)(quickly -1.07)(started -7.12)(on -0.88)(the -3.67)(rail -3.75)(. -3.55) line score is : -3.245, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.0120173812873903----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ which was dressed with the finest detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(which -3.29)(was -2.63)(dressed -1.07)(with -5.71)(the -1.25)(finest -5.42)(detail -5.26)(. -2.94) line score is : -3.446, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then he walloped me square in the face 
+-------------------------score:  -3.0130995479412377----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ then we saw him walk towards the rail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(then -3.29)(we -2.63)(saw -1.07)(him -7.75)(walk -3.64)(towards -3.41)(the -2.91)(rail -4.23)(. -3.45) line score is : -3.598, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he never completed his task 
+-------------------------score:  -3.1135486472269585----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ we quickly collected our mail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(we -3.29)(quickly -2.63)(collected -1.07)(our -7.06)(mail -4.16)(. -6.30) line score is : -4.084, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.121538174338639----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close watch on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ but his eyes were down to our scale . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(watch -1.22)(on -0.53)(our -4.60)(trail -7.09)(. -1.01) line score is : -3.112, look ahead score is : 0.000
+(when -1.01)(we -3.60)(arrived -1.42)(to -2.15)(ride -3.85)(, -6.72) line score is : -3.125, look ahead score is : 0.000
+(we -6.72)(were -2.43)(met -1.54)(by -1.40)(our -2.25)(guide -0.42)(, -3.27) line score is : -2.574, look ahead score is : 0.000
+(but -3.27)(his -2.73)(eyes -1.02)(were -6.47)(down -4.23)(to -3.02)(our -0.77)(scale -5.70)(. -4.22) line score is : -3.492, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.1612824286023775----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ a beautiful lady has no tail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(a -3.29)(beautiful -2.63)(lady -1.07)(has -2.14)(no -4.41)(tail -3.03)(. -10.81) line score is : -3.909, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what was shown on the cinema screen 
+-------------------------score:  -3.1731439218405755----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ what was described on the map detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(what -3.29)(was -2.63)(described -1.07)(on -8.31)(the -2.73)(map -3.88)(detail -4.79)(. -0.86) line score is : -3.444, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then I sat on my moped and moped 
+-------------------------score:  -3.1854916964657605----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ then we rode on his shoulder and rail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(then -3.29)(we -2.63)(rode -1.07)(on -7.75)(his -3.64)(shoulder -3.29)(and -2.88)(rail -4.29)(. -4.61) line score is : -3.715, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and now a new teacher they seek 
+-------------------------score:  -3.2066733572752244----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and then a young woman we female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(then -2.63)(a -1.07)(young -4.32)(woman -4.03)(we -2.73)(female -4.47)(. -1.87) line score is : -3.051, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.230046306550503----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were told by our guide , 
+ because we were wearing our whale . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(told -1.54)(by -1.42)(our -3.49)(guide -2.45)(, -2.25) line score is : -2.832, look ahead score is : 0.000
+(because -2.25)(we -0.83)(were -2.61)(wearing -8.49)(our -1.47)(whale -0.77)(. -3.82) line score is : -2.891, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but I guess that you probably gnu 
+-------------------------score:  -3.2386246693711125----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ but i doubt that she even female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(but -3.29)(i -2.63)(doubt -1.07)(that -6.50)(she -3.58)(even -5.57)(female -2.25)(. -2.80) line score is : -3.462, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.2549792756326497----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ in hopes we were all within the pale . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(in -3.29)(hopes -2.63)(we -1.07)(were -6.73)(all -7.97)(within -3.34)(the -3.03)(pale -3.77)(. -7.29) line score is : -4.346, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.2764528597394627----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and asked our number a female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(asked -2.63)(our -1.07)(number -4.32)(a -5.30)(female -4.42)(. -3.97) line score is : -3.570, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.2798382067121565----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and for hours we just swung his tail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(for -2.63)(hours -1.07)(we -4.32)(just -5.85)(swung -5.61)(his -0.86)(tail -6.10)(. -9.58) line score is : -4.367, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to call my last novel impure 
+-------------------------score:  -3.281306052704652----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were told by our guide , 
+ to keep our right shoulder female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(told -1.54)(by -1.42)(our -3.49)(guide -2.45)(, -2.25) line score is : -2.832, look ahead score is : 0.000
+(to -2.25)(keep -0.83)(our -2.61)(right -5.48)(shoulder -3.22)(female -1.31)(. -6.47) line score is : -3.167, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to tutor two tutors to toot 
+-------------------------score:  -3.2832068488001824----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were told by our guide , 
+ to wait forty minutes to detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(told -1.54)(by -1.42)(our -3.49)(guide -2.45)(, -2.25) line score is : -2.832, look ahead score is : 0.000
+(to -2.25)(wait -0.83)(forty -2.61)(minutes -5.48)(to -3.34)(detail -9.13)(. -0.60) line score is : -3.462, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.286222704475926----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and we were not sure anyone male . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(we -2.63)(were -1.07)(not -4.32)(sure -1.84)(anyone -1.64)(male -5.78)(. -2.86) line score is : -2.929, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ when he found there were five little chips 
+-------------------------score:  -3.289164061192423----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ when he saw there were two young female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(when -3.29)(he -2.63)(saw -1.07)(there -8.64)(were -0.91)(two -2.48)(young -6.50)(female -1.06)(. -2.65) line score is : -3.248, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.30685324870771----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ but we had our doubts and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(but -3.29)(we -2.63)(had -1.07)(our -6.50)(doubts -2.48)(and -2.55)(female -4.68)(. -3.66) line score is : -3.357, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.415199955801169----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and he was explaining much female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(he -2.63)(was -1.07)(explaining -4.32)(much -1.91)(female -2.33)(. -6.04) line score is : -3.082, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but nobody knew what he said 
+-------------------------score:  -3.4183479353785513----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ but nobody knew what we female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(but -3.29)(nobody -2.63)(knew -1.07)(what -6.50)(we -7.09)(female -2.91)(. -2.23) line score is : -3.674, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and showed him many cstar 
+-------------------------score:  -3.496958346716289----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and asked ourselves many detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(and -3.29)(asked -2.63)(ourselves -1.07)(many -4.32)(detail -5.30)(. -7.73) line score is : -4.056, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.5359792175792877----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ i have never rode one or female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(i -3.29)(have -2.63)(never -1.07)(rode -6.86)(one -5.75)(or -2.99)(female -6.66)(. -5.29) line score is : -4.318, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE THE NN VBD AND VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ because the man bullied and boucestcr 
+-------------------------score:  -3.5439658646782237----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ because the police had and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(because -3.29)(the -2.63)(police -1.07)(had -9.27)(and -2.96)(female -6.80)(. -1.32) line score is : -3.906, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.5760567423797425----------------------- 
+there was a quiet boy named jerrell 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ he also can see in us female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(he -3.29)(also -2.63)(can -1.07)(see -6.80)(in -5.16)(us -8.84)(female -4.08)(. -3.85) line score is : -4.466, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and sometimes get quite cranky 
+-------------------------score:  -3.619081117983522----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close watch on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ and suddenly figure quite female . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(watch -1.22)(on -0.53)(our -4.60)(trail -7.09)(. -1.01) line score is : -3.112, look ahead score is : 0.000
+(when -1.01)(we -3.60)(arrived -1.42)(to -2.15)(ride -3.85)(, -6.72) line score is : -3.125, look ahead score is : 0.000
+(we -6.72)(were -2.43)(met -1.54)(by -1.40)(our -2.25)(guide -0.42)(, -3.27) line score is : -2.574, look ahead score is : 0.000
+(and -3.27)(suddenly -2.73)(figure -1.02)(quite -4.40)(female -6.47)(. -11.39) line score is : -4.879, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.628308788903298----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ then set up all overnight and tail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(then -3.29)(set -2.63)(up -1.07)(all -7.75)(overnight -7.49)(and -2.16)(tail -6.94)(. -7.44) line score is : -4.846, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but will ruminate on while I chew 
+-------------------------score:  -3.769268997734593----------------------- 
+there was a quiet boy named nathanael 
+ who kept a close eye on our trail . 
+ when we arrived to ride , 
+ we were met by our guide , 
+ but will explain on while he detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(kept -4.95)(a -2.75)(close -4.59)(eye -0.43)(on -0.06)(our -4.91)(trail -7.58)(. -1.06) line score is : -3.068, look ahead score is : 0.000
+(when -1.06)(we -3.69)(arrived -1.44)(to -2.17)(ride -3.83)(, -6.48) line score is : -3.112, look ahead score is : 0.000
+(we -6.48)(were -2.20)(met -1.54)(by -1.42)(our -2.26)(guide -0.43)(, -3.29) line score is : -2.516, look ahead score is : 0.000
+(but -3.29)(will -2.63)(explain -1.07)(on -6.50)(while -9.38)(he -6.14)(detail -5.21)(. -10.11) line score is : -5.541, look ahead score is : 0.000

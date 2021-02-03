@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP WOULD VB TO A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ he would go to a party 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.07732896626957----------------------- 
+there was a humble man named javier 
+ who loved a good story and prayer . 
+ he would say to a friend , 
+ it was easy to end , 
+ it was hard to start a new nightmare . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(loved -5.00)(a -5.06)(good -1.70)(story -2.62)(and -1.88)(prayer -10.49)(. -1.53) line score is : -3.755, look ahead score is : 0.000
+(he -1.53)(would -1.18)(say -2.94)(to -3.38)(a -2.08)(friend -3.69)(, -2.76) line score is : -2.507, look ahead score is : 0.000
+(it -2.76)(was -0.65)(easy -6.87)(to -1.19)(end -4.81)(, -0.67) line score is : -2.826, look ahead score is : 0.000
+(it -0.67)(was -7.08)(hard -4.54)(to -2.61)(start -0.38)(a -2.28)(new -0.12)(nightmare -1.32)(. -6.09) line score is : -2.787, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.0912305414676666----------------------- 
+there was a humble man named pierre 
+ who learned a great deal on his prayer . 
+ when he prayed to someone , 
+ he was told by his son , 
+ that the person he called was a bear . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(learned -6.80)(a -3.42)(great -1.22)(deal -0.12)(on -5.39)(his -1.26)(prayer -10.87)(. -2.55) line score is : -3.711, look ahead score is : 0.000
+(when -2.55)(he -3.70)(prayed -0.84)(to -3.85)(someone -2.50)(, -6.56) line score is : -3.334, look ahead score is : 0.000
+(he -6.56)(was -1.31)(told -0.79)(by -2.45)(his -2.21)(son -2.96)(, -2.57) line score is : -2.694, look ahead score is : 0.000
+(that -2.57)(the -6.31)(person -1.58)(he -3.66)(called -2.11)(was -1.47)(a -3.12)(bear -4.38)(. -1.49) line score is : -2.966, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.0963438022881746----------------------- 
+there was a humble man named javier 
+ who learned a great deal on his prayer . 
+ when he prayed to someone , 
+ he was told by his son , 
+ he was blessed to be a good player . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(learned -6.80)(a -3.42)(great -1.22)(deal -0.12)(on -5.39)(his -1.26)(prayer -10.87)(. -2.55) line score is : -3.711, look ahead score is : 0.000
+(when -2.55)(he -3.70)(prayed -0.84)(to -3.85)(someone -2.50)(, -6.56) line score is : -3.334, look ahead score is : 0.000
+(he -6.56)(was -1.31)(told -0.79)(by -2.45)(his -2.21)(son -2.96)(, -2.57) line score is : -2.694, look ahead score is : 0.000
+(he -2.57)(was -6.31)(blessed -1.58)(to -3.21)(be -1.62)(a -4.18)(good -3.62)(player -1.87)(. -2.83) line score is : -3.087, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -3.155759640278355----------------------- 
+there was a humble man named pierre 
+ who loved a good story and prayer . 
+ he would write to a friend , 
+ he would tell a girlfriend , 
+ but he knew he was doing it fair . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(loved -5.00)(a -5.06)(good -1.70)(story -2.62)(and -1.88)(prayer -10.49)(. -1.53) line score is : -3.755, look ahead score is : 0.000
+(he -1.53)(would -1.18)(write -2.94)(to -3.79)(a -2.55)(friend -3.90)(, -1.30) line score is : -2.455, look ahead score is : 0.000
+(he -1.30)(would -1.85)(tell -5.10)(a -0.56)(girlfriend -3.13)(, -1.79) line score is : -2.288, look ahead score is : 0.000
+(but -1.79)(he -8.86)(knew -1.30)(he -3.71)(was -1.23)(doing -4.14)(it -1.61)(fair -1.81)(. -3.34) line score is : -3.087, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ he would go to a party 
+ he would wave a cigar 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.3425828896719834----------------------- 
+there was a humble man named pierre 
+ who loved a good story and prayer . 
+ he would go to a friend , 
+ he would take a girlfriend , 
+ and they had sex frequently elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(loved -5.00)(a -5.06)(good -1.70)(story -2.62)(and -1.88)(prayer -10.49)(. -1.53) line score is : -3.755, look ahead score is : 0.000
+(he -1.53)(would -1.18)(go -2.94)(to -3.15)(a -1.08)(friend -3.02)(, -4.63) line score is : -2.504, look ahead score is : 0.000
+(he -4.63)(would -3.67)(take -4.37)(a -0.65)(girlfriend -3.61)(, -1.30) line score is : -3.041, look ahead score is : 0.000
+(and -1.30)(they -8.27)(had -1.24)(sex -1.30)(frequently -1.92)(elsewhere -5.11)(. -1.05) line score is : -2.886, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ he would go to a party 
+ he would wave a cigar 
+ and she baked really great apple pies 
+-------------------------score:  -3.393376620610555----------------------- 
+there was a humble man named pierre 
+ who loved a good story and prayer . 
+ he would go to a friend , 
+ he would take a girlfriend , 
+ and he was still married today there . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(loved -5.00)(a -5.06)(good -1.70)(story -2.62)(and -1.88)(prayer -10.49)(. -1.53) line score is : -3.755, look ahead score is : 0.000
+(he -1.53)(would -1.18)(go -2.94)(to -3.15)(a -1.08)(friend -3.02)(, -4.63) line score is : -2.504, look ahead score is : 0.000
+(he -4.63)(would -3.67)(take -4.37)(a -0.65)(girlfriend -3.61)(, -1.30) line score is : -3.041, look ahead score is : 0.000
+(and -1.30)(he -8.27)(was -1.24)(still -1.30)(married -1.06)(today -3.67)(there -5.51)(. -2.54) line score is : -3.111, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ his grief and his rage 
+ and she baked really great apple pies 
+-------------------------score:  -3.3969334791104----------------------- 
+there was a humble man named pierre 
+ who touched all my heart in a prayer . 
+ he prayed for our soul , 
+ our spirit and our goal , 
+ and he did not spare anyone care . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(touched -8.84)(all -4.56)(my -2.45)(heart -1.63)(in -3.37)(a -2.91)(prayer -6.61)(. -2.35) line score is : -3.833, look ahead score is : 0.000
+(he -2.35)(prayed -1.54)(for -3.88)(our -1.13)(soul -4.21)(, -4.97) line score is : -3.014, look ahead score is : 0.000
+(our -4.97)(spirit -1.62)(and -2.17)(our -3.42)(goal -1.48)(, -0.45) line score is : -2.352, look ahead score is : 0.000
+(and -0.45)(he -8.43)(did -2.21)(not -1.52)(spare -2.06)(anyone -3.58)(care -2.63)(. -5.46) line score is : -3.292, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ he would go to a party 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.406760142695519----------------------- 
+there was a humble man named pierre 
+ who loved a good story and prayer . 
+ he would write to a friend , 
+ and he wrote to the end , 
+ and he did not spare anything rare . 
+------------------------- score breakdown ------------------------ 
+(who -1.77)(loved -5.00)(a -5.06)(good -1.70)(story -2.62)(and -1.88)(prayer -10.49)(. -1.53) line score is : -3.755, look ahead score is : 0.000
+(he -1.53)(would -1.18)(write -2.94)(to -3.79)(a -2.55)(friend -3.90)(, -1.30) line score is : -2.455, look ahead score is : 0.000
+(and -1.30)(he -1.85)(wrote -2.89)(to -2.87)(the -3.33)(end -1.61)(, -3.02) line score is : -2.409, look ahead score is : 0.000
+(and -3.02)(he -8.36)(did -2.58)(not -2.29)(spare -1.15)(anything -4.34)(rare -2.18)(. -6.00) line score is : -3.741, look ahead score is : 0.000

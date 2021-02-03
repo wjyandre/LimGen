@@ -1,0 +1,264 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0045833680633223----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ so she asked to sit down on the tray . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(so -0.00)(she -5.57)(asked -2.38)(to -4.04)(sit -0.78)(down -4.19)(on -3.05)(the -4.22)(tray -1.98)(. -2.23) line score is : -2.846, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.025444836370767----------------------- 
+there was a writer named kay 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ and that is the point of this survey . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(and -0.00)(that -5.57)(is -2.38)(the -2.26)(point -4.66)(of -2.92)(this -2.81)(survey -4.33)(. -1.68) line score is : -2.958, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0488676076585595----------------------- 
+there was a writer named kay 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was shocked by her shock , 
+ so she asked to sit down on the tray . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(shocked -1.04)(by -2.20)(her -4.41)(shock -1.52)(, -1.96) line score is : -2.362, look ahead score is : 0.000
+(so -1.96)(she -5.66)(asked -2.24)(to -3.81)(sit -0.64)(down -2.52)(on -3.66)(the -4.01)(tray -1.74)(. -3.04) line score is : -2.927, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1185121424350655----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ so she got up and put on the play . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(so -0.00)(she -5.57)(got -2.38)(up -4.04)(and -0.78)(put -4.04)(on -3.71)(the -0.94)(play -5.90)(. -1.21) line score is : -2.858, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.1445545633478713----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ and now she has a job resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(and -0.00)(now -5.57)(she -2.38)(has -2.26)(a -3.88)(job -0.68)(resume -2.47)(. -1.59) line score is : -2.355, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but it does n't come out of my purse 
+-------------------------score:  -3.151108416803782----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ but she is still blind in our day . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(but -0.00)(she -5.57)(is -2.38)(still -2.06)(blind -1.41)(in -5.14)(our -0.72)(day -4.46)(. -1.58) line score is : -2.592, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.1911767542206992----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ and her legs got stronger and okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(and -0.00)(her -5.57)(legs -2.38)(got -2.26)(stronger -2.93)(and -4.08)(okay -4.36)(. -1.41) line score is : -2.875, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.2473876383155584----------------------- 
+there was a writer named kay 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was shocked by her shock , 
+ but she knew she was getting him gay . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(shocked -1.04)(by -2.20)(her -4.41)(shock -1.52)(, -1.96) line score is : -2.362, look ahead score is : 0.000
+(but -1.96)(she -5.66)(knew -2.24)(she -1.94)(was -1.40)(getting -4.13)(him -1.60)(gay -1.35)(. -4.68) line score is : -2.772, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHOSE NN VBD A NN IN NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+whose pa made a fortune in pork 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.313165239493052----------------------- 
+there was a journalist named laure 
+ whose son became a martyr in war . 
+ he came back from the fight , 
+ and he went to the light , 
+ and he returned home again therefore . 
+------------------------- score breakdown ------------------------ 
+(whose -6.63)(son -4.64)(became -6.05)(a -0.98)(martyr -3.69)(in -1.85)(war -5.59)(. -1.53) line score is : -3.868, look ahead score is : 0.000
+(he -1.53)(came -3.01)(back -4.29)(from -1.96)(the -1.52)(fight -1.92)(, -5.02) line score is : -2.750, look ahead score is : 0.000
+(and -5.02)(he -2.33)(went -1.71)(to -2.14)(the -4.00)(light -0.82)(, -1.96) line score is : -2.568, look ahead score is : 0.000
+(and -1.96)(he -9.07)(returned -1.68)(home -0.55)(again -0.91)(therefore -4.25)(. -3.22) line score is : -3.093, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.3567127892897735----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ when she started to talk , 
+ she was able to walk , 
+ but she knew she was doing she gay . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(when -6.30)(she -4.17)(started -0.82)(to -4.04)(talk -2.89)(, -4.08) line score is : -3.717, look ahead score is : 0.000
+(she -4.08)(was -1.33)(able -1.04)(to -2.20)(walk -2.44)(, -0.00) line score is : -1.849, look ahead score is : 0.000
+(but -0.00)(she -5.57)(knew -2.38)(she -2.06)(was -1.41)(doing -5.53)(she -1.73)(gay -1.85)(. -5.78) line score is : -2.925, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ to call my last novel impure 
+-------------------------score:  -3.3735608304700544----------------------- 
+there was a writer named renee 
+ who learned a new language on her way . 
+ she came back from the war , 
+ and she went to the store , 
+ to buy her first flower resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(learned -7.96)(a -3.35)(new -4.09)(language -1.36)(on -4.56)(her -1.72)(way -2.70)(. -6.30) line score is : -3.861, look ahead score is : 0.000
+(she -6.30)(came -1.79)(back -4.58)(from -2.00)(the -2.19)(war -2.08)(, -3.12) line score is : -3.151, look ahead score is : 0.000
+(and -3.12)(she -2.70)(went -1.96)(to -2.64)(the -4.21)(store -0.94)(, -2.38) line score is : -2.565, look ahead score is : 0.000
+(to -2.38)(buy -6.23)(her -2.33)(first -2.93)(flower -1.00)(resume -2.85)(. -2.70) line score is : -2.918, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHOSE NN VBD A NN IN NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+whose pa made a fortune in pork 
+ they came back from the ride 
+ and they rushed to the rail 
+ when he found there were five little chips 
+-------------------------score:  -3.387264749035239----------------------- 
+there was a journalist named lore 
+ whose son became a martyr in war . 
+ he came back from the fight , 
+ and he went to the site , 
+ when he saw there were two female more . 
+------------------------- score breakdown ------------------------ 
+(whose -6.63)(son -4.64)(became -6.05)(a -0.98)(martyr -3.69)(in -1.85)(war -5.59)(. -1.53) line score is : -3.868, look ahead score is : 0.000
+(he -1.53)(came -3.01)(back -4.29)(from -1.96)(the -1.52)(fight -1.92)(, -5.02) line score is : -2.750, look ahead score is : 0.000
+(and -5.02)(he -2.33)(went -1.71)(to -2.14)(the -4.00)(site -0.82)(, -1.96) line score is : -2.568, look ahead score is : 0.000
+(when -1.96)(he -6.15)(saw -2.54)(there -5.58)(were -0.81)(two -0.96)(female -4.17)(more -3.10)(. -3.00) line score is : -3.143, look ahead score is : 0.000

@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.17606489546597----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a pool , 
+ and it was then like lightning of light . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(pool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(and -1.55)(it -8.46)(was -6.33)(then -1.88)(like -4.81)(lightning -0.69)(of -2.45)(light -8.23)(. -5.09) line score is : -4.388, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.1999173837323345----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a pool , 
+ which froze them in almost complete flight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(pool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(which -1.55)(froze -8.46)(them -6.33)(in -1.90)(almost -7.89)(complete -0.92)(flight -1.14)(. -10.33) line score is : -4.815, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ that ungracious young lady in blue 
+-------------------------score:  -3.3307055860757826----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ that same second officer in white . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(that -1.45)(same -8.46)(second -2.15)(officer -7.97)(in -4.53)(white -7.11)(. -4.09) line score is : -5.108, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.344621013601621----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a pool , 
+ and it was dark everywhere outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(pool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(and -1.55)(it -8.46)(was -6.33)(dark -1.88)(everywhere -4.81)(outright -0.69)(. -5.34) line score is : -4.152, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.354445598522822----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a pool , 
+ which included that student of light . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(pool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(which -1.55)(included -8.46)(that -6.33)(student -1.90)(of -4.94)(light -7.66)(. -4.53) line score is : -5.053, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.3718383283384386----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ for two hours straight outside at midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(for -1.45)(two -8.46)(hours -2.15)(straight -7.83)(outside -7.10)(at -1.77)(midnight -3.66)(. -9.45) line score is : -5.235, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.377284542719523----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ to bring two newspapers to midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(to -2.07)(bring -5.66)(two -3.70)(newspapers -6.58)(to -3.96)(midnight -4.10)(. -5.92) line score is : -4.571, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.3838798442194538----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ he had all his books missing outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(he -2.07)(had -5.66)(all -3.70)(his -5.02)(books -3.59)(missing -7.41)(outright -2.07)(. -3.02) line score is : -4.069, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and finished the solo with honour 
+-------------------------score:  -3.408341684937477----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ and told the assistant with insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(and -1.45)(told -8.46)(the -2.15)(assistant -4.20)(with -2.83)(insight -3.68)(. -6.60) line score is : -4.196, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ to call my last novel impure 
+-------------------------score:  -3.412653394540151----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ to bring their own alcohol midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(to -2.07)(bring -5.66)(their -3.70)(own -6.58)(alcohol -3.96)(midnight -1.13)(. -2.50) line score is : -3.658, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.4142509661614895----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ he was through the process and was light . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(he -2.07)(was -5.66)(through -3.70)(the -5.02)(process -2.18)(and -9.97)(was -3.97)(light -4.05)(. -1.90) line score is : -4.281, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ thirty days is the time he will do 
+-------------------------score:  -3.418976904824376----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a cool , 
+ calm boys is the reason i will write . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(cool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(calm -1.55)(boys -9.05)(is -1.56)(the -3.05)(reason -8.76)(i -8.60)(will -2.78)(write -4.52)(. -3.48) line score is : -4.818, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.435284549370408----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to school , 
+ he was met by a cruel , 
+ and mean girl to his right in twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(school -3.30)(, -4.85) line score is : -2.854, look ahead score is : 0.000
+(he -4.85)(was -0.72)(met -0.91)(by -2.01)(a -2.16)(cruel -0.37)(, -1.49) line score is : -1.788, look ahead score is : 0.000
+(and -1.49)(mean -9.08)(girl -2.90)(to -5.40)(his -6.66)(right -5.67)(in -6.18)(twilight -2.18)(. -0.62) line score is : -4.466, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.438443615101278----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ he told them and asked questions and night . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(he -1.45)(told -8.46)(them -2.15)(and -5.93)(asked -3.07)(questions -2.41)(and -4.99)(night -3.06)(. -6.28) line score is : -4.198, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.4402964961144233----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ they were up in trouble and invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(they -2.07)(were -5.66)(up -3.70)(in -4.48)(trouble -1.11)(and -7.40)(invite -3.13)(. -4.53) line score is : -4.010, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ great writers are fewer and fewer 
+-------------------------score:  -3.463874445358912----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a cool , 
+ calm students are older and upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(cool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(calm -1.55)(students -9.05)(are -1.56)(older -3.05)(and -8.08)(upright -7.85)(. -8.37) line score is : -5.643, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.466396516369235----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ to be careful people on it night . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(to -2.07)(be -5.66)(careful -3.70)(people -6.58)(on -3.71)(it -1.88)(night -8.58)(. -5.59) line score is : -4.723, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.49572934769094----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to school , 
+ they were met by a cool , 
+ still i em on his desk and twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(school -3.33)(, -4.13) line score is : -2.824, look ahead score is : 0.000
+(they -4.13)(were -0.62)(met -1.46)(by -1.35)(a -2.20)(cool -0.37)(, -1.55) line score is : -1.669, look ahead score is : 0.000
+(still -1.55)(i -9.05)(em -1.56)(on -6.98)(his -8.81)(desk -5.93)(and -6.57)(twilight -3.62)(. -0.57) line score is : -4.960, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4988424912575753----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ they too are in a union outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(they -2.07)(too -5.66)(are -3.70)(in -4.48)(a -7.29)(union -5.15)(outright -3.58)(. -3.30) line score is : -4.404, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.5000207599612976----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ they do not have seven or midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(they -2.07)(do -5.66)(not -3.70)(have -4.48)(seven -7.37)(or -0.07)(midnight -0.80)(. -8.47) line score is : -4.077, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.5245995034774142----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ and told his position a midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(and -1.45)(told -8.46)(his -2.15)(position -4.20)(a -2.83)(midnight -4.35)(. -6.28) line score is : -4.244, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.5762402992094717----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when they arrived to work , 
+ they were told by a clerk , 
+ they never can go in them outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(they -3.42)(arrived -2.38)(to -2.76)(work -3.33)(, -5.78) line score is : -3.099, look ahead score is : 0.000
+(they -5.78)(were -0.88)(told -1.51)(by -1.39)(a -2.75)(clerk -1.93)(, -2.07) line score is : -2.329, look ahead score is : 0.000
+(they -2.07)(never -5.66)(can -3.70)(go -4.48)(in -7.79)(them -5.93)(outright -2.82)(. -2.55) line score is : -4.375, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.665844270298558----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ he said when he heard across midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(he -1.45)(said -8.46)(when -2.15)(he -5.93)(heard -1.10)(across -9.95)(midnight -1.39)(. -5.05) line score is : -4.436, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.670567421049907----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ he quickly decided a midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(he -1.45)(quickly -8.46)(decided -2.15)(a -5.93)(midnight -6.25)(. -5.07) line score is : -4.885, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and showed him many cstar 
+-------------------------score:  -3.866818418790554----------------------- 
+there was a fierce teacher named dwight 
+ who sought out his students for a fight . 
+ when he arrived to work , 
+ he was met by a clerk , 
+ and ordered himself many midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(sought -7.17)(out -1.84)(his -3.02)(students -1.68)(for -2.76)(a -2.96)(fight -5.89)(. -0.92) line score is : -3.120, look ahead score is : 0.000
+(when -0.92)(he -3.42)(arrived -1.30)(to -3.35)(work -3.30)(, -6.33) line score is : -3.102, look ahead score is : 0.000
+(he -6.33)(was -0.93)(met -0.89)(by -1.95)(a -2.42)(clerk -0.32)(, -1.45) line score is : -2.043, look ahead score is : 0.000
+(and -1.45)(ordered -8.46)(himself -2.15)(many -4.20)(midnight -4.59)(. -8.37) line score is : -4.869, look ahead score is : 0.000

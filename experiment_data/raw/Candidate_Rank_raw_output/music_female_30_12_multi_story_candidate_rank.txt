@@ -1,0 +1,264 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.5891302172094584----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ and that is the basis of this brand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(she -0.81)(would -2.14)(take -2.88)(a -0.66)(photo -4.00)(, -1.81) line score is : -2.052, look ahead score is : 0.000
+(and -1.81)(that -2.88)(is -1.58)(the -0.96)(basis -4.42)(of -4.78)(this -2.34)(brand -4.17)(. -0.65) line score is : -2.622, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and now he 's a college professor 
+-------------------------score:  -2.636939823627472----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ and then she writes a song beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(she -0.81)(would -2.14)(take -2.88)(a -0.66)(photo -4.00)(, -1.81) line score is : -2.052, look ahead score is : 0.000
+(and -1.81)(then -2.88)(she -1.58)(writes -0.96)(a -2.40)(song -0.87)(beforehand -8.60)(. -1.37) line score is : -2.559, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and give vent to their terror in scremyss 
+-------------------------score:  -2.69602676294744----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ we would take a photo , 
+ and say hi to her person in hand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(we -0.81)(would -2.14)(take -2.94)(a -0.91)(photo -4.22)(, -2.05) line score is : -2.177, look ahead score is : 0.000
+(and -2.05)(say -3.52)(hi -1.56)(to -0.81)(her -5.23)(person -2.13)(in -0.73)(hand -0.36)(. -7.49) line score is : -2.655, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.719644238551458----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she was a musician , 
+ she was on a mission , 
+ and she came down and joined our brand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(was -1.40)(a -1.29)(musician -1.94)(, -5.46) line score is : -2.356, look ahead score is : 0.000
+(she -5.46)(was -1.93)(on -1.74)(a -0.82)(mission -5.21)(, -2.40) line score is : -2.927, look ahead score is : 0.000
+(and -2.40)(she -4.37)(came -0.98)(down -1.18)(and -0.45)(joined -4.23)(our -4.06)(brand -1.39)(. -4.36) line score is : -2.601, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -2.766970322529475----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she was a musician , 
+ she was on a mission , 
+ she worked hard to make a perfect brand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(was -1.40)(a -1.29)(musician -1.94)(, -5.46) line score is : -2.356, look ahead score is : 0.000
+(she -5.46)(was -1.93)(on -1.74)(a -0.82)(mission -5.21)(, -2.40) line score is : -2.927, look ahead score is : 0.000
+(she -2.40)(worked -4.37)(hard -0.98)(to -0.65)(make -4.47)(a -1.47)(perfect -1.92)(brand -1.47)(. -3.68) line score is : -2.379, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.779242707416415----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ and we went down and did our stand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(she -0.81)(would -2.14)(take -2.88)(a -0.66)(photo -4.00)(, -1.81) line score is : -2.052, look ahead score is : 0.000
+(and -1.81)(we -2.88)(went -1.58)(down -0.96)(and -1.85)(did -7.15)(our -4.21)(stand -2.02)(. -3.07) line score is : -2.837, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -2.8523545768111944----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ but she knew she was playing it planned . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(she -0.81)(would -2.14)(take -2.88)(a -0.66)(photo -4.00)(, -1.81) line score is : -2.052, look ahead score is : 0.000
+(but -1.81)(she -2.88)(knew -1.58)(she -4.98)(was -1.08)(playing -4.44)(it -2.11)(planned -1.21)(. -4.32) line score is : -2.712, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ he was n't the wizard he woz 
+-------------------------score:  -2.9152234331254037----------------------- 
+there was a loud artist named brande 
+ who played a huge role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ she was always the person you scanned . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(huge -5.33)(role -1.15)(on -3.54)(our -3.00)(band -2.65)(. -1.63) line score is : -2.864, look ahead score is : 0.000
+(she -1.63)(would -1.42)(come -3.77)(to -2.26)(a -1.66)(show -4.76)(, -0.74) line score is : -2.319, look ahead score is : 0.000
+(she -0.74)(would -2.13)(take -3.03)(a -0.65)(photo -4.01)(, -1.84) line score is : -2.065, look ahead score is : 0.000
+(she -1.84)(was -2.87)(always -1.57)(the -1.43)(person -4.45)(you -1.97)(scanned -3.68)(. -3.29) line score is : -2.637, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now he 's a college professor 
+-------------------------score:  -2.947813644491393----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she was a musician , 
+ she was on a mission , 
+ and now she is a music wasteland . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(was -1.40)(a -1.29)(musician -1.94)(, -5.46) line score is : -2.356, look ahead score is : 0.000
+(she -5.46)(was -1.93)(on -1.74)(a -0.82)(mission -5.21)(, -2.40) line score is : -2.927, look ahead score is : 0.000
+(and -2.40)(now -4.37)(she -0.98)(is -1.18)(a -5.35)(music -0.34)(wasteland -2.62)(. -2.28) line score is : -2.439, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she slipped through the straw and fell in 
+-------------------------score:  -2.95079355041186----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she was a musician , 
+ she was on a mission , 
+ she went through the process and made land . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(was -1.40)(a -1.29)(musician -1.94)(, -5.46) line score is : -2.356, look ahead score is : 0.000
+(she -5.46)(was -1.93)(on -1.74)(a -0.82)(mission -5.21)(, -2.40) line score is : -2.927, look ahead score is : 0.000
+(she -2.40)(went -4.37)(through -0.98)(the -0.65)(process -4.34)(and -3.12)(made -2.37)(land -2.93)(. -2.74) line score is : -2.655, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ a word of ambiguous meaning 
+-------------------------score:  -3.023833383773935----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ a couple of hundred beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(she -0.81)(would -2.14)(take -2.88)(a -0.66)(photo -4.00)(, -1.81) line score is : -2.052, look ahead score is : 0.000
+(a -1.81)(couple -2.88)(of -1.58)(hundred -5.22)(beforehand -3.48)(. -0.66) line score is : -2.606, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and returned on the previous night 
+-------------------------score:  -3.0932502170403797----------------------- 
+there was a loud artist named brande 
+ who played a big role on our band . 
+ she would come to a show , 
+ she would take a photo , 
+ and put on the little beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -2.42)(played -2.99)(a -3.06)(big -5.16)(role -1.31)(on -3.31)(our -3.08)(band -2.63)(. -1.68) line score is : -2.849, look ahead score is : 0.000
+(she -1.68)(would -1.40)(come -3.77)(to -2.12)(a -1.68)(show -4.76)(, -0.81) line score is : -2.318, look ahead score is : 0.000
+(she -0.81)(would -2.14)(take -2.88)(a -0.66)(photo -4.00)(, -1.81) line score is : -2.052, look ahead score is : 0.000
+(and -1.81)(put -2.88)(on -1.58)(the -0.96)(little -4.66)(beforehand -4.61)(. -2.13) line score is : -2.663, look ahead score is : 0.000

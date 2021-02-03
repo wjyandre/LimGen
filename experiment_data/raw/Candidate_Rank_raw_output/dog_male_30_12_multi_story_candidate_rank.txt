@@ -1,0 +1,66 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.7169494655202415----------------------- 
+there was a lucky boy named dewayne 
+ who got a free ride on our train . 
+ he came back from the car , 
+ and we went to the bar , 
+ so we had to sit down on the plane . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(got -3.05)(a -2.18)(free -4.66)(ride -1.73)(on -1.79)(our -4.71)(train -3.02)(. -2.20) line score is : -2.774, look ahead score is : 0.000
+(he -2.20)(came -1.14)(back -3.72)(from -1.90)(the -3.04)(car -2.13)(, -6.25) line score is : -2.910, look ahead score is : 0.000
+(and -6.25)(we -3.14)(went -2.15)(to -2.53)(the -3.31)(bar -1.23)(, -1.72) line score is : -2.905, look ahead score is : 0.000
+(so -1.72)(we -4.31)(had -2.54)(to -4.58)(sit -1.05)(down -2.93)(on -2.12)(the -2.97)(plane -1.65)(. -3.49) line score is : -2.735, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.7270125349362693----------------------- 
+there was a lucky boy named wayne 
+ who got a free ride on our train . 
+ he came back from the car , 
+ and we went to the bar , 
+ and we sat down and drank our pain . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(got -3.05)(a -2.18)(free -4.66)(ride -1.73)(on -1.79)(our -4.71)(train -3.02)(. -2.20) line score is : -2.774, look ahead score is : 0.000
+(he -2.20)(came -1.14)(back -3.72)(from -1.90)(the -3.04)(car -2.13)(, -6.25) line score is : -2.910, look ahead score is : 0.000
+(and -6.25)(we -3.14)(went -2.15)(to -2.53)(the -3.31)(bar -1.23)(, -1.72) line score is : -2.905, look ahead score is : 0.000
+(and -1.72)(we -4.31)(sat -2.54)(down -0.63)(and -1.82)(drank -2.80)(our -1.13)(pain -1.20)(. -3.24) line score is : -2.154, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -2.876447236899174----------------------- 
+there was a lucky boy named wayne 
+ who got a free ride on our train . 
+ he came back from the car , 
+ and we went to the bar , 
+ but he said he was taking it plain . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(got -3.05)(a -2.18)(free -4.66)(ride -1.73)(on -1.79)(our -4.71)(train -3.02)(. -2.20) line score is : -2.774, look ahead score is : 0.000
+(he -2.20)(came -1.14)(back -3.72)(from -1.90)(the -3.04)(car -2.13)(, -6.25) line score is : -2.910, look ahead score is : 0.000
+(and -6.25)(we -3.14)(went -2.15)(to -2.53)(the -3.31)(bar -1.23)(, -1.72) line score is : -2.905, look ahead score is : 0.000
+(but -1.72)(he -4.31)(said -2.54)(he -3.19)(was -1.18)(taking -3.33)(it -0.87)(plain -1.69)(. -5.03) line score is : -2.650, look ahead score is : 0.000

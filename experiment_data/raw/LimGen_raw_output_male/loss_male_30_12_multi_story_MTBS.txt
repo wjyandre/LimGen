@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.9072456136345863----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was stunned by his plight , 
+ and that is the story of this brawl . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(stunned -0.49)(by -1.70)(his -5.04)(plight -1.65)(, -1.76) line score is : -2.800, look ahead score is : 0.000
+(and -1.76)(that -8.71)(is -2.13)(the -1.37)(story -5.53)(of -3.80)(this -2.81)(brawl -2.77)(. -0.95) line score is : -3.316, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ then he walloped me square in the face 
+-------------------------score:  -2.94436720199883----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ then he saw him bleeding in the hall . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(then -2.00)(he -7.25)(saw -2.18)(him -5.44)(bleeding -3.25)(in -2.30)(the -4.87)(hall -5.94)(. -3.33) line score is : -4.063, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -2.9763762047213893----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he said that his vision was baseball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(said -7.25)(that -2.18)(his -4.43)(vision -1.26)(was -5.69)(baseball -2.00)(. -1.05) line score is : -3.234, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.0573616961638135----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and found his opponent a fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(found -7.25)(his -2.18)(opponent -1.57)(a -4.09)(fireball -2.40)(. -6.04) line score is : -3.648, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.100399775751706----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his plight , 
+ he never expected a recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(plight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(never -8.28)(expected -2.12)(a -3.84)(recall -5.85)(. -1.89) line score is : -3.998, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.1062305092811586----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was stunned by his sight , 
+ because he was seeing his fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(stunned -0.49)(by -1.70)(his -5.04)(sight -1.65)(, -1.76) line score is : -2.800, look ahead score is : 0.000
+(because -1.76)(he -7.41)(was -2.26)(seeing -5.21)(his -0.89)(fireball -1.93)(. -3.97) line score is : -3.347, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.150369865819812----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he was blind to hear a gunshot call . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(was -7.25)(blind -2.18)(to -4.43)(hear -2.35)(a -3.37)(gunshot -4.80)(call -5.86)(. -3.91) line score is : -4.016, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.177660967073133----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was stunned by his sight , 
+ and his eyes grew larger and baseball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(stunned -0.49)(by -1.70)(his -5.04)(sight -1.65)(, -1.76) line score is : -2.800, look ahead score is : 0.000
+(and -1.76)(his -7.41)(eyes -2.26)(grew -1.42)(larger -2.73)(and -2.53)(baseball -3.75)(. -4.21) line score is : -3.260, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.2027997195720674----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and found the hospital with football . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(found -7.25)(the -2.18)(hospital -1.57)(with -4.09)(football -2.98)(. -5.42) line score is : -3.642, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ as his talent and confidence swelled 
+-------------------------score:  -3.2702530225118003----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his plight , 
+ as his body and mind fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(plight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(as -2.00)(his -8.28)(body -2.12)(and -3.13)(mind -2.25)(fireball -3.44)(. -3.58) line score is : -3.544, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ thirty days is the time he will do 
+-------------------------score:  -3.2799722384661436----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his height , 
+ thin legs is the way he will recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(height -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(thin -2.00)(legs -8.78)(is -1.70)(the -5.93)(way -2.75)(he -11.77)(will -2.75)(recall -3.67)(. -0.54) line score is : -4.432, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2838798770681024----------------------- 
+there was a wise doctor named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and he was down and broke his baseball . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(lost -8.13)(all -3.09)(his -0.47)(money -1.42)(in -1.72)(a -1.03)(fall -5.91)(. -1.90) line score is : -2.822, look ahead score is : 0.000
+(when -1.90)(he -3.78)(returned -0.81)(to -2.86)(fight -1.38)(, -7.93) line score is : -3.110, look ahead score is : 0.000
+(he -7.93)(was -1.14)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.823, look ahead score is : 0.000
+(and -2.00)(he -7.25)(was -2.18)(down -1.57)(and -2.62)(broke -2.04)(his -7.49)(baseball -4.12)(. -6.60) line score is : -3.986, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and as far as the bucket 
+-------------------------score:  -3.29234778881073----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was stunned by his sight , 
+ and as quickly as the fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(stunned -0.49)(by -1.70)(his -5.04)(sight -1.65)(, -1.76) line score is : -2.800, look ahead score is : 0.000
+(and -1.76)(as -7.41)(quickly -2.26)(as -1.42)(the -5.15)(fireball -7.06)(. -0.52) line score is : -3.655, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2982114981859922----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he was through the roof and had football . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(was -7.25)(through -2.18)(the -4.43)(roof -2.35)(and -9.40)(had -2.56)(football -2.32)(. -2.06) line score is : -3.839, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.310726567622154----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and he was not sure anyone all . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(he -7.25)(was -2.18)(not -1.57)(sure -2.62)(anyone -2.04)(all -4.26)(. -2.59) line score is : -3.064, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ then I sat on my moped and moped 
+-------------------------score:  -3.3188496325165033----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was stunned by his sight , 
+ then he swore on his blood and football . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(stunned -0.49)(by -1.70)(his -5.04)(sight -1.65)(, -1.76) line score is : -2.800, look ahead score is : 0.000
+(then -1.76)(he -7.41)(swore -2.26)(on -4.78)(his -3.65)(blood -7.19)(and -4.71)(football -0.60)(. -4.11) line score is : -4.053, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.3255219320456186----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and he was blind even fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(he -7.25)(was -2.18)(blind -1.57)(even -2.62)(fireball -2.04)(. -5.16) line score is : -3.260, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.4077848753621502----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he said when he heard across baseball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(said -7.25)(when -2.18)(he -4.43)(heard -1.26)(across -7.54)(baseball -0.91)(. -4.02) line score is : -3.700, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4177590618210454----------------------- 
+there was a wise doctor named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he also heard in a flash fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(lost -8.13)(all -3.09)(his -0.47)(money -1.42)(in -1.72)(a -1.03)(fall -5.91)(. -1.90) line score is : -2.822, look ahead score is : 0.000
+(when -1.90)(he -3.78)(returned -0.81)(to -2.86)(fight -1.38)(, -7.93) line score is : -3.110, look ahead score is : 0.000
+(he -7.93)(was -1.14)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.823, look ahead score is : 0.000
+(he -2.00)(also -7.25)(heard -2.18)(in -4.43)(a -5.69)(flash -4.85)(fireball -6.51)(. -3.22) line score is : -4.516, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and showed him many cstar 
+-------------------------score:  -3.4251969991059137----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and found himself many fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(found -7.25)(himself -2.18)(many -1.57)(fireball -4.09)(. -1.18) line score is : -3.046, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and since then has never benzene 
+-------------------------score:  -3.4520670036474863----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and since then has always fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(since -7.25)(then -2.18)(has -1.57)(always -6.69)(fireball -0.75)(. -2.02) line score is : -3.208, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ which pickled his internal workins 
+-------------------------score:  -3.5004826229194115----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his height , 
+ which made our second fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(height -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(which -2.00)(made -8.78)(our -1.70)(second -2.13)(fireball -2.94)(. -9.73) line score is : -4.548, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.5205739409692827----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he now can see past it fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(now -7.25)(can -2.18)(see -4.43)(past -5.93)(it -4.85)(fireball -1.51)(. -6.72) line score is : -4.360, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ to tutor two tutors to toot 
+-------------------------score:  -3.566159850358963----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was stunned by his sight , 
+ to see three policemen to recall . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(stunned -0.49)(by -1.70)(his -5.04)(sight -1.65)(, -1.76) line score is : -2.800, look ahead score is : 0.000
+(to -1.76)(see -7.41)(three -2.26)(policemen -5.80)(to -2.86)(recall -5.21)(. -6.41) line score is : -4.533, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.5739129316061735----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he was now blind right left this football . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(was -7.25)(now -2.18)(blind -4.43)(right -2.35)(left -5.60)(this -1.86)(football -8.06)(. -8.85) line score is : -4.732, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.642743297692003----------------------- 
+there was a nervous man named saul 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ the damage has taken fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(the -2.00)(damage -7.25)(has -2.18)(taken -4.64)(fireball -4.23)(. -8.67) line score is : -4.828, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.6978272141948825----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ he heard only whisper one or all . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(he -2.00)(heard -7.25)(only -2.18)(whisper -4.43)(one -5.95)(or -5.97)(all -6.80)(. -8.78) line score is : -5.421, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.7456604465842247----------------------- 
+there was a nervous man named jamal 
+ who lost all his money in a fall . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ and trying help him is but bad football . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(lost -7.55)(all -3.47)(his -0.53)(money -0.57)(in -1.51)(a -1.40)(fall -5.90)(. -2.03) line score is : -2.743, look ahead score is : 0.000
+(when -2.03)(he -4.01)(returned -0.81)(to -2.97)(fight -1.38)(, -7.90) line score is : -3.183, look ahead score is : 0.000
+(he -7.90)(was -1.05)(shocked -0.49)(by -1.70)(his -3.95)(sight -2.55)(, -2.00) line score is : -2.806, look ahead score is : 0.000
+(and -2.00)(trying -7.25)(help -2.18)(him -1.57)(is -8.96)(but -10.84)(bad -2.27)(football -6.17)(. -8.19) line score is : -5.493, look ahead score is : 0.000

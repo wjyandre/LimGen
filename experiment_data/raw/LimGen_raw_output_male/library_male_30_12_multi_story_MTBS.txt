@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1246394587285593----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ so he went up and put on the light . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(so -1.27)(he -7.63)(went -2.44)(up -7.47)(and -0.42)(put -2.81)(on -3.03)(the -1.96)(light -5.83)(. -2.54) line score is : -3.539, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBN BY A QUITE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ followed by a quite big falling-in 
+-------------------------score:  -3.1501189331213633----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ surprised by a quite different sight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(surprised -1.27)(by -7.63)(a -2.44)(quite -7.89)(different -1.94)(sight -1.88)(. -9.24) line score is : -4.612, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.2559849123160043----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and offered his service a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(and -1.27)(offered -7.63)(his -2.44)(service -3.67)(a -4.73)(fortnight -2.65)(. -3.71) line score is : -3.729, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and kissed her because he was wuise 
+-------------------------score:  -3.264199756806897----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and asked her because it was midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(and -1.27)(asked -7.63)(her -2.44)(because -3.67)(it -2.34)(was -6.90)(midnight -9.37)(. -3.53) line score is : -4.644, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2684504967182875----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ but he has not come within his sight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(but -2.10)(he -5.53)(has -3.68)(not -6.86)(come -2.13)(within -5.63)(his -1.65)(sight -4.78)(. -6.43) line score is : -4.309, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and finished the solo with honour 
+-------------------------score:  -3.2686788698037463----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and offered the money with insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(and -1.27)(offered -7.63)(the -2.44)(money -3.67)(with -4.73)(insight -2.02)(. -3.78) line score is : -3.649, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.3116405644724445----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that no money was present but light . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(that -2.10)(no -5.53)(money -3.68)(was -2.92)(present -5.37)(but -3.83)(light -1.30)(. -5.20) line score is : -3.742, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ this did n't apply to her feet 
+-------------------------score:  -3.3626212052279905----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ this did not appear to his insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(this -2.10)(did -5.53)(not -3.68)(appear -7.05)(to -7.01)(his -0.06)(insight -2.94)(. -0.21) line score is : -3.573, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to call my last novel impure 
+-------------------------score:  -3.373027374347051----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ to take his new invention outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(to -2.10)(take -5.53)(his -3.68)(new -6.11)(invention -3.30)(outright -2.69)(. -5.05) line score is : -4.067, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.3931709431832835----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ but i am too lazy for insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(but -2.10)(i -5.53)(am -3.68)(too -6.86)(lazy -4.48)(for -3.43)(insight -4.44)(. -1.01) line score is : -3.941, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.422127083424599----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ which was located with the most insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(which -2.10)(was -5.53)(located -3.68)(with -5.87)(the -1.63)(most -4.89)(insight -5.77)(. -1.36) line score is : -3.854, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.423926999171575----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ to bring two newspapers to midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(to -2.10)(bring -5.53)(two -3.68)(newspapers -6.11)(to -3.66)(midnight -5.31)(. -6.34) line score is : -4.676, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.4261792163054148----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ which happened that morning of midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(which -2.10)(happened -5.53)(that -3.68)(morning -5.87)(of -4.46)(midnight -6.37)(. -2.68) line score is : -4.384, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.470122245050246----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ he said that his father had outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(he -2.10)(said -5.53)(that -3.68)(his -4.49)(father -3.72)(had -3.43)(outright -3.50)(. -3.77) line score is : -3.777, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ when he saw there were six little chips 
+-------------------------score:  -3.490140972658992----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ when he saw there were two new upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(when -2.10)(he -5.53)(saw -3.68)(there -6.66)(were -0.74)(two -3.52)(new -6.30)(upright -1.84)(. -2.88) line score is : -3.695, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.4961148827306685----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ it was not the money he outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(it -2.10)(was -5.53)(not -3.68)(the -6.69)(money -0.42)(he -3.45)(outright -2.69)(. -3.09) line score is : -3.455, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.512627065181732----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ because he was doing his fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(because -2.10)(he -5.53)(was -3.68)(doing -7.93)(his -0.85)(fortnight -1.27)(. -5.09) line score is : -3.779, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.514419215917587----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ and asked with a serious upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(and -1.27)(asked -7.63)(with -2.44)(a -3.67)(serious -2.34)(upright -6.44)(. -1.81) line score is : -3.657, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.5388672063427586----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ but he refused his offers and might . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(but -1.27)(he -7.63)(refused -2.44)(his -6.08)(offers -1.72)(and -2.93)(might -4.88)(. -5.33) line score is : -4.035, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that man in a boat 
+-------------------------score:  -3.6359879867783906----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that nobody outside a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(that -2.10)(nobody -5.53)(outside -3.68)(a -2.92)(fortnight -7.12)(. -6.49) line score is : -4.640, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.6465345043689013----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ but he had it checked using him right . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(but -1.27)(he -7.63)(had -2.44)(it -6.08)(checked -1.72)(using -2.74)(him -6.57)(right -5.36)(. -7.96) line score is : -4.640, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.648225155568892----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ it was when he hit across midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(it -2.10)(was -5.53)(when -3.68)(he -6.69)(hit -0.42)(across -8.94)(midnight -1.16)(. -6.66) line score is : -4.397, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ what finished him off was the crust 
+-------------------------score:  -3.6811783832888447----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ what turned him off started the midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(what -2.10)(turned -5.53)(him -3.68)(off -8.20)(started -4.82)(the -3.85)(midnight -2.10)(. -8.96) line score is : -4.905, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ or does gravity miss things so small 
+-------------------------score:  -3.845279199461783----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was told by a clerk , 
+ or has someone tell people so right . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(told -0.56)(by -2.41)(a -3.17)(clerk -1.51)(, -2.10) line score is : -2.319, look ahead score is : 0.000
+(or -2.10)(has -5.53)(someone -3.68)(tell -7.48)(people -8.86)(so -5.72)(right -4.08)(. -6.51) line score is : -5.495, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHILE THAT JJ JJ NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ while that futile old gentleman dozed 
+-------------------------score:  -3.926537742217382----------------------- 
+there was a general named dwight 
+ who found a great treasure on his site . 
+ when he returned to work , 
+ he was met by a clerk , 
+ while that other young fellow outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(found -6.35)(a -2.02)(great -4.97)(treasure -2.94)(on -3.59)(his -2.93)(site -5.74)(. -1.54) line score is : -3.519, look ahead score is : 0.000
+(when -1.54)(he -4.45)(returned -1.02)(to -2.97)(work -1.19)(, -5.11) line score is : -2.712, look ahead score is : 0.000
+(he -5.11)(was -1.36)(met -0.56)(by -2.41)(a -4.73)(clerk -0.40)(, -1.27) line score is : -2.265, look ahead score is : 0.000
+(while -1.27)(that -7.63)(other -2.44)(young -7.49)(fellow -7.14)(outright -4.02)(. -5.91) line score is : -5.128, look ahead score is : 0.000

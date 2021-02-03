@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -3.050452969968319----------------------- 
+there was a grandma named renee 
+ who loved all her family in a way . 
+ she would say to a friend , 
+ she would have a boyfriend , 
+ but she knew she was doing it gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(loved -3.65)(all -5.17)(her -3.25)(family -4.19)(in -5.23)(a -3.05)(way -1.45)(. -3.91) line score is : -3.474, look ahead score is : 0.000
+(she -3.91)(would -1.36)(say -3.01)(to -3.76)(a -2.60)(friend -5.05)(, -1.54) line score is : -3.034, look ahead score is : 0.000
+(she -1.54)(would -0.72)(have -4.23)(a -1.82)(boyfriend -4.47)(, -1.53) line score is : -2.385, look ahead score is : 0.000
+(but -1.53)(she -6.00)(knew -1.53)(she -2.47)(was -1.16)(doing -3.90)(it -1.51)(gay -1.65)(. -4.57) line score is : -2.702, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.2373901824156444----------------------- 
+there was a grandma named renee 
+ who loved all her family in a way . 
+ she would go to a friend , 
+ she would have a boyfriend , 
+ and she wanted someone else okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(loved -3.65)(all -5.17)(her -3.25)(family -4.19)(in -5.23)(a -3.05)(way -1.45)(. -3.91) line score is : -3.474, look ahead score is : 0.000
+(she -3.91)(would -1.36)(go -3.01)(to -3.22)(a -1.16)(friend -3.69)(, -3.60) line score is : -2.851, look ahead score is : 0.000
+(she -3.60)(would -6.38)(have -3.60)(a -0.45)(boyfriend -3.77)(, -1.34) line score is : -3.189, look ahead score is : 0.000
+(and -1.34)(she -5.41)(wanted -0.72)(someone -2.13)(else -0.92)(okay -4.52)(. -4.21) line score is : -2.750, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ but I guess that you probably gnu 
+-------------------------score:  -3.2862307563904793----------------------- 
+there was a grandma named kay 
+ who loved all her family in a way . 
+ she would say to a friend , 
+ she would have a boyfriend , 
+ but i think that she really okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(loved -3.65)(all -5.17)(her -3.25)(family -4.19)(in -5.23)(a -3.05)(way -1.45)(. -3.91) line score is : -3.474, look ahead score is : 0.000
+(she -3.91)(would -1.36)(say -3.01)(to -3.76)(a -2.60)(friend -5.05)(, -1.54) line score is : -3.034, look ahead score is : 0.000
+(she -1.54)(would -0.72)(have -4.23)(a -1.82)(boyfriend -4.47)(, -1.53) line score is : -2.385, look ahead score is : 0.000
+(but -1.53)(i -6.00)(think -1.53)(that -2.47)(she -3.53)(really -3.01)(okay -2.42)(. -2.44) line score is : -2.865, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and now he 's a college professor 
+-------------------------score:  -3.3240763487354403----------------------- 
+there was a grandma named renee 
+ who loved all her family in a way . 
+ she would say to a friend , 
+ she would have a boyfriend , 
+ and then she gets a divorce halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(loved -3.65)(all -5.17)(her -3.25)(family -4.19)(in -5.23)(a -3.05)(way -1.45)(. -3.91) line score is : -3.474, look ahead score is : 0.000
+(she -3.91)(would -1.36)(say -3.01)(to -3.76)(a -2.60)(friend -5.05)(, -1.54) line score is : -3.034, look ahead score is : 0.000
+(she -1.54)(would -0.72)(have -4.23)(a -1.82)(boyfriend -4.47)(, -1.53) line score is : -2.385, look ahead score is : 0.000
+(and -1.53)(then -6.00)(she -1.53)(gets -1.62)(a -2.18)(divorce -1.05)(halfway -7.48)(. -2.81) line score is : -3.024, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ in a sugary takeover bid 
+-------------------------score:  -3.386437968483993----------------------- 
+there once was a teacher named renee 
+ who learned a new language on her way . 
+ when she returned to mind , 
+ she was surprised to find , 
+ in a second memory cache . 
+------------------------- score breakdown ------------------------ 
+(who -3.14)(learned -5.93)(a -3.47)(new -3.34)(language -1.51)(on -4.47)(her -1.27)(way -2.60)(. -7.78) line score is : -3.723, look ahead score is : 0.000
+(when -7.78)(she -3.50)(returned -0.60)(to -2.32)(mind -1.01)(, -10.00) line score is : -4.203, look ahead score is : 0.000
+(she -10.00)(was -0.93)(surprised -0.49)(to -2.17)(find -3.42)(, -0.30) line score is : -2.884, look ahead score is : 0.000
+(in -0.30)(a -0.80)(second -5.85)(memory -2.49)(cache -2.39)(. -5.41) line score is : -2.873, look ahead score is : 0.000

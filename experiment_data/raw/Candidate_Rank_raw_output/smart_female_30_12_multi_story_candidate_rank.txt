@@ -1,0 +1,44 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.8824713525152013----------------------- 
+there was a smart lady named kai 
+ who put a blind fold on our guy . 
+ when he started to talk , 
+ he was able to walk , 
+ but we thought we were getting him high . 
+------------------------- score breakdown ------------------------ 
+(who -2.12)(put -5.72)(a -3.04)(blind -6.54)(fold -0.34)(on -0.22)(our -4.67)(guy -5.48)(. -2.34) line score is : -3.385, look ahead score is : 0.000
+(when -2.34)(he -4.37)(started -1.57)(to -3.83)(talk -1.59)(, -3.30) line score is : -2.835, look ahead score is : 0.000
+(he -3.30)(was -1.31)(able -2.10)(to -2.31)(walk -4.65)(, -0.00) line score is : -2.278, look ahead score is : 0.000
+(but -0.00)(we -5.08)(thought -3.02)(we -1.40)(were -2.92)(getting -4.26)(him -3.32)(high -0.74)(. -3.92) line score is : -2.741, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -2.8991396599449217----------------------- 
+there was a smart lady named kai 
+ who put a blind fold on our guy . 
+ when he started to talk , 
+ i was shocked by his shock , 
+ but i knew he was telling me lie . 
+------------------------- score breakdown ------------------------ 
+(who -2.12)(put -5.72)(a -3.04)(blind -6.54)(fold -0.34)(on -0.22)(our -4.67)(guy -5.48)(. -2.34) line score is : -3.385, look ahead score is : 0.000
+(when -2.34)(he -4.37)(started -1.57)(to -3.83)(talk -1.59)(, -3.30) line score is : -2.835, look ahead score is : 0.000
+(i -3.30)(was -1.31)(shocked -2.21)(by -2.47)(his -3.65)(shock -3.04)(, -1.11) line score is : -2.443, look ahead score is : 0.000
+(but -1.11)(i -6.42)(knew -2.37)(he -2.20)(was -1.72)(telling -2.60)(me -1.32)(lie -0.57)(. -2.92) line score is : -2.360, look ahead score is : 0.000

@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.205847078934312----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was met by his guest , 
+ and that is the story of this night . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(met -1.54)(by -0.69)(his -3.42)(guest -0.83)(, -3.83) line score is : -2.951, look ahead score is : 0.000
+(and -3.83)(that -7.80)(is -1.08)(the -3.86)(story -5.58)(of -3.42)(this -2.32)(night -2.98)(. -0.94) line score is : -3.534, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ then he walloped me square in the face 
+-------------------------score:  -3.33716306835413----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ then he saw him crying in the night . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(then -2.52)(he -4.95)(saw -1.74)(him -5.33)(crying -3.84)(in -3.61)(the -2.31)(night -5.03)(. -3.41) line score is : -3.637, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.3783518094569445----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ that the person he had called a knight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(that -2.52)(the -4.95)(person -1.74)(he -3.34)(had -2.07)(called -2.07)(a -2.74)(knight -1.67)(. -3.72) line score is : -2.756, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ then fell into a vat of grease 
+-------------------------score:  -3.443507897277032----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ then turned into a man of midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(then -2.52)(turned -4.95)(into -1.74)(a -5.33)(man -4.62)(of -4.03)(midnight -0.46)(. -3.64) line score is : -3.410, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and some of the members are swines 
+-------------------------score:  -3.5037096123541556----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ and some of the others heard outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(and -2.52)(some -4.95)(of -1.74)(the -4.93)(others -5.59)(heard -1.71)(outright -0.71)(. -2.15) line score is : -3.037, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and returned on the previous night 
+-------------------------score:  -3.5099130819241204----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was struck by his chest , 
+ and fell on the opposite upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(struck -1.54)(by -0.69)(his -4.76)(chest -1.38)(, -4.79) line score is : -3.359, look ahead score is : 0.000
+(and -4.79)(fell -7.02)(on -2.06)(the -1.67)(opposite -2.62)(upright -2.50)(. -0.50) line score is : -3.022, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.5204206062480807----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was pulled by his chest , 
+ and put head to his stomach in fright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(pulled -1.54)(by -0.69)(his -5.23)(chest -2.65)(, -2.03) line score is : -3.212, look ahead score is : 0.000
+(and -2.03)(put -7.13)(head -2.31)(to -2.12)(his -4.65)(stomach -6.83)(in -1.89)(fright -4.63)(. -2.96) line score is : -3.838, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.524772319101518----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ and then he tells a story outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(and -2.52)(then -4.95)(he -1.74)(tells -4.93)(a -2.25)(story -2.71)(outright -7.59)(. -3.41) line score is : -3.761, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.584086613308999----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was stopped by his guest , 
+ and asked her because it was midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(stopped -1.54)(by -0.69)(his -4.42)(guest -0.53)(, -4.09) line score is : -3.089, look ahead score is : 0.000
+(and -4.09)(asked -7.95)(her -1.23)(because -2.92)(it -4.18)(was -7.98)(midnight -8.83)(. -3.85) line score is : -5.130, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.625237242380778----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was struck by his chest , 
+ and fell with a horrible upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(struck -1.54)(by -0.69)(his -4.76)(chest -1.38)(, -4.79) line score is : -3.359, look ahead score is : 0.000
+(and -4.79)(fell -7.02)(with -2.06)(a -1.67)(horrible -2.62)(upright -5.20)(. -0.55) line score is : -3.414, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ as his talent and confidence swelled 
+-------------------------score:  -3.642058954636256----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ as his father and brother invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(as -2.52)(his -4.95)(father -1.74)(and -6.05)(brother -3.53)(invite -1.43)(. -4.14) line score is : -3.479, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.654846589411459----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ he never can go unless they bite . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(he -2.52)(never -4.95)(can -1.74)(go -3.15)(unless -6.24)(they -6.56)(bite -2.22)(. -6.98) line score is : -4.295, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.677349030971527----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was told by his guest , 
+ because he was wearing his midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(told -1.54)(by -0.69)(his -3.22)(guest -1.86)(, -2.57) line score is : -2.890, look ahead score is : 0.000
+(because -2.57)(he -7.31)(was -1.65)(wearing -8.37)(his -0.64)(midnight -0.71)(. -3.83) line score is : -3.584, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ to tutor two tutors to toot 
+-------------------------score:  -3.7437189678351084----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ to get two policemen to unite . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(to -2.52)(get -4.95)(two -1.74)(policemen -5.31)(to -3.42)(unite -8.35)(. -6.33) line score is : -4.658, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.779814583639945----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was told by his guest , 
+ i have never heard one or fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(told -1.54)(by -0.69)(his -3.22)(guest -1.86)(, -2.57) line score is : -2.890, look ahead score is : 0.000
+(i -2.57)(have -7.31)(never -1.65)(heard -6.23)(one -3.49)(or -3.62)(fortnight -2.23)(. -4.86) line score is : -3.995, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ which leaves him in very bad shape 
+-------------------------score:  -3.7969832516485647----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ which means he in very good insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(which -2.52)(means -4.95)(he -1.74)(in -6.46)(very -4.39)(good -1.67)(insight -8.35)(. -7.17) line score is : -4.656, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.815159726142883----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was stopped by his guest , 
+ and then could continue a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(stopped -1.54)(by -0.69)(his -4.42)(guest -0.53)(, -4.09) line score is : -3.089, look ahead score is : 0.000
+(and -4.09)(then -7.95)(could -1.23)(continue -2.92)(a -3.66)(fortnight -7.83)(. -6.09) line score is : -4.825, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.8343132019042967----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was stopped by his guest , 
+ and asked his opinion a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(stopped -1.54)(by -0.69)(his -4.42)(guest -0.53)(, -4.09) line score is : -3.089, look ahead score is : 0.000
+(and -4.09)(asked -7.95)(his -1.23)(opinion -2.92)(a -4.18)(fortnight -5.13)(. -3.06) line score is : -4.081, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ that man in a boat 
+-------------------------score:  -3.8392630548312745----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was told by his guest , 
+ that nobody outside a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(told -1.54)(by -0.69)(his -3.22)(guest -1.86)(, -2.57) line score is : -2.890, look ahead score is : 0.000
+(that -2.57)(nobody -7.31)(outside -1.65)(a -2.97)(fortnight -6.52)(. -6.46) line score is : -4.580, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ to balance green peas on her fork 
+-------------------------score:  -3.849783618603983----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to someone , 
+ he was told by his son , 
+ to go right towards on him outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(someone -1.75)(, -7.72) line score is : -3.326, look ahead score is : 0.000
+(he -7.72)(was -2.32)(told -0.90)(by -3.02)(his -3.55)(son -2.78)(, -2.52) line score is : -3.257, look ahead score is : 0.000
+(to -2.52)(go -4.95)(right -1.74)(towards -5.31)(on -2.62)(him -4.85)(outright -6.04)(. -9.52) line score is : -4.692, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ which pickled his internal workins 
+-------------------------score:  -3.8760807575850653----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was told by his guest , 
+ which was our general invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(told -1.54)(by -0.69)(his -3.22)(guest -1.86)(, -2.57) line score is : -2.890, look ahead score is : 0.000
+(which -2.57)(was -7.31)(our -1.65)(general -6.08)(invite -1.45)(. -7.73) line score is : -4.465, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ as if he 'd been invited 
+-------------------------score:  -3.8805921097596485----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was told by his guest , 
+ as if it outright happened outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(told -1.54)(by -0.69)(his -3.22)(guest -1.86)(, -2.57) line score is : -2.890, look ahead score is : 0.000
+(as -2.57)(if -7.31)(it -1.65)(outright -5.96)(happened -2.69)(outright -2.50)(. -13.85) line score is : -5.218, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.889154215012827----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was stopped by his guest , 
+ and put in before all the invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(stopped -1.54)(by -0.69)(his -4.42)(guest -0.53)(, -4.09) line score is : -3.089, look ahead score is : 0.000
+(and -4.09)(put -7.95)(in -1.23)(before -2.92)(all -5.45)(the -0.80)(invite -9.12)(. -6.13) line score is : -4.713, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.9389817317326865----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was stopped by his guest , 
+ and told the policeman with midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(stopped -1.54)(by -0.69)(his -4.42)(guest -0.53)(, -4.09) line score is : -3.089, look ahead score is : 0.000
+(and -4.09)(told -7.95)(the -1.23)(policeman -2.92)(with -3.55)(midnight -4.20)(. -5.59) line score is : -4.219, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.191510863602161----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he came to protest , 
+ he was pulled by his chest , 
+ and trying help him is but cruel fright . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(came -1.14)(to -3.14)(protest -1.75)(, -9.21) line score is : -3.574, look ahead score is : 0.000
+(he -9.21)(was -1.13)(pulled -1.54)(by -0.69)(his -5.23)(chest -2.65)(, -2.03) line score is : -3.212, look ahead score is : 0.000
+(and -2.03)(trying -7.13)(help -2.31)(him -2.12)(is -9.83)(but -11.01)(cruel -1.18)(fright -6.49)(. -8.23) line score is : -5.591, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ I ll give you prostheses for free 
+-------------------------score:  -4.198698345691927----------------------- 
+there was a loud boy named dwight 
+ who shouted as he went on a fight . 
+ when he got to someone , 
+ he was told by his son , 
+ i wo hum i warriors for light . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(shouted -5.69)(as -5.68)(he -0.82)(went -3.73)(on -3.56)(a -4.52)(fight -6.89)(. -1.86) line score is : -3.832, look ahead score is : 0.000
+(when -1.86)(he -4.35)(got -1.14)(to -2.48)(someone -1.72)(, -8.35) line score is : -3.314, look ahead score is : 0.000
+(he -8.35)(was -2.12)(told -0.68)(by -3.28)(his -3.60)(son -2.82)(, -2.53) line score is : -3.340, look ahead score is : 0.000
+(i -2.53)(wo -5.18)(hum -1.80)(i -6.13)(warriors -7.81)(for -7.52)(light -5.27)(. -9.25) line score is : -5.686, look ahead score is : 0.000

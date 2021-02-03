@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.752858121286739----------------------- 
+there was a cruel girl named maire 
+ who cried all her life in a nightmare . 
+ she came back from the grave , 
+ and she went to the cave , 
+ and she sat down and said her prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(cried -4.55)(all -3.11)(her -4.19)(life -0.14)(in -5.31)(a -3.07)(nightmare -6.92)(. -2.04) line score is : -3.399, look ahead score is : 0.000
+(she -2.04)(came -2.36)(back -4.96)(from -2.71)(the -1.97)(grave -1.31)(, -1.97) line score is : -2.475, look ahead score is : 0.000
+(and -1.97)(she -2.47)(went -2.28)(to -2.21)(the -4.82)(cave -1.21)(, -2.62) line score is : -2.513, look ahead score is : 0.000
+(and -2.62)(she -8.75)(sat -2.40)(down -0.60)(and -0.52)(said -3.38)(her -1.19)(prayer -1.80)(. -3.46) line score is : -2.748, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9548092372715473----------------------- 
+there was a cruel girl named clare 
+ who cried all her life in a nightmare . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ and she came down and said her prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(cried -4.55)(all -3.11)(her -4.19)(life -0.14)(in -5.31)(a -3.07)(nightmare -6.92)(. -2.04) line score is : -3.399, look ahead score is : 0.000
+(when -2.04)(she -3.83)(returned -1.04)(to -4.63)(hell -1.11)(, -6.25) line score is : -3.149, look ahead score is : 0.000
+(she -6.25)(was -1.06)(saved -0.57)(by -1.79)(a -4.53)(spell -0.33)(, -1.46) line score is : -2.283, look ahead score is : 0.000
+(and -1.46)(she -6.54)(came -3.48)(down -1.36)(and -2.10)(said -3.80)(her -4.97)(prayer -3.53)(. -3.90) line score is : -3.461, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.0561321433633566----------------------- 
+there was a cruel girl named cher 
+ who cried all her life in a nightmare . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ but she is still hurt in her prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(cried -4.55)(all -3.11)(her -4.19)(life -0.14)(in -5.31)(a -3.07)(nightmare -6.92)(. -2.04) line score is : -3.399, look ahead score is : 0.000
+(when -2.04)(she -3.83)(returned -1.04)(to -4.63)(hell -1.11)(, -6.25) line score is : -3.149, look ahead score is : 0.000
+(she -6.25)(was -1.06)(saved -0.57)(by -1.79)(a -4.53)(spell -0.33)(, -1.46) line score is : -2.283, look ahead score is : 0.000
+(but -1.46)(she -6.54)(is -3.48)(still -1.36)(hurt -2.05)(in -3.51)(her -1.89)(prayer -6.57)(. -4.57) line score is : -3.490, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH THE NN OF A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ with the faith of a marytr 
+ to call my last novel impure 
+-------------------------score:  -3.084962222635025----------------------- 
+there was a cruel girl named cher 
+ who cried all her life in a nightmare . 
+ she came back from the grave , 
+ with the help of a slave , 
+ to find her own family elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(cried -4.55)(all -3.11)(her -4.19)(life -0.14)(in -5.31)(a -3.07)(nightmare -6.92)(. -2.04) line score is : -3.399, look ahead score is : 0.000
+(she -2.04)(came -2.36)(back -4.96)(from -2.71)(the -1.97)(grave -1.31)(, -1.97) line score is : -2.475, look ahead score is : 0.000
+(with -1.97)(the -2.47)(help -3.89)(of -2.76)(a -3.19)(slave -0.02)(, -1.70) line score is : -2.285, look ahead score is : 0.000
+(to -1.70)(find -8.90)(her -2.24)(own -1.59)(family -2.20)(elsewhere -1.40)(. -4.47) line score is : -3.215, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.1810486009044032----------------------- 
+there was a cruel girl named claire 
+ who cried all her life in a nightmare . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ which was broken with the best prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(cried -4.55)(all -3.11)(her -4.19)(life -0.14)(in -5.31)(a -3.07)(nightmare -6.92)(. -2.04) line score is : -3.399, look ahead score is : 0.000
+(when -2.04)(she -3.83)(returned -1.04)(to -4.63)(hell -1.11)(, -6.25) line score is : -3.149, look ahead score is : 0.000
+(she -6.25)(was -1.06)(saved -0.57)(by -1.79)(a -4.53)(spell -0.33)(, -1.46) line score is : -2.283, look ahead score is : 0.000
+(which -1.46)(was -6.54)(broken -3.48)(with -2.50)(the -3.09)(best -3.32)(prayer -4.74)(. -1.25) line score is : -3.299, look ahead score is : 0.000

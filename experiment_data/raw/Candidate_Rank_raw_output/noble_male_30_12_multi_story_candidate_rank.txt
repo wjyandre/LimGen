@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ his grief and his rage 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.1801240916053453----------------------- 
+there was a cruel man named cole 
+ who wished a great deal on our soul . 
+ he asked for our grace , 
+ our love and our space , 
+ but we refused his demands and stole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(wished -7.20)(a -5.91)(great -3.87)(deal -0.84)(on -4.98)(our -3.91)(soul -5.36)(. -1.63) line score is : -3.919, look ahead score is : 0.000
+(he -1.63)(asked -1.42)(for -4.17)(our -1.73)(grace -1.95)(, -5.90) line score is : -2.800, look ahead score is : 0.000
+(our -5.90)(love -1.40)(and -2.29)(our -2.85)(space -2.24)(, -0.23) line score is : -2.486, look ahead score is : 0.000
+(but -0.23)(we -9.41)(refused -1.55)(his -2.40)(demands -1.40)(and -1.72)(stole -2.44)(. -3.01) line score is : -2.770, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.3077788391420917----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on his soul . 
+ when he returned to war , 
+ he was killed by his corps , 
+ but he left his letters and charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(his -1.29)(soul -5.93)(. -1.66) line score is : -3.641, look ahead score is : 0.000
+(when -1.66)(he -3.99)(returned -0.82)(to -4.10)(war -1.34)(, -6.66) line score is : -3.096, look ahead score is : 0.000
+(he -6.66)(was -1.13)(killed -0.73)(by -1.91)(his -3.98)(corps -1.12)(, -2.13) line score is : -2.522, look ahead score is : 0.000
+(but -2.13)(he -8.58)(left -1.95)(his -2.40)(letters -2.31)(and -3.40)(charcoal -1.81)(. -5.70) line score is : -3.536, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.3106655757273398----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on his soul . 
+ when he returned to war , 
+ he was met by a door , 
+ which was shut with the greatest console . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(his -1.29)(soul -5.93)(. -1.66) line score is : -3.641, look ahead score is : 0.000
+(when -1.66)(he -3.99)(returned -0.82)(to -4.10)(war -1.34)(, -6.66) line score is : -3.096, look ahead score is : 0.000
+(he -6.66)(was -1.13)(met -0.73)(by -1.91)(a -5.05)(door -0.35)(, -1.55) line score is : -2.482, look ahead score is : 0.000
+(which -1.55)(was -8.72)(shut -2.71)(with -1.69)(the -2.07)(greatest -2.85)(console -2.99)(. -3.45) line score is : -3.255, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ my mama was a goat 
+ and she baked really great apple pies 
+-------------------------score:  -3.3114807079064437----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on his soul . 
+ he wanted to marry , 
+ his wife was a fairy , 
+ and he did not own anything whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(his -1.29)(soul -5.93)(. -1.66) line score is : -3.641, look ahead score is : 0.000
+(he -1.66)(wanted -1.75)(to -4.56)(marry -0.48)(, -4.22) line score is : -2.535, look ahead score is : 0.000
+(his -4.22)(wife -3.57)(was -5.24)(a -1.75)(fairy -1.96)(, -1.92) line score is : -3.109, look ahead score is : 0.000
+(and -1.92)(he -6.97)(did -1.14)(not -0.90)(own -1.50)(anything -4.23)(whole -0.12)(. -6.70) line score is : -2.936, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.341757172718644----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on his soul . 
+ he would go to a war , 
+ and he went to the fore , 
+ and he did not spare anything whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(his -1.29)(soul -5.93)(. -1.66) line score is : -3.641, look ahead score is : 0.000
+(he -1.66)(would -1.75)(go -4.00)(to -3.74)(a -1.25)(war -3.66)(, -4.30) line score is : -2.909, look ahead score is : 0.000
+(and -4.30)(he -2.10)(went -1.36)(to -3.10)(the -5.11)(fore -0.66)(, -2.09) line score is : -2.673, look ahead score is : 0.000
+(and -2.09)(he -8.47)(did -2.57)(not -0.97)(spare -0.69)(anything -3.50)(whole -1.25)(. -4.83) line score is : -3.046, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.356176399896222----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on his soul . 
+ when he returned to war , 
+ he was joined by his corps , 
+ which was formed with the highest console . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(his -1.29)(soul -5.93)(. -1.66) line score is : -3.641, look ahead score is : 0.000
+(when -1.66)(he -3.99)(returned -0.82)(to -4.10)(war -1.34)(, -6.66) line score is : -3.096, look ahead score is : 0.000
+(he -6.66)(was -1.13)(joined -0.73)(by -1.91)(his -5.03)(corps -0.16)(, -1.51) line score is : -2.446, look ahead score is : 0.000
+(which -1.51)(was -8.79)(formed -1.70)(with -2.01)(the -1.85)(highest -4.16)(console -3.99)(. -1.22) line score is : -3.153, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.3783221182323273----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on my soul . 
+ when i returned to war , 
+ he was killed by my corps , 
+ and i did not long escape console . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(my -3.68)(soul -4.07)(. -1.55) line score is : -3.689, look ahead score is : 0.000
+(when -1.55)(i -3.95)(returned -1.01)(to -3.96)(war -1.07)(, -7.67) line score is : -3.199, look ahead score is : 0.000
+(he -7.67)(was -1.07)(killed -2.14)(by -1.93)(my -3.47)(corps -1.40)(, -2.85) line score is : -2.933, look ahead score is : 0.000
+(and -2.85)(i -7.65)(did -1.38)(not -0.77)(long -1.13)(escape -4.27)(console -0.19)(. -5.67) line score is : -2.989, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5093281653619584----------------------- 
+there was a vain soldier named cole 
+ who wished a great honour on his soul . 
+ he would go to a war , 
+ and he went to the shore , 
+ and he came ashore again charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(a -5.75)(great -3.79)(honour -5.30)(on -1.92)(his -1.29)(soul -5.93)(. -1.66) line score is : -3.641, look ahead score is : 0.000
+(he -1.66)(would -1.75)(go -4.00)(to -3.74)(a -1.25)(war -3.66)(, -4.30) line score is : -2.909, look ahead score is : 0.000
+(and -4.30)(he -2.10)(went -1.36)(to -3.10)(the -5.11)(shore -0.66)(, -2.09) line score is : -2.673, look ahead score is : 0.000
+(and -2.09)(he -9.59)(came -1.89)(ashore -0.83)(again -0.87)(charcoal -2.98)(. -4.47) line score is : -3.245, look ahead score is : 0.000

@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.8066207552328706----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and that is the story of this play . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(that -9.24)(is -2.18)(the -3.00)(story -5.41)(of -3.09)(this -2.89)(play -2.66)(. -1.21) line score is : -3.446, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.178141369935005----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ which had come with the latest survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(which -1.32)(had -9.24)(come -2.18)(with -4.65)(the -4.25)(latest -3.86)(survey -4.14)(. -2.31) line score is : -3.994, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.2161460807546973----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and it was then like shooting of clay . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(it -9.24)(was -2.18)(then -3.00)(like -4.64)(shooting -0.91)(of -2.23)(clay -8.78)(. -5.64) line score is : -4.217, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.2479308356841403----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a frown , 
+ and told her grandmother a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(frown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(told -9.40)(her -5.02)(grandmother -1.18)(a -3.40)(birthday -3.44)(. -5.19) line score is : -4.136, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.2511447448163264----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ she thought that his name was resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(she -1.32)(thought -9.24)(that -2.18)(his -6.28)(name -3.54)(was -3.55)(resume -4.50)(. -1.75) line score is : -4.046, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2662410316988826----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ but she is not hurt in her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(but -1.32)(she -9.24)(is -2.18)(not -4.91)(hurt -1.65)(in -6.40)(her -2.46)(birthday -4.50)(. -3.07) line score is : -3.971, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.2710487013682723----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ in hopes it was all within the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(in -1.32)(hopes -9.24)(it -2.18)(was -6.10)(all -6.29)(within -5.88)(the -1.13)(day -5.04)(. -9.60) line score is : -5.200, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.281406047940254----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ a young woman has no resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(a -1.32)(young -9.24)(woman -2.18)(has -3.26)(no -4.69)(resume -1.79)(. -9.48) line score is : -4.567, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2881969464942813----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ she thought through the plan and went friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(she -1.32)(thought -9.24)(through -2.18)(the -6.28)(plan -3.54)(and -8.77)(went -1.44)(friday -4.16)(. -1.32) line score is : -4.252, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.319626990825899----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was told by a clown , 
+ she was up in heaven and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(told -0.64)(by -2.30)(a -2.82)(clown -1.78)(, -1.56) line score is : -1.943, look ahead score is : 0.000
+(she -1.56)(was -9.82)(up -3.22)(in -4.94)(heaven -1.43)(and -6.52)(sunday -3.12)(. -3.37) line score is : -4.247, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.320198896341026----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ but she told him was having none day . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(but -1.32)(she -9.24)(told -2.18)(him -4.91)(was -1.65)(having -4.02)(none -0.50)(day -8.88)(. -6.13) line score is : -4.314, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.3292761377749907----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ he had all her clothes hanging friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(he -1.32)(had -9.24)(all -2.18)(her -6.79)(clothes -3.07)(hanging -7.00)(friday -1.86)(. -1.68) line score is : -4.144, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.349715813000997----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was told by a clown , 
+ to take two hours to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(told -0.64)(by -2.30)(a -2.82)(clown -1.78)(, -1.56) line score is : -1.943, look ahead score is : 0.000
+(to -1.56)(take -9.82)(two -3.22)(hours -6.08)(to -3.76)(resume -5.48)(. -6.07) line score is : -5.140, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.364342980583509----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a frown , 
+ as if she outright doubted sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(frown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(as -1.32)(if -9.40)(she -5.02)(outright -2.68)(doubted -0.78)(sunday -0.78)(. -12.09) line score is : -4.584, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.3680114140113195----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ which took that attention of friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(which -1.32)(took -9.24)(that -2.18)(attention -4.65)(of -4.63)(friday -6.61)(. -5.95) line score is : -4.941, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.3764322900003----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was told by a clown , 
+ to be careful people on it day . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(told -0.64)(by -2.30)(a -2.82)(clown -1.78)(, -1.56) line score is : -1.943, look ahead score is : 0.000
+(to -1.56)(be -9.82)(careful -3.22)(people -6.08)(on -3.56)(it -0.70)(day -8.55)(. -5.47) line score is : -4.871, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and returned on the previous night 
+-------------------------score:  -3.378369262814522----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and was on the other resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(was -9.24)(on -2.18)(the -3.00)(other -3.57)(resume -7.06)(. -0.90) line score is : -3.897, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and as far as the bucket 
+-------------------------score:  -3.3928562010327976----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and as quickly as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(as -9.24)(quickly -2.18)(as -3.00)(the -4.71)(resume -7.14)(. -0.09) line score is : -3.955, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.397817778401077----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ she told them and went downstairs and say . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(she -1.32)(told -9.24)(them -2.18)(and -6.28)(went -2.84)(downstairs -4.32)(and -2.54)(say -4.28)(. -6.65) line score is : -4.407, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.4006334418250668----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a frown , 
+ and then a cold stare she resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(frown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(then -9.40)(a -5.02)(cold -1.18)(stare -3.31)(she -1.22)(resume -3.76)(. -1.03) line score is : -3.282, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.4172757973273593----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and she was shot even resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(she -9.24)(was -2.18)(shot -3.00)(even -2.06)(resume -1.98)(. -4.69) line score is : -3.497, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ when he saw there were six little chips 
+-------------------------score:  -3.418445138260722----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a frown , 
+ when she saw there were two small cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(frown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(when -1.32)(she -9.40)(saw -5.02)(there -5.82)(were -0.38)(two -3.04)(small -6.54)(cache -1.52)(. -2.96) line score is : -4.001, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.466968621673255----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ dressed however a normal birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(dressed -1.32)(however -9.24)(a -2.18)(normal -3.80)(birthday -8.34)(. -6.15) line score is : -5.171, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.5292092052198227----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ she said when she heard across sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(she -1.32)(said -9.24)(when -2.18)(she -6.28)(heard -1.50)(across -9.43)(sunday -1.21)(. -4.79) line score is : -4.495, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sometimes get quite cranky 
+-------------------------score:  -3.5537304169145125----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and quickly become quite resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(quickly -9.24)(become -2.18)(quite -3.00)(resume -5.95)(. -6.92) line score is : -4.770, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.572330962618192----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and since then is always resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(since -9.24)(then -2.18)(is -3.00)(always -6.49)(resume -2.15)(. -6.18) line score is : -4.367, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.6074101239442826----------------------- 
+there was a farmer named kay 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ and could not escape back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(and -1.32)(could -9.24)(not -2.18)(escape -3.00)(back -7.67)(resume -1.01)(. -3.95) line score is : -4.054, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but will ruminate on while I chew 
+-------------------------score:  -3.627350456291629----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ but will stop on while you resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(but -1.32)(will -9.24)(stop -2.18)(on -4.91)(while -9.70)(you -4.34)(resume -5.45)(. -11.13) line score is : -6.034, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.695309265005973----------------------- 
+there was a farmer named renee 
+ who crossed a dead body on her way . 
+ when she returned to town , 
+ she was met by a clown , 
+ that no doubt was drunk but resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.16)(crossed -8.79)(a -2.75)(dead -4.80)(body -1.61)(on -2.43)(her -1.84)(way -0.63)(. -5.29) line score is : -3.255, look ahead score is : 0.000
+(when -5.29)(she -4.15)(returned -1.06)(to -2.57)(town -1.36)(, -3.65) line score is : -3.012, look ahead score is : 0.000
+(she -3.65)(was -0.85)(met -0.64)(by -2.30)(a -2.71)(clown -0.40)(, -1.32) line score is : -1.696, look ahead score is : 0.000
+(that -1.32)(no -9.24)(doubt -2.18)(was -7.16)(drunk -6.36)(but -2.21)(resume -2.09)(. -6.55) line score is : -4.640, look ahead score is : 0.000

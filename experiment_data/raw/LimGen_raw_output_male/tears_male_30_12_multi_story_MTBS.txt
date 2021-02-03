@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.3942367117851973----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ so we went up and put on the light . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(so -4.06)(we -6.96)(went -3.12)(up -3.54)(and -2.19)(put -3.18)(on -3.27)(the -2.65)(light -5.62)(. -2.46) line score is : -3.706, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ she was ready to give and to take 
+-------------------------score:  -3.3976326488679454----------------------- 
+there was a vain boy named tyree 
+ who cried a great deal on our knee . 
+ he was a nobody , 
+ and he was to the sea , 
+ he was afraid to go and to see . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(knee -6.96)(. -1.65) line score is : -3.591, look ahead score is : 0.000
+(he -1.65)(was -2.03)(a -1.63)(nobody -2.02)(, -9.51) line score is : -3.368, look ahead score is : 0.000
+(and -9.51)(he -1.24)(was -2.56)(to -1.92)(the -1.55)(sea -6.68)(, -3.78) line score is : -3.890, look ahead score is : 0.000
+(he -3.78)(was -7.92)(afraid -3.16)(to -3.82)(go -0.91)(and -6.17)(to -1.47)(see -1.35)(. -4.22) line score is : -3.644, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.4951370537281035----------------------- 
+there was a vain boy named pierre 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the sea , 
+ and he was not worth hearing elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(sea -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(and -3.92)(he -7.87)(was -2.78)(not -0.95)(worth -1.48)(hearing -1.08)(elsewhere -3.46)(. -4.80) line score is : -3.294, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.5388479053974153----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ but he was our neighbour and upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(but -4.06)(he -6.96)(was -3.12)(our -2.57)(neighbour -1.24)(and -1.16)(upright -4.86)(. -4.81) line score is : -3.599, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ so I sat on my moped and moped 
+-------------------------score:  -3.5688262504916035----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ so he slept on my arm and upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(so -4.06)(he -6.96)(slept -3.12)(on -3.54)(my -2.34)(arm -6.16)(and -2.39)(upright -3.83)(. -2.77) line score is : -3.908, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.577113777399063----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ so he never got on the invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(so -4.06)(he -6.96)(never -3.12)(got -3.54)(on -2.34)(the -4.68)(invite -3.18)(. -3.33) line score is : -3.902, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ they bedded her down in the stable 
+-------------------------score:  -3.5963557600975036----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ he was himself down in the twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(he -4.06)(was -6.96)(himself -3.12)(down -4.15)(in -1.30)(the -7.75)(twilight -6.81)(. -2.19) line score is : -4.542, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.601775135596593----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ and now he is a sailor upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(and -4.06)(now -6.96)(he -3.12)(is -1.06)(a -5.62)(sailor -1.09)(upright -2.82)(. -3.12) line score is : -3.481, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.6091711103916166----------------------- 
+there was a vain boy named pierre 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the tree , 
+ he said that his father was elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(tree -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(he -3.92)(said -8.51)(that -2.82)(his -3.37)(father -1.86)(was -6.23)(elsewhere -3.96)(. -2.36) line score is : -4.129, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.609641480830408----------------------- 
+there was a vain boy named javier 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the tree , 
+ and he was down and buried his hair . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(tree -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(and -3.92)(he -8.51)(was -2.82)(down -1.23)(and -1.32)(buried -1.28)(his -7.13)(hair -4.10)(. -4.88) line score is : -3.910, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.626744681789029----------------------- 
+there was a vain boy named javier 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the tree , 
+ not he saw him weeping in the air . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(tree -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(not -3.92)(he -8.51)(saw -2.82)(him -4.14)(weeping -4.54)(in -7.89)(the -2.90)(air -5.55)(. -3.49) line score is : -4.863, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.683737700985324----------------------- 
+there was a vain boy named tyree 
+ who cried a great deal on our knee . 
+ he was a nobody , 
+ and he was to the sea , 
+ he was through the gate and was sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(knee -6.96)(. -1.65) line score is : -3.591, look ahead score is : 0.000
+(he -1.65)(was -2.03)(a -1.63)(nobody -2.02)(, -9.51) line score is : -3.368, look ahead score is : 0.000
+(and -9.51)(he -1.24)(was -2.56)(to -1.92)(the -1.55)(sea -6.68)(, -3.78) line score is : -3.890, look ahead score is : 0.000
+(he -3.78)(was -7.92)(through -3.16)(the -3.82)(gate -0.91)(and -8.31)(was -0.54)(sunday -3.70)(. -2.62) line score is : -3.862, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -3.788947590192159----------------------- 
+there was a vain boy named javier 
+ who cried a great deal on his prayer . 
+ he was a nobody , 
+ and he was to the sea , 
+ he never can be in it elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(his -2.39)(prayer -8.68)(. -2.64) line score is : -3.596, look ahead score is : 0.000
+(he -2.64)(was -2.11)(a -1.84)(nobody -2.16)(, -9.40) line score is : -3.628, look ahead score is : 0.000
+(and -9.40)(he -1.31)(was -2.32)(to -1.92)(the -1.67)(sea -6.30)(, -3.84) line score is : -3.822, look ahead score is : 0.000
+(he -3.84)(never -8.37)(can -2.93)(be -3.75)(in -5.48)(it -7.83)(elsewhere -1.01)(. -5.12) line score is : -4.791, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ but the other won several prizes 
+-------------------------score:  -3.808534533813082----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ but the other was mighty downright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(but -4.06)(the -6.96)(other -3.12)(was -2.57)(mighty -3.30)(downright -5.03)(. -3.88) line score is : -4.131, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.92515236550364----------------------- 
+there was a vain boy named del 
+ who cried a great deal on his farewell . 
+ he was a nobody , 
+ and he was to the sea , 
+ and was with a little raphael . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(his -2.39)(farewell -8.58)(. -2.98) line score is : -3.623, look ahead score is : 0.000
+(he -2.98)(was -2.26)(a -1.85)(nobody -2.14)(, -9.40) line score is : -3.724, look ahead score is : 0.000
+(and -9.40)(he -1.27)(was -2.38)(to -2.04)(the -1.69)(sea -6.11)(, -4.21) line score is : -3.871, look ahead score is : 0.000
+(and -4.21)(was -7.28)(with -3.11)(a -1.06)(little -5.10)(raphael -6.48)(. -3.12) line score is : -4.337, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.9318666021029154----------------------- 
+there was a vain boy named javier 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the tree , 
+ he said when he heard across nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(tree -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(he -3.92)(said -8.51)(when -2.82)(he -3.37)(heard -1.86)(across -7.37)(nowhere -0.93)(. -3.44) line score is : -4.028, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ then I sat on my moped and moped 
+-------------------------score:  -3.9357749819755554----------------------- 
+there was a vain boy named javier 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the tree , 
+ not he heard on his voice and nightmare . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(tree -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(not -3.92)(he -8.51)(heard -2.82)(on -4.14)(his -4.54)(voice -8.55)(and -4.74)(nightmare -2.09)(. -3.69) line score is : -4.777, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.9705893019835155----------------------- 
+there was a vain boy named fidel 
+ who cried a great deal on his farewell . 
+ he was a nobody , 
+ and he was to the sea , 
+ and his friends were worse and raphael . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(his -2.39)(farewell -8.58)(. -2.98) line score is : -3.623, look ahead score is : 0.000
+(he -2.98)(was -2.26)(a -1.85)(nobody -2.14)(, -9.40) line score is : -3.724, look ahead score is : 0.000
+(and -9.40)(he -1.27)(was -2.38)(to -2.04)(the -1.69)(sea -6.11)(, -4.21) line score is : -3.871, look ahead score is : 0.000
+(and -4.21)(his -7.28)(friends -3.11)(were -1.06)(worse -3.52)(and -4.04)(raphael -1.55)(. -6.85) line score is : -3.953, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -3.9742693761984507----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ i think only heard one or fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(i -4.06)(think -6.96)(only -3.12)(heard -4.80)(one -2.36)(or -6.23)(fortnight -7.83)(. -4.37) line score is : -4.965, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ as if he 'd been invited 
+-------------------------score:  -4.018753419662344----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the tree , 
+ as if he outright denied outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(tree -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(as -4.06)(if -8.41)(he -3.18)(outright -2.90)(denied -3.92)(outright -1.01)(. -14.02) line score is : -5.358, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and sometimes get quite cranky 
+-------------------------score:  -4.056607946753502----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ and therefore forgotten quite upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(and -4.06)(therefore -6.96)(forgotten -3.12)(quite -1.06)(upright -5.41)(. -9.57) line score is : -5.030, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB NNS VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and hope reinforcements arrive 
+-------------------------score:  -4.058320343494415----------------------- 
+there was a vain boy named pierre 
+ who cried a long time on his prayer . 
+ he was a nobody , 
+ and he was to the sea , 
+ and paradise afterwards elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(long -3.37)(time -0.28)(on -4.59)(his -2.30)(prayer -7.98)(. -2.97) line score is : -3.614, look ahead score is : 0.000
+(he -2.97)(was -2.20)(a -1.87)(nobody -2.18)(, -9.09) line score is : -3.663, look ahead score is : 0.000
+(and -9.09)(he -1.31)(was -2.54)(to -1.69)(the -1.67)(sea -6.42)(, -3.92) line score is : -3.805, look ahead score is : 0.000
+(and -3.92)(paradise -7.87)(afterwards -2.78)(elsewhere -0.95)(. -9.88) line score is : -5.083, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ then wake up all snappy and snarly 
+-------------------------score:  -4.103214408953985----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ not be up all early and upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(not -4.06)(be -6.96)(up -3.12)(all -4.17)(early -7.61)(and -8.10)(upright -5.56)(. -7.78) line score is : -5.920, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ I ll give you prostheses for free 
+-------------------------score:  -4.12688966790835----------------------- 
+there was a vain boy named dwight 
+ who cried a great deal on our sight . 
+ he was a nobody , 
+ and he was to the sea , 
+ i ca call him hercules for light . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(our -5.04)(sight -7.12)(. -1.69) line score is : -3.612, look ahead score is : 0.000
+(he -1.69)(was -1.99)(a -1.52)(nobody -1.96)(, -9.70) line score is : -3.371, look ahead score is : 0.000
+(and -9.70)(he -1.10)(was -2.30)(to -2.30)(the -1.59)(sea -6.28)(, -4.06) line score is : -3.905, look ahead score is : 0.000
+(i -4.06)(ca -6.96)(call -3.12)(him -4.80)(hercules -9.64)(for -9.37)(light -0.54)(. -7.83) line score is : -5.789, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ but will ruminate on while I chew 
+-------------------------score:  -4.203186343113582----------------------- 
+there was a vain boy named manuel 
+ who cried a great deal on his farewell . 
+ he was a nobody , 
+ and he was to the sea , 
+ but will come on while we raphael . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(his -2.39)(farewell -8.58)(. -2.98) line score is : -3.623, look ahead score is : 0.000
+(he -2.98)(was -2.26)(a -1.85)(nobody -2.14)(, -9.40) line score is : -3.724, look ahead score is : 0.000
+(and -9.40)(he -1.27)(was -2.38)(to -2.04)(the -1.69)(sea -6.11)(, -4.21) line score is : -3.871, look ahead score is : 0.000
+(but -4.21)(will -7.28)(come -3.11)(on -2.65)(while -7.82)(we -4.10)(raphael -4.95)(. -8.53) line score is : -5.332, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and showed him many cstar 
+-------------------------score:  -4.214190208486149----------------------- 
+there was a vain boy named cordell 
+ who cried a great deal on his farewell . 
+ he was a nobody , 
+ and he was to the sea , 
+ and was himself many raphael . 
+------------------------- score breakdown ------------------------ 
+(who -1.33)(cried -4.81)(a -4.89)(great -2.25)(deal -0.37)(on -5.01)(his -2.39)(farewell -8.58)(. -2.98) line score is : -3.623, look ahead score is : 0.000
+(he -2.98)(was -2.26)(a -1.85)(nobody -2.14)(, -9.40) line score is : -3.724, look ahead score is : 0.000
+(and -9.40)(he -1.27)(was -2.38)(to -2.04)(the -1.69)(sea -6.11)(, -4.21) line score is : -3.871, look ahead score is : 0.000
+(and -4.21)(was -7.28)(himself -3.11)(many -1.06)(raphael -5.10)(. -6.55) line score is : -4.552, look ahead score is : 0.000

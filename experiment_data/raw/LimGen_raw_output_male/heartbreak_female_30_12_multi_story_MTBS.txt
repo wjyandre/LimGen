@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.211121022220581----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and that is the beauty of this role . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(that -10.91)(is -2.11)(the -1.43)(beauty -4.67)(of -2.06)(this -2.22)(role -3.22)(. -0.14) line score is : -3.156, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3448010505207124----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and they were not like clouds of charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(they -10.91)(were -2.11)(not -1.43)(like -1.92)(clouds -2.08)(of -2.59)(charcoal -3.62)(. -5.11) line score is : -3.491, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.392731548845768----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ so they never fell on the console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(so -1.65)(they -10.91)(never -2.11)(fell -3.40)(on -2.88)(the -2.11)(console -3.47)(. -2.31) line score is : -3.604, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ she was ready to give and to take 
+-------------------------score:  -3.4768317628111087----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ she was able to cry and to roll . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(she -1.65)(was -10.91)(able -2.11)(to -3.51)(cry -2.11)(and -4.71)(to -0.01)(roll -3.98)(. -3.30) line score is : -3.586, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ they bedded her down in the stable 
+-------------------------score:  -3.4915050998330117----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ they kept us down within the hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(they -1.65)(kept -10.91)(us -2.11)(down -2.51)(within -4.10)(the -2.18)(hole -6.64)(. -6.24) line score is : -4.542, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.506337601811655----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ they flowed through the air and were console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(they -1.65)(flowed -10.91)(through -2.11)(the -2.51)(air -4.30)(and -2.73)(were -2.18)(console -2.82)(. -1.91) line score is : -3.457, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.53676894257466----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and my tears were lighter and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(my -10.91)(tears -2.11)(were -1.43)(lighter -4.88)(and -3.33)(console -1.08)(. -5.72) line score is : -3.890, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and she baked really great apple pies 
+-------------------------score:  -3.5999616995453834----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and she was not tired till console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(she -10.91)(was -2.11)(not -1.43)(tired -1.89)(till -2.27)(console -3.07)(. -3.49) line score is : -3.352, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ because I was sniffing my toes 
+-------------------------score:  -3.6441382883951583----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ because she was crying her console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(because -1.65)(she -10.91)(was -2.11)(crying -3.30)(her -1.27)(console -1.61)(. -4.49) line score is : -3.619, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.6578767571066106----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ they never departed a console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(they -1.65)(never -10.91)(departed -2.11)(a -2.51)(console -1.43)(. -4.08) line score is : -3.781, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and sideways he could n't be seen 
+-------------------------score:  -3.6607596571246783----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and is we could not understand whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(is -10.91)(we -2.11)(could -1.43)(not -8.45)(understand -5.29)(whole -2.59)(. -1.47) line score is : -4.237, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ he claimed that his costume was chile 
+-------------------------score:  -3.6964434777696926----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ it was that her spirit was console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(it -1.65)(was -10.91)(that -2.11)(her -5.67)(spirit -0.74)(was -4.78)(console -5.37)(. -3.98) line score is : -4.401, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.713703391532744----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and for hours they just froze our hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(for -10.91)(hours -2.11)(they -1.43)(just -5.23)(froze -4.54)(our -1.77)(hole -6.50)(. -6.90) line score is : -4.559, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and some of the members are swines 
+-------------------------score:  -3.746212702492873----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and some of the tears remain console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(some -10.91)(of -2.11)(the -1.43)(tears -7.68)(remain -1.30)(console -2.57)(. -1.44) line score is : -3.636, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ as his talent and confidence swelled 
+-------------------------score:  -3.7472984847323647----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ as her body and spirit console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(as -1.65)(her -10.91)(body -2.11)(and -3.12)(spirit -4.27)(console -3.90)(. -4.09) line score is : -4.292, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.76097756161772----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ she is a true warrior console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(she -1.65)(is -10.91)(a -2.11)(true -3.51)(warrior -5.30)(console -2.80)(. -3.51) line score is : -4.255, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ I invariably get in a stew ! 
+-------------------------score:  -3.7802917137742043----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ they still remain in a place console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(they -1.65)(still -10.91)(remain -2.11)(in -2.51)(a -4.72)(place -3.95)(console -1.78)(. -5.44) line score is : -4.132, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ you never can tell till you try 
+-------------------------score:  -3.7846169784665107----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ they never can leave in me console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(they -1.65)(never -10.91)(can -2.11)(leave -2.51)(in -1.43)(me -9.05)(console -0.78)(. -6.27) line score is : -4.338, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.823769747697074----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and she was content only console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(she -10.91)(was -2.11)(content -1.43)(only -1.89)(console -2.27)(. -6.16) line score is : -3.774, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and now a new teacher they seek 
+-------------------------score:  -3.902036668360233----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and then a long moment he console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(then -10.91)(a -2.11)(long -1.43)(moment -5.15)(he -4.70)(console -3.56)(. -3.80) line score is : -4.163, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.94661145756642----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ they came when we are across console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(they -1.65)(came -10.91)(when -2.11)(we -2.51)(are -3.96)(across -5.46)(console -1.31)(. -4.91) line score is : -4.102, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and sometimes get quite cranky 
+-------------------------score:  -4.111741101635354----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ and never forgotten quite console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(and -1.65)(never -10.91)(forgotten -2.11)(quite -1.43)(console -3.93)(. -8.07) line score is : -4.683, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.143826663013427----------------------- 
+there was a fierce woman named nicolle 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but they never left sense , 
+ she ca put them off if they stole . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(they -2.01)(never -3.76)(left -2.08)(sense -4.12)(, -1.65) line score is : -2.961, look ahead score is : 0.000
+(she -1.65)(ca -10.91)(put -2.11)(them -3.51)(off -7.98)(if -13.97)(they -1.38)(stole -6.42)(. -6.93) line score is : -6.094, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.2728657583075185----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but she never said hence , 
+ and trying do it is but cruel console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(she -2.01)(never -3.76)(said -1.82)(hence -3.28)(, -3.27) line score is : -3.047, look ahead score is : 0.000
+(and -3.27)(trying -12.90)(do -2.19)(it -2.21)(is -9.82)(but -9.52)(cruel -2.45)(console -5.34)(. -6.76) line score is : -6.050, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ BUT PRP RB VBD NNS , 
+ AND VB NNS VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ but he never kicked onths 
+ and hope reinforcements arrive 
+-------------------------score:  -4.282603066828516----------------------- 
+there was a fierce woman named nicole 
+ who cried a long time on our soul . 
+ her tears were so intense , 
+ but she never said hence , 
+ and willingly afterwards console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(cried -4.86)(a -5.44)(long -2.86)(time -0.21)(on -4.46)(our -4.08)(soul -6.89)(. -1.60) line score is : -3.507, look ahead score is : 0.000
+(her -1.60)(tears -4.79)(were -2.38)(so -1.45)(intense -2.55)(, -4.14) line score is : -2.817, look ahead score is : 0.000
+(but -4.14)(she -2.01)(never -3.76)(said -1.82)(hence -3.28)(, -3.27) line score is : -3.047, look ahead score is : 0.000
+(and -3.27)(willingly -12.90)(afterwards -2.19)(console -2.21)(. -9.65) line score is : -6.042, look ahead score is : 0.000

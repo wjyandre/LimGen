@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -3.368882195516066----------------------- 
+there was a vain woman named roseanne 
+ who wished all her beauty in a man . 
+ but her husband was cruel , 
+ and she had to the school , 
+ so she had to live down on the plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(cruel -2.10)(, -6.54) line score is : -3.330, look ahead score is : 0.000
+(and -6.54)(she -1.73)(had -0.63)(to -1.89)(the -2.81)(school -1.88)(, -8.83) line score is : -3.473, look ahead score is : 0.000
+(so -8.83)(she -8.57)(had -2.24)(to -3.14)(live -0.84)(down -2.71)(on -0.68)(the -3.41)(plan -6.43)(. -4.02) line score is : -4.087, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.371061287143014----------------------- 
+there was a vain woman named roxanne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the wind , 
+ so she went up and slept on the fan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(wind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(so -5.06)(she -8.11)(went -1.76)(up -2.64)(and -1.01)(slept -2.51)(on -4.30)(the -2.95)(fan -5.14)(. -2.70) line score is : -3.618, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.500035143457353----------------------- 
+there was a vain woman named susanne 
+ who wished all her beauty in a man . 
+ but her husband was cruel , 
+ and she had to the rule , 
+ and be kind to her brother in clan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(cruel -2.10)(, -6.54) line score is : -3.330, look ahead score is : 0.000
+(and -6.54)(she -1.73)(had -0.63)(to -1.89)(the -2.81)(rule -1.88)(, -8.83) line score is : -3.473, look ahead score is : 0.000
+(and -8.83)(be -8.13)(kind -2.95)(to -1.01)(her -4.77)(brother -5.59)(in -0.46)(clan -1.53)(. -4.59) line score is : -4.207, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ she was destined to go a long way 
+-------------------------score:  -3.553536841645837----------------------- 
+there was a vain woman named dianne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ she had much to teach a young milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(had -6.58)(much -2.91)(to -4.29)(teach -2.64)(a -5.08)(young -1.45)(milan -3.17)(. -4.92) line score is : -4.013, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ and kissed her because he was wuise 
+-------------------------score:  -3.5920103673012025----------------------- 
+there was a vain woman named louanne 
+ who wished all her beauty in a man . 
+ but her father was cruel , 
+ and she was to the rule , 
+ and had her because she was afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(father -3.37)(was -3.57)(cruel -2.23)(, -6.02) line score is : -3.428, look ahead score is : 0.000
+(and -6.02)(she -1.70)(was -0.53)(to -1.94)(the -1.70)(rule -5.83)(, -5.79) line score is : -3.358, look ahead score is : 0.000
+(and -5.79)(had -7.37)(her -2.68)(because -0.72)(she -4.61)(was -3.56)(afghan -8.98)(. -0.75) line score is : -4.307, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.6950637102127075----------------------- 
+there was a vain woman named dianne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the wind , 
+ and he was down and left her milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(wind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(and -5.06)(he -8.11)(was -1.76)(down -0.64)(and -1.93)(left -1.42)(her -7.56)(milan -4.00)(. -5.94) line score is : -4.046, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.6960981084454443----------------------- 
+there was a vain woman named roseanne 
+ who wished all her beauty in a man . 
+ but her husband was cruel , 
+ and she had to the school , 
+ so she never went on the milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(cruel -2.10)(, -6.54) line score is : -3.330, look ahead score is : 0.000
+(and -6.54)(she -1.73)(had -0.63)(to -1.89)(the -2.81)(school -1.88)(, -8.83) line score is : -3.473, look ahead score is : 0.000
+(so -8.83)(she -8.57)(never -2.24)(went -3.14)(on -0.84)(the -4.12)(milan -1.88)(. -4.04) line score is : -4.208, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ then fell into a vat of grease 
+-------------------------score:  -3.711899498778005----------------------- 
+there was a vain woman named anne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ not made into a piece of milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(not -5.06)(made -6.58)(into -2.91)(a -3.16)(piece -8.48)(of -5.11)(milan -0.78)(. -4.90) line score is : -4.620, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.7211671378463507----------------------- 
+there was a vain woman named shan 
+ who wished all her beauty in a man . 
+ but her heart was cruel , 
+ and she was to the fool , 
+ not she did she turn towards the fan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(heart -3.37)(was -3.99)(cruel -0.87)(, -7.40) line score is : -3.504, look ahead score is : 0.000
+(and -7.40)(she -1.56)(was -0.61)(to -0.71)(the -2.58)(fool -6.28)(, -4.75) line score is : -3.412, look ahead score is : 0.000
+(not -4.75)(she -7.71)(did -2.69)(she -3.46)(turn -4.46)(towards -7.54)(the -2.17)(fan -5.33)(. -5.47) line score is : -4.843, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ as his talent and confidence swelled 
+-------------------------score:  -3.7423714607954026----------------------- 
+there was a vain woman named joanne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ as her father and mother milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(as -5.06)(her -6.58)(father -2.91)(and -2.65)(mother -3.58)(milan -2.53)(. -2.63) line score is : -3.706, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ that unlucky old person of ems 
+-------------------------score:  -3.7448375443617503----------------------- 
+there was a vain woman named georgann 
+ who wished all her beauty in a man . 
+ but her heart was cruel , 
+ and she did to the fool , 
+ that poor little fellow of milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(heart -3.37)(was -3.99)(cruel -0.87)(, -7.40) line score is : -3.504, look ahead score is : 0.000
+(and -7.40)(she -1.56)(did -0.61)(to -0.71)(the -3.21)(fool -7.66)(, -2.65) line score is : -3.400, look ahead score is : 0.000
+(that -2.65)(poor -7.23)(little -3.48)(fellow -2.90)(of -6.05)(milan -4.43)(. -1.52) line score is : -4.038, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ that no one was present but smarty 
+-------------------------score:  -3.758174821253746----------------------- 
+there was a vain woman named suzanne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ that no wife was worthy but afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(that -5.06)(no -6.58)(wife -2.91)(was -2.56)(worthy -4.70)(but -4.96)(afghan -1.97)(. -3.40) line score is : -4.018, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.826952600851655----------------------- 
+there was a vain woman named rosanne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ he was she and had children and plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(he -5.06)(was -6.58)(she -2.91)(and -4.86)(had -1.49)(children -5.98)(and -5.03)(plan -4.65)(. -5.74) line score is : -4.701, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ that ungracious young lady in blue 
+-------------------------score:  -3.8808790385723113----------------------- 
+there was a vain woman named maryanne 
+ who wished all her beauty in a man . 
+ but her heart was cruel , 
+ and she did to the fool , 
+ that poor foolish fellow in afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(heart -3.37)(was -3.99)(cruel -0.87)(, -7.40) line score is : -3.504, look ahead score is : 0.000
+(and -7.40)(she -1.56)(did -0.61)(to -0.71)(the -3.21)(fool -7.66)(, -2.65) line score is : -3.400, look ahead score is : 0.000
+(that -2.65)(poor -7.23)(foolish -3.48)(fellow -2.90)(in -6.05)(afghan -4.53)(. -1.71) line score is : -4.078, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ then I sat on my moped and moped 
+-------------------------score:  -3.892065843567252----------------------- 
+there was a vain woman named diane 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ not she heard on her return and ran . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(not -5.06)(she -6.58)(heard -2.91)(on -3.16)(her -5.84)(return -8.23)(and -6.58)(ran -2.42)(. -3.76) line score is : -4.948, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.8950026785173724----------------------- 
+there was a vain woman named roseanne 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the wind , 
+ she said when she heard across milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(wind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(said -8.11)(when -1.76)(she -4.55)(heard -1.86)(across -7.33)(milan -1.16)(. -3.68) line score is : -4.187, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -3.93161089381864----------------------- 
+there was a vain woman named saran 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ she had all her hopes resting afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(had -6.58)(all -2.91)(her -4.29)(hopes -2.64)(resting -4.38)(afghan -1.59)(. -4.22) line score is : -3.960, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.951895095151046----------------------- 
+there was a vain woman named saran 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ she never suspected a milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(never -6.58)(suspected -2.91)(a -4.29)(milan -3.93)(. -5.67) line score is : -4.741, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -3.9571795021334----------------------- 
+there was a vain woman named susann 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ she never can be in him milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(never -6.58)(can -2.91)(be -4.29)(in -3.93)(him -7.35)(milan -1.33)(. -4.47) line score is : -4.491, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.9786018073558806----------------------- 
+there was a vain woman named ann 
+ who wished all her beauty in a man . 
+ but her heart was cruel , 
+ and she did to the fool , 
+ and said with a hideous afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(heart -3.37)(was -3.99)(cruel -0.87)(, -7.40) line score is : -3.504, look ahead score is : 0.000
+(and -7.40)(she -1.56)(did -0.61)(to -0.71)(the -3.21)(fool -7.66)(, -2.65) line score is : -3.400, look ahead score is : 0.000
+(and -2.65)(said -7.23)(with -3.48)(a -1.68)(hideous -3.55)(afghan -5.99)(. -1.21) line score is : -3.685, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -4.0754845392319465----------------------- 
+there was a vain woman named georgann 
+ who wished all her beauty in a man . 
+ but her husband was cruel , 
+ and she had to the rule , 
+ and be what the children all milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(cruel -2.10)(, -6.54) line score is : -3.330, look ahead score is : 0.000
+(and -6.54)(she -1.73)(had -0.63)(to -1.89)(the -2.81)(rule -1.88)(, -8.83) line score is : -3.473, look ahead score is : 0.000
+(and -8.83)(be -8.13)(what -2.95)(the -1.01)(children -4.77)(all -5.42)(milan -3.60)(. -5.65) line score is : -5.044, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -4.109969179476461----------------------- 
+there was a vain woman named dann 
+ who wished all her beauty in a man . 
+ but her heart was cruel , 
+ and she was to the fool , 
+ i am well know one or afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(heart -3.37)(was -3.99)(cruel -0.87)(, -7.40) line score is : -3.504, look ahead score is : 0.000
+(and -7.40)(she -1.56)(was -0.61)(to -0.71)(the -2.58)(fool -6.28)(, -4.75) line score is : -3.412, look ahead score is : 0.000
+(i -4.75)(am -7.71)(well -2.69)(know -4.87)(one -3.17)(or -4.92)(afghan -4.91)(. -8.07) line score is : -5.136, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.11352214217186----------------------- 
+there was a vain woman named maryann 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ she ca put him off if he an . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(ca -6.58)(put -2.91)(him -4.29)(off -8.85)(if -11.43)(he -2.21)(an -3.55)(. -6.19) line score is : -5.675, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ I ll give you prostheses for free 
+-------------------------score:  -4.253143885443287----------------------- 
+there was a vain woman named fran 
+ who wished all her beauty in a man . 
+ but her husband was kind , 
+ and she was to the mind , 
+ she ca drove him towards for gan . 
+------------------------- score breakdown ------------------------ 
+(who -1.82)(wished -5.57)(all -6.39)(her -2.15)(beauty -5.19)(in -4.10)(a -3.11)(man -1.50)(. -1.32) line score is : -3.462, look ahead score is : 0.000
+(but -1.32)(her -4.06)(husband -3.37)(was -2.59)(kind -2.10)(, -6.42) line score is : -3.310, look ahead score is : 0.000
+(and -6.42)(she -2.21)(was -0.93)(to -2.17)(the -2.22)(mind -5.68)(, -5.06) line score is : -3.528, look ahead score is : 0.000
+(she -5.06)(ca -6.58)(drove -2.91)(him -4.29)(towards -8.85)(for -12.43)(gan -1.52)(. -7.22) line score is : -6.109, look ahead score is : 0.000

@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.6408437257632613----------------------- 
+there was a shy teacher named graham 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and we went to the door , 
+ and we sat down and watched his programme . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(we -2.65)(went -1.85)(to -2.21)(the -4.61)(door -1.35)(, -2.79) line score is : -2.465, look ahead score is : 0.000
+(and -2.79)(we -7.65)(sat -3.03)(down -0.60)(and -2.26)(watched -3.99)(his -0.71)(programme -0.89)(. -3.62) line score is : -2.836, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.653916087001562----------------------- 
+there was a shy teacher named abram 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and he taught to the core , 
+ and that is the heart of this programme . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(he -2.65)(taught -1.85)(to -1.19)(the -2.19)(core -7.21)(, -2.40) line score is : -2.755, look ahead score is : 0.000
+(and -2.40)(that -3.93)(is -2.91)(the -1.34)(heart -3.11)(of -3.29)(this -2.84)(programme -5.22)(. -0.21) line score is : -2.806, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -2.94678362707297----------------------- 
+there was a shy teacher named graham 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and he taught to the core , 
+ because he was teaching your programme . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(he -2.65)(taught -1.85)(to -1.19)(the -2.19)(core -7.21)(, -2.40) line score is : -2.755, look ahead score is : 0.000
+(because -2.40)(he -3.93)(was -2.91)(teaching -3.51)(your -0.83)(programme -1.43)(. -4.56) line score is : -2.795, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ she was ready to give and to take 
+-------------------------score:  -2.949831050587818----------------------- 
+there was a shy teacher named abraham 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and he was to the core , 
+ he was willing to give and to damn . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(he -2.65)(was -1.85)(to -1.19)(the -2.00)(core -7.18)(, -2.56) line score is : -2.745, look ahead score is : 0.000
+(he -2.56)(was -4.92)(willing -2.61)(to -2.22)(give -0.68)(and -5.44)(to -0.03)(damn -3.41)(. -6.02) line score is : -3.099, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -2.9536283584311604----------------------- 
+there was a shy teacher named abraham 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and he was to the core , 
+ but he knew he was doing it sham . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(he -2.65)(was -1.85)(to -1.19)(the -2.00)(core -7.18)(, -2.56) line score is : -2.745, look ahead score is : 0.000
+(but -2.56)(he -4.92)(knew -2.61)(he -3.41)(was -0.87)(doing -4.14)(it -2.84)(sham -1.44)(. -2.61) line score is : -2.822, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.991723817202353----------------------- 
+there was a shy teacher named abraham 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and he taught to the core , 
+ but it was our teachers and programme . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(he -2.65)(taught -1.85)(to -1.19)(the -2.19)(core -7.21)(, -2.40) line score is : -2.755, look ahead score is : 0.000
+(but -2.40)(it -3.93)(was -2.91)(our -2.85)(teachers -3.10)(and -0.62)(programme -5.08)(. -4.31) line score is : -3.149, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ but I guess that you probably gnu 
+-------------------------score:  -3.1385993640269003----------------------- 
+there was a shy teacher named abraham 
+ who did a great job on our program . 
+ he was like a mentor , 
+ and he taught to the core , 
+ but i think that i always am . 
+------------------------- score breakdown ------------------------ 
+(who -1.08)(did -4.40)(a -2.46)(great -2.37)(job -0.14)(on -4.04)(our -3.65)(program -5.80)(. -1.57) line score is : -2.834, look ahead score is : 0.000
+(he -1.57)(was -1.02)(like -1.44)(a -4.29)(mentor -0.88)(, -1.80) line score is : -1.833, look ahead score is : 0.000
+(and -1.80)(he -2.65)(taught -1.85)(to -1.19)(the -2.19)(core -7.21)(, -2.40) line score is : -2.755, look ahead score is : 0.000
+(but -2.40)(i -3.93)(think -2.91)(that -2.85)(i -2.79)(always -1.86)(am -2.69)(. -3.74) line score is : -2.896, look ahead score is : 0.000

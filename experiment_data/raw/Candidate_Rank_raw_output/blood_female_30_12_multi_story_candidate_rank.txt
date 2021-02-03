@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9180983174592257----------------------- 
+there was a vain witch named nicolle 
+ who caused a great havoc on his soul . 
+ when he returned to hell , 
+ he was struck by a spell , 
+ and he fell down and broke his console . 
+------------------------- score breakdown ------------------------ 
+(who -1.94)(caused -6.69)(a -2.30)(great -2.40)(havoc -4.76)(on -2.84)(his -4.45)(soul -4.79)(. -0.91) line score is : -3.452, look ahead score is : 0.000
+(when -0.91)(he -4.06)(returned -1.25)(to -3.28)(hell -0.81)(, -4.79) line score is : -2.517, look ahead score is : 0.000
+(he -4.79)(was -0.93)(struck -0.61)(by -1.88)(a -5.04)(spell -1.01)(, -1.40) line score is : -2.237, look ahead score is : 0.000
+(and -1.40)(he -5.44)(fell -2.91)(down -0.97)(and -2.84)(broke -3.14)(his -3.30)(console -2.79)(. -3.84) line score is : -2.960, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9719014388899647----------------------- 
+there was a vain witch named nicole 
+ who caused a great havoc on his soul . 
+ when he returned to hell , 
+ he was struck by a spell , 
+ but he regained his senses and goal . 
+------------------------- score breakdown ------------------------ 
+(who -1.94)(caused -6.69)(a -2.30)(great -2.40)(havoc -4.76)(on -2.84)(his -4.45)(soul -4.79)(. -0.91) line score is : -3.452, look ahead score is : 0.000
+(when -0.91)(he -4.06)(returned -1.25)(to -3.28)(hell -0.81)(, -4.79) line score is : -2.517, look ahead score is : 0.000
+(he -4.79)(was -0.93)(struck -0.61)(by -1.88)(a -5.04)(spell -1.01)(, -1.40) line score is : -2.237, look ahead score is : 0.000
+(but -1.40)(he -5.44)(regained -2.91)(his -2.83)(senses -1.96)(and -4.94)(goal -0.49)(. -1.55) line score is : -2.690, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1011248286813498----------------------- 
+there was a vain witch named nicolle 
+ who caused a great havoc on his soul . 
+ when he returned to hell , 
+ he was struck by her spell , 
+ and he fell down and suffered its toll . 
+------------------------- score breakdown ------------------------ 
+(who -1.94)(caused -6.69)(a -2.30)(great -2.40)(havoc -4.76)(on -2.84)(his -4.45)(soul -4.79)(. -0.91) line score is : -3.452, look ahead score is : 0.000
+(when -0.91)(he -4.06)(returned -1.25)(to -3.28)(hell -0.81)(, -4.79) line score is : -2.517, look ahead score is : 0.000
+(he -4.79)(was -0.93)(struck -0.61)(by -1.88)(her -5.04)(spell -1.01)(, -6.05) line score is : -2.901, look ahead score is : 0.000
+(and -6.05)(he -4.96)(fell -1.82)(down -0.90)(and -2.49)(suffered -2.85)(its -3.12)(toll -2.71)(. -5.02) line score is : -3.324, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.1072408191619383----------------------- 
+there was a vain witch named nicolle 
+ who caused a great havoc on his soul . 
+ when he returned to hell , 
+ she was killed by a spell , 
+ and he was then reborn anew whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.94)(caused -6.69)(a -2.30)(great -2.40)(havoc -4.76)(on -2.84)(his -4.45)(soul -4.79)(. -0.91) line score is : -3.452, look ahead score is : 0.000
+(when -0.91)(he -4.06)(returned -1.25)(to -3.28)(hell -0.81)(, -4.79) line score is : -2.517, look ahead score is : 0.000
+(she -4.79)(was -0.93)(killed -3.66)(by -1.78)(a -4.18)(spell -0.58)(, -1.70) line score is : -2.517, look ahead score is : 0.000
+(and -1.70)(he -5.28)(was -3.21)(then -1.08)(reborn -1.75)(anew -1.21)(whole -4.59)(. -3.16) line score is : -2.748, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and returned on the previous night 
+-------------------------score:  -3.1079440315564475----------------------- 
+there was a vain witch named nicole 
+ who caused a great havoc on his soul . 
+ when he returned to hell , 
+ he was struck by a spell , 
+ and died on the fiery charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.94)(caused -6.69)(a -2.30)(great -2.40)(havoc -4.76)(on -2.84)(his -4.45)(soul -4.79)(. -0.91) line score is : -3.452, look ahead score is : 0.000
+(when -0.91)(he -4.06)(returned -1.25)(to -3.28)(hell -0.81)(, -4.79) line score is : -2.517, look ahead score is : 0.000
+(he -4.79)(was -0.93)(struck -0.61)(by -1.88)(a -5.04)(spell -1.01)(, -1.40) line score is : -2.237, look ahead score is : 0.000
+(and -1.40)(died -5.44)(on -2.91)(the -0.97)(fiery -3.69)(charcoal -3.65)(. -0.63) line score is : -2.671, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but the telephone book caused him pain 
+-------------------------score:  -3.112671071483243----------------------- 
+there was a vain witch named nicole 
+ who caused a great havoc on his soul . 
+ when he returned to hell , 
+ he was saved by a spell , 
+ but the evil spirit had him roll . 
+------------------------- score breakdown ------------------------ 
+(who -1.94)(caused -6.69)(a -2.30)(great -2.40)(havoc -4.76)(on -2.84)(his -4.45)(soul -4.79)(. -0.91) line score is : -3.452, look ahead score is : 0.000
+(when -0.91)(he -4.06)(returned -1.25)(to -3.28)(hell -0.81)(, -4.79) line score is : -2.517, look ahead score is : 0.000
+(he -4.79)(was -0.93)(saved -0.61)(by -1.88)(a -4.50)(spell -0.32)(, -1.73) line score is : -2.108, look ahead score is : 0.000
+(but -1.73)(the -6.08)(evil -3.47)(spirit -1.48)(had -2.76)(him -4.58)(roll -1.38)(. -2.58) line score is : -3.010, look ahead score is : 0.000

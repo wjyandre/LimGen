@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.9206772911198----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and she was to the door , 
+ so i walked up and hit on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(she -2.13)(was -1.67)(to -2.27)(the -1.46)(door -6.76)(, -3.52) line score is : -3.021, look ahead score is : 0.000
+(so -3.52)(i -3.08)(walked -2.09)(up -3.14)(and -0.38)(hit -3.18)(on -1.88)(the -1.57)(way -6.11)(. -2.31) line score is : -2.725, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ she was ready to give and to take 
+-------------------------score:  -2.976826656045336----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ i was ready to leave and to stay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(i -3.45)(was -2.85)(ready -2.19)(to -3.50)(leave -2.11)(and -4.13)(to -0.39)(stay -2.21)(. -3.06) line score is : -2.655, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0262382328510284----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and it was to the door , 
+ so she never opened on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(it -1.95)(was -1.15)(to -3.31)(the -0.72)(door -6.43)(, -2.60) line score is : -2.746, look ahead score is : 0.000
+(so -2.60)(she -4.79)(never -2.46)(opened -2.31)(on -0.89)(the -6.46)(way -1.84)(. -8.94) line score is : -3.786, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.077534183859825----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ but she had her keys and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(but -4.55)(she -3.63)(had -2.24)(her -2.22)(keys -1.23)(and -2.87)(resume -3.84)(. -3.47) line score is : -3.007, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and kissed her because he was wuise 
+-------------------------score:  -3.249071843922138----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ and saw her because i was halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(and -3.45)(saw -2.85)(her -2.19)(because -1.13)(i -6.88)(was -1.53)(halfway -7.72)(. -1.48) line score is : -3.404, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.2596107522646585----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and it was to the door , 
+ but her parents were down to their clay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(it -1.95)(was -1.15)(to -3.31)(the -0.72)(door -6.43)(, -2.60) line score is : -2.746, look ahead score is : 0.000
+(but -2.60)(her -4.79)(parents -2.46)(were -2.17)(down -3.58)(to -3.26)(their -1.56)(clay -7.01)(. -3.11) line score is : -3.392, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2741791624011416----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ but she has not let in her sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(but -4.55)(she -3.63)(has -2.24)(not -2.22)(let -1.23)(in -7.28)(her -4.06)(sunday -5.26)(. -2.57) line score is : -3.671, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.276648670434952----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and i was to the door , 
+ she said that her mother had okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(i -1.95)(was -1.15)(to -2.59)(the -1.50)(door -6.87)(, -4.08) line score is : -3.030, look ahead score is : 0.000
+(she -4.08)(said -3.11)(that -1.99)(her -4.00)(mother -1.67)(had -4.44)(okay -2.84)(. -2.52) line score is : -3.083, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.294028889049183----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ i heard it and went downstairs and play . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(i -3.45)(heard -2.85)(it -2.19)(and -3.50)(went -2.61)(downstairs -4.47)(and -3.31)(play -3.75)(. -4.59) line score is : -3.414, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ when he found there were five little chips 
+-------------------------score:  -3.2945684880921333----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ when she saw there were two black friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(when -4.55)(she -3.63)(saw -2.24)(there -2.79)(were -0.95)(two -2.10)(black -6.30)(friday -2.24)(. -1.77) line score is : -2.954, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.303599046122643----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ and i saw someone else resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(and -3.45)(i -2.85)(saw -2.19)(someone -1.13)(else -1.35)(resume -2.17)(. -4.59) line score is : -2.534, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.3061386231453187----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and she was to the door , 
+ and came with a little resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(she -2.13)(was -1.67)(to -2.27)(the -1.46)(door -6.76)(, -3.52) line score is : -3.021, look ahead score is : 0.000
+(and -3.52)(came -3.08)(with -2.09)(a -1.65)(little -6.04)(resume -4.45)(. -1.06) line score is : -3.127, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.312821138650179----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ and then she hears a knock resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(and -4.55)(then -3.63)(she -2.24)(hears -2.29)(a -3.35)(knock -1.02)(resume -5.97)(. -1.42) line score is : -3.061, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.3204420443737144----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ and for reasons she just knows her way . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(and -4.55)(for -3.63)(reasons -2.24)(she -2.29)(just -6.47)(knows -4.16)(her -1.25)(way -5.80)(. -5.30) line score is : -3.965, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBN BY A QUITE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ followed by a quite big falling-in 
+-------------------------score:  -3.3528943754011586----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and i was to the door , 
+ surprised by a quite different day . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(i -1.95)(was -1.15)(to -2.59)(the -1.50)(door -6.87)(, -4.08) line score is : -3.030, look ahead score is : 0.000
+(surprised -4.08)(by -3.11)(a -1.99)(quite -6.42)(different -2.87)(day -1.86)(. -9.66) line score is : -4.285, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ he was n't the wizard he woz 
+-------------------------score:  -3.3620007038116455----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and she was to the door , 
+ she was not the person i survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(she -2.13)(was -1.67)(to -2.27)(the -1.46)(door -6.76)(, -3.52) line score is : -3.021, look ahead score is : 0.000
+(she -3.52)(was -3.08)(not -2.09)(the -4.15)(person -1.51)(i -4.83)(survey -5.08)(. -3.72) line score is : -3.497, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.3632710613310337----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ but she heard too loud for resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(but -4.55)(she -3.63)(heard -2.24)(too -2.22)(loud -1.23)(for -3.65)(resume -7.64)(. -3.51) line score is : -3.584, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.387083242016454----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and she was to the door , 
+ and asked my opinion a survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(she -2.13)(was -1.67)(to -2.27)(the -1.46)(door -6.76)(, -3.52) line score is : -3.021, look ahead score is : 0.000
+(and -3.52)(asked -3.08)(my -2.09)(opinion -1.65)(a -5.26)(survey -5.03)(. -3.19) line score is : -3.403, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.39830113761127----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ i said when i come across sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(i -3.45)(said -2.85)(when -2.19)(i -3.50)(come -2.58)(across -7.26)(sunday -0.85)(. -3.26) line score is : -3.243, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.44837798923254----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ locked a jar no longer than halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(locked -4.55)(a -3.63)(jar -2.24)(no -7.00)(longer -6.28)(than -1.10)(halfway -9.43)(. -4.30) line score is : -4.817, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and sideways he could n't be seen 
+-------------------------score:  -3.450037058442831----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ and says she could not get resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(and -4.55)(says -3.63)(she -2.24)(could -2.29)(not -8.81)(get -1.37)(resume -3.63)(. -1.99) line score is : -3.564, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and finished the solo with honour 
+-------------------------score:  -3.454126831023924----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and she was to the door , 
+ and told the attendant with okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(she -2.13)(was -1.67)(to -2.27)(the -1.46)(door -6.76)(, -3.52) line score is : -3.021, look ahead score is : 0.000
+(and -3.52)(told -3.08)(the -2.09)(attendant -1.65)(with -5.65)(okay -4.95)(. -5.13) line score is : -3.725, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.4973540743192038----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ excited not a single sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(excited -4.55)(not -3.63)(a -2.24)(single -4.89)(sunday -7.21)(. -6.74) line score is : -4.876, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and as far as the bucket 
+-------------------------score:  -3.518930932657132----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ and as quickly as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(and -3.45)(as -2.85)(quickly -2.19)(as -1.13)(the -5.14)(resume -6.68)(. -0.01) line score is : -3.065, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -3.673266876488924----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ and look what the kids all resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(and -3.45)(look -2.85)(what -2.19)(the -1.13)(kids -8.22)(all -3.56)(resume -3.62)(. -4.55) line score is : -3.696, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now a new teacher they seek 
+-------------------------score:  -3.6998067647218704----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ and then a young man she resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(and -4.55)(then -3.63)(a -2.24)(young -2.29)(man -3.35)(she -3.40)(resume -4.90)(. -1.01) line score is : -3.171, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and since then has never benzene 
+-------------------------score:  -3.7156186565276115----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and she was to the door , 
+ and since then has never resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(she -2.13)(was -1.67)(to -2.27)(the -1.46)(door -6.76)(, -3.52) line score is : -3.021, look ahead score is : 0.000
+(and -3.52)(since -3.08)(then -2.09)(has -1.65)(never -8.43)(resume -5.24)(. -6.31) line score is : -4.333, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.8261957782687563----------------------- 
+there was a grandma named kay 
+ who got a new car on her birthday . 
+ i was back from the store , 
+ and i was to the door , 
+ and trying make it looks but hard okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(i -1.86)(was -2.75)(back -2.47)(from -7.02)(the -3.33)(store -2.28)(, -3.33) line score is : -3.292, look ahead score is : 0.000
+(and -3.33)(i -2.13)(was -1.67)(to -1.94)(the -1.84)(door -6.65)(, -3.45) line score is : -3.004, look ahead score is : 0.000
+(and -3.45)(trying -2.85)(make -2.19)(it -1.13)(looks -9.42)(but -9.45)(hard -2.63)(okay -7.46)(. -8.23) line score is : -5.201, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBD QUITE THE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ was quite the reverse of 'hosanna' 
+-------------------------score:  -3.8908715440380957----------------------- 
+there was a grandma named renee 
+ who got a new car on her birthday . 
+ it was back from the store , 
+ and she was to the door , 
+ dressed quite the surprise of resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(got -4.82)(a -3.04)(new -4.29)(car -2.90)(on -4.83)(her -1.74)(birthday -1.68)(. -1.86) line score is : -2.948, look ahead score is : 0.000
+(it -1.86)(was -3.52)(back -1.01)(from -7.18)(the -4.97)(store -1.01)(, -3.07) line score is : -3.230, look ahead score is : 0.000
+(and -3.07)(she -1.95)(was -1.15)(to -1.19)(the -1.39)(door -6.72)(, -4.55) line score is : -2.858, look ahead score is : 0.000
+(dressed -4.55)(quite -3.63)(the -2.24)(surprise -6.53)(of -8.01)(resume -6.41)(. -6.35) line score is : -5.390, look ahead score is : 0.000

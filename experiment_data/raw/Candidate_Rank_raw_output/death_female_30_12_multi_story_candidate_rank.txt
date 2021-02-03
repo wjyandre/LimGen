@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9175761515094387----------------------- 
+there was a cruel judge named grace 
+ who brought a false verdict on my case . 
+ when i went to trial , 
+ i was shocked by her style , 
+ but i knew her intentions and face . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(false -5.12)(verdict -3.17)(on -2.89)(my -2.39)(case -1.69)(. -1.61) line score is : -3.054, look ahead score is : 0.000
+(when -1.61)(i -4.38)(went -1.09)(to -2.87)(trial -0.25)(, -2.94) line score is : -2.189, look ahead score is : 0.000
+(i -2.94)(was -0.96)(shocked -1.52)(by -1.00)(her -4.27)(style -2.08)(, -3.26) line score is : -2.291, look ahead score is : 0.000
+(but -3.26)(i -6.75)(knew -2.39)(her -3.11)(intentions -1.48)(and -3.50)(face -3.35)(. -4.25) line score is : -3.512, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9253254451534967----------------------- 
+there was a cruel judge named grace 
+ who brought a false verdict on my case . 
+ when i went to trial , 
+ i was shocked by her style , 
+ so i asked to sit down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(false -5.12)(verdict -3.17)(on -2.89)(my -2.39)(case -1.69)(. -1.61) line score is : -3.054, look ahead score is : 0.000
+(when -1.61)(i -4.38)(went -1.09)(to -2.87)(trial -0.25)(, -2.94) line score is : -2.189, look ahead score is : 0.000
+(i -2.94)(was -0.96)(shocked -1.52)(by -1.00)(her -4.27)(style -2.08)(, -3.26) line score is : -2.291, look ahead score is : 0.000
+(so -3.26)(i -6.75)(asked -2.39)(to -5.52)(sit -0.83)(down -3.13)(on -3.20)(the -3.71)(base -2.96)(. -4.25) line score is : -3.600, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and he did n't like mother of pearl 
+-------------------------score:  -2.9551022252999246----------------------- 
+there was a cruel judge named grace 
+ who brought a false verdict on my case . 
+ when i went to trial , 
+ i was shocked by her style , 
+ and i did not like hearing of race . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(false -5.12)(verdict -3.17)(on -2.89)(my -2.39)(case -1.69)(. -1.61) line score is : -3.054, look ahead score is : 0.000
+(when -1.61)(i -4.38)(went -1.09)(to -2.87)(trial -0.25)(, -2.94) line score is : -2.189, look ahead score is : 0.000
+(i -2.94)(was -0.96)(shocked -1.52)(by -1.00)(her -4.27)(style -2.08)(, -3.26) line score is : -2.291, look ahead score is : 0.000
+(and -3.26)(i -6.75)(did -2.39)(not -2.27)(like -1.84)(hearing -4.25)(of -0.24)(race -2.74)(. -4.83) line score is : -3.175, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she was ready to give and to take 
+-------------------------score:  -3.0289405372834977----------------------- 
+there was a cruel judge named grace 
+ who brought a false verdict on my case . 
+ when i went to trial , 
+ my lawyer was so vile , 
+ i was afraid to speak and to pace . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(false -5.12)(verdict -3.17)(on -2.89)(my -2.39)(case -1.69)(. -1.61) line score is : -3.054, look ahead score is : 0.000
+(when -1.61)(i -4.38)(went -1.09)(to -2.87)(trial -0.25)(, -2.94) line score is : -2.189, look ahead score is : 0.000
+(my -2.94)(lawyer -0.96)(was -2.50)(so -1.37)(vile -2.00)(, -3.94) line score is : -2.285, look ahead score is : 0.000
+(i -3.94)(was -9.11)(afraid -2.11)(to -2.44)(speak -2.07)(and -2.42)(to -0.91)(pace -2.61)(. -4.79) line score is : -3.378, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.069241884102424----------------------- 
+there was a cruel judge named grace 
+ who brought a grand jury on my case . 
+ when i went to trial , 
+ i was shocked by her style , 
+ and she was terrific ally ace . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(grand -6.18)(jury -0.11)(on -4.09)(my -3.73)(case -1.56)(. -1.87) line score is : -3.129, look ahead score is : 0.000
+(when -1.87)(i -4.08)(went -1.69)(to -3.17)(trial -0.34)(, -1.83) line score is : -2.163, look ahead score is : 0.000
+(i -1.83)(was -0.87)(shocked -1.62)(by -1.20)(her -4.64)(style -2.09)(, -3.30) line score is : -2.221, look ahead score is : 0.000
+(and -3.30)(she -6.52)(was -2.29)(terrific -2.37)(ally -2.19)(ace -1.73)(. -6.36) line score is : -3.535, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.135810617477663----------------------- 
+there was a cruel judge named grace 
+ who brought a false verdict on my case . 
+ when i went to trial , 
+ i was shocked by her style , 
+ but i am not sorry for birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(false -5.12)(verdict -3.17)(on -2.89)(my -2.39)(case -1.69)(. -1.61) line score is : -3.054, look ahead score is : 0.000
+(when -1.61)(i -4.38)(went -1.09)(to -2.87)(trial -0.25)(, -2.94) line score is : -2.189, look ahead score is : 0.000
+(i -2.94)(was -0.96)(shocked -1.52)(by -1.00)(her -4.27)(style -2.08)(, -3.26) line score is : -2.291, look ahead score is : 0.000
+(but -3.26)(i -6.75)(am -2.39)(not -3.11)(sorry -1.48)(for -3.60)(birthplace -2.51)(. -5.34) line score is : -3.556, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.213186439847754----------------------- 
+there was a cruel judge named grace 
+ who brought a false verdict on my case . 
+ when i went to trial , 
+ i was shocked by my file , 
+ which was filled with the biggest staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(brought -5.81)(a -3.11)(false -5.12)(verdict -3.17)(on -2.89)(my -2.39)(case -1.69)(. -1.61) line score is : -3.054, look ahead score is : 0.000
+(when -1.61)(i -4.38)(went -1.09)(to -2.87)(trial -0.25)(, -2.94) line score is : -2.189, look ahead score is : 0.000
+(i -2.94)(was -0.96)(shocked -1.52)(by -1.00)(my -4.27)(file -2.08)(, -3.56) line score is : -2.334, look ahead score is : 0.000
+(which -3.56)(was -9.41)(filled -2.27)(with -2.01)(the -1.40)(biggest -1.63)(staircase -0.03)(. -4.20) line score is : -3.063, look ahead score is : 0.000

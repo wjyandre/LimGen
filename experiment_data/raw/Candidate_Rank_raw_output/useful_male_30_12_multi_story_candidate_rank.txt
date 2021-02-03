@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was ready to give and to take 
+-------------------------score:  -2.969683788716793----------------------- 
+there was a smart author named dwight 
+ who put a short story on his site . 
+ when he started to post , 
+ he was told by his host , 
+ he was welcome to read and to write . 
+------------------------- score breakdown ------------------------ 
+(who -3.37)(put -5.43)(a -2.62)(short -6.37)(story -0.68)(on -2.59)(his -2.76)(site -2.51)(. -2.96) line score is : -3.254, look ahead score is : 0.000
+(when -2.96)(he -4.46)(started -1.54)(to -3.02)(post -2.80)(, -3.89) line score is : -3.113, look ahead score is : 0.000
+(he -3.89)(was -3.17)(told -1.40)(by -2.19)(his -4.63)(host -1.76)(, -2.09) line score is : -2.732, look ahead score is : 0.000
+(he -2.09)(was -5.61)(welcome -2.05)(to -4.32)(read -1.54)(and -5.88)(to -0.36)(write -3.21)(. -2.96) line score is : -3.112, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she sat on a stile 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0842861719429493----------------------- 
+there was a smart author named dwight 
+ who put a short story on his site . 
+ when i started to work , 
+ it was on a network , 
+ so i had to go down on the right . 
+------------------------- score breakdown ------------------------ 
+(who -3.37)(put -5.43)(a -2.62)(short -6.37)(story -0.68)(on -2.59)(his -2.76)(site -2.51)(. -2.96) line score is : -3.254, look ahead score is : 0.000
+(when -2.96)(i -4.46)(started -1.08)(to -3.27)(work -2.93)(, -3.69) line score is : -3.067, look ahead score is : 0.000
+(it -3.69)(was -4.05)(on -2.92)(a -0.51)(network -4.15)(, -1.91) line score is : -2.872, look ahead score is : 0.000
+(so -1.91)(i -8.15)(had -3.20)(to -1.79)(go -0.90)(down -1.92)(on -0.51)(the -3.07)(right -4.63)(. -4.44) line score is : -3.050, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.229936483886934----------------------- 
+there once was a author named dwight 
+ who put a short story on his site . 
+ when i started to post , 
+ i was told by my host , 
+ he said that my writing was finite . 
+------------------------- score breakdown ------------------------ 
+(who -4.15)(put -6.66)(a -2.55)(short -6.35)(story -0.23)(on -2.27)(his -2.32)(site -3.76)(. -2.32) line score is : -3.401, look ahead score is : 0.000
+(when -2.32)(i -4.28)(started -1.22)(to -2.95)(post -3.03)(, -3.96) line score is : -2.961, look ahead score is : 0.000
+(i -3.96)(was -2.74)(told -1.49)(by -2.11)(my -3.31)(host -1.97)(, -3.04) line score is : -2.662, look ahead score is : 0.000
+(he -3.04)(said -4.86)(that -2.06)(my -4.80)(writing -1.97)(was -2.30)(finite -3.26)(. -3.52) line score is : -3.227, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.374554909300059----------------------- 
+there once was a author named dwight 
+ who put a short story on his site . 
+ when i started to post , 
+ i was told by my host , 
+ i did not have time left this fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -4.15)(put -6.66)(a -2.55)(short -6.35)(story -0.23)(on -2.27)(his -2.32)(site -3.76)(. -2.32) line score is : -3.401, look ahead score is : 0.000
+(when -2.32)(i -4.28)(started -1.22)(to -2.95)(post -3.03)(, -3.96) line score is : -2.961, look ahead score is : 0.000
+(i -3.96)(was -2.74)(told -1.49)(by -2.11)(my -3.31)(host -1.97)(, -3.04) line score is : -2.662, look ahead score is : 0.000
+(i -3.04)(did -4.86)(not -2.06)(have -4.53)(time -4.75)(left -0.94)(this -1.28)(fortnight -3.01)(. -7.42) line score is : -3.542, look ahead score is : 0.000

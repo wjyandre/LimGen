@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -2.929410397626149----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was able to tell , 
+ he found that his family was right . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(able -0.47)(to -2.18)(tell -4.30)(, -0.00) line score is : -2.392, look ahead score is : 0.000
+(he -0.00)(found -4.60)(that -6.94)(his -2.45)(family -2.81)(was -2.09)(right -2.15)(. -3.93) line score is : -3.122, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0068750670461943----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was met by a bell , 
+ so he went up and put on the light . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(met -0.47)(by -2.18)(a -4.61)(bell -0.37)(, -1.38) line score is : -2.345, look ahead score is : 0.000
+(so -1.38)(he -8.35)(went -3.37)(up -4.52)(and -0.70)(put -3.04)(on -3.33)(the -1.75)(light -5.13)(. -2.75) line score is : -3.433, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0230425726622343----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was met by a bell , 
+ and he fell down and began his flight . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(met -0.47)(by -2.18)(a -4.61)(bell -0.37)(, -1.38) line score is : -2.345, look ahead score is : 0.000
+(and -1.38)(he -8.35)(fell -3.37)(down -1.08)(and -2.78)(began -4.36)(his -1.86)(flight -2.39)(. -3.82) line score is : -3.265, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0242779492400587----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he had enough to sell , 
+ so he gave up and quit on the site . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(had -0.90)(enough -0.47)(to -3.38)(sell -5.34)(, -2.45) line score is : -3.173, look ahead score is : 0.000
+(so -2.45)(he -4.92)(gave -3.43)(up -1.73)(and -0.22)(quit -4.01)(on -2.74)(the -2.72)(site -4.73)(. -5.59) line score is : -3.255, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0933232684930165----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was killed by a spell , 
+ and he was reborn again upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(killed -0.47)(by -2.18)(a -4.45)(spell -0.46)(, -1.59) line score is : -2.365, look ahead score is : 0.000
+(and -1.59)(he -6.66)(was -3.42)(reborn -1.38)(again -3.45)(upright -1.31)(. -2.48) line score is : -2.897, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.1712344865645132----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was killed by a spell , 
+ so he never went on the twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(killed -0.47)(by -2.18)(a -4.45)(spell -0.46)(, -1.59) line score is : -2.365, look ahead score is : 0.000
+(so -1.59)(he -6.66)(never -3.42)(went -3.94)(on -1.38)(the -3.58)(twilight -3.32)(. -4.41) line score is : -3.537, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.177413180951149----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was killed by a spell , 
+ but he survived his wounds and insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(killed -0.47)(by -2.18)(a -4.45)(spell -0.46)(, -1.59) line score is : -2.365, look ahead score is : 0.000
+(but -1.59)(he -6.66)(survived -3.42)(his -2.14)(wounds -2.47)(and -3.04)(insight -3.79)(. -4.92) line score is : -3.503, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ my mama was a goat 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.2168506753855737----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ his body was a shell , 
+ and he was reborn again upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(his -6.50)(body -0.90)(was -3.06)(a -3.42)(shell -0.77)(, -5.56) line score is : -3.369, look ahead score is : 0.000
+(and -5.56)(he -5.75)(was -2.25)(reborn -1.62)(again -0.95)(upright -1.43)(. -4.19) line score is : -3.108, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.2244682629262247----------------------- 
+there was a cruel man named dwight 
+ who drank all his money in a fight . 
+ when he returned to hell , 
+ he was caught by a spell , 
+ and he was then tortured till midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(drank -6.45)(all -3.72)(his -1.95)(money -2.46)(in -2.78)(a -1.86)(fight -6.76)(. -2.30) line score is : -3.319, look ahead score is : 0.000
+(when -2.30)(he -3.56)(returned -0.84)(to -3.58)(hell -1.52)(, -6.50) line score is : -3.051, look ahead score is : 0.000
+(he -6.50)(was -0.90)(caught -0.47)(by -2.18)(a -4.86)(spell -1.58)(, -2.01) line score is : -2.643, look ahead score is : 0.000
+(and -2.01)(he -5.95)(was -2.78)(then -1.11)(tortured -3.21)(till -1.28)(midnight -4.86)(. -3.73) line score is : -3.116, look ahead score is : 0.000

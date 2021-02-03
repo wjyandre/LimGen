@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -2.8787840566327496----------------------- 
+there was a wise woman named lenore 
+ who lost all her money in a war . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ and now she has a family therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(lost -7.47)(all -3.88)(her -0.59)(money -3.01)(in -1.80)(a -1.07)(war -5.89)(. -1.58) line score is : -2.935, look ahead score is : 0.000
+(when -1.58)(she -3.73)(returned -0.59)(to -2.48)(hell -1.16)(, -7.66) line score is : -2.865, look ahead score is : 0.000
+(she -7.66)(was -1.04)(saved -0.29)(by -2.13)(a -4.41)(spell -0.30)(, -1.30) line score is : -2.448, look ahead score is : 0.000
+(and -1.30)(now -6.95)(she -3.37)(has -1.16)(a -2.97)(family -0.80)(therefore -2.46)(. -1.83) line score is : -2.605, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -2.959910349920392----------------------- 
+there was a wise woman named flor 
+ who lost all her money in a war . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ but she has not slept in her before . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(lost -7.47)(all -3.88)(her -0.59)(money -3.01)(in -1.80)(a -1.07)(war -5.89)(. -1.58) line score is : -2.935, look ahead score is : 0.000
+(when -1.58)(she -3.73)(returned -0.59)(to -2.48)(hell -1.16)(, -7.66) line score is : -2.865, look ahead score is : 0.000
+(she -7.66)(was -1.04)(saved -0.29)(by -2.13)(a -4.41)(spell -0.30)(, -1.30) line score is : -2.448, look ahead score is : 0.000
+(but -1.30)(she -6.95)(has -3.37)(not -1.28)(slept -1.93)(in -3.60)(her -3.12)(before -5.03)(. -1.67) line score is : -3.139, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -2.968596499773764----------------------- 
+there was a wise woman named lenore 
+ who lost all her money in a war . 
+ when she returned to fight , 
+ she was killed by her knight , 
+ and now she needs a hero mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(lost -7.47)(all -3.88)(her -0.59)(money -3.01)(in -1.80)(a -1.07)(war -5.89)(. -1.58) line score is : -2.935, look ahead score is : 0.000
+(when -1.58)(she -3.73)(returned -0.59)(to -2.48)(fight -1.16)(, -7.34) line score is : -2.811, look ahead score is : 0.000
+(she -7.34)(was -1.51)(killed -0.33)(by -1.80)(her -4.14)(knight -1.10)(, -2.11) line score is : -2.621, look ahead score is : 0.000
+(and -2.11)(now -7.63)(she -1.91)(needs -1.87)(a -4.05)(hero -0.89)(mentor -4.12)(. -2.13) line score is : -3.089, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0502200607330567----------------------- 
+there was a wise woman named flor 
+ who lost all her money in a war . 
+ she came back from the sea , 
+ and she got to the tree , 
+ and she started crying again sore . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(lost -7.47)(all -3.88)(her -0.59)(money -3.01)(in -1.80)(a -1.07)(war -5.89)(. -1.58) line score is : -2.935, look ahead score is : 0.000
+(she -1.58)(came -1.27)(back -3.66)(from -1.84)(the -2.82)(sea -1.24)(, -5.63) line score is : -2.578, look ahead score is : 0.000
+(and -5.63)(she -2.28)(got -1.69)(to -1.58)(the -3.97)(tree -4.03)(, -2.10) line score is : -3.040, look ahead score is : 0.000
+(and -2.10)(she -6.80)(started -1.92)(crying -0.28)(again -0.47)(sore -3.79)(. -2.32) line score is : -2.525, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.062994936108589----------------------- 
+there was a wise woman named lenore 
+ who lost all her money in a war . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and she was reborn somewhere therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(lost -7.47)(all -3.88)(her -0.59)(money -3.01)(in -1.80)(a -1.07)(war -5.89)(. -1.58) line score is : -2.935, look ahead score is : 0.000
+(when -1.58)(she -3.73)(returned -0.59)(to -2.48)(fight -1.16)(, -7.34) line score is : -2.811, look ahead score is : 0.000
+(she -7.34)(was -1.51)(killed -0.33)(by -1.80)(a -4.14)(knight -1.10)(, -1.19) line score is : -2.489, look ahead score is : 0.000
+(and -1.19)(she -6.04)(was -2.64)(reborn -1.49)(somewhere -2.29)(therefore -1.72)(. -3.01) line score is : -2.625, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.084208574987227----------------------- 
+there was a wise woman named flor 
+ who lost all her money in a war . 
+ when she returned to rest , 
+ she was shocked by her chest , 
+ which was covered with the most before . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(lost -7.47)(all -3.88)(her -0.59)(money -3.01)(in -1.80)(a -1.07)(war -5.89)(. -1.58) line score is : -2.935, look ahead score is : 0.000
+(when -1.58)(she -3.73)(returned -0.59)(to -2.48)(rest -1.16)(, -8.84) line score is : -3.062, look ahead score is : 0.000
+(she -8.84)(was -1.09)(shocked -0.39)(by -2.01)(her -3.28)(chest -2.90)(, -1.81) line score is : -2.903, look ahead score is : 0.000
+(which -1.81)(was -7.33)(covered -2.28)(with -1.58)(the -0.92)(most -2.20)(before -0.95)(. -4.23) line score is : -2.662, look ahead score is : 0.000

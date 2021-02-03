@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0869572605147506----------------------- 
+there was a stupid boy named chase 
+ who watched a bad movie on his face . 
+ when he turned to someone , 
+ he was met by a gun , 
+ so he had to go down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(watched -6.27)(a -3.65)(bad -5.65)(movie -0.53)(on -3.38)(his -2.02)(face -9.25)(. -2.25) line score is : -3.842, look ahead score is : 0.000
+(when -2.25)(he -4.14)(turned -0.68)(to -3.34)(someone -2.40)(, -6.44) line score is : -3.208, look ahead score is : 0.000
+(he -6.44)(was -1.94)(met -1.05)(by -2.47)(a -2.88)(gun -1.95)(, -0.80) line score is : -2.506, look ahead score is : 0.000
+(so -0.80)(he -6.56)(had -2.54)(to -3.85)(go -0.55)(down -3.68)(on -0.29)(the -3.72)(base -4.22)(. -2.85) line score is : -2.905, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0951816394473566----------------------- 
+there was a stupid boy named chase 
+ who watched a bad movie on his face . 
+ when he turned to someone , 
+ he was met by a gun , 
+ so he got up and quit on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(watched -6.27)(a -3.65)(bad -5.65)(movie -0.53)(on -3.38)(his -2.02)(face -9.25)(. -2.25) line score is : -3.842, look ahead score is : 0.000
+(when -2.25)(he -4.14)(turned -0.68)(to -3.34)(someone -2.40)(, -6.44) line score is : -3.208, look ahead score is : 0.000
+(he -6.44)(was -1.94)(met -1.05)(by -2.47)(a -2.88)(gun -1.95)(, -0.80) line score is : -2.506, look ahead score is : 0.000
+(so -0.80)(he -6.56)(got -2.54)(up -3.85)(and -0.55)(quit -4.01)(on -2.93)(the -0.45)(place -6.67)(. -5.55) line score is : -3.390, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -3.2501128762960434----------------------- 
+there once was a grandpa named chase 
+ who loved a good story on his face . 
+ he would talk to a friend , 
+ he would tell a girlfriend , 
+ but he knew he was doing it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(face -8.85)(. -1.00) line score is : -3.810, look ahead score is : 0.000
+(he -1.00)(would -1.48)(talk -2.75)(to -4.30)(a -1.80)(friend -3.87)(, -2.91) line score is : -2.587, look ahead score is : 0.000
+(he -2.91)(would -2.41)(tell -3.97)(a -0.58)(girlfriend -2.19)(, -1.26) line score is : -2.219, look ahead score is : 0.000
+(but -1.26)(he -7.88)(knew -1.12)(he -3.21)(was -1.21)(doing -4.43)(it -1.90)(place -1.60)(. -3.99) line score is : -2.956, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was destined to go a long way 
+-------------------------score:  -3.2720865085721016----------------------- 
+there once was a grandpa named chase 
+ who loved a good story on his face . 
+ he would talk to a friend , 
+ he would tell a girlfriend , 
+ he made sure to keep a clean staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(face -8.85)(. -1.00) line score is : -3.810, look ahead score is : 0.000
+(he -1.00)(would -1.48)(talk -2.75)(to -4.30)(a -1.80)(friend -3.87)(, -2.91) line score is : -2.587, look ahead score is : 0.000
+(he -2.91)(would -2.41)(tell -3.97)(a -0.58)(girlfriend -2.19)(, -1.26) line score is : -2.219, look ahead score is : 0.000
+(he -1.26)(made -7.88)(sure -1.12)(to -0.83)(keep -7.06)(a -2.63)(clean -2.26)(staircase -3.40)(. -2.21) line score is : -3.185, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -3.2752838265150785----------------------- 
+there once was a grandpa named chase 
+ who loved a good story on his face . 
+ he would talk to a friend , 
+ he would tell a girlfriend , 
+ it was easy to find and to trace . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(face -8.85)(. -1.00) line score is : -3.810, look ahead score is : 0.000
+(he -1.00)(would -1.48)(talk -2.75)(to -4.30)(a -1.80)(friend -3.87)(, -2.91) line score is : -2.587, look ahead score is : 0.000
+(he -2.91)(would -2.41)(tell -3.97)(a -0.58)(girlfriend -2.19)(, -1.26) line score is : -2.219, look ahead score is : 0.000
+(it -1.26)(was -7.88)(easy -1.12)(to -5.78)(find -0.69)(and -4.26)(to -1.29)(trace -3.16)(. -4.48) line score is : -3.324, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.307291040197015----------------------- 
+there once was a grandpa named chase 
+ who loved a good story on his face . 
+ he would talk to a friend , 
+ he would have a girlfriend , 
+ and he did not like hearing of race . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(face -8.85)(. -1.00) line score is : -3.810, look ahead score is : 0.000
+(he -1.00)(would -1.48)(talk -2.75)(to -4.30)(a -1.80)(friend -3.87)(, -2.91) line score is : -2.587, look ahead score is : 0.000
+(he -2.91)(would -2.41)(have -3.97)(a -0.58)(girlfriend -4.11)(, -0.99) line score is : -2.495, look ahead score is : 0.000
+(and -0.99)(he -7.55)(did -0.84)(not -1.45)(like -1.00)(hearing -5.41)(of -1.87)(race -3.12)(. -5.86) line score is : -3.122, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.338316800072789----------------------- 
+there was a stupid boy named chase 
+ who watched a bad movie on his face . 
+ when he turned to someone , 
+ he was met by a gun , 
+ but he knew he was doing it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(watched -6.27)(a -3.65)(bad -5.65)(movie -0.53)(on -3.38)(his -2.02)(face -9.25)(. -2.25) line score is : -3.842, look ahead score is : 0.000
+(when -2.25)(he -4.14)(turned -0.68)(to -3.34)(someone -2.40)(, -6.44) line score is : -3.208, look ahead score is : 0.000
+(he -6.44)(was -1.94)(met -1.05)(by -2.47)(a -2.88)(gun -1.95)(, -0.80) line score is : -2.506, look ahead score is : 0.000
+(but -0.80)(he -6.56)(knew -2.54)(he -3.34)(was -1.54)(doing -4.34)(it -1.91)(place -1.58)(. -4.48) line score is : -3.010, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.4304123342037203----------------------- 
+there was a stupid boy named chase 
+ who watched a bad movie on his face . 
+ when he turned to someone , 
+ he was met by a gun , 
+ because he was wearing his birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(watched -6.27)(a -3.65)(bad -5.65)(movie -0.53)(on -3.38)(his -2.02)(face -9.25)(. -2.25) line score is : -3.842, look ahead score is : 0.000
+(when -2.25)(he -4.14)(turned -0.68)(to -3.34)(someone -2.40)(, -6.44) line score is : -3.208, look ahead score is : 0.000
+(he -6.44)(was -1.94)(met -1.05)(by -2.47)(a -2.88)(gun -1.95)(, -0.80) line score is : -2.506, look ahead score is : 0.000
+(because -0.80)(he -6.56)(was -2.54)(wearing -5.00)(his -1.22)(birthplace -1.04)(. -3.52) line score is : -2.954, look ahead score is : 0.000

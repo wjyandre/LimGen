@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.088582165779606----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ and her eyes were smaller and inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(and -0.47)(her -5.76)(eyes -1.12)(were -1.20)(smaller -1.60)(and -1.71)(inland -0.75)(. -7.99) line score is : -2.574, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.1477545737288892----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ she moved through the air and passed inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(she -0.31)(moved -6.17)(through -1.47)(the -4.94)(air -3.77)(and -4.15)(passed -0.25)(inland -1.36)(. -2.63) line score is : -2.782, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ but the other won several prizes 
+-------------------------score:  -3.2324940780798594----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ but the nose was painted beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(but -0.47)(the -5.76)(nose -1.12)(was -2.18)(painted -1.51)(beforehand -5.63)(. -1.83) line score is : -2.642, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.2510785185731947----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ that the sun itself had made a hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(that -0.31)(the -6.17)(sun -1.47)(itself -3.89)(had -5.14)(made -3.31)(a -5.42)(hand -1.83)(. -2.95) line score is : -3.388, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and now he 's a college professor 
+-------------------------score:  -3.2873911838377676----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ and then she swung a spear beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(and -0.47)(then -5.76)(she -1.12)(swung -1.20)(a -6.56)(spear -1.40)(beforehand -5.95)(. -3.35) line score is : -3.225, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ they bedded her down in the stable 
+-------------------------score:  -3.313856233031519----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ she moved it down towards the woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(she -0.31)(moved -6.17)(it -1.47)(down -4.94)(towards -3.77)(the -6.07)(woodland -5.63)(. -4.53) line score is : -4.110, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and could n't bend back again 
+-------------------------score:  -3.3742345079779623----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ and could only move back beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(and -0.31)(could -6.17)(only -1.47)(move -1.49)(back -5.43)(beforehand -3.37)(. -2.97) line score is : -3.029, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.4364695684053004----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ she moved it and made shadows and sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(she -0.31)(moved -6.17)(it -1.47)(and -4.94)(made -3.77)(shadows -6.07)(and -3.41)(sand -3.85)(. -5.53) line score is : -3.946, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ which refreshed that person of ewell 
+-------------------------score:  -3.4369907597700755----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ which flew that direction of woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(which -0.47)(flew -5.76)(that -1.12)(direction -3.25)(of -4.08)(woodland -7.50)(. -4.61) line score is : -3.828, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ that she pickled her internal workins' 
+-------------------------score:  -3.4415435378750163----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ that she had herself painted inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(that -0.31)(she -6.17)(had -1.47)(herself -3.89)(painted -3.86)(inland -2.54)(. -7.55) line score is : -3.684, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ when he found there were five little chips 
+-------------------------score:  -3.461319888010621----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ when she saw there were two young woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(when -0.47)(she -5.76)(saw -1.12)(there -5.23)(were -0.61)(two -2.47)(young -7.70)(woodland -2.50)(. -2.72) line score is : -3.175, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.466358671265264----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ which had come with the greatest woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(which -0.47)(had -5.76)(come -1.12)(with -3.25)(the -3.11)(greatest -3.65)(woodland -4.73)(. -1.42) line score is : -2.938, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ BEFORE PRP VBD OUT FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ before she went out for a walk 
+-------------------------score:  -3.4866265197915416----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ before she came out for a woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(before -0.31)(she -6.17)(came -1.47)(out -6.53)(for -2.51)(a -2.46)(woodland -3.37)(. -6.38) line score is : -3.650, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ he left all his fans wanting more 
+-------------------------score:  -3.5134572122366197----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ she had all her teeth missing inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(she -0.31)(had -6.17)(all -1.47)(her -4.94)(teeth -2.34)(missing -5.29)(inland -1.97)(. -3.68) line score is : -3.271, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.514411928753058----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ and only could see a beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(and -0.31)(only -6.17)(could -1.47)(see -1.49)(a -6.48)(beforehand -5.97)(. -1.75) line score is : -3.377, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and now a new teacher they seek 
+-------------------------score:  -3.5181903517053974----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ and not a small bird she beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(and -0.31)(not -6.17)(a -1.47)(small -1.49)(bird -6.15)(she -1.84)(beforehand -4.92)(. -2.58) line score is : -3.115, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.534733154119984----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ she had when she slept across woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(she -0.47)(had -5.76)(when -1.12)(she -5.19)(slept -2.33)(across -8.18)(woodland -0.46)(. -4.96) line score is : -3.560, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ I invariably get in a stew ! 
+-------------------------score:  -3.56400315848089----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ she never slept in a tree inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(she -0.31)(never -6.17)(slept -1.47)(in -4.94)(a -5.42)(tree -6.02)(inland -4.33)(. -3.00) line score is : -3.957, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ which pickled his internal workins 
+-------------------------score:  -3.5687873224759925----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ which was our little beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(which -0.31)(was -6.17)(our -1.47)(little -2.85)(beforehand -2.56)(. -9.21) line score is : -3.760, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ that ungracious young lady in blue 
+-------------------------score:  -3.57213500191768----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ that bent backward backward towards sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(that -0.31)(bent -6.17)(backward -1.47)(backward -3.89)(towards -7.12)(sand -5.18)(. -6.48) line score is : -4.374, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.578010441735387----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ and wing span it is but fifteen grand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(and -0.47)(wing -5.76)(span -1.12)(it -1.20)(is -8.06)(but -7.92)(fifteen -7.49)(grand -4.02)(. -3.19) line score is : -4.358, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ a habit unpleasant but curious 
+-------------------------score:  -3.6580449486600943----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ a figure perfect but beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(a -0.47)(figure -5.76)(perfect -1.12)(but -4.51)(beforehand -4.82)(. -7.38) line score is : -4.010, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ are all easy marks for a jolly 
+-------------------------score:  -3.681918457631142----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ spread all open towards for a hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(spread -0.47)(all -5.76)(open -1.12)(towards -7.64)(for -5.10)(a -7.50)(hand -5.92)(. -9.64) line score is : -5.393, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ which leaves him in very bad shape 
+-------------------------score:  -3.69886438933111----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ which swung it in very rude woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(which -0.31)(swung -6.17)(it -1.47)(in -2.85)(very -7.37)(rude -5.28)(woodland -3.10)(. -7.66) line score is : -4.275, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and since then has never benzene 
+-------------------------score:  -3.703276159862677----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ and since then has never beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(and -0.31)(since -6.17)(then -1.47)(has -1.49)(never -8.10)(beforehand -4.58)(. -4.64) line score is : -3.821, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ and see what the critics all say 
+-------------------------score:  -3.7591243770814713----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ and look what the birds all beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(and -0.47)(look -5.76)(what -1.12)(the -1.20)(birds -9.15)(all -4.09)(beforehand -3.38)(. -4.21) line score is : -3.672, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.849905620018641----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ a long neck uncommon no woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(a -0.47)(long -5.76)(neck -1.12)(uncommon -4.51)(no -4.16)(woodland -3.17)(. -13.38) line score is : -4.653, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ that unlucky old person of ems 
+-------------------------score:  -3.8951037347316744----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ that lifted high till of beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(that -0.47)(lifted -5.76)(high -1.12)(till -4.27)(of -6.04)(beforehand -5.87)(. -6.79) line score is : -4.330, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ I d probably know two or three 
+-------------------------score:  -3.9869106647468384----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the shape of a crow , 
+ she wore long fringe three or beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(shape -4.19)(of -2.72)(a -3.47)(crow -0.11)(, -0.31) line score is : -2.428, look ahead score is : 0.000
+(she -0.31)(wore -6.17)(long -1.47)(fringe -4.94)(three -5.11)(or -4.68)(beforehand -8.42)(. -9.22) line score is : -5.039, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ with the faith of a marytr 
+ I ll give you prostheses for free 
+-------------------------score:  -4.1099861610320305----------------------- 
+there was a fierce lady named brande 
+ who stood a great distance on her land . 
+ she was like a shadow , 
+ with the face of a crow , 
+ it ca put me eyes for woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(stood -4.19)(a -5.54)(great -3.72)(distance -0.83)(on -6.33)(her -2.16)(land -7.37)(. -1.87) line score is : -3.694, look ahead score is : 0.000
+(she -1.87)(was -1.88)(like -1.32)(a -4.86)(shadow -0.54)(, -4.51) line score is : -2.497, look ahead score is : 0.000
+(with -4.51)(the -1.69)(face -4.19)(of -2.72)(a -3.70)(crow -0.33)(, -0.47) line score is : -2.515, look ahead score is : 0.000
+(it -0.47)(ca -5.76)(put -1.12)(me -7.09)(eyes -8.07)(for -12.26)(woodland -3.50)(. -8.41) line score is : -5.836, look ahead score is : 0.000

@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.900499429057042----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ and that is the beauty of this lie . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(and -3.36)(that -1.30)(is -1.21)(the -1.44)(beauty -3.27)(of -4.00)(this -2.57)(lie -4.20)(. -0.09) line score is : -2.382, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -2.9087238053480786----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she was ready to go and to try . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(was -1.45)(ready -0.94)(to -1.25)(go -1.94)(and -4.18)(to -0.45)(try -2.70)(. -3.92) line score is : -2.298, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but it does n't come out of my purse 
+-------------------------score:  -3.068460287650426----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ but she is still blind in our eye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(but -3.85)(she -1.45)(is -0.94)(still -1.95)(blind -1.09)(in -5.50)(our -2.84)(eye -7.45)(. -2.32) line score is : -3.042, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.088020078067122----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ but they are too different for ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(but -3.36)(they -1.30)(are -1.21)(too -1.79)(different -3.08)(for -4.38)(ally -3.59)(. -1.75) line score is : -2.559, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ she sat up in bed and meowed 
+-------------------------score:  -3.1002434779857766----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she was up in heaven and goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(was -1.45)(up -0.94)(in -1.25)(heaven -1.94)(and -6.93)(goodbye -3.87)(. -1.61) line score is : -2.730, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.1170337319374086----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she loved him and had kids and goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(loved -1.45)(him -0.94)(and -1.25)(had -4.06)(kids -1.20)(and -2.39)(goodbye -4.38)(. -5.26) line score is : -2.754, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ I invariably get in a stew ! 
+-------------------------score:  -3.137725723200831----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she never slept in a bed nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(never -1.45)(slept -0.94)(in -1.25)(a -5.50)(bed -4.99)(nearby -4.74)(. -1.80) line score is : -3.064, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ you never can tell till you try 
+-------------------------score:  -3.144520693811877----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she never can tell unless we try . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(never -1.45)(can -0.94)(tell -1.25)(unless -5.50)(we -7.68)(try -3.06)(. -6.74) line score is : -3.808, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ he never completed his task 
+-------------------------score:  -3.1644057741871587----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she even became our ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(even -1.45)(became -0.94)(our -1.25)(ally -5.34)(. -6.25) line score is : -3.180, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1781358142693836----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ and he was down and was her ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(and -3.85)(he -1.45)(was -0.94)(down -1.55)(and -2.52)(was -1.69)(her -7.25)(ally -3.94)(. -5.44) line score is : -3.182, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.2389848061970303----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ and she had sex constantly nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(and -3.85)(she -1.45)(had -0.94)(sex -1.55)(constantly -1.26)(nearby -3.11)(. -5.02) line score is : -2.454, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.240280024210612----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she was through the roof and was nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(was -1.45)(through -0.94)(the -1.25)(roof -1.94)(and -8.97)(was -3.92)(nearby -1.51)(. -3.01) line score is : -2.982, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.2798480411370594----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ and for years she just wants our pie . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(and -3.85)(for -1.45)(years -0.94)(she -1.55)(just -5.88)(wants -4.00)(our -0.84)(pie -4.05)(. -7.71) line score is : -3.363, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ what was shown on the cinema screen 
+-------------------------score:  -3.3461150876406967----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ what was left on the table nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(what -3.36)(was -1.30)(left -1.21)(on -6.10)(the -2.96)(table -4.49)(nearby -5.74)(. -1.01) line score is : -3.272, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ he was n't the wizard he woz 
+-------------------------score:  -3.3519247975842705----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she was always the type you ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(was -1.45)(always -0.94)(the -1.25)(type -1.94)(you -3.66)(ally -4.29)(. -3.11) line score is : -2.562, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.3842070924824683----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ but she had her limits and thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(but -3.85)(she -1.45)(had -0.94)(her -1.95)(limits -1.09)(and -3.18)(thereby -3.88)(. -4.56) line score is : -2.612, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and finished the solo with honour 
+-------------------------score:  -3.4294361727578297----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ and had the potential with ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(and -3.85)(had -1.45)(the -0.94)(potential -1.55)(with -5.92)(ally -3.91)(. -4.83) line score is : -3.207, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ that ungracious young lady in blue 
+-------------------------score:  -3.432392650416919----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ that little old lady in nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(that -3.36)(little -1.30)(old -1.21)(lady -4.19)(in -7.86)(nearby -6.31)(. -0.78) line score is : -3.575, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.455149952854429----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ and had our baby a nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(and -3.36)(had -1.30)(our -1.21)(baby -1.44)(a -6.50)(nearby -5.87)(. -3.95) line score is : -3.375, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ that she pickled her internal workins' 
+-------------------------score:  -3.4768867322376797----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ that she knew he understood goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(that -3.85)(she -1.45)(knew -0.94)(he -4.87)(understood -4.03)(goodbye -3.81)(. -2.74) line score is : -3.099, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ but nobody knew what he said 
+-------------------------score:  -3.480751706021173----------------------- 
+there was a silly girl named kai 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ but nobody knew what you goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(but -3.36)(nobody -1.30)(knew -1.21)(what -1.79)(you -6.29)(goodbye -3.00)(. -2.16) line score is : -2.731, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.4821091643695175----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ she loved when he slept across nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(she -3.85)(loved -1.45)(when -0.94)(he -1.25)(slept -4.06)(across -8.19)(nearby -1.11)(. -4.39) line score is : -3.155, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ a word of ambiguous meaning 
+-------------------------score:  -3.5113043652640448----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ a family of several ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(a -3.85)(family -1.45)(of -0.94)(several -4.33)(ally -2.18)(. -3.84) line score is : -2.765, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ a habit unpleasant but curious 
+-------------------------score:  -3.525147460125111----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a girlfriend , 
+ she would have a boyfriend , 
+ a family ready but goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(girlfriend -3.65)(, -4.66) line score is : -3.206, look ahead score is : 0.000
+(she -4.66)(would -1.47)(have -2.88)(a -4.91)(boyfriend -2.08)(, -3.85) line score is : -3.306, look ahead score is : 0.000
+(a -3.85)(family -1.45)(ready -0.94)(but -4.33)(goodbye -2.18)(. -8.60) line score is : -3.558, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ that unlucky old person of ems 
+-------------------------score:  -3.597766024725778----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ he would have a girlfriend , 
+ that little old woman of goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(he -3.31)(would -1.39)(have -3.85)(a -5.29)(girlfriend -2.59)(, -3.36) line score is : -3.300, look ahead score is : 0.000
+(that -3.36)(little -1.30)(old -1.21)(woman -4.19)(of -7.86)(goodbye -6.31)(. -3.25) line score is : -3.928, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND VB NNS VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and hope reinforcements arrive 
+-------------------------score:  -3.6635545308773336----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ she would tell a girlfriend , 
+ and realize afterwards goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(she -3.31)(would -1.39)(tell -3.17)(a -4.90)(girlfriend -2.91)(, -6.12) line score is : -3.633, look ahead score is : 0.000
+(and -6.12)(realize -5.04)(afterwards -1.62)(goodbye -1.42)(. -9.83) line score is : -4.806, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP WOULD VB A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he would wave a cigar 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.009121787548065----------------------- 
+there was a silly girl named lorelei 
+ who got a big crush on our guy . 
+ she wanted a boyfriend , 
+ it would be a girlfriend , 
+ and trying get him is but bad goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.83)(got -4.06)(a -3.04)(big -4.49)(crush -2.26)(on -0.02)(our -6.84)(guy -3.20)(. -1.87) line score is : -3.067, look ahead score is : 0.000
+(she -1.87)(wanted -1.90)(a -3.96)(boyfriend -3.65)(, -3.31) line score is : -2.937, look ahead score is : 0.000
+(it -3.31)(would -1.39)(be -6.04)(a -4.38)(girlfriend -1.19)(, -2.40) line score is : -3.118, look ahead score is : 0.000
+(and -2.40)(trying -6.88)(get -1.58)(him -2.19)(is -9.85)(but -7.02)(bad -1.98)(goodbye -5.12)(. -8.43) line score is : -5.051, look ahead score is : 0.000

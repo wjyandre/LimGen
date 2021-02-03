@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was ready to give and to take 
+-------------------------score:  -2.9872307097539306----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ she was ordered to leave and to stay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(she -1.15)(was -9.08)(ordered -2.35)(to -5.20)(leave -1.36)(and -5.89)(to -0.25)(stay -3.11)(. -3.39) line score is : -3.531, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0602105278521776----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was called by her clerk , 
+ and she went down and gave her survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(called -0.71)(by -2.00)(her -4.42)(clerk -3.05)(, -1.43) line score is : -2.629, look ahead score is : 0.000
+(and -1.43)(she -9.94)(went -1.73)(down -3.14)(and -2.28)(gave -3.07)(her -3.42)(survey -3.16)(. -3.72) line score is : -3.544, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what was shown on the cinema screen 
+-------------------------score:  -3.0768295516890865----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ what had happened on the day friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(what -1.15)(had -9.08)(happened -2.35)(on -7.72)(the -2.43)(day -0.41)(friday -4.73)(. -0.60) line score is : -3.558, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BEFORE PRP VBD OUT FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ before she went out for a walk 
+-------------------------score:  -3.210603896648653----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ before she went out for a survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(before -1.15)(she -9.08)(went -2.35)(out -7.95)(for -0.71)(a -2.76)(survey -1.95)(. -3.23) line score is : -3.648, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.291180396452546----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cool , 
+ but her friends were down to their birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cool -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(but -1.94)(her -9.48)(friends -2.54)(were -4.35)(down -3.47)(to -3.10)(their -2.17)(birthday -8.17)(. -0.96) line score is : -4.021, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.306227346882224----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was called by her clerk , 
+ and it was then like lightning of day . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(called -0.71)(by -2.00)(her -4.42)(clerk -3.05)(, -1.43) line score is : -2.629, look ahead score is : 0.000
+(and -1.43)(it -9.94)(was -1.73)(then -3.14)(like -4.97)(lightning -0.31)(of -3.66)(day -8.19)(. -3.39) line score is : -4.084, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.3121831926607315----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cool , 
+ straight a student no better than jay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cool -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(straight -1.94)(a -9.48)(student -2.54)(no -5.60)(better -3.52)(than -0.84)(jay -9.37)(. -5.72) line score is : -4.875, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.312880111151728----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ she never expected a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(she -1.15)(never -9.08)(expected -2.35)(a -5.20)(birthday -6.28)(. -5.26) line score is : -4.885, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to keep from soiling her feet 
+-------------------------score:  -3.366805903116862----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ to keep from disturbing her resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(to -1.15)(keep -9.08)(from -2.35)(disturbing -6.04)(her -3.98)(resume -7.16)(. -5.33) line score is : -5.012, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.3772163267793327----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cool , 
+ collected straight a average day . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cool -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(collected -1.94)(straight -9.48)(a -2.54)(average -3.75)(day -9.65)(. -2.09) line score is : -4.908, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.379432972272237----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ because she was taking her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(because -1.15)(she -9.08)(was -2.35)(taking -8.36)(her -0.70)(birthday -1.10)(. -5.46) line score is : -4.028, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ OF THE NN VBN IN VBG PRP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ of the bishop engaged in confirming 'em 
+-------------------------score:  -3.38293485295388----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ of the time spent in writing essay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(of -1.15)(the -9.08)(time -2.35)(spent -6.78)(in -2.21)(writing -5.22)(essay -5.44)(. -1.04) line score is : -4.159, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she sat up in bed and meowed 
+-------------------------score:  -3.43470392111809----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ she was up in trouble and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(she -1.15)(was -9.08)(up -2.35)(in -5.20)(trouble -1.36)(and -6.88)(sunday -3.51)(. -4.84) line score is : -4.296, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ OF THE NN FROM NN TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ of the distance from object to source 
+-------------------------score:  -3.446609733566161----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ of the letter from heaven to hay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(of -1.15)(the -9.08)(letter -2.35)(from -6.78)(heaven -2.21)(to -5.47)(hay -2.67)(. -6.61) line score is : -4.541, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.4468197245751657----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cool , 
+ and she was not sure anything gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cool -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(and -1.94)(she -9.48)(was -2.54)(not -4.45)(sure -2.25)(anything -2.18)(gay -3.49)(. -2.92) line score is : -3.656, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.466301400815287----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ she never can be in it sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(she -1.15)(never -9.08)(can -2.35)(be -5.20)(in -6.28)(it -7.05)(sunday -2.14)(. -4.46) line score is : -4.713, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ when he saw there were six little chips 
+-------------------------score:  -3.484839975833893----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ when she saw there were two poor friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(when -1.15)(she -9.08)(saw -2.35)(there -6.85)(were -0.66)(two -3.69)(poor -7.05)(friday -1.94)(. -2.61) line score is : -3.930, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ did anyone see where it went 
+-------------------------score:  -3.4894694566726683----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cool , 
+ collected class figure where she lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cool -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(collected -1.94)(class -9.48)(figure -2.54)(where -3.75)(she -5.42)(lay -7.76)(. -8.02) line score is : -5.558, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ in a sugary takeover bid 
+-------------------------score:  -3.49983974777419----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ in a desperate effort friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(in -1.15)(a -9.08)(desperate -2.35)(effort -5.41)(friday -2.16)(. -5.19) line score is : -4.223, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to write verses relating to wind 
+-------------------------score:  -3.538438469171524----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ to come downstairs sooner to survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(to -1.15)(come -9.08)(downstairs -2.35)(sooner -6.04)(to -3.29)(survey -6.22)(. -8.40) line score is : -5.219, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ for not selling her waterproof paint 
+-------------------------score:  -3.56052095691363----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ for not finding him ready sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(for -1.15)(not -9.08)(finding -2.35)(him -6.73)(ready -5.59)(sunday -5.60)(. -2.55) line score is : -4.722, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBZ TO VB PRP$ NN NN RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ hopes to draw his insurance cheque soon 
+-------------------------score:  -3.5804527209651087----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by my clerk , 
+ has to leave my office till halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(my -3.61)(clerk -1.92)(, -4.79) line score is : -2.831, look ahead score is : 0.000
+(has -4.79)(to -8.56)(leave -2.13)(my -9.93)(office -4.65)(till -3.78)(halfway -4.09)(. -1.40) line score is : -4.917, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then I sat on my moped and moped 
+-------------------------score:  -3.5835607182234526----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ now she heard on her ear and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(now -1.15)(she -9.08)(heard -2.35)(on -8.00)(her -6.18)(ear -4.98)(and -5.58)(sunday -2.25)(. -3.10) line score is : -4.740, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which leaves him in very bad shape 
+-------------------------score:  -3.5905671581145255----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ which tells us in pretty good survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(which -1.15)(tells -9.08)(us -2.35)(in -6.14)(pretty -8.04)(good -0.82)(survey -5.82)(. -7.38) line score is : -5.097, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.6243876295704998----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cool , 
+ well put up all beautiful and gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cool -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(well -1.94)(put -9.48)(up -2.54)(all -4.94)(beautiful -7.39)(and -5.69)(gay -8.39)(. -6.53) line score is : -5.863, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.6379077540289972----------------------- 
+there was a wise teacher named kay 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ i do not have ten or resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(i -1.15)(do -9.08)(not -2.35)(have -6.50)(ten -5.26)(or -0.31)(resume -3.75)(. -6.21) line score is : -4.326, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.7396605687756694----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ for six months had past at resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(for -1.15)(six -9.08)(months -2.35)(had -6.73)(past -7.94)(at -1.01)(resume -5.84)(. -5.03) line score is : -4.892, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ as if he 'd been invited 
+-------------------------score:  -3.878826993703842----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to school , 
+ she was shocked by her cruel , 
+ as if she outright lied resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(school -1.46)(, -5.19) line score is : -2.982, look ahead score is : 0.000
+(she -5.19)(was -0.96)(shocked -0.60)(by -1.62)(her -3.94)(cruel -2.43)(, -1.94) line score is : -2.381, look ahead score is : 0.000
+(as -1.94)(if -9.55)(she -3.89)(outright -7.85)(lied -2.85)(resume -0.80)(. -13.05) line score is : -5.703, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then he couldn t think of anything 
+-------------------------score:  -4.007281170737359----------------------- 
+there was a wise teacher named renee 
+ who taught a great sermon on her way . 
+ when she returned to work , 
+ she was told by her clerk , 
+ not i ca very keen of re . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(taught -1.96)(a -4.91)(great -3.64)(sermon -3.03)(on -2.08)(her -4.20)(way -3.51)(. -3.21) line score is : -3.105, look ahead score is : 0.000
+(when -3.21)(she -3.89)(returned -1.03)(to -3.12)(work -1.46)(, -5.79) line score is : -3.083, look ahead score is : 0.000
+(she -5.79)(was -1.00)(told -0.71)(by -2.00)(her -3.61)(clerk -1.92)(, -1.15) line score is : -2.310, look ahead score is : 0.000
+(not -1.15)(i -9.08)(ca -2.35)(very -6.77)(keen -8.30)(of -9.02)(re -9.26)(. -6.10) line score is : -6.503, look ahead score is : 0.000

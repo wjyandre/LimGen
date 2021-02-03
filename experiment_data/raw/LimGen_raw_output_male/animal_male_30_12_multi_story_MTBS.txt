@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.063243916258216----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ he was sure to find a nice female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(he -0.46)(was -7.78)(sure -1.62)(to -1.51)(find -0.71)(a -6.10)(nice -1.82)(female -2.60)(. -1.80) line score is : -2.711, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.134164608293964----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ and now he has a baby female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(and -0.46)(now -7.78)(he -1.62)(has -1.35)(a -3.11)(baby -0.74)(female -3.59)(. -2.94) line score is : -2.698, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.2283732506536666----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ so he never bothered on the trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(so -1.59)(he -1.44)(never -6.98)(bothered -3.04)(on -1.50)(the -6.21)(trail -2.89)(. -7.72) line score is : -3.920, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.2789739247026115----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ he even remembered our tale . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(he -1.59)(even -1.44)(remembered -6.98)(our -2.05)(tale -4.44)(. -6.16) line score is : -3.775, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.2990121971815825----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ now it was we turn towards the whale . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(now -0.46)(it -7.78)(was -1.62)(we -5.17)(turn -2.85)(towards -0.70)(the -5.91)(whale -4.70)(. -5.51) line score is : -3.856, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.3024341706186533----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ but his eyes were down to his thumbnail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(but -1.59)(his -1.44)(eyes -6.98)(were -1.96)(down -3.72)(to -3.57)(his -0.60)(thumbnail -5.83)(. -4.71) line score is : -3.378, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.307303510606289----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ and he was down and had our mail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(and -1.59)(he -1.44)(was -6.98)(down -1.03)(and -1.19)(had -1.72)(our -6.60)(mail -3.69)(. -6.06) line score is : -3.367, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.3335519023239613----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ in seconds we were all in the jail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(in -0.46)(seconds -7.78)(we -1.62)(were -6.25)(all -6.78)(in -2.73)(the -1.38)(jail -3.06)(. -3.12) line score is : -3.687, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.375545107549237----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ he was up in heaven and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(he -0.46)(was -7.78)(up -1.62)(in -1.51)(heaven -0.71)(and -6.00)(female -2.33)(. -4.11) line score is : -3.065, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.392081906055582----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ he even remembered a detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(he -1.59)(even -1.44)(remembered -6.98)(a -2.05)(detail -4.44)(. -6.16) line score is : -3.775, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ then fell into a vat of grease 
+-------------------------score:  -3.4171376036059473----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ then went into a room of detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(then -1.59)(went -1.44)(into -6.98)(a -5.86)(room -3.77)(of -3.09)(detail -2.06)(. -3.94) line score is : -3.591, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.4180006365622244----------------------- 
+there was a nasty boy named nathanael 
+ who made a huge mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ he was not the person we detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(huge -4.86)(mess -1.59)(on -3.04)(our -3.06)(tail -7.98)(. -2.03) line score is : -3.422, look ahead score is : 0.000
+(he -2.03)(was -2.02)(back -2.02)(from -6.36)(the -3.08)(sea -1.74)(, -5.20) line score is : -3.207, look ahead score is : 0.000
+(he -5.20)(was -2.19)(ready -2.79)(to -1.19)(flee -4.59)(, -0.44) line score is : -2.734, look ahead score is : 0.000
+(he -0.44)(was -7.72)(not -1.62)(the -1.52)(person -0.74)(we -4.42)(detail -4.17)(. -4.42) line score is : -3.130, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.450615594463964----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ but we had our guards and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(but -0.46)(we -7.78)(had -1.62)(our -1.73)(guards -2.14)(and -2.03)(female -4.56)(. -4.69) line score is : -3.125, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but I guess that you probably gnu 
+-------------------------score:  -3.4744935266433226----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ but i think that he really female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(but -0.46)(i -7.78)(think -1.62)(that -1.73)(he -2.32)(really -4.46)(female -2.91)(. -1.61) line score is : -2.861, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.4787240885198116----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ but we had him trapped holding him bail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(but -0.46)(we -7.78)(had -1.62)(him -1.73)(trapped -2.14)(holding -2.03)(him -3.68)(bail -4.01)(. -8.59) line score is : -3.560, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ to call my last novel impure 
+-------------------------score:  -3.4852407852808636----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to be , 
+ to be our new leader female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(be -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(to -0.46)(be -3.86)(our -6.27)(new -5.26)(leader -1.78)(female -4.46)(. -3.72) line score is : -3.689, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ when he saw there were six little chips 
+-------------------------score:  -3.53802327811718----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ when he saw there was one last female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(when -0.46)(he -7.78)(saw -1.62)(there -5.05)(was -1.27)(one -1.55)(last -7.18)(female -0.36)(. -4.44) line score is : -3.299, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.5400315821170807----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ and for weeks we just froze our trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(and -0.46)(for -7.78)(weeks -1.62)(we -1.35)(just -5.98)(froze -5.81)(our -1.43)(trail -4.33)(. -7.43) line score is : -4.020, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5469058672587077----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ and he was content again female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(and -1.59)(he -1.44)(was -6.98)(content -1.03)(again -1.19)(female -1.72)(. -6.96) line score is : -2.988, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and hop in before all the crowd 
+-------------------------score:  -3.549649484695927----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ and put in before all the detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(and -1.59)(put -1.44)(in -6.98)(before -1.03)(all -7.50)(the -3.96)(detail -8.47)(. -5.33) line score is : -4.537, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and she baked really great apple pies 
+-------------------------score:  -3.551712232251321----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ and he was not sure anything male . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(and -0.46)(he -7.78)(was -1.62)(not -1.35)(sure -1.31)(anything -1.40)(male -4.15)(. -5.01) line score is : -2.884, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ thirty days is the time he will do 
+-------------------------score:  -3.6095204055309296----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to be , 
+ good guys is the word i will detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(be -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(good -0.46)(guys -3.86)(is -6.27)(the -7.26)(word -5.39)(i -7.04)(will -2.55)(detail -1.69)(. -1.43) line score is : -3.994, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.6137779745562324----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ the enemy has taken detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(the -0.46)(enemy -7.78)(has -1.62)(taken -4.41)(detail -5.38)(. -5.24) line score is : -4.147, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -3.6513674066912745----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ and look what the idiots all hail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(and -0.46)(look -7.78)(what -1.62)(the -1.35)(idiots -8.34)(all -1.63)(hail -4.31)(. -7.14) line score is : -4.077, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ that unlucky old person of ems 
+-------------------------score:  -3.661981228987376----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ that little old lady of female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(that -1.59)(little -1.44)(old -6.98)(lady -5.82)(of -5.34)(female -4.04)(. -1.77) line score is : -3.853, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.6667812671512365----------------------- 
+there was a nasty boy named jerrell 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ he was still blind drunk was this female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(he -0.46)(was -7.78)(still -1.62)(blind -1.51)(drunk -0.71)(was -4.82)(this -7.81)(female -4.32)(. -8.88) line score is : -4.212, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.7254460088668333----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was ready to flee , 
+ he even wore in a suit female . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(ready -2.78)(to -1.18)(flee -4.49)(, -0.46) line score is : -2.727, look ahead score is : 0.000
+(he -0.46)(even -7.78)(wore -1.62)(in -1.51)(a -5.57)(suit -4.93)(female -8.19)(. -2.08) line score is : -4.017, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and could n't bend back again 
+-------------------------score:  -3.814155360062917----------------------- 
+there was a nasty boy named nathanael 
+ who made a huge mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ and could only imagine back sail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(huge -4.86)(mess -1.59)(on -3.04)(our -3.06)(tail -7.98)(. -2.03) line score is : -3.422, look ahead score is : 0.000
+(he -2.03)(was -2.02)(back -2.02)(from -6.36)(the -3.08)(sea -1.74)(, -5.20) line score is : -3.207, look ahead score is : 0.000
+(he -5.20)(was -2.19)(happy -2.79)(to -1.19)(see -4.78)(, -1.68) line score is : -2.972, look ahead score is : 0.000
+(and -1.68)(could -1.45)(only -7.01)(imagine -1.07)(back -6.93)(sail -3.70)(. -4.25) line score is : -3.726, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.9389414079487324----------------------- 
+there was a nasty boy named nathanael 
+ who made a big mess on our tail . 
+ he was back from the sea , 
+ he was happy to see , 
+ and trying help us is but good detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(made -4.72)(a -2.00)(big -3.51)(mess -2.24)(on -2.95)(our -3.19)(tail -7.99)(. -2.09) line score is : -3.357, look ahead score is : 0.000
+(he -2.09)(was -2.03)(back -2.07)(from -6.29)(the -3.06)(sea -1.74)(, -5.32) line score is : -3.226, look ahead score is : 0.000
+(he -5.32)(was -2.14)(happy -2.78)(to -1.18)(see -4.72)(, -1.59) line score is : -2.954, look ahead score is : 0.000
+(and -1.59)(trying -1.44)(help -6.98)(us -1.03)(is -8.17)(but -9.96)(good -1.14)(detail -8.14)(. -8.19) line score is : -5.181, look ahead score is : 0.000

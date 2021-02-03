@@ -1,0 +1,242 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ BUT PRP RB VBD NNS , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ but he never kicked onths 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.9697364548842113----------------------- 
+there was a neat boy named pete 
+ who drove a white van on our street . 
+ he worked for our school , 
+ but he never saw pool , 
+ so he never played on the concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(drove -6.34)(a -1.24)(white -4.00)(van -2.34)(on -3.83)(our -4.11)(street -1.95)(. -1.57) line score is : -2.976, look ahead score is : 0.000
+(he -1.57)(worked -1.09)(for -4.12)(our -1.53)(school -4.73)(, -3.30) line score is : -2.725, look ahead score is : 0.000
+(but -3.30)(he -2.46)(never -2.15)(saw -1.07)(pool -2.68)(, -3.69) line score is : -2.559, look ahead score is : 0.000
+(so -3.69)(he -11.96)(never -2.51)(played -2.17)(on -0.55)(the -2.21)(concrete -2.96)(. -3.75) line score is : -3.726, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -3.0015114235284273----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he would go to a place , 
+ he would take a staircase , 
+ he was able to walk and to eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(would -1.12)(go -3.16)(to -3.39)(a -2.13)(place -2.73)(, -3.74) line score is : -2.564, look ahead score is : 0.000
+(he -3.74)(would -2.99)(take -2.99)(a -0.56)(staircase -3.70)(, -1.24) line score is : -2.537, look ahead score is : 0.000
+(he -1.24)(was -9.76)(able -1.17)(to -1.41)(walk -4.40)(and -4.96)(to -0.01)(eat -2.12)(. -4.32) line score is : -3.267, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD ON THE NN , 
+ BUT PRP RB VBD NNS , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ it said on the door 
+ but he never kicked onths 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0113234261671704----------------------- 
+there was a neat man named pete 
+ who drove a white van on our street . 
+ he was on the lookout , 
+ but he never saw trout , 
+ so he never got on the concrete . 
+------------------------- score breakdown ------------------------ 
+(who -2.00)(drove -5.85)(a -1.24)(white -4.04)(van -2.31)(on -3.73)(our -4.26)(street -2.32)(. -1.61) line score is : -3.041, look ahead score is : 0.000
+(he -1.61)(was -1.07)(on -1.24)(the -5.35)(lookout -1.83)(, -3.38) line score is : -2.414, look ahead score is : 0.000
+(but -3.38)(he -4.49)(never -2.55)(saw -1.36)(trout -1.92)(, -1.21) line score is : -2.483, look ahead score is : 0.000
+(so -1.21)(he -12.39)(never -3.03)(got -1.40)(on -0.49)(the -2.38)(concrete -2.65)(. -4.01) line score is : -3.445, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.0473613925278187----------------------- 
+there was a neat man named pete 
+ who drove a white van on our street . 
+ he would go to a place , 
+ he would take a staircase , 
+ and that is the entrance of this suite . 
+------------------------- score breakdown ------------------------ 
+(who -2.00)(drove -5.85)(a -1.24)(white -4.04)(van -2.31)(on -3.73)(our -4.26)(street -2.32)(. -1.61) line score is : -3.041, look ahead score is : 0.000
+(he -1.61)(would -1.07)(go -3.21)(to -3.39)(a -2.04)(place -2.83)(, -3.69) line score is : -2.547, look ahead score is : 0.000
+(he -3.69)(would -2.92)(take -3.20)(a -0.58)(staircase -3.47)(, -1.23) line score is : -2.514, look ahead score is : 0.000
+(and -1.23)(that -9.54)(is -1.20)(the -1.16)(entrance -5.06)(of -2.74)(this -2.89)(suite -4.30)(. -2.72) line score is : -3.426, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD ON THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ it said on the door 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.0725666284561157----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he was on the highway , 
+ and he came to the way , 
+ and that is the reason of this beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(was -1.12)(on -1.16)(the -5.23)(highway -1.89)(, -5.32) line score is : -2.735, look ahead score is : 0.000
+(and -5.32)(he -2.61)(came -2.05)(to -1.46)(the -4.08)(way -2.25)(, -1.85) line score is : -2.805, look ahead score is : 0.000
+(and -1.85)(that -7.66)(is -3.50)(the -0.80)(reason -4.95)(of -3.37)(this -2.74)(beat -2.96)(. -4.21) line score is : -3.560, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD ON THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ it said on the door 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.085584381595254----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he was on the highway , 
+ and he came to the way , 
+ but he said he was taking it neat . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(was -1.12)(on -1.16)(the -5.23)(highway -1.89)(, -5.32) line score is : -2.735, look ahead score is : 0.000
+(and -5.32)(he -2.61)(came -2.05)(to -1.46)(the -4.08)(way -2.25)(, -1.85) line score is : -2.805, look ahead score is : 0.000
+(but -1.85)(he -7.66)(said -3.50)(he -3.80)(was -0.92)(taking -4.34)(it -1.43)(neat -1.60)(. -5.09) line score is : -3.354, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD ON THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ it said on the door 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.1072363161271617----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he was on the highway , 
+ and he came to the way , 
+ he saw that our house had concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(was -1.12)(on -1.16)(the -5.23)(highway -1.89)(, -5.32) line score is : -2.735, look ahead score is : 0.000
+(and -5.32)(he -2.61)(came -2.05)(to -1.46)(the -4.08)(way -2.25)(, -1.85) line score is : -2.805, look ahead score is : 0.000
+(he -1.85)(saw -7.66)(that -3.50)(our -2.81)(house -2.64)(had -3.46)(concrete -3.63)(. -2.13) line score is : -3.457, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.1350681502372026----------------------- 
+there was a neat boy named pete 
+ who drove a white van on our street . 
+ he worked for our school , 
+ and he came to the pool , 
+ but he said he was having it sweet . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(drove -6.34)(a -1.24)(white -4.00)(van -2.34)(on -3.83)(our -4.11)(street -1.95)(. -1.57) line score is : -2.976, look ahead score is : 0.000
+(he -1.57)(worked -1.09)(for -4.12)(our -1.53)(school -4.73)(, -3.30) line score is : -2.725, look ahead score is : 0.000
+(and -3.30)(he -2.46)(came -1.42)(to -1.26)(the -4.38)(pool -1.44)(, -2.49) line score is : -2.392, look ahead score is : 0.000
+(but -2.49)(he -8.50)(said -4.09)(he -3.29)(was -0.85)(having -4.20)(it -0.83)(sweet -1.61)(. -4.90) line score is : -3.418, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ then grind out a limerick or two 
+-------------------------score:  -3.20137184281503----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he would go to a place , 
+ he would take a staircase , 
+ then jump out a window or concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(would -1.12)(go -3.16)(to -3.39)(a -2.13)(place -2.73)(, -3.74) line score is : -2.564, look ahead score is : 0.000
+(he -3.74)(would -2.99)(take -2.99)(a -0.56)(staircase -3.70)(, -1.24) line score is : -2.537, look ahead score is : 0.000
+(then -1.24)(jump -9.76)(out -1.17)(a -3.50)(window -3.20)(or -2.41)(concrete -4.42)(. -0.27) line score is : -3.249, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD ON THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ it said on the door 
+ and they rushed to the rail 
+ and returned on the previous night 
+-------------------------score:  -3.2383779724438986----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he was on the highway , 
+ and he came to the way , 
+ and stopped on the opposite concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(was -1.12)(on -1.16)(the -5.23)(highway -1.89)(, -5.32) line score is : -2.735, look ahead score is : 0.000
+(and -5.32)(he -2.61)(came -2.05)(to -1.46)(the -4.08)(way -2.25)(, -1.85) line score is : -2.805, look ahead score is : 0.000
+(and -1.85)(stopped -7.66)(on -3.50)(the -0.80)(opposite -5.58)(concrete -3.38)(. -0.49) line score is : -3.323, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ a word of ambiguous meaning 
+-------------------------score:  -3.278369316767002----------------------- 
+there was a funny boy named pete 
+ who drove a white van on our street . 
+ he would go to a store , 
+ he would buy a before , 
+ a bottle of mineral concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(drove -6.15)(a -1.37)(white -4.03)(van -1.96)(on -3.80)(our -4.23)(street -1.93)(. -1.68) line score is : -2.975, look ahead score is : 0.000
+(he -1.68)(would -1.12)(go -3.16)(to -3.39)(a -2.13)(store -2.73)(, -3.75) line score is : -2.566, look ahead score is : 0.000
+(he -3.75)(would -1.72)(buy -3.51)(a -0.46)(before -1.61)(, -1.02) line score is : -2.013, look ahead score is : 0.000
+(a -1.02)(bottle -11.30)(of -3.95)(mineral -2.19)(concrete -4.77)(. -0.17) line score is : -3.900, look ahead score is : 0.000

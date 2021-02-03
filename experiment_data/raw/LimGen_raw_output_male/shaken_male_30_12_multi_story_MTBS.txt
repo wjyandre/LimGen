@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.22213824884966----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were met by our band , 
+ and that is the end of this process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(met -1.68)(by -1.63)(our -3.07)(band -0.61)(, -3.35) line score is : -3.020, look ahead score is : 0.000
+(and -3.35)(that -7.28)(is -2.27)(the -2.87)(end -5.92)(of -3.07)(this -3.32)(process -2.74)(. -0.06) line score is : -3.431, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.2961701952153817----------------------- 
+there was a loud waiter named wes 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ it was nice to have a new address . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(it -2.71)(was -6.87)(nice -2.00)(to -7.37)(have -0.52)(a -5.29)(new -0.28)(address -1.75)(. -1.72) line score is : -3.167, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.4690214075380936----------------------- 
+there was a loud waiter named wes 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ we played through the night and made progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(we -2.71)(played -6.87)(through -2.00)(the -5.77)(night -2.74)(and -5.42)(made -0.96)(progress -2.27)(. -1.68) line score is : -3.381, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.540167087339796----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ in hopes it was all in the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(in -2.71)(hopes -6.87)(it -2.00)(was -6.18)(all -5.51)(in -5.56)(the -2.79)(process -3.31)(. -4.81) line score is : -4.417, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.5511482704070305----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were met by our band , 
+ and let in before all the excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(met -1.68)(by -1.63)(our -3.07)(band -0.61)(, -3.35) line score is : -3.020, look ahead score is : 0.000
+(and -3.35)(let -7.28)(in -2.27)(before -2.87)(all -7.83)(the -2.16)(excess -5.10)(. -5.17) line score is : -4.503, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ they bedded her down in the stable 
+-------------------------score:  -3.562321210700658----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ it was us down in the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(it -2.71)(was -6.87)(us -2.00)(down -7.37)(in -0.52)(the -7.16)(process -7.70)(. -2.99) line score is : -4.664, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to write verses relating to wind 
+-------------------------score:  -3.5644121881574393----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ to help ourselves drink to excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(to -2.71)(help -6.87)(ourselves -2.00)(drink -6.60)(to -4.37)(excess -5.54)(. -4.89) line score is : -4.712, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.566373471891688----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ but i am not sure for process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(but -2.71)(i -6.87)(am -2.00)(not -4.85)(sure -3.56)(for -5.02)(process -1.74)(. -0.38) line score is : -3.389, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what was shown on the cinema screen 
+-------------------------score:  -3.5778286995426303----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were met by our band , 
+ what had happened on the road process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(met -1.68)(by -1.63)(our -3.07)(band -0.61)(, -3.35) line score is : -3.020, look ahead score is : 0.000
+(what -3.35)(had -7.28)(happened -2.27)(on -8.70)(the -2.86)(road -3.81)(process -4.30)(. -0.85) line score is : -4.178, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ when he saw there were six little chips 
+-------------------------score:  -3.606472179875709----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ when we heard there was one last process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(when -2.71)(we -6.87)(heard -2.00)(there -7.40)(was -1.59)(one -2.81)(last -6.05)(process -0.47)(. -5.18) line score is : -3.899, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but I guess that you probably gnu 
+-------------------------score:  -3.6147655917992516----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ but i think that we really impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(but -2.71)(i -6.87)(think -2.00)(that -4.85)(we -3.56)(really -3.95)(impress -2.84)(. -2.78) line score is : -3.696, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but nobody knew what he said 
+-------------------------score:  -3.629911547526717----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ but nobody knew what we address . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(but -2.71)(nobody -6.87)(knew -2.00)(what -4.85)(we -6.21)(address -3.54)(. -1.62) line score is : -3.971, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to call my last novel impure 
+-------------------------score:  -3.6561055994282166----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ to play our final song progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(to -2.71)(play -6.87)(our -2.00)(final -6.60)(song -3.85)(progress -2.80)(. -3.49) line score is : -4.045, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.65880600141827----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ and for hours we just froze our progress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(and -2.71)(for -6.87)(hours -2.00)(we -2.60)(just -5.40)(froze -5.20)(our -0.98)(progress -5.98)(. -9.13) line score is : -4.542, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.6873437912473754----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ for two songs were ready at excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(for -2.71)(two -6.87)(songs -2.00)(were -6.51)(ready -5.46)(at -2.14)(excess -3.58)(. -4.39) line score is : -4.207, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he was n't the wizard he woz 
+-------------------------score:  -3.740085953305806----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ it was then the moment we access . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(it -2.71)(was -6.87)(then -2.00)(the -7.37)(moment -0.52)(we -4.58)(access -4.20)(. -3.91) line score is : -4.020, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.7477391631372514----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were told by our band , 
+ we were that our show was excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(told -1.68)(by -1.63)(our -2.83)(band -2.49)(, -2.33) line score is : -3.108, look ahead score is : 0.000
+(we -2.33)(were -8.25)(that -4.35)(our -4.03)(show -1.28)(was -8.00)(excess -5.62)(. -4.30) line score is : -4.768, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.8037972390884534----------------------- 
+there was a loud waiter named wes 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ we were still dry drunk was this process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(we -2.71)(were -6.87)(still -2.00)(dry -5.77)(drunk -1.79)(was -4.56)(this -7.91)(process -4.42)(. -9.44) line score is : -5.052, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.8081470585117736----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ and we were encouraged not address . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(and -2.71)(we -6.87)(were -2.00)(encouraged -2.60)(not -2.20)(address -2.07)(. -6.41) line score is : -3.551, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to balance green peas on her fork 
+-------------------------score:  -3.808751615425271----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ to help clean ourselves on us dress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(to -2.71)(help -6.87)(clean -2.00)(ourselves -6.60)(on -4.37)(us -2.27)(dress -6.56)(. -6.52) line score is : -4.738, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ for not selling her waterproof paint 
+-------------------------score:  -3.8764329930146535----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were met by our band , 
+ for once having none other access . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(met -1.68)(by -1.63)(our -3.07)(band -0.61)(, -3.35) line score is : -3.020, look ahead score is : 0.000
+(for -3.35)(once -7.28)(having -2.27)(none -6.86)(other -4.92)(access -5.19)(. -4.60) line score is : -4.924, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he left all his fans wanting more 
+-------------------------score:  -3.9775426887696788----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were met by our band , 
+ it was all our friends playing impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(met -1.68)(by -1.63)(our -3.07)(band -0.61)(, -3.35) line score is : -3.020, look ahead score is : 0.000
+(it -3.35)(was -7.28)(all -2.27)(our -7.64)(friends -0.52)(playing -4.27)(impress -5.05)(. -2.12) line score is : -4.062, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.0450610384577885----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ and sing fed it is but fair process . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(and -2.71)(sing -6.87)(fed -2.00)(it -2.60)(is -9.70)(but -8.02)(fair -4.96)(process -6.23)(. -7.67) line score is : -5.641, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and since then has never benzene 
+-------------------------score:  -4.06019228460888----------------------- 
+there was a loud waiter named wes 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ and since only is enough excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(and -2.71)(since -6.87)(only -2.00)(is -2.60)(enough -7.13)(excess -5.94)(. -8.90) line score is : -5.165, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to keep from soiling her feet 
+-------------------------score:  -4.071331868196527----------------------- 
+there was a loud waiter named les 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ to celebrate from starting our less . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(to -2.71)(celebrate -6.87)(from -2.00)(starting -6.60)(our -4.29)(less -8.19)(. -6.93) line score is : -5.369, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and see what the critics all say 
+-------------------------score:  -4.078701282340672----------------------- 
+there was a loud waiter named jess 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ and let what the neighbors all access . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(and -2.71)(let -6.87)(what -2.00)(the -2.60)(neighbors -7.84)(all -8.12)(access -4.47)(. -5.70) line score is : -5.039, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ or does gravity miss things so small 
+-------------------------score:  -4.417553541761253----------------------- 
+there was a loud waiter named wes 
+ who poured a cold beer on our mess . 
+ when we returned to stand , 
+ we were joined by our band , 
+ or is hi roll players so impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.49)(poured -7.38)(a -2.55)(cold -4.81)(beer -1.93)(on -3.06)(our -2.91)(mess -7.85)(. -1.61) line score is : -3.732, look ahead score is : 0.000
+(when -1.61)(we -4.04)(returned -1.34)(to -3.25)(stand -1.07)(, -8.06) line score is : -3.228, look ahead score is : 0.000
+(we -8.06)(were -2.74)(joined -1.68)(by -1.63)(our -4.75)(band -0.05)(, -2.71) line score is : -3.088, look ahead score is : 0.000
+(or -2.71)(is -6.87)(hi -2.00)(roll -7.61)(players -6.35)(so -5.72)(impress -5.91)(. -6.80) line score is : -5.497, look ahead score is : 0.000

@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.8671997264027596----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a bell , 
+ and that is the story of this door . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(bell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(that -8.82)(is -3.66)(the -1.47)(story -5.47)(of -2.99)(this -1.90)(door -3.76)(. -0.27) line score is : -3.315, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -2.9860726734623313----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ but he does not die within his door . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(but -1.50)(he -7.94)(does -3.44)(not -3.13)(die -1.73)(within -6.74)(his -0.28)(door -3.70)(. -6.42) line score is : -3.876, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.1229978915183776----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ but he escaped its effects and tore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(but -1.50)(he -7.94)(escaped -3.44)(its -3.13)(effects -1.73)(and -3.41)(tore -6.47)(. -1.61) line score is : -3.654, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and some of the members are swines 
+-------------------------score:  -3.1336761559209516----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and some of the angels have before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(some -7.94)(of -3.44)(the -1.63)(angels -6.71)(have -1.25)(before -1.10)(. -2.62) line score is : -3.273, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.136457085609436----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and found his grandfather a mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(found -7.94)(his -3.44)(grandfather -1.63)(a -4.55)(mentor -3.00)(. -6.72) line score is : -4.111, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but the telephone book caused him pain 
+-------------------------score:  -3.138626233223946----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ but the demon king turned him therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(but -1.50)(the -7.94)(demon -3.44)(king -3.13)(turned -2.74)(him -3.56)(therefore -5.47)(. -4.61) line score is : -4.050, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.1548770386725664----------------------- 
+there was a cruel man named theodore 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ but he had it cast leaving him sore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(but -1.50)(he -7.94)(had -3.44)(it -3.13)(cast -1.73)(leaving -3.71)(him -5.53)(sore -2.78)(. -9.54) line score is : -4.366, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.168224722146988----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and it was not like something of lore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(it -7.94)(was -3.44)(not -1.63)(like -4.24)(something -2.02)(of -4.01)(lore -5.05)(. -5.71) line score is : -3.950, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.175546976827806----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ which was broken with the most uproar . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(which -1.50)(was -7.94)(broken -3.44)(with -1.70)(the -4.14)(most -4.32)(uproar -4.32)(. -1.09) line score is : -3.555, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ as his talent and confidence swelled 
+-------------------------score:  -3.1871608177820843----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ as his brother and sister therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(as -1.50)(his -7.94)(brother -3.44)(and -4.42)(sister -3.13)(therefore -3.41)(. -2.81) line score is : -3.808, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.1875568128401235----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a bell , 
+ and says he could only hear therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(bell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(says -8.82)(he -3.66)(could -1.47)(only -6.60)(hear -1.93)(therefore -4.06)(. -3.54) line score is : -3.948, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to call my last novel impure 
+-------------------------score:  -3.218112289905548----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ to summon his dead father before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(to -1.50)(summon -7.94)(his -3.44)(dead -5.25)(father -4.22)(before -2.15)(. -3.27) line score is : -3.965, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.220869332551956----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and set right to his work in before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(set -7.94)(right -3.44)(to -1.63)(his -6.94)(work -5.23)(in -3.52)(before -3.07)(. -1.84) line score is : -3.901, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.240853003660838----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and he was reborn anew before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(he -7.94)(was -3.44)(reborn -1.63)(anew -2.45)(before -1.18)(. -3.88) line score is : -3.146, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.2610894595423052----------------------- 
+there was a cruel man named theodore 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and he was then reborn anew your . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(he -7.94)(was -3.44)(then -1.63)(reborn -2.45)(anew -1.18)(your -5.10)(. -4.39) line score is : -3.454, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.3203768114889822----------------------- 
+there was a cruel man named dwight 
+ who killed all his family in a fight . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and put within before all the light . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(fight -6.18)(. -1.85) line score is : -2.838, look ahead score is : 0.000
+(when -1.85)(he -4.00)(returned -1.19)(to -3.62)(hell -1.11)(, -5.98) line score is : -2.959, look ahead score is : 0.000
+(he -5.98)(was -0.91)(met -0.51)(by -2.14)(a -4.00)(spell -0.45)(, -1.57) line score is : -2.221, look ahead score is : 0.000
+(and -1.57)(put -7.97)(within -3.53)(before -1.70)(all -6.75)(the -5.85)(light -9.48)(. -5.40) line score is : -5.282, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and returned on the previous night 
+-------------------------score:  -3.322025700410207----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ and found on the opposite before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(and -1.50)(found -7.94)(on -3.44)(the -1.63)(opposite -4.55)(before -5.51)(. -0.83) line score is : -3.627, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but the other won several prizes 
+-------------------------score:  -3.323592793941498----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ but the evil was undone before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(but -1.50)(the -7.94)(evil -3.44)(was -3.13)(undone -2.74)(before -5.02)(. -3.27) line score is : -3.864, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.3414922766387463----------------------- 
+there was a cruel man named theodore 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a bell , 
+ in hopes it was all in the before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(bell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(in -1.50)(hopes -8.82)(it -3.66)(was -5.94)(all -5.39)(in -5.16)(the -2.60)(before -6.51)(. -2.38) line score is : -4.663, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that ungracious young lady in blue 
+-------------------------score:  -3.3747316161791483----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ that sealed evil magic in before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(that -1.50)(sealed -7.94)(evil -3.44)(magic -4.38)(in -4.91)(before -7.68)(. -4.59) line score is : -4.920, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that unlucky old person of ems 
+-------------------------score:  -3.3813910166422527----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ that sealed certain evil of before . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(that -1.50)(sealed -7.94)(certain -3.44)(evil -4.38)(of -4.91)(before -9.05)(. -3.72) line score is : -4.992, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ kept insuring her during the service 
+-------------------------score:  -3.4006192882855735----------------------- 
+there was a cruel man named dwight 
+ who killed all his family in a fight . 
+ when he returned to hell , 
+ he was met by a spell , 
+ made using his during the twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(fight -6.18)(. -1.85) line score is : -2.838, look ahead score is : 0.000
+(when -1.85)(he -4.00)(returned -1.19)(to -3.62)(hell -1.11)(, -5.98) line score is : -2.959, look ahead score is : 0.000
+(he -5.98)(was -0.91)(met -0.51)(by -2.14)(a -4.00)(spell -0.45)(, -1.57) line score is : -2.221, look ahead score is : 0.000
+(made -1.57)(using -7.97)(his -3.53)(during -5.24)(the -7.13)(twilight -2.13)(. -12.61) line score is : -5.739, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that she pickled her internal workins' 
+-------------------------score:  -3.4699615995089212----------------------- 
+there was a cruel man named theodore 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ that he was himself possessed therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(that -1.50)(he -7.94)(was -3.44)(himself -4.38)(possessed -3.41)(therefore -2.53)(. -8.09) line score is : -4.469, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ did anyone see where it went 
+-------------------------score:  -3.6242048422495525----------------------- 
+there was a cruel man named salvador 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ called re activate where he therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(called -1.50)(re -7.94)(activate -3.44)(where -5.79)(he -5.95)(therefore -6.22)(. -6.85) line score is : -5.384, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to write verses relating to wind 
+-------------------------score:  -3.6354344964027403----------------------- 
+there was a cruel man named theodore 
+ who killed all his family in a war . 
+ when he returned to hell , 
+ he was met by a spell , 
+ to make people understand to or . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(killed -3.94)(all -3.13)(his -1.69)(family -2.99)(in -2.70)(a -1.47)(war -5.41)(. -1.97) line score is : -2.766, look ahead score is : 0.000
+(when -1.97)(he -4.03)(returned -1.14)(to -3.58)(hell -1.06)(, -6.16) line score is : -2.991, look ahead score is : 0.000
+(he -6.16)(was -0.93)(met -0.47)(by -2.20)(a -3.95)(spell -0.44)(, -1.50) line score is : -2.235, look ahead score is : 0.000
+(to -1.50)(make -7.94)(people -3.44)(understand -5.25)(to -3.71)(or -6.84)(. -4.60) line score is : -4.753, look ahead score is : 0.000

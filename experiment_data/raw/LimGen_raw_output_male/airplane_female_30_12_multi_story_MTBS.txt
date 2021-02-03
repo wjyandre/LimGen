@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.2800342132968288----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ so she quickly left on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(so -1.52)(she -8.55)(quickly -3.33)(left -4.74)(on -0.63)(the -5.10)(staircase -3.39)(. -5.04) line score is : -4.036, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.358934323633871----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ but it was her enemies and face . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(but -1.41)(it -7.74)(was -3.73)(her -3.77)(enemies -2.66)(and -0.60)(face -3.72)(. -6.62) line score is : -3.784, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.4069433696568012----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ then she heard him scream outside the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(then -1.41)(she -7.74)(heard -3.73)(him -4.88)(scream -4.88)(outside -3.29)(the -4.94)(base -2.70)(. -7.52) line score is : -4.565, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.461043325162703----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ she thought that her father was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(she -1.41)(thought -7.74)(that -3.73)(her -5.06)(father -2.95)(was -3.34)(replace -3.50)(. -3.70) line score is : -3.931, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.467740084975958----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was told by a band , 
+ that the man she saw was a replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(told -0.62)(by -1.81)(a -3.35)(band -1.69)(, -2.17) line score is : -2.525, look ahead score is : 0.000
+(that -2.17)(the -6.81)(man -7.08)(she -4.25)(saw -2.14)(was -3.78)(a -2.07)(replace -3.28)(. -1.38) line score is : -3.663, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.468133515480793----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ she says a white man out in the face . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(she -1.41)(says -7.74)(a -3.73)(white -5.06)(man -3.39)(out -6.32)(in -5.10)(the -1.85)(face -8.63)(. -3.14) line score is : -4.638, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.470916517575582----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ and found her companion a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(and -1.52)(found -8.55)(her -3.33)(companion -1.33)(a -3.70)(staircase -2.63)(. -5.77) line score is : -3.833, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.49377185665071----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ but it was it was missing it case . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(but -1.41)(it -7.74)(was -3.73)(it -3.77)(was -2.66)(missing -0.60)(it -7.93)(case -1.77)(. -6.80) line score is : -4.047, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but nobody knew what he said 
+-------------------------score:  -3.524143801132838----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to space , 
+ she was met by a face , 
+ but nobody knew what it replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(space -1.51)(, -7.24) line score is : -3.511, look ahead score is : 0.000
+(she -7.24)(was -0.91)(met -0.55)(by -1.92)(a -4.25)(face -0.58)(, -1.44) line score is : -2.412, look ahead score is : 0.000
+(but -1.44)(nobody -7.07)(knew -4.29)(what -3.64)(it -5.66)(replace -1.60)(. -1.81) line score is : -3.644, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.5469170987606047----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ she says a female warrior face . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(she -1.41)(says -7.74)(a -3.73)(female -5.06)(warrior -3.39)(face -6.32)(. -4.96) line score is : -4.660, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.5703139824251973----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ but it lead nowhere further for grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(but -1.52)(it -8.55)(lead -3.33)(nowhere -3.44)(further -2.34)(for -5.96)(grace -0.53)(. -8.06) line score is : -4.217, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.60174579359591----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ then it burst on her head and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(then -1.52)(it -8.55)(burst -3.33)(on -4.63)(her -7.05)(head -4.59)(and -5.00)(replace -0.78)(. -2.87) line score is : -4.258, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but I guess that you probably gnu 
+-------------------------score:  -3.6263585975093227----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ but she heard that it only staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(but -1.52)(she -8.55)(heard -3.33)(that -3.44)(it -2.03)(only -5.43)(staircase -4.41)(. -1.73) line score is : -3.806, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.6295291166151724----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ she was up in heaven and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(she -1.41)(was -7.74)(up -3.73)(in -5.06)(heaven -2.71)(and -8.20)(staircase -1.91)(. -5.30) line score is : -4.509, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.63518085018281----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a war , 
+ to be fought outdoors on us base . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(war -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(to -1.52)(be -7.79)(fought -6.00)(outdoors -5.56)(on -3.33)(us -1.09)(base -9.28)(. -2.95) line score is : -4.691, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and kissed her because he was wuise 
+-------------------------score:  -3.679807214967666----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ and told her because she had replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(and -1.52)(told -8.55)(her -3.33)(because -1.33)(she -3.33)(had -3.85)(replace -9.19)(. -0.64) line score is : -3.967, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ a word of ambiguous meaning 
+-------------------------score:  -3.6934893490939307----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a band , 
+ a couple of elderly replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(band -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(a -1.41)(couple -5.70)(of -6.29)(elderly -4.29)(replace -3.76)(. -0.40) line score is : -3.642, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.773209814230601----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ to find two policemen to replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(to -1.52)(find -8.55)(two -3.33)(policemen -5.39)(to -5.00)(replace -4.86)(. -4.24) line score is : -4.697, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that unlucky old person of ems 
+-------------------------score:  -3.7831637104352316----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a door , 
+ that cracked open halfway of staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(door -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(that -1.52)(cracked -8.55)(open -3.33)(halfway -5.51)(of -6.03)(staircase -0.30)(. -8.44) line score is : -4.812, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ NNP JJ EVER TO VB PRP$ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ `twas impossible ever to fill her 
+-------------------------score:  -3.893809058268865----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ somehow broken ever to come place . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(somehow -1.41)(broken -7.74)(ever -3.73)(to -7.59)(come -6.14)(place -10.43)(. -6.08) line score is : -6.161, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.920465506853596----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to land , 
+ she was met by a hand , 
+ she thought when she heard across replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(land -1.51)(, -6.83) line score is : -3.443, look ahead score is : 0.000
+(she -6.83)(was -1.20)(met -0.62)(by -1.81)(a -3.68)(hand -0.36)(, -1.41) line score is : -2.274, look ahead score is : 0.000
+(she -1.41)(thought -7.74)(when -3.73)(she -5.06)(heard -2.95)(across -8.35)(replace -0.39)(. -3.43) line score is : -4.133, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that her head was bare 
+-------------------------score:  -3.922225997365754----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a war , 
+ that our commander was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(war -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(that -1.52)(our -7.79)(commander -6.00)(was -4.79)(replace -9.23)(. -5.93) line score is : -5.876, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ a habit unpleasant but curious 
+-------------------------score:  -3.957531345301661----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to space , 
+ she was met by a face , 
+ a giant robotic but replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(space -1.51)(, -7.24) line score is : -3.511, look ahead score is : 0.000
+(she -7.24)(was -0.91)(met -0.55)(by -1.92)(a -4.25)(face -0.58)(, -1.44) line score is : -2.412, look ahead score is : 0.000
+(a -1.44)(giant -7.07)(robotic -4.29)(but -2.44)(replace -4.46)(. -5.23) line score is : -4.154, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.03653865121305----------------------- 
+there was a captain named grace 
+ who blew all her money in a chase . 
+ when she returned to shore , 
+ she was met by a war , 
+ she ca put it off if she face . 
+------------------------- score breakdown ------------------------ 
+(who -1.68)(blew -7.81)(all -4.22)(her -1.27)(money -2.91)(in -2.93)(a -1.65)(chase -7.34)(. -2.51) line score is : -3.591, look ahead score is : 0.000
+(when -2.51)(she -4.74)(returned -1.37)(to -3.69)(shore -1.51)(, -6.85) line score is : -3.446, look ahead score is : 0.000
+(she -6.85)(was -0.96)(met -0.65)(by -1.95)(a -3.93)(war -0.33)(, -1.52) line score is : -2.311, look ahead score is : 0.000
+(she -1.52)(ca -7.79)(put -6.00)(it -4.81)(off -9.91)(if -9.01)(she -2.93)(face -4.31)(. -7.59) line score is : -5.986, look ahead score is : 0.000

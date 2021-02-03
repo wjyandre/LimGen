@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.26265206210541----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ so we went up and drank on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(so -1.33)(we -8.50)(went -4.68)(up -7.41)(and -4.87)(drank -3.28)(on -2.82)(the -2.28)(way -5.76)(. -5.51) line score is : -4.644, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.3059099537710988----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ so i quickly ordered on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(so -1.33)(i -8.50)(quickly -4.68)(ordered -7.41)(on -4.17)(the -4.78)(way -2.98)(. -6.56) line score is : -5.051, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.381845901409785----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ she has a small house out in the bay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(she -1.33)(has -8.50)(a -4.68)(small -7.98)(house -8.16)(out -1.79)(in -4.30)(the -2.62)(bay -5.91)(. -2.14) line score is : -4.741, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.511681797914207----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ lean fish to eat on our lunch birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(lean -1.33)(fish -8.50)(to -4.68)(eat -6.03)(on -6.20)(our -6.19)(lunch -2.61)(birthday -3.90)(. -1.30) line score is : -4.528, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.5195100778533566----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i knew that my husband was sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(knew -8.50)(that -4.68)(my -8.28)(husband -4.29)(was -3.21)(sunday -3.87)(. -3.07) line score is : -4.654, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he never completed his task 
+-------------------------score:  -3.532224726060341----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i vaguely remembered my birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(vaguely -8.50)(remembered -4.68)(my -8.28)(birthday -7.79)(. -1.71) line score is : -5.383, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that her head was bare 
+-------------------------score:  -3.545651616721318----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to shop , 
+ we were told by a top , 
+ that our selection was buffet . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(shop -3.68)(, -7.68) line score is : -3.659, look ahead score is : 0.000
+(we -7.68)(were -1.21)(told -1.17)(by -1.24)(a -2.90)(top -2.37)(, -1.95) line score is : -2.645, look ahead score is : 0.000
+(that -1.95)(our -8.38)(selection -6.35)(was -2.18)(buffet -2.88)(. -6.04) line score is : -4.631, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a regular brute of a bee 
+-------------------------score:  -3.5498208152130246----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ it has a nice texture of a clay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(it -1.33)(has -8.50)(a -4.68)(nice -9.28)(texture -7.71)(of -1.97)(a -2.95)(clay -2.90)(. -4.72) line score is : -4.892, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.5562839629128575----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ we were through the door and were okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(we -1.33)(were -8.50)(through -4.68)(the -7.80)(door -5.20)(and -9.72)(were -2.13)(okay -2.37)(. -1.37) line score is : -4.788, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ what was shown on the cinema screen 
+-------------------------score:  -3.565493792295456----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ what was left on the table halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(what -1.33)(was -8.50)(left -4.68)(on -9.97)(the -3.47)(table -2.98)(halfway -6.77)(. -0.39) line score is : -4.761, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.65458426574866----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ she has a nice little resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(she -1.33)(has -8.50)(a -4.68)(nice -7.98)(little -8.16)(resume -1.79)(. -3.62) line score is : -5.152, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ in a sugary takeover bid 
+-------------------------score:  -3.6829548550063165----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ though a little dusty resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(though -1.33)(a -8.50)(little -4.68)(dusty -8.72)(resume -4.80)(. -1.37) line score is : -4.902, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.698642400964614----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i never can get past it okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(never -8.50)(can -4.68)(get -8.28)(past -6.03)(it -6.49)(okay -3.25)(. -4.36) line score is : -5.367, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.6996973877952946----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i never see in a week sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(never -8.50)(see -4.68)(in -8.28)(a -6.03)(week -4.30)(sunday -4.57)(. -3.33) line score is : -5.129, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ did anyone see where it went 
+-------------------------score:  -3.7438724289337793----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ dressed gentleman usher where we lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(dressed -1.33)(gentleman -8.50)(usher -4.68)(where -6.52)(we -3.62)(lay -7.98)(. -10.54) line score is : -6.166, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ are all easy marks for a jolly 
+-------------------------score:  -3.772325247526169----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ lean all natural cattle for a play . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(lean -1.33)(all -8.50)(natural -4.68)(cattle -6.03)(for -8.01)(a -7.29)(play -5.51)(. -5.50) line score is : -5.856, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ kept insuring her during the service 
+-------------------------score:  -3.781982742746671----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ dressed looking her during the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(dressed -1.33)(looking -8.50)(her -4.68)(during -6.52)(the -6.54)(survey -8.72)(. -9.73) line score is : -6.574, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.8151363797726168----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i knew when you are across halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(knew -8.50)(when -4.68)(you -8.28)(are -4.29)(across -6.06)(halfway -4.01)(. -3.14) line score is : -5.037, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.83714668918401----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i knew it and had friends and friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(knew -8.50)(it -4.68)(and -8.28)(had -4.29)(friends -1.63)(and -4.90)(friday -4.23)(. -7.85) line score is : -5.076, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that man in a boat 
+-------------------------score:  -3.9460201962240813----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to shop , 
+ we were told by a top , 
+ that anything outside a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(shop -3.68)(, -7.68) line score is : -3.659, look ahead score is : 0.000
+(we -7.68)(were -1.21)(told -1.17)(by -1.24)(a -2.90)(top -2.37)(, -1.95) line score is : -2.645, look ahead score is : 0.000
+(that -1.95)(anything -8.38)(outside -6.35)(a -2.18)(birthday -7.98)(. -4.58) line score is : -5.237, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.9498519897460938----------------------- 
+there was a silly chef named dot 
+ who cooked a great meal on our spot . 
+ when we arrived to food , 
+ we were told by a rude , 
+ to put two potatoes to cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(spot -6.31)(. -1.59) line score is : -3.424, look ahead score is : 0.000
+(when -1.59)(we -5.10)(arrived -1.15)(to -1.85)(food -4.13)(, -7.44) line score is : -3.543, look ahead score is : 0.000
+(we -7.44)(were -1.20)(told -1.05)(by -1.06)(a -3.09)(rude -2.61)(, -2.22) line score is : -2.665, look ahead score is : 0.000
+(to -2.22)(put -7.71)(two -4.32)(potatoes -6.81)(to -4.48)(cannot -6.10)(. -4.95) line score is : -5.228, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ great writers are fewer and fewer 
+-------------------------score:  -3.9504292736450832----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ fat camel ride less and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(fat -1.33)(camel -8.50)(ride -4.68)(less -4.54)(and -6.95)(resume -7.91)(. -8.37) line score is : -6.042, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB UP A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ they 'd kick up a hullabaloo 
+-------------------------score:  -3.966541521747907----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i ca cook up a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(ca -8.50)(cook -4.68)(up -8.28)(a -8.43)(resume -6.10)(. -6.74) line score is : -6.295, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.9677615682284038----------------------- 
+there was a silly chef named dot 
+ who cooked a great meal on our spot . 
+ when we arrived to food , 
+ we were shocked by a rude , 
+ as if they outright ignored cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(spot -6.31)(. -1.59) line score is : -3.424, look ahead score is : 0.000
+(when -1.59)(we -5.10)(arrived -1.15)(to -1.85)(food -4.13)(, -7.44) line score is : -3.543, look ahead score is : 0.000
+(we -7.44)(were -1.20)(shocked -1.05)(by -1.06)(a -3.58)(rude -1.74)(, -4.85) line score is : -2.989, look ahead score is : 0.000
+(as -4.85)(if -6.20)(they -3.71)(outright -7.43)(ignored -1.65)(cannot -1.58)(. -11.94) line score is : -5.337, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ what finished him off was the crust 
+-------------------------score:  -4.018690687033438----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ what was it off was the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(what -1.33)(was -8.50)(it -4.68)(off -9.97)(was -3.47)(the -3.94)(resume -9.96)(. -6.59) line score is : -6.055, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ a habit unpleasant but curious 
+-------------------------score:  -4.039085775613785----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ a medium red but resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(a -1.33)(medium -8.50)(red -4.68)(but -7.60)(resume -5.82)(. -3.85) line score is : -5.297, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ her career with damir is bizarre 
+-------------------------score:  -4.121728459000588----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ her ring with sweet slices resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(her -1.33)(ring -8.50)(with -4.68)(sweet -8.83)(slices -0.94)(resume -6.93)(. -5.78) line score is : -5.284, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I ll give you prostheses for free 
+-------------------------score:  -4.134469287049386----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i ca tag i camel for stray . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(ca -8.50)(tag -4.68)(i -8.28)(camel -8.43)(for -6.53)(stray -6.36)(. -7.97) line score is : -6.511, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.157130085863173----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i ca tag i off if i say . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(i -1.33)(ca -8.50)(tag -4.68)(i -8.28)(off -8.43)(if -6.53)(i -6.36)(say -8.73)(. -9.54) line score is : -6.931, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ or does gravity miss things so small 
+-------------------------score:  -4.231329349740859----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on our day . 
+ when we arrived to town , 
+ we were met by a brown , 
+ or is mail duck eggs so resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(our -3.86)(day -6.06)(. -2.40) line score is : -3.486, look ahead score is : 0.000
+(when -2.40)(we -5.15)(arrived -1.17)(to -1.88)(town -3.68)(, -6.01) line score is : -3.382, look ahead score is : 0.000
+(we -6.01)(were -1.15)(met -0.99)(by -1.63)(a -2.74)(brown -0.45)(, -1.33) line score is : -2.042, look ahead score is : 0.000
+(or -1.33)(is -8.50)(mail -4.68)(duck -7.71)(eggs -7.86)(so -5.57)(resume -3.94)(. -7.05) line score is : -5.830, look ahead score is : 0.000

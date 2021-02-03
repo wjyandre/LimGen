@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.928965230487407----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and that is the beauty of this spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(that -3.96)(is -7.69)(the -2.34)(beauty -4.54)(of -3.34)(this -2.71)(spot -3.56)(. -0.11) line score is : -3.139, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -2.968662846236839----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ so we had to go down on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(so -0.00)(we -3.96)(had -7.69)(to -5.08)(go -1.31)(down -3.14)(on -2.09)(the -2.92)(spot -4.28)(. -4.96) line score is : -3.543, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1119878919416806----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ so we went up and put on the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(so -0.00)(we -3.96)(went -7.69)(up -5.08)(and -1.31)(put -3.57)(on -3.38)(the -1.75)(spot -5.27)(. -3.11) line score is : -3.513, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.206666554370895----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and now we is a family spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(now -3.96)(we -7.69)(is -2.34)(a -4.10)(family -0.97)(spot -10.72)(. -3.60) line score is : -4.173, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -3.2773612278898985----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ because we were working our shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(because -0.00)(we -3.96)(were -7.69)(working -5.43)(our -1.35)(shot -1.58)(. -5.06) line score is : -3.582, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ are making a nest in my beard 
+-------------------------score:  -3.2995743705425413----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ get moving a bit in our plot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(get -0.00)(moving -3.96)(a -7.69)(bit -3.61)(in -8.59)(our -5.58)(plot -2.92)(. -4.17) line score is : -4.566, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.3347598769581848----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ in places we were all in the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(in -0.00)(places -3.96)(we -7.69)(were -3.76)(all -6.48)(in -1.92)(the -3.53)(spot -6.45)(. -3.84) line score is : -4.183, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.3354207386503054----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and bring home to our family in pot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(bring -3.96)(home -7.69)(to -2.34)(our -4.25)(family -2.30)(in -4.48)(pot -1.49)(. -1.39) line score is : -3.101, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.3493837227353884----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ but our neighbors were down to their not . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(but -0.00)(our -3.96)(neighbors -7.69)(were -4.54)(down -4.07)(to -1.47)(their -1.15)(not -6.73)(. -1.94) line score is : -3.506, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ but nobody knew what he said 
+-------------------------score:  -3.406451249286404----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ but nobody knew what we cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(but -0.00)(nobody -3.96)(knew -7.69)(what -4.54)(we -6.44)(cannot -2.57)(. -2.72) line score is : -3.989, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.4530316354376414----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ but they had it made getting us hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(but -0.00)(they -3.96)(had -7.69)(it -4.54)(made -2.63)(getting -3.02)(us -5.34)(hot -4.65)(. -8.15) line score is : -4.443, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.456639771684422----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ we dealt a big blow out in the pot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(we -0.00)(dealt -3.96)(a -7.69)(big -4.03)(blow -8.85)(out -7.08)(in -4.18)(the -0.89)(pot -6.70)(. -3.61) line score is : -4.701, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.4782090617809445----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and our neighbors were better and fought . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(our -3.96)(neighbors -7.69)(were -2.34)(better -4.72)(and -1.42)(fought -1.02)(. -8.66) line score is : -3.728, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -3.492823159058268----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and bring what the neighbors all cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(bring -3.96)(what -7.69)(the -2.34)(neighbors -4.25)(all -7.37)(cannot -5.28)(. -2.05) line score is : -4.118, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and she baked really great apple pies 
+-------------------------score:  -3.5168406003310033----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and they were not sure anything ought . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(they -3.96)(were -7.69)(not -2.34)(sure -2.75)(anything -1.80)(ought -4.91)(. -4.31) line score is : -3.472, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and sideways he could n't be seen 
+-------------------------score:  -3.59441750087232----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ they were able to find , 
+ and helps us could also help scott . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(they -2.91)(were -2.70)(able -3.28)(to -3.02)(find -2.76)(, -0.00) line score is : -2.445, look ahead score is : 0.000
+(and -0.00)(helps -4.60)(us -6.96)(could -2.33)(also -9.53)(help -0.84)(scott -11.01)(. -3.63) line score is : -4.865, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.6147842917436113----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ i really think in a week cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(i -0.00)(really -3.96)(think -7.69)(in -4.25)(a -5.81)(week -2.00)(cannot -5.73)(. -2.43) line score is : -3.984, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ in a sugary takeover bid 
+-------------------------score:  -3.6309555038377375----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ in a little area cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(in -0.00)(a -3.96)(little -7.69)(area -3.76)(cannot -2.22)(. -3.82) line score is : -3.577, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a regular brute of a bee 
+-------------------------score:  -3.6577518210866518----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ we dealt a good deal of a onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(we -0.00)(dealt -3.96)(a -7.69)(good -4.03)(deal -8.85)(of -7.08)(a -4.52)(onslaught -0.50)(. -1.35) line score is : -4.222, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ I d probably know two or three 
+-------------------------score:  -3.66487369275031----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ i think maybe have one or cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(i -0.00)(think -3.96)(maybe -7.69)(have -4.25)(one -0.97)(or -5.63)(cannot -7.05)(. -3.33) line score is : -4.112, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.7083847495598783----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and it was fun anyway cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(it -3.96)(was -7.69)(fun -2.34)(anyway -4.02)(cannot -0.93)(. -4.89) line score is : -3.406, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ as if he 'd been invited 
+-------------------------score:  -3.7267569420249043----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ as if they outright recognized scott . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(as -0.00)(if -3.96)(they -7.69)(outright -3.96)(recognized -5.77)(scott -2.13)(. -14.88) line score is : -5.483, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and could n't bend back again 
+-------------------------score:  -3.759615728936704----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and could really enjoy back cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(could -3.96)(really -7.69)(enjoy -2.34)(back -7.84)(cannot -4.44)(. -2.25) line score is : -4.075, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.788494187551711----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ we dealt a few different gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(we -0.00)(dealt -3.96)(a -7.69)(few -4.03)(different -8.85)(gunshot -7.08)(. -2.83) line score is : -4.922, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.8458378472815045----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ a little bit seconds no cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(a -0.00)(little -3.96)(bit -7.69)(seconds -5.14)(no -2.89)(cannot -1.08)(. -11.48) line score is : -4.606, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ for not selling her waterproof paint 
+-------------------------score:  -3.9767329398510527----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ for once being self aware cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(for -0.00)(once -3.96)(being -7.69)(self -3.79)(aware -5.34)(cannot -9.54)(. -7.61) line score is : -5.420, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.0860457546378095----------------------- 
+there was a lucky nurse named dot 
+ who did a great job on our lot . 
+ our neighbors were so kind , 
+ we were able to find , 
+ and sing thank you calls but right cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.74)(did -4.28)(a -2.62)(great -1.89)(job -0.06)(on -3.41)(our -3.30)(lot -8.64)(. -1.04) line score is : -2.998, look ahead score is : 0.000
+(our -1.04)(neighbors -4.53)(were -3.72)(so -1.87)(kind -2.95)(, -2.91) line score is : -2.839, look ahead score is : 0.000
+(we -2.91)(were -2.70)(able -3.29)(to -2.28)(find -1.44)(, -0.00) line score is : -2.105, look ahead score is : 0.000
+(and -0.00)(sing -3.96)(thank -7.69)(you -2.34)(calls -9.26)(but -7.68)(right -0.06)(cannot -6.94)(. -8.03) line score is : -5.106, look ahead score is : 0.000

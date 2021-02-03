@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.641165121909111----------------------- 
+there was a smart grandma named dot 
+ who had a small garden on her lot . 
+ she wanted a backyard , 
+ and we went to the yard , 
+ and we sat down and made our plot . 
+------------------------- score breakdown ------------------------ 
+(who -1.09)(had -2.92)(a -1.70)(small -5.05)(garden -3.12)(on -3.45)(her -0.86)(lot -3.23)(. -1.60) line score is : -2.558, look ahead score is : 0.000
+(she -1.60)(wanted -1.29)(a -4.31)(backyard -2.85)(, -4.00) line score is : -2.809, look ahead score is : 0.000
+(and -4.00)(we -2.42)(went -1.52)(to -3.48)(the -4.11)(yard -1.25)(, -1.89) line score is : -2.666, look ahead score is : 0.000
+(and -1.89)(we -4.28)(sat -2.87)(down -1.08)(and -1.91)(made -3.57)(our -1.43)(plot -0.92)(. -4.47) line score is : -2.491, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ which he loosed in the house 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.6783938311761424----------------------- 
+there was a smart grandma named dot 
+ who had a small garden on her lot . 
+ she wanted a backyard , 
+ which we had in the yard , 
+ and we went down and bought our plot . 
+------------------------- score breakdown ------------------------ 
+(who -1.09)(had -2.92)(a -1.70)(small -5.05)(garden -3.12)(on -3.45)(her -0.86)(lot -3.23)(. -1.60) line score is : -2.558, look ahead score is : 0.000
+(she -1.60)(wanted -1.29)(a -4.31)(backyard -2.85)(, -4.00) line score is : -2.809, look ahead score is : 0.000
+(which -4.00)(we -2.42)(had -3.77)(in -2.82)(the -2.25)(yard -3.05)(, -1.33) line score is : -2.805, look ahead score is : 0.000
+(and -1.33)(we -5.12)(went -1.91)(down -1.02)(and -1.91)(bought -4.30)(our -3.70)(plot -2.15)(. -1.06) line score is : -2.501, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ which he loosed in the house 
+ but they felt it was doing them good 
+-------------------------score:  -2.837016074888168----------------------- 
+there was a smart grandma named dot 
+ who had a small garden on her lot . 
+ she wanted a backyard , 
+ which she found in the yard , 
+ but she knew she was getting it hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.09)(had -2.92)(a -1.70)(small -5.05)(garden -3.12)(on -3.45)(her -0.86)(lot -3.23)(. -1.60) line score is : -2.558, look ahead score is : 0.000
+(she -1.60)(wanted -1.29)(a -4.31)(backyard -2.85)(, -4.00) line score is : -2.809, look ahead score is : 0.000
+(which -4.00)(she -2.42)(found -3.77)(in -1.61)(the -3.10)(yard -1.75)(, -1.32) line score is : -2.566, look ahead score is : 0.000
+(but -1.32)(she -4.07)(knew -3.11)(she -1.72)(was -1.83)(getting -3.73)(it -1.99)(hot -2.95)(. -3.80) line score is : -2.723, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -2.972073543456293----------------------- 
+there was a smart grandma named dot 
+ who had a small garden on her lot . 
+ she wanted a backyard , 
+ and we went to the yard , 
+ but she said she was having none bought . 
+------------------------- score breakdown ------------------------ 
+(who -1.09)(had -2.92)(a -1.70)(small -5.05)(garden -3.12)(on -3.45)(her -0.86)(lot -3.23)(. -1.60) line score is : -2.558, look ahead score is : 0.000
+(she -1.60)(wanted -1.29)(a -4.31)(backyard -2.85)(, -4.00) line score is : -2.809, look ahead score is : 0.000
+(and -4.00)(we -2.42)(went -1.52)(to -3.48)(the -4.11)(yard -1.25)(, -1.89) line score is : -2.666, look ahead score is : 0.000
+(but -1.89)(she -4.28)(said -2.87)(she -2.95)(was -1.85)(having -2.54)(none -1.50)(bought -2.64)(. -4.49) line score is : -2.778, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ which he loosed in the house 
+ because I was sniffing my toes 
+-------------------------score:  -3.177423222311612----------------------- 
+there was a smart grandma named dot 
+ who had a small garden on her lot . 
+ she wanted a backyard , 
+ which she found in the yard , 
+ because she liked having her cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.09)(had -2.92)(a -1.70)(small -5.05)(garden -3.12)(on -3.45)(her -0.86)(lot -3.23)(. -1.60) line score is : -2.558, look ahead score is : 0.000
+(she -1.60)(wanted -1.29)(a -4.31)(backyard -2.85)(, -4.00) line score is : -2.809, look ahead score is : 0.000
+(which -4.00)(she -2.42)(found -3.77)(in -1.61)(the -3.10)(yard -1.75)(, -1.32) line score is : -2.566, look ahead score is : 0.000
+(because -1.32)(she -4.07)(liked -3.11)(having -4.99)(her -0.90)(cannot -2.68)(. -3.19) line score is : -2.894, look ahead score is : 0.000

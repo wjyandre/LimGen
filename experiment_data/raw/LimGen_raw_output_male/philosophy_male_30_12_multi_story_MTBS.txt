@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.2023190100987753----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ and now he has a degree complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(and -2.73)(now -8.56)(he -2.15)(has -4.63)(a -6.01)(degree -1.32)(complex -3.19)(. -2.59) line score is : -3.897, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.241083279732735----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ and that is the image of this sex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(and -2.73)(that -8.56)(is -2.15)(the -4.63)(image -5.19)(of -3.23)(this -2.94)(sex -4.85)(. -1.55) line score is : -3.980, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.2430655379449167----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ it was hard to find a good complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(it -2.73)(was -8.56)(hard -2.15)(to -9.02)(find -1.81)(a -3.84)(good -0.34)(complex -2.83)(. -1.92) line score is : -3.691, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.249023774266243----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ and it was not long lasting effects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(and -2.73)(it -8.56)(was -2.15)(not -4.63)(long -4.44)(lasting -1.09)(effects -3.24)(. -0.49) line score is : -3.417, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.3108537850841397----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ and he took down and hung his objects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(and -2.73)(he -8.56)(took -2.15)(down -4.63)(and -2.66)(hung -3.94)(his -7.54)(objects -4.82)(. -3.15) line score is : -4.467, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ in a sugary takeover bid 
+-------------------------score:  -3.3154187543051585----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ though a little impatient complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(though -2.73)(a -8.56)(little -2.15)(impatient -6.99)(complex -4.40)(. -1.07) line score is : -4.318, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.324794000387192----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he said that his father had objects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(said -8.56)(that -2.15)(his -6.61)(father -0.79)(had -6.06)(objects -2.84)(. -3.68) line score is : -4.179, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.3864179719239473----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he is a nice guy out in the decks . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(is -8.56)(a -2.15)(nice -6.61)(guy -5.58)(out -3.34)(in -4.52)(the -0.79)(decks -8.46)(. -3.42) line score is : -4.616, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.426566089353254----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ it was through the eye and was complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(it -2.73)(was -8.56)(through -2.15)(the -9.02)(eye -1.81)(and -6.92)(was -2.17)(complex -5.07)(. -3.43) line score is : -4.652, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ she sat up in bed and meowed 
+-------------------------score:  -3.438018258412679----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he was up in nature and objects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(was -8.56)(up -2.15)(in -6.61)(nature -2.92)(and -7.90)(objects -3.49)(. -6.62) line score is : -5.122, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.4547128101875044----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ and said with a serious complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(and -2.73)(said -8.56)(with -2.15)(a -4.63)(serious -4.62)(complex -5.83)(. -1.17) line score is : -4.241, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.4712726950645445----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ straight a level no better than sex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(straight -2.73)(a -8.56)(level -2.15)(no -5.88)(better -5.82)(than -2.35)(sex -9.81)(. -6.46) line score is : -5.471, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ then he walloped me square in the face 
+-------------------------score:  -3.4780481899938276----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ not he did it right in the complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(not -2.73)(he -8.56)(did -2.15)(it -6.48)(right -7.62)(in -5.09)(the -3.00)(complex -5.48)(. -5.35) line score is : -5.163, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ it s a regular brute of a bee 
+-------------------------score:  -3.484275112229009----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was drawn by his cool , 
+ he has a keen sense of a objects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(drawn -0.47)(by -1.72)(his -5.89)(cool -3.37)(, -1.81) line score is : -2.550, look ahead score is : 0.000
+(he -1.81)(has -7.51)(a -1.91)(keen -6.39)(sense -6.22)(of -2.68)(a -3.16)(objects -1.34)(. -0.05) line score is : -3.451, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ he left all his fans wanting more 
+-------------------------score:  -3.4985960046450297----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he had all his friends saying objects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(had -8.56)(all -2.15)(his -6.61)(friends -4.21)(saying -5.65)(objects -2.29)(. -1.34) line score is : -4.193, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.4988666197349287----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ and he began writing much complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(and -2.73)(he -8.56)(began -2.15)(writing -4.63)(much -2.66)(complex -2.64)(. -3.41) line score is : -3.826, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBG TO VB NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ pretending to represent chile 
+-------------------------score:  -3.5860164827770658----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ refreshing to overcome objects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(refreshing -2.73)(to -8.56)(overcome -2.15)(objects -7.51)(. -8.18) line score is : -5.826, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ are making a nest in my beard 
+-------------------------score:  -3.5893923242886863----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ play acting a friend in his complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(play -2.73)(acting -8.56)(a -2.15)(friend -8.79)(in -5.38)(his -8.39)(complex -4.89)(. -2.32) line score is : -5.402, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.594492131663907----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he had not come home dressed this complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(had -8.56)(not -2.15)(come -6.61)(home -4.21)(dressed -5.21)(this -4.34)(complex -3.92)(. -7.72) line score is : -5.050, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.603544625742682----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he is a great natural effects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(is -8.56)(a -2.15)(great -6.61)(natural -5.58)(effects -3.34)(. -3.08) line score is : -4.580, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ to balance green peas on her fork 
+-------------------------score:  -3.6365779608488085----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was called by his dual , 
+ to teach english lessons on him sex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(called -0.47)(by -1.72)(his -5.23)(dual -3.05)(, -1.17) line score is : -2.318, look ahead score is : 0.000
+(to -1.17)(teach -11.11)(english -4.36)(lessons -4.62)(on -2.76)(him -2.45)(sex -6.14)(. -3.63) line score is : -4.532, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.6467772594520023----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he quickly decided a complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(quickly -8.56)(decided -2.15)(a -6.61)(complex -6.69)(. -4.40) line score is : -5.190, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ thirty days is the time he will do 
+-------------------------score:  -3.661675703140997----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ calm views is the story he will next . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(calm -2.73)(views -8.56)(is -2.15)(the -2.91)(story -8.27)(he -11.14)(will -2.25)(next -4.55)(. -2.99) line score is : -5.061, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.669979373613993----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ he still can be although he effects . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(he -2.73)(still -8.56)(can -2.15)(be -6.61)(although -6.61)(he -5.48)(effects -1.70)(. -8.89) line score is : -5.342, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.680610636870066----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ i think very average ten or next . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(i -2.73)(think -8.56)(very -2.15)(average -9.01)(ten -2.71)(or -4.76)(next -7.71)(. -7.33) line score is : -5.620, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ or does gravity miss things so small 
+-------------------------score:  -3.795717513561249----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ or does someone use words so complex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(or -2.73)(does -8.56)(someone -2.15)(use -7.84)(words -9.24)(so -6.30)(complex -5.04)(. -5.08) line score is : -5.868, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ to write verses relating to wind 
+-------------------------score:  -3.8545217729848007----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was called by his dual , 
+ to teach politics amongst to sex . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(called -0.47)(by -1.72)(his -5.23)(dual -3.05)(, -1.17) line score is : -2.318, look ahead score is : 0.000
+(to -1.17)(teach -11.11)(politics -4.36)(amongst -4.62)(to -2.76)(sex -6.35)(. -9.13) line score is : -5.642, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was told by his wife 
+ I ll give you prostheses for free 
+-------------------------score:  -4.004137337207794----------------------- 
+there was a wise teacher named rex 
+ who taught on a number of subjects . 
+ when he returned to school , 
+ he was struck by his cool , 
+ i ca coach he recalls for next . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(taught -1.51)(on -7.35)(a -2.53)(number -5.66)(of -0.00)(subjects -3.16)(. -1.96) line score is : -3.094, look ahead score is : 0.000
+(when -1.96)(he -4.34)(returned -1.32)(to -3.62)(school -0.90)(, -3.36) line score is : -2.583, look ahead score is : 0.000
+(he -3.36)(was -1.22)(struck -0.47)(by -1.72)(his -5.53)(cool -0.30)(, -2.73) line score is : -2.190, look ahead score is : 0.000
+(i -2.73)(ca -8.56)(coach -2.15)(he -9.01)(recalls -8.73)(for -7.39)(next -6.60)(. -6.30) line score is : -6.435, look ahead score is : 0.000

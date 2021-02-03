@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.144807382966533----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ so she went up and put on the rod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(so -2.12)(she -9.03)(went -2.28)(up -4.01)(and -0.68)(put -2.92)(on -5.22)(the -2.32)(rod -5.50)(. -1.43) line score is : -3.551, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -3.1837935538002937----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her father was right , 
+ she was saved by her light , 
+ so she went to live down on the broad . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(father -3.76)(was -3.45)(right -2.71)(, -5.34) line score is : -3.604, look ahead score is : 0.000
+(she -5.34)(was -1.80)(saved -1.88)(by -2.03)(her -4.86)(light -1.65)(, -2.28) line score is : -2.833, look ahead score is : 0.000
+(so -2.28)(she -9.25)(went -2.09)(to -3.90)(live -0.57)(down -3.00)(on -1.08)(the -2.25)(broad -7.72)(. -3.55) line score is : -3.568, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.300680189363418----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ and now she has a job cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(and -2.12)(now -9.03)(she -2.28)(has -1.33)(a -2.69)(job -0.46)(cod -2.38)(. -1.91) line score is : -2.776, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ so I sat on my moped and moped 
+-------------------------score:  -3.365590604953468----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her father was right , 
+ she was saved by her knight , 
+ so she swore on her sword and tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(father -3.76)(was -3.45)(right -2.71)(, -5.34) line score is : -3.604, look ahead score is : 0.000
+(she -5.34)(was -1.80)(saved -1.88)(by -2.03)(her -4.86)(knight -1.65)(, -2.28) line score is : -2.833, look ahead score is : 0.000
+(so -2.28)(she -9.35)(swore -2.01)(on -3.67)(her -0.85)(sword -5.48)(and -3.87)(tripod -0.97)(. -2.89) line score is : -3.486, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.385803163982928----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her sight , 
+ but she is still blind in her tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(sight -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(but -2.12)(she -9.99)(is -2.12)(still -3.45)(blind -1.52)(in -3.63)(her -1.98)(tripod -4.00)(. -2.78) line score is : -3.510, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.3940191470807597----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ so she never gave on the tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(so -2.12)(she -9.03)(never -2.28)(gave -4.01)(on -0.68)(the -4.23)(tripod -2.67)(. -7.96) line score is : -4.123, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.4668322453896203----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ because she was doing her tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(because -2.12)(she -9.03)(was -2.28)(doing -4.05)(her -1.06)(tripod -1.65)(. -6.17) line score is : -3.765, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ when he saw there were six little chips 
+-------------------------score:  -3.4780192924663424----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her sight , 
+ when she saw there was one big tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(sight -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(when -2.12)(she -9.99)(saw -2.12)(there -5.68)(was -0.64)(one -1.59)(big -6.54)(tripod -0.31)(. -5.10) line score is : -3.788, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ he never completed his task 
+-------------------------score:  -3.4788308441638947----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ she never recovered her tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(she -2.12)(never -9.03)(recovered -2.28)(her -2.45)(tripod -4.80)(. -4.87) line score is : -4.257, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4865484016556896----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ she never slept in a hotel pod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(she -2.12)(never -9.03)(slept -2.28)(in -2.45)(a -4.80)(hotel -6.46)(pod -2.76)(. -1.84) line score is : -3.967, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.521644908003509----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ but it was she was saving it god . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(but -2.12)(it -9.03)(was -2.28)(she -3.80)(was -2.99)(saving -0.95)(it -6.46)(god -4.87)(. -5.70) line score is : -4.244, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.5591242118128417----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her fight , 
+ she never forgot a cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(fight -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(she -2.12)(never -9.89)(forgot -2.59)(a -1.94)(cod -4.57)(. -3.58) line score is : -4.116, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.561718671582639----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ and for years she just keeps her tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(and -2.12)(for -9.03)(years -2.28)(she -1.33)(just -5.53)(keeps -4.04)(her -0.72)(tripod -6.35)(. -6.29) line score is : -4.187, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and since then has never benzene 
+-------------------------score:  -3.566876237591108----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ and since then has never cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(and -2.12)(since -9.03)(then -2.28)(has -1.33)(never -5.81)(cod -0.88)(. -3.90) line score is : -3.622, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.58345839573491----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her father was right , 
+ she was saved by her knight , 
+ and had her because she was tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(father -3.76)(was -3.45)(right -2.71)(, -5.34) line score is : -3.604, look ahead score is : 0.000
+(she -5.34)(was -1.80)(saved -1.88)(by -2.03)(her -4.86)(knight -1.65)(, -2.28) line score is : -2.833, look ahead score is : 0.000
+(and -2.28)(had -9.35)(her -2.01)(because -1.14)(she -5.41)(was -3.28)(tripod -9.28)(. -1.13) line score is : -4.235, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and now a new teacher they seek 
+-------------------------score:  -3.5918754810287106----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her flight , 
+ and now a new life she cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(flight -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(and -2.12)(now -9.95)(a -2.96)(new -1.13)(life -2.61)(she -5.85)(cod -2.31)(. -1.67) line score is : -3.575, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.596850622693698----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ and now could continue a tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(and -2.12)(now -9.03)(could -2.28)(continue -1.33)(a -2.69)(tripod -6.39)(. -4.61) line score is : -4.065, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.654599263783424----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ but she stole too big for cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(but -2.12)(she -9.03)(stole -2.28)(too -3.80)(big -1.41)(for -7.40)(cod -4.56)(. -6.26) line score is : -4.607, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ but I guess that you probably gnu 
+-------------------------score:  -3.6816878559127932----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ but she heard that she still cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(but -2.12)(she -9.03)(heard -2.28)(that -3.80)(she -1.41)(still -8.04)(cod -2.38)(. -1.82) line score is : -3.861, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.7095031668742497----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her knight , 
+ and had her revenge a cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(knight -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(and -2.12)(had -9.68)(her -2.13)(revenge -1.35)(a -5.34)(cod -3.17)(. -4.29) line score is : -4.011, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.7219905704259872----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her father was right , 
+ she was saved by her knight , 
+ and had the support with cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(father -3.76)(was -3.45)(right -2.71)(, -5.34) line score is : -3.604, look ahead score is : 0.000
+(she -5.34)(was -1.80)(saved -1.88)(by -2.03)(her -4.86)(knight -1.65)(, -2.28) line score is : -2.833, look ahead score is : 0.000
+(and -2.28)(had -9.35)(the -2.01)(support -1.14)(with -5.41)(cod -3.16)(. -5.19) line score is : -4.077, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.799974311744013----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ she really can be in it tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(she -2.12)(really -9.03)(can -2.28)(be -2.45)(in -6.10)(it -4.75)(tripod -2.61)(. -4.84) line score is : -4.274, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ that her head was bare 
+-------------------------score:  -3.8550410075434325----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ that our salvation was tripod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(that -2.12)(our -9.03)(salvation -2.28)(was -4.47)(tripod -8.86)(. -4.80) line score is : -5.261, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -3.870468103326857----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her father was right , 
+ she was saved by his light , 
+ he ca let me off if i nod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(father -3.76)(was -3.45)(right -2.71)(, -5.34) line score is : -3.604, look ahead score is : 0.000
+(she -5.34)(was -1.80)(saved -1.88)(by -2.03)(his -4.86)(light -1.65)(, -3.40) line score is : -2.994, look ahead score is : 0.000
+(he -3.40)(ca -7.94)(let -2.03)(me -3.49)(off -9.88)(if -10.89)(i -2.41)(nod -8.84)(. -6.26) line score is : -6.126, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.907663473198491----------------------- 
+there was a lady named natividad 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her sight , 
+ she heard only whisper one or god . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(sight -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(she -2.12)(heard -9.99)(only -2.12)(whisper -2.66)(one -5.51)(or -6.31)(god -6.15)(. -8.07) line score is : -5.366, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ as if he 'd been invited 
+-------------------------score:  -3.9663427442312242----------------------- 
+there was a lady named maud 
+ who lost all her money in a fraud . 
+ but her father was right , 
+ she was saved by her light , 
+ as if she ca used cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(father -3.76)(was -3.45)(right -2.71)(, -5.34) line score is : -3.604, look ahead score is : 0.000
+(she -5.34)(was -1.80)(saved -1.88)(by -2.03)(her -4.86)(light -1.65)(, -2.28) line score is : -2.833, look ahead score is : 0.000
+(as -2.28)(if -9.25)(she -2.09)(ca -4.76)(used -4.09)(cod -1.20)(. -12.71) line score is : -5.197, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ he was told by his wife 
+ then wake up all snappy and snarly 
+-------------------------score:  -4.004778405351024----------------------- 
+there was a lady named maude 
+ who lost all her money in a fraud . 
+ but her mother was right , 
+ she was saved by her light , 
+ now let up all dark and cod . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(lost -6.58)(all -4.24)(her -0.27)(money -1.41)(in -1.98)(a -1.37)(fraud -5.54)(. -1.95) line score is : -2.731, look ahead score is : 0.000
+(but -1.95)(her -4.41)(mother -3.76)(was -3.19)(right -2.82)(, -5.29) line score is : -3.570, look ahead score is : 0.000
+(she -5.29)(was -1.85)(saved -1.67)(by -1.76)(her -5.27)(light -1.47)(, -2.12) line score is : -2.775, look ahead score is : 0.000
+(now -2.12)(let -9.03)(up -2.28)(all -5.76)(dark -6.18)(and -8.74)(cod -5.81)(. -8.33) line score is : -6.032, look ahead score is : 0.000

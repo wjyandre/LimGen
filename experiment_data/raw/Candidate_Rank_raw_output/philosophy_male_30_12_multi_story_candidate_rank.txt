@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.770658509385201----------------------- 
+there was a teacher named rex 
+ who taught on a couple of subjects . 
+ he was like a mentor , 
+ and he came to the door , 
+ and we sat down and had our sex . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(on -5.88)(a -2.80)(couple -5.54)(of -0.29)(subjects -4.82)(. -2.37) line score is : -3.182, look ahead score is : 0.000
+(he -2.37)(was -1.18)(like -1.16)(a -4.88)(mentor -1.10)(, -4.16) line score is : -2.473, look ahead score is : 0.000
+(and -4.16)(he -2.43)(came -2.06)(to -1.19)(the -4.94)(door -1.14)(, -2.38) line score is : -2.615, look ahead score is : 0.000
+(and -2.38)(we -5.43)(sat -2.84)(down -1.02)(and -3.06)(had -2.57)(our -0.38)(sex -0.87)(. -3.36) line score is : -2.435, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ he ran like a flash 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -3.1065154127005874----------------------- 
+there was a teacher named rex 
+ who taught on a couple of subjects . 
+ he was like a mentor , 
+ and he came to the fore , 
+ because he was doing my effects . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(on -5.88)(a -2.80)(couple -5.54)(of -0.29)(subjects -4.82)(. -2.37) line score is : -3.182, look ahead score is : 0.000
+(he -2.37)(was -1.18)(like -1.16)(a -4.88)(mentor -1.10)(, -4.16) line score is : -2.473, look ahead score is : 0.000
+(and -4.16)(he -2.43)(came -2.06)(to -1.19)(the -4.94)(fore -1.14)(, -2.38) line score is : -2.615, look ahead score is : 0.000
+(because -2.38)(he -6.38)(was -3.84)(doing -3.54)(my -0.79)(effects -1.16)(. -5.18) line score is : -3.323, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ he ran like a flash 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.1717459384737343----------------------- 
+there was a teacher named rex 
+ who taught on a couple of subjects . 
+ he was like a mentor , 
+ and he came to the door , 
+ and he started singing first effects . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(on -5.88)(a -2.80)(couple -5.54)(of -0.29)(subjects -4.82)(. -2.37) line score is : -3.182, look ahead score is : 0.000
+(he -2.37)(was -1.18)(like -1.16)(a -4.88)(mentor -1.10)(, -4.16) line score is : -2.473, look ahead score is : 0.000
+(and -4.16)(he -2.43)(came -2.06)(to -1.19)(the -4.94)(door -1.14)(, -2.38) line score is : -2.615, look ahead score is : 0.000
+(and -2.38)(he -5.43)(started -2.84)(singing -1.02)(first -0.95)(effects -3.62)(. -4.67) line score is : -2.989, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ he ran like a flash 
+ and they rushed to the rail 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.192889047662417----------------------- 
+there was a teacher named rex 
+ who taught on a couple of subjects . 
+ he was like a mentor , 
+ and he came to the door , 
+ and his eyes got wider and complex . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(on -5.88)(a -2.80)(couple -5.54)(of -0.29)(subjects -4.82)(. -2.37) line score is : -3.182, look ahead score is : 0.000
+(he -2.37)(was -1.18)(like -1.16)(a -4.88)(mentor -1.10)(, -4.16) line score is : -2.473, look ahead score is : 0.000
+(and -4.16)(he -2.43)(came -2.06)(to -1.19)(the -4.94)(door -1.14)(, -2.38) line score is : -2.615, look ahead score is : 0.000
+(and -2.38)(his -5.43)(eyes -2.84)(got -1.02)(wider -4.59)(and -3.20)(complex -4.15)(. -4.73) line score is : -3.543, look ahead score is : 0.000

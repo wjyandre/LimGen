@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9921976671074377----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and she looked down and saw our spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(she -3.30)(looked -2.19)(down -1.06)(and -0.84)(saw -3.33)(our -2.99)(spot -1.53)(. -1.54) line score is : -2.332, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.0529014919743394----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ but she said she was taking it hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(but -4.21)(she -3.30)(said -2.19)(she -2.47)(was -1.03)(taking -3.86)(it -1.05)(hot -1.67)(. -5.08) line score is : -2.761, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.14963726383267----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ then she saw me walk towards the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(then -4.21)(she -3.30)(saw -2.19)(me -5.35)(walk -0.96)(towards -3.60)(the -2.39)(spot -4.20)(. -4.40) line score is : -3.400, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but I guess that you probably gnu 
+-------------------------score:  -3.3018020056188107----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ but i know that she never cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(but -4.21)(i -3.30)(know -2.19)(that -2.47)(she -3.03)(never -5.40)(cannot -2.04)(. -1.26) line score is : -2.987, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.3135194778442383----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ she said that her husband was cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(she -4.21)(said -3.30)(that -2.19)(her -3.40)(husband -1.65)(was -5.28)(cannot -3.06)(. -2.03) line score is : -3.141, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.315627994015813----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and she was not sure anyone bought . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(she -3.30)(was -2.19)(not -1.06)(sure -0.84)(anyone -1.52)(bought -4.49)(. -4.12) line score is : -2.718, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but it does n't come out of my purse 
+-------------------------score:  -3.3205425856691417----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ but she does not turn in her cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(but -4.21)(she -3.30)(does -2.19)(not -2.47)(turn -1.03)(in -8.64)(her -0.20)(cannot -4.02)(. -3.70) line score is : -3.305, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.362490071404365----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and she heard somebody else cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(she -3.30)(heard -2.19)(somebody -1.06)(else -0.84)(cannot -3.47)(. -4.16) line score is : -2.748, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ NNS OUT OF PRP$ NNS LIKE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ seeps out of my pockets like honey 
+-------------------------score:  -3.3999034808948636----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ hands out of her pockets like cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(hands -4.21)(out -3.30)(of -2.19)(her -6.57)(pockets -3.72)(like -4.43)(cannot -1.66)(. -0.29) line score is : -3.296, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and kissed her because he was wuise 
+-------------------------score:  -3.4073870293796062----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and told her because she had cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(told -3.30)(her -2.19)(because -1.06)(she -7.38)(had -2.07)(cannot -8.25)(. -0.66) line score is : -3.641, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ within weeks it was all in the past 
+-------------------------score:  -3.426311352036216----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the floor , 
+ in handcuffs she was all in the spot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(floor -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(in -4.21)(handcuffs -5.27)(she -2.19)(was -4.64)(all -3.48)(in -7.76)(the -1.04)(spot -6.23)(. -4.71) line score is : -4.393, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.4282061060269675----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and for ages she just froze her thought . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(for -3.30)(ages -2.19)(she -1.06)(just -6.90)(froze -7.44)(her -0.59)(thought -3.14)(. -7.24) line score is : -4.009, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ what was shown on the cinema screen 
+-------------------------score:  -3.4623463358730078----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ what was written on the front cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(what -4.21)(was -3.30)(written -2.19)(on -7.65)(the -2.52)(front -6.27)(cannot -0.51)(. -0.51) line score is : -3.396, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and sideways he could n't be seen 
+-------------------------score:  -3.4734467677772045----------------------- 
+there was a neat grandma named kay 
+ who had all her money in a way . 
+ she was back from the store , 
+ and she was to the door , 
+ and says she could not get resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(way -7.44)(. -2.47) line score is : -3.266, look ahead score is : 0.000
+(she -2.47)(was -2.04)(back -1.61)(from -7.75)(the -2.68)(store -1.99)(, -3.87) line score is : -3.201, look ahead score is : 0.000
+(and -3.87)(she -2.10)(was -2.06)(to -1.47)(the -1.34)(door -6.72)(, -4.34) line score is : -3.128, look ahead score is : 0.000
+(and -4.34)(says -3.73)(she -2.17)(could -1.10)(not -8.99)(get -1.64)(resume -3.89)(. -1.61) line score is : -3.434, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.479201525449753----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ but she heard somewhere outside for scott . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(but -4.21)(she -3.30)(heard -2.19)(somewhere -2.47)(outside -1.03)(for -4.31)(scott -8.70)(. -3.93) line score is : -3.766, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.494739370420575----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and then she turns a corner cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(then -3.30)(she -2.19)(turns -1.06)(a -3.96)(corner -0.75)(cannot -6.11)(. -6.74) line score is : -3.540, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ they bedded her down in the stable 
+-------------------------score:  -3.5238744914531708----------------------- 
+there was a neat grandma named kay 
+ who had all her money in a way . 
+ she was back from the store , 
+ and she was to the door , 
+ she said she down in the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(way -7.44)(. -2.47) line score is : -3.266, look ahead score is : 0.000
+(she -2.47)(was -2.04)(back -1.61)(from -7.75)(the -2.68)(store -1.99)(, -3.87) line score is : -3.201, look ahead score is : 0.000
+(and -3.87)(she -2.10)(was -2.06)(to -1.47)(the -1.34)(door -6.72)(, -4.34) line score is : -3.128, look ahead score is : 0.000
+(she -4.34)(said -3.73)(she -2.17)(down -3.34)(in -1.84)(the -3.31)(resume -11.77)(. -3.59) line score is : -4.262, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.568775463849306----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ she said when she heard across gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(she -4.21)(said -3.30)(when -2.19)(she -3.40)(heard -1.65)(across -6.76)(gunshot -0.78)(. -2.59) line score is : -3.110, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ I did n't think life was this way 
+-------------------------score:  -3.569060303948142----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ she was not come home had this gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(she -4.21)(was -3.30)(not -2.19)(come -3.40)(home -1.54)(had -4.35)(this -7.44)(gunshot -2.82)(. -9.07) line score is : -4.257, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.569972417782992----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ said a voice no higher than gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(said -4.21)(a -3.30)(voice -2.19)(no -7.61)(higher -3.99)(than -2.48)(gunshot -8.74)(. -6.06) line score is : -4.822, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and finished the solo with honour 
+-------------------------score:  -3.61329900064776----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and asked the policeman with gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(asked -3.30)(the -2.19)(policeman -1.06)(with -6.96)(gunshot -2.69)(. -5.77) line score is : -3.741, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and could n't bend back again 
+-------------------------score:  -3.622883892828418----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and could not remember back cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(could -3.30)(not -2.19)(remember -1.06)(back -8.29)(cannot -1.40)(. -4.72) line score is : -3.596, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -3.687670271843672----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she said to the floor , 
+ i have only gotten three or not . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(said -2.07)(to -1.67)(the -2.83)(floor -2.63)(, -2.72) line score is : -2.499, look ahead score is : 0.000
+(i -2.72)(have -8.57)(only -1.46)(gotten -4.05)(three -2.99)(or -5.41)(not -6.29)(. -3.97) line score is : -4.432, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ which leaves him in very bad shape 
+-------------------------score:  -3.7071445398032665----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she had to the door , 
+ which leads you in very deep cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(had -2.07)(to -1.67)(the -2.33)(door -2.98)(, -8.53) line score is : -3.307, look ahead score is : 0.000
+(which -8.53)(leads -3.54)(you -2.15)(in -4.21)(very -4.73)(deep -5.11)(cannot -4.76)(. -6.25) line score is : -4.910, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and since then has never benzene 
+-------------------------score:  -3.776173787732278----------------------- 
+there was a neat grandma named renee 
+ who had all her money in a way . 
+ she was back from the store , 
+ and she was to the door , 
+ and since then has never resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(way -7.44)(. -2.47) line score is : -3.266, look ahead score is : 0.000
+(she -2.47)(was -2.04)(back -1.61)(from -7.75)(the -2.68)(store -1.99)(, -3.87) line score is : -3.201, look ahead score is : 0.000
+(and -3.87)(she -2.10)(was -2.06)(to -1.47)(the -1.34)(door -6.72)(, -4.34) line score is : -3.128, look ahead score is : 0.000
+(and -4.34)(since -3.73)(then -2.17)(has -1.10)(never -9.15)(resume -5.31)(. -6.97) line score is : -4.682, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.788161426782608----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ then put up all different and hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(then -4.21)(put -3.30)(up -2.19)(all -5.35)(different -6.82)(and -4.02)(hot -4.24)(. -8.22) line score is : -4.794, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ because of his scanty regalia 
+-------------------------score:  -3.9045194757395776----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ outside our favorite cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(outside -4.21)(our -3.30)(favorite -2.19)(cannot -8.35)(. -7.08) line score is : -5.026, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.9364453770897607----------------------- 
+there was a neat grandma named dot 
+ who had all her money in a lot . 
+ she was back from the store , 
+ and she was to the door , 
+ and trying make it sounds but hard cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(had -2.78)(all -5.08)(her -2.11)(money -4.69)(in -1.58)(a -1.77)(lot -6.34)(. -2.79) line score is : -3.179, look ahead score is : 0.000
+(she -2.79)(was -2.16)(back -1.71)(from -7.37)(the -2.57)(store -2.01)(, -3.28) line score is : -3.128, look ahead score is : 0.000
+(and -3.28)(she -2.30)(was -2.07)(to -1.67)(the -1.47)(door -6.66)(, -4.21) line score is : -3.094, look ahead score is : 0.000
+(and -4.21)(trying -3.30)(make -2.19)(it -1.06)(sounds -9.67)(but -9.96)(hard -2.84)(cannot -7.51)(. -7.81) line score is : -5.394, look ahead score is : 0.000

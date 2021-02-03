@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and now he 's a college professor 
+-------------------------score:  -2.8872472643852234----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and now it is a week beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(now -2.89)(it -1.40)(is -1.60)(a -3.05)(week -1.17)(beforehand -3.13)(. -3.06) line score is : -2.981, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ she was ready to give and to take 
+-------------------------score:  -3.027526700993379----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ it was easy to do and to land . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(it -7.54)(was -2.89)(easy -1.40)(to -3.76)(do -0.24)(and -5.90)(to -1.39)(land -2.80)(. -2.52) line score is : -3.160, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.035687705235822----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ and it was fun even beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(and -7.60)(it -2.76)(was -1.40)(fun -1.56)(even -2.16)(beforehand -0.87)(. -2.96) line score is : -2.757, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.143427283533158----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ so we were up and live on the land . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(so -7.54)(we -2.89)(were -1.40)(up -3.13)(and -1.32)(live -2.11)(on -6.21)(the -2.33)(land -8.24)(. -3.88) line score is : -3.906, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.172965030868848----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ and it was not like something of brand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(and -7.60)(it -2.76)(was -1.40)(not -1.56)(like -2.16)(something -0.87)(of -4.28)(brand -2.50)(. -5.53) line score is : -3.184, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.182968020439148----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and it was down and left our hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(it -2.89)(was -1.40)(down -1.60)(and -2.18)(left -0.88)(our -8.74)(hand -4.47)(. -6.16) line score is : -3.985, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.2021320143650316----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ for three days straight everyday at hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(for -7.60)(three -2.76)(days -1.40)(straight -4.95)(everyday -3.05)(at -1.52)(hand -2.10)(. -7.74) line score is : -3.891, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ they bedded her down in the stable 
+-------------------------score:  -3.2270320566563773----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ it was us down in the wasteland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(it -7.60)(was -2.76)(us -1.40)(down -3.85)(in -0.24)(the -5.98)(wasteland -7.51)(. -2.72) line score is : -4.006, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and now a new teacher they seek 
+-------------------------score:  -3.2422497796601264----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and then a long time it beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(then -2.89)(a -1.40)(long -1.60)(time -2.95)(it -4.15)(beforehand -5.73)(. -0.27) line score is : -3.318, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ I invariably get in a stew ! 
+-------------------------score:  -3.2443461335938553----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ we never slept in a hotel hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(we -7.54)(never -2.89)(slept -1.40)(in -3.06)(a -4.41)(hotel -3.83)(hand -3.23)(. -2.13) line score is : -3.561, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ within weeks it was all in the past 
+-------------------------score:  -3.2722131103277206----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ in bands we were all in the wasteland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(in -7.60)(bands -2.76)(we -1.40)(were -4.72)(all -5.26)(in -3.30)(the -1.67)(wasteland -3.08)(. -2.47) line score is : -3.584, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and some of the members are swines 
+-------------------------score:  -3.3239895095085275----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ and some of the guys are beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(and -7.60)(some -2.76)(of -1.40)(the -1.56)(guys -6.42)(are -1.77)(beforehand -0.97)(. -2.81) line score is : -3.161, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.343832918504874----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ it was through the night and was wasteland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(it -7.54)(was -2.89)(through -1.40)(the -3.76)(night -0.24)(and -7.28)(was -1.13)(wasteland -3.30)(. -2.37) line score is : -3.324, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ he claimed that his costume was chile 
+-------------------------score:  -3.351639456276236----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ it was that our music was hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(it -7.54)(was -2.89)(that -1.40)(our -3.76)(music -0.24)(was -5.67)(hand -7.14)(. -2.86) line score is : -3.938, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.363447141647339----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and for years it just feels our brand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(for -2.89)(years -1.40)(it -1.60)(just -5.26)(feels -3.55)(our -2.95)(brand -3.07)(. -7.43) line score is : -3.967, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and since then has never benzene 
+-------------------------score:  -3.377740891916411----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ and since then has always beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(and -7.60)(since -2.76)(then -1.40)(has -1.56)(always -5.52)(beforehand -0.48)(. -5.58) line score is : -3.555, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.37880402803421----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and went with a little beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(went -2.89)(with -1.40)(a -1.60)(little -8.15)(beforehand -5.31)(. -3.56) line score is : -4.351, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ which pickled his internal workins 
+-------------------------score:  -3.41036135841299----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ which was our favorite wasteland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(which -7.54)(was -2.89)(our -1.40)(favorite -5.10)(wasteland -0.94)(. -5.78) line score is : -3.941, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.4571551725268366----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ it was us and had people and land . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(it -7.54)(was -2.89)(us -1.40)(and -3.76)(had -0.24)(people -5.88)(and -1.41)(land -8.95)(. -5.90) line score is : -4.220, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and sideways he could n't be seen 
+-------------------------score:  -3.49041983176922----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and shows we could never get inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(shows -2.89)(we -1.40)(could -1.60)(never -9.54)(get -3.21)(inland -5.28)(. -4.29) line score is : -4.470, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ he was n't the wizard he woz 
+-------------------------score:  -3.4970538991278617----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ it was always the night we inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(it -7.54)(was -2.89)(always -1.40)(the -3.76)(night -0.24)(we -3.36)(inland -2.99)(. -6.34) line score is : -3.565, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ I d probably know two or three 
+-------------------------score:  -3.5281993520670922----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ i think maybe average one or hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(i -7.54)(think -2.89)(maybe -1.40)(average -4.30)(one -1.55)(or -5.26)(hand -8.58)(. -5.13) line score is : -4.581, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ BECAUSE THE NN VBD AND VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ because the man bullied and boucestcr 
+-------------------------score:  -3.5391223345484053----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ because the song was and beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(because -7.54)(the -2.89)(song -1.40)(was -4.59)(and -3.71)(beforehand -4.99)(. -1.33) line score is : -3.778, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and hop in before all the crowd 
+-------------------------score:  -3.5700742653731643----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and put in before all the woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(put -2.89)(in -1.40)(before -1.60)(all -9.42)(the -2.83)(woodland -7.16)(. -5.48) line score is : -4.792, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.604615716070964----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ which was made with the most beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(which -7.60)(was -2.76)(made -1.40)(with -5.04)(the -0.95)(most -9.61)(beforehand -6.35)(. -2.52) line score is : -4.527, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and kissed her because he was wuise 
+-------------------------score:  -3.607578204623584----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ and was my because she was inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(and -7.60)(was -2.76)(my -1.40)(because -1.56)(she -5.95)(was -5.17)(inland -11.56)(. -2.29) line score is : -4.786, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ as if he 'd been invited 
+-------------------------score:  -3.6537873798183034----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ as if we outright told beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(as -7.60)(if -2.76)(we -1.40)(outright -5.45)(told -2.44)(beforehand -0.85)(. -17.16) line score is : -5.380, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ which refreshed that person of ewell 
+-------------------------score:  -3.6562859043478966----------------------- 
+there once was a dancer named brande 
+ who played a big role on our band . 
+ when we started to play , 
+ it was every day , 
+ which made that process of beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(role -1.05)(on -3.71)(our -4.18)(band -4.99)(. -1.65) line score is : -3.248, look ahead score is : 0.000
+(when -1.65)(we -4.04)(started -1.10)(to -2.18)(play -3.29)(, -2.02) line score is : -2.382, look ahead score is : 0.000
+(it -2.02)(was -2.26)(every -2.79)(day -0.34)(, -7.60) line score is : -3.002, look ahead score is : 0.000
+(which -7.60)(made -2.76)(that -1.40)(process -5.04)(of -3.46)(beforehand -5.80)(. -4.54) line score is : -4.372, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD EVERY NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he perused every page 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.9256902893384296----------------------- 
+there once was a dancer named brande 
+ who played a big part on our band . 
+ when we started to play , 
+ it was every day , 
+ and trying do it is but hard inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.92)(played -4.32)(a -2.73)(big -4.67)(part -1.03)(on -4.03)(our -3.84)(band -4.99)(. -1.65) line score is : -3.242, look ahead score is : 0.000
+(when -1.65)(we -4.09)(started -1.11)(to -2.21)(play -3.31)(, -2.01) line score is : -2.397, look ahead score is : 0.000
+(it -2.01)(was -2.10)(every -2.79)(day -0.35)(, -7.54) line score is : -2.958, look ahead score is : 0.000
+(and -7.54)(trying -2.89)(do -1.40)(it -1.60)(is -8.69)(but -9.24)(hard -1.74)(inland -5.05)(. -9.11) line score is : -5.251, look ahead score is : 0.000

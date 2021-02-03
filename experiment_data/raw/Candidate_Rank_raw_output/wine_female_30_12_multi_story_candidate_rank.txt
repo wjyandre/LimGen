@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.921026383385514----------------------- 
+there once was a chef named dot 
+ who cooked all her dinner in a pot . 
+ she would go to a bar , 
+ and she got to the car , 
+ and she sat down and started her shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.04)(cooked -3.46)(all -3.69)(her -3.05)(dinner -4.83)(in -2.48)(a -1.70)(pot -3.72)(. -1.79) line score is : -2.973, look ahead score is : 0.000
+(she -1.79)(would -1.82)(go -2.88)(to -3.57)(a -1.40)(bar -2.34)(, -3.80) line score is : -2.517, look ahead score is : 0.000
+(and -3.80)(she -1.95)(got -2.23)(to -1.99)(the -6.10)(car -2.96)(, -3.58) line score is : -3.230, look ahead score is : 0.000
+(and -3.58)(she -7.31)(sat -1.79)(down -0.62)(and -0.57)(started -4.68)(her -1.35)(shot -1.48)(. -3.65) line score is : -2.780, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9455955363810062----------------------- 
+there once was a chef named dot 
+ who cooked all her dinner in a pot . 
+ she would go to a bar , 
+ she would order a car , 
+ and she went down and ordered her shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.04)(cooked -3.46)(all -3.69)(her -3.05)(dinner -4.83)(in -2.48)(a -1.70)(pot -3.72)(. -1.79) line score is : -2.973, look ahead score is : 0.000
+(she -1.79)(would -1.82)(go -2.88)(to -3.57)(a -1.40)(bar -2.34)(, -3.80) line score is : -2.517, look ahead score is : 0.000
+(she -3.80)(would -1.95)(order -4.08)(a -0.66)(car -2.91)(, -1.44) line score is : -2.473, look ahead score is : 0.000
+(and -1.44)(she -7.09)(went -4.72)(down -1.24)(and -0.99)(ordered -6.12)(her -4.59)(shot -2.82)(. -2.97) line score is : -3.554, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and now he 's a college professor 
+-------------------------score:  -3.064597316326634----------------------- 
+there once was a chef named dot 
+ who cooked all her dinner in a pot . 
+ she would go to a place , 
+ she would order a face , 
+ and then she gets a potato shot . 
+------------------------- score breakdown ------------------------ 
+(who -2.04)(cooked -3.46)(all -3.69)(her -3.05)(dinner -4.83)(in -2.48)(a -1.70)(pot -3.72)(. -1.79) line score is : -2.973, look ahead score is : 0.000
+(she -1.79)(would -1.82)(go -2.88)(to -3.57)(a -1.40)(place -2.34)(, -3.62) line score is : -2.491, look ahead score is : 0.000
+(she -3.62)(would -2.56)(order -3.55)(a -0.76)(face -3.17)(, -1.64) line score is : -2.550, look ahead score is : 0.000
+(and -1.64)(then -9.42)(she -1.80)(gets -1.19)(a -1.46)(potato -0.81)(shot -9.01)(. -1.54) line score is : -3.359, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3591422103345394----------------------- 
+there once was a chef named dot 
+ who cooked all her dinner in a pot . 
+ she would go to a bar , 
+ she would order a car , 
+ and she did not like food of cannot . 
+------------------------- score breakdown ------------------------ 
+(who -2.04)(cooked -3.46)(all -3.69)(her -3.05)(dinner -4.83)(in -2.48)(a -1.70)(pot -3.72)(. -1.79) line score is : -2.973, look ahead score is : 0.000
+(she -1.79)(would -1.82)(go -2.88)(to -3.57)(a -1.40)(bar -2.34)(, -3.80) line score is : -2.517, look ahead score is : 0.000
+(she -3.80)(would -1.95)(order -4.08)(a -0.66)(car -2.91)(, -1.44) line score is : -2.473, look ahead score is : 0.000
+(and -1.44)(she -7.09)(did -4.72)(not -1.24)(like -0.99)(food -5.63)(of -2.24)(cannot -3.01)(. -5.45) line score is : -3.536, look ahead score is : 0.000

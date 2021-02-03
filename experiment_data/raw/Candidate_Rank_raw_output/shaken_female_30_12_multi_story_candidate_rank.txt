@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0252707690903633----------------------- 
+there was a loud waitress named brande 
+ who poured all her coffee in a stand . 
+ when she returned to knock , 
+ she was met by a rock , 
+ so she went to sit down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(poured -8.36)(all -4.35)(her -1.68)(coffee -3.80)(in -2.16)(a -1.65)(stand -8.11)(. -2.00) line score is : -3.723, look ahead score is : 0.000
+(when -2.00)(she -4.53)(returned -1.16)(to -3.62)(knock -2.16)(, -8.35) line score is : -3.639, look ahead score is : 0.000
+(she -8.35)(was -1.58)(met -1.07)(by -1.95)(a -2.52)(rock -0.69)(, -1.18) line score is : -2.477, look ahead score is : 0.000
+(so -1.18)(she -8.76)(went -3.65)(to -4.37)(sit -0.60)(down -3.40)(on -1.43)(the -4.97)(sand -1.62)(. -2.26) line score is : -3.223, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.4324861745039623----------------------- 
+there was a loud waitress named jacque 
+ who poured all her coffee in a shake . 
+ when she returned to stand , 
+ she was shocked by her hand , 
+ because it was touching her intake . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(poured -8.36)(all -4.35)(her -1.68)(coffee -3.80)(in -2.16)(a -1.65)(shake -8.11)(. -1.86) line score is : -3.707, look ahead score is : 0.000
+(when -1.86)(she -4.78)(returned -1.10)(to -3.42)(stand -2.21)(, -6.19) line score is : -3.260, look ahead score is : 0.000
+(she -6.19)(was -2.69)(shocked -0.84)(by -1.92)(her -3.66)(hand -2.85)(, -2.13) line score is : -2.897, look ahead score is : 0.000
+(because -2.13)(it -6.32)(was -3.97)(touching -4.30)(her -1.20)(intake -0.58)(. -5.90) line score is : -3.486, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5101018945376077----------------------- 
+there was a loud waitress named brande 
+ who poured all her coffee in a stand . 
+ when she returned to knock , 
+ she was met by a rock , 
+ and she fell face forward beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(poured -8.36)(all -4.35)(her -1.68)(coffee -3.80)(in -2.16)(a -1.65)(stand -8.11)(. -2.00) line score is : -3.723, look ahead score is : 0.000
+(when -2.00)(she -4.53)(returned -1.16)(to -3.62)(knock -2.16)(, -8.35) line score is : -3.639, look ahead score is : 0.000
+(she -8.35)(was -1.58)(met -1.07)(by -1.95)(a -2.52)(rock -0.69)(, -1.18) line score is : -2.477, look ahead score is : 0.000
+(and -1.18)(she -8.76)(fell -3.65)(face -1.86)(forward -2.03)(beforehand -2.56)(. -4.75) line score is : -3.542, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.5532643660422294----------------------- 
+there was a loud waitress named brande 
+ who poured all her coffee in a stand . 
+ when she returned to knock , 
+ she was met by a rock , 
+ and she was not sure anything planned . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(poured -8.36)(all -4.35)(her -1.68)(coffee -3.80)(in -2.16)(a -1.65)(stand -8.11)(. -2.00) line score is : -3.723, look ahead score is : 0.000
+(when -2.00)(she -4.53)(returned -1.16)(to -3.62)(knock -2.16)(, -8.35) line score is : -3.639, look ahead score is : 0.000
+(she -8.35)(was -1.58)(met -1.07)(by -1.95)(a -2.52)(rock -0.69)(, -1.18) line score is : -2.477, look ahead score is : 0.000
+(and -1.18)(she -8.76)(was -3.65)(not -1.86)(sure -2.03)(anything -2.52)(planned -4.54)(. -3.90) line score is : -3.557, look ahead score is : 0.000

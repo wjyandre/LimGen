@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ then he walloped me square in the face 
+-------------------------score:  -2.916022344943016----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ then they put us right outside the space . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(then -1.38)(they -0.79)(put -2.80)(us -3.90)(right -5.59)(outside -3.85)(the -1.34)(space -3.33)(. -3.38) line score is : -2.928, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ and returned on the previous night 
+-------------------------score:  -2.9525367206540603----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ and looked on the library staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(and -1.38)(looked -0.79)(on -2.80)(the -2.06)(library -5.34)(staircase -3.98)(. -0.86) line score is : -2.458, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ but the telephone book caused him pain 
+-------------------------score:  -2.967063631614049----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ but the restaurant staff refused us space . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(but -1.38)(the -0.79)(restaurant -2.80)(staff -4.20)(refused -2.59)(us -3.03)(space -5.32)(. -3.65) line score is : -2.969, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ and now he 's a college professor 
+-------------------------score:  -3.025368179877599----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ and then he has a restaurant space . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(and -1.38)(then -0.79)(he -2.80)(has -2.06)(a -3.43)(restaurant -3.94)(space -6.97)(. -1.41) line score is : -2.846, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.0408898900295127----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ and found our restaurant a space . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(and -1.38)(found -0.79)(our -2.80)(restaurant -2.06)(a -4.49)(space -3.59)(. -4.51) line score is : -2.801, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ in a sugary takeover bid 
+-------------------------score:  -3.2198662566287175----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ past a pretty restaurant staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(past -1.38)(a -0.79)(pretty -2.80)(restaurant -3.47)(staircase -2.46)(. -5.53) line score is : -2.738, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ but I guess that you probably gnu 
+-------------------------score:  -3.2269836207230886----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ but we heard that they never replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(but -1.38)(we -0.79)(heard -2.80)(that -4.20)(they -2.41)(never -4.26)(replace -2.45)(. -3.02) line score is : -2.662, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.262054572182317----------------------- 
+there was a neat chef named chase 
+ who served a great menu on his place . 
+ we decided to eat , 
+ so we walked down the street , 
+ i saw it and went upstairs and space . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(served -4.16)(a -3.42)(great -3.01)(menu -3.36)(on -4.61)(his -2.24)(place -5.31)(. -0.81) line score is : -3.164, look ahead score is : 0.000
+(we -0.81)(decided -2.80)(to -3.71)(eat -0.22)(, -3.97) line score is : -2.300, look ahead score is : 0.000
+(so -3.97)(we -5.17)(walked -3.23)(down -0.52)(the -3.02)(street -2.44)(, -1.38) line score is : -2.818, look ahead score is : 0.000
+(i -1.38)(saw -0.79)(it -2.80)(and -4.83)(went -3.53)(upstairs -4.30)(and -1.71)(space -3.55)(. -5.45) line score is : -3.148, look ahead score is : 0.000

@@ -1,0 +1,484 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.7873104271643303----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ so we had to go down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(so -2.82)(we -3.40)(had -2.06)(to -4.80)(go -1.46)(down -3.10)(on -0.95)(the -2.75)(base -3.34)(. -4.18) line score is : -2.886, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.828102478647933----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ so we went up and hit on the case . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(so -2.82)(we -3.40)(went -2.06)(up -4.80)(and -1.46)(hit -2.41)(on -2.50)(the -1.83)(case -6.91)(. -2.15) line score is : -3.034, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and returned on the previous night 
+-------------------------score:  -2.895438322617162----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ and sat on the opposite staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(and -2.82)(sat -3.40)(on -2.06)(the -0.83)(opposite -5.57)(staircase -2.91)(. -0.42) line score is : -2.573, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.000042146354011----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ but he said he was leaving me grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(but -2.82)(he -3.40)(said -2.06)(he -3.44)(was -1.17)(leaving -2.96)(me -1.45)(grace -1.67)(. -3.84) line score is : -2.536, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0153100681491196----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ so we never heard on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(so -2.82)(we -3.40)(never -2.06)(heard -4.80)(on -1.46)(the -6.17)(staircase -2.31)(. -7.78) line score is : -3.851, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.068386378161835----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ but his clothes were down to his birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(but -2.82)(his -3.40)(clothes -2.06)(were -3.44)(down -4.35)(to -4.13)(his -0.31)(birthplace -6.23)(. -2.60) line score is : -3.262, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.1293306855424756----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ and suddenly could see a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(and -2.82)(suddenly -3.40)(could -2.06)(see -0.83)(a -6.66)(staircase -9.22)(. -1.40) line score is : -3.770, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but I guess that you probably gnu 
+-------------------------score:  -3.158159936312586----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ but i know that he never replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(but -2.82)(i -3.40)(know -2.06)(that -3.44)(he -1.89)(never -5.48)(replace -2.09)(. -0.92) line score is : -2.763, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ within weeks it was all in the past 
+-------------------------score:  -3.1777499918684815----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ in hopes we were all in the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(in -2.82)(hopes -3.40)(we -2.06)(were -5.67)(all -6.50)(in -3.95)(the -3.70)(staircase -2.93)(. -3.48) line score is : -3.837, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ so I sat on my moped and moped 
+-------------------------score:  -3.212556272293582----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ so i heard on his voice and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(so -2.82)(i -3.40)(heard -2.06)(on -4.80)(his -1.03)(voice -5.39)(and -7.30)(staircase -2.38)(. -2.02) line score is : -3.469, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.2161857609947524----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ i never expected a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(i -2.82)(never -3.40)(expected -2.06)(a -5.04)(staircase -5.54)(. -5.04) line score is : -3.985, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ when he saw there were six little chips 
+-------------------------score:  -3.2163412575468873----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ when he saw there were two young replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(when -2.82)(he -3.40)(saw -2.06)(there -6.25)(were -1.39)(two -1.04)(young -5.91)(replace -1.87)(. -2.46) line score is : -3.023, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.26345120178115----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ and said with a serious staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(and -2.82)(said -3.40)(with -2.06)(a -0.83)(serious -2.53)(staircase -7.25)(. -0.77) line score is : -2.810, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ as his talent and confidence swelled 
+-------------------------score:  -3.277282207723587----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ as my brother and sister replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(as -2.82)(my -3.40)(brother -2.06)(and -4.87)(sister -5.54)(replace -2.68)(. -2.39) line score is : -3.395, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.279668250872243----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ and he looked round carefully staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(and -2.82)(he -3.40)(looked -2.06)(round -0.83)(carefully -1.09)(staircase -3.21)(. -4.64) line score is : -2.579, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ as if he 'd been invited 
+-------------------------score:  -3.2847291043689175----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ as if he outright recognized grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(as -2.82)(if -3.40)(he -2.06)(outright -4.87)(recognized -1.41)(grace -0.83)(. -15.09) line score is : -4.355, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and finished the solo with honour 
+-------------------------score:  -3.2948184402719622----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ and took the newspaper with replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(and -2.82)(took -3.40)(the -2.06)(newspaper -0.83)(with -5.96)(replace -2.09)(. -5.99) line score is : -3.309, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and now a new teacher they seek 
+-------------------------score:  -3.2973172147758305----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ and then a young lady we replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(and -2.82)(then -3.40)(a -2.06)(young -0.83)(lady -5.07)(we -4.95)(replace -3.99)(. -1.79) line score is : -3.116, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but the other won several prizes 
+-------------------------score:  -3.3675736462877643----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ but the light was horrible replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(but -2.82)(the -3.40)(light -2.06)(was -3.44)(horrible -2.99)(replace -6.00)(. -0.78) line score is : -3.071, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.3684213921427726----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ looked carefully a little staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(looked -2.82)(carefully -3.40)(a -2.06)(little -4.32)(staircase -7.19)(. -7.77) line score is : -4.594, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -3.477270305622369----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ he never can come in you replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(he -2.82)(never -3.40)(can -2.06)(come -3.85)(in -5.97)(you -8.62)(replace -1.91)(. -2.46) line score is : -3.888, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ for not selling her waterproof paint 
+-------------------------score:  -3.4893268236229495----------------------- 
+there was a general named chase 
+ who lived a long time on our place . 
+ he was back from the war , 
+ and he came to the door , 
+ for once seeing me open staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(lived -2.93)(a -4.65)(long -2.97)(time -0.24)(on -5.13)(our -4.85)(place -5.53)(. -1.43) line score is : -3.260, look ahead score is : 0.000
+(he -1.43)(was -1.44)(back -1.23)(from -8.22)(the -2.65)(war -2.19)(, -1.38) line score is : -2.648, look ahead score is : 0.000
+(and -1.38)(he -1.92)(came -1.20)(to -1.76)(the -2.89)(door -1.75)(, -2.82) line score is : -1.960, look ahead score is : 0.000
+(for -2.82)(once -3.40)(seeing -2.06)(me -6.62)(open -5.19)(staircase -5.71)(. -2.43) line score is : -4.034, look ahead score is : 0.000

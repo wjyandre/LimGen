@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.888012350847324----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ and that is the beauty of this place . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(and -4.58)(that -7.30)(is -3.13)(the -1.83)(beauty -3.58)(of -3.35)(this -2.87)(place -3.41)(. -0.19) line score is : -3.359, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ he never completed his task 
+-------------------------score:  -3.0766827157802052----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ he totally understood our case . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(he -4.58)(totally -7.30)(understood -3.13)(our -2.88)(case -6.68)(. -0.73) line score is : -4.218, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and now he 's a college professor 
+-------------------------score:  -3.1448351085699837----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ and now he has a family place . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(and -4.58)(now -7.30)(he -3.13)(has -1.83)(a -5.57)(family -1.27)(place -3.17)(. -1.87) line score is : -3.591, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ she was destined to go a long way 
+-------------------------score:  -3.1507905843357245----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ it was hard to keep a straight staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(it -4.58)(was -7.30)(hard -3.13)(to -4.41)(keep -0.62)(a -3.62)(straight -0.40)(staircase -3.93)(. -2.72) line score is : -3.413, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.2243121503187075----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ and gave our family a place . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(and -4.58)(gave -7.30)(our -3.13)(family -1.83)(a -5.86)(place -4.07)(. -3.75) line score is : -4.361, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.2383428836862245----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ he totally understood a place . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(he -4.58)(totally -7.30)(understood -3.13)(a -2.88)(place -6.68)(. -0.73) line score is : -4.218, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2963488859434924----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ but he is not mean in our case . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(but -4.58)(he -7.30)(is -3.13)(not -3.36)(mean -1.94)(in -5.78)(our -2.85)(case -7.51)(. -4.26) line score is : -4.522, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3603729945917924----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ and he was not like someone of race . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(and -4.58)(he -7.30)(was -3.13)(not -1.83)(like -1.48)(someone -1.45)(of -5.24)(race -4.93)(. -4.48) line score is : -3.824, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ he claimed that his costume was chile 
+-------------------------score:  -3.3776404860204665----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he had every sense , 
+ he knew that his brother was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(had -1.75)(every -2.28)(sense -3.16)(, -6.30) line score is : -3.712, look ahead score is : 0.000
+(he -6.30)(knew -4.74)(that -4.05)(his -2.22)(brother -1.39)(was -4.05)(replace -3.72)(. -4.06) line score is : -3.817, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.3835386000573635----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ and for hours we just froze our pace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(and -5.17)(for -7.07)(hours -2.69)(we -1.32)(just -5.60)(froze -5.63)(our -1.23)(pace -3.58)(. -8.60) line score is : -4.545, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ but I guess that you probably gnu 
+-------------------------score:  -3.393026300802313----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ but i know that he never replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(but -4.58)(i -7.30)(know -3.13)(that -3.36)(he -2.72)(never -4.57)(replace -1.89)(. -1.44) line score is : -3.624, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ but they felt it was doing them good 
+-------------------------score:  -3.413088198751211----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ but it was he was telling us space . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(but -4.58)(it -7.30)(was -3.13)(he -3.36)(was -2.78)(telling -0.70)(us -6.73)(space -5.07)(. -5.66) line score is : -4.369, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.428773989194426----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he had every sense , 
+ he knew when i am across space . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(had -1.75)(every -2.28)(sense -3.16)(, -6.30) line score is : -3.712, look ahead score is : 0.000
+(he -6.30)(knew -4.74)(when -4.05)(i -2.22)(am -1.39)(across -3.95)(space -3.83)(. -5.40) line score is : -3.986, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.454273696860363----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ but it was his actions and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(but -5.17)(it -7.07)(was -2.69)(his -2.92)(actions -2.80)(and -0.76)(replace -3.38)(. -5.09) line score is : -3.734, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.4927041076123713----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he had every sense , 
+ he was through the roof and was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(had -1.75)(every -2.28)(sense -3.16)(, -6.30) line score is : -3.712, look ahead score is : 0.000
+(he -6.30)(was -4.74)(through -4.05)(the -2.22)(roof -1.77)(and -9.13)(was -2.09)(replace -0.99)(. -3.66) line score is : -3.884, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ that her head was bare 
+-------------------------score:  -3.5434731578937284----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ that our expression was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(that -4.58)(our -7.30)(expression -3.13)(was -4.83)(replace -4.68)(. -6.45) line score is : -5.162, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and some of the members are swines 
+-------------------------score:  -3.54571751916203----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ and some of the questions are replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(and -4.58)(some -7.30)(of -3.13)(the -1.83)(questions -7.36)(are -0.84)(replace -1.20)(. -3.28) line score is : -3.690, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.561258996612039----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ and his eyes were bigger and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(and -5.17)(his -7.07)(eyes -2.69)(were -1.32)(bigger -2.12)(and -3.96)(replace -0.99)(. -6.99) line score is : -3.787, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5838756755526577----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ and he was someone very replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(and -5.17)(he -7.07)(was -2.69)(someone -1.32)(very -1.38)(replace -1.45)(. -6.05) line score is : -3.591, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ I did n't think life was this way 
+-------------------------score:  -3.5862523935735227----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he had every sense , 
+ he was not sleep walk frightened this place . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(had -1.75)(every -2.28)(sense -3.16)(, -6.30) line score is : -3.712, look ahead score is : 0.000
+(he -6.30)(was -4.74)(not -4.05)(sleep -2.22)(walk -1.77)(frightened -4.62)(this -7.35)(place -3.81)(. -8.49) line score is : -4.816, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and kissed her because he was wuise 
+-------------------------score:  -3.5888941228903573----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ and were his because he was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(and -5.17)(were -7.07)(his -2.69)(because -1.32)(he -4.62)(was -5.77)(replace -9.24)(. -0.56) line score is : -4.555, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.594165224710415----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he made every sense , 
+ which was needed with the worst staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(made -1.75)(every -2.28)(sense -2.35)(, -4.58) line score is : -3.205, look ahead score is : 0.000
+(which -4.58)(was -7.30)(needed -3.13)(with -4.21)(the -1.55)(worst -8.03)(staircase -4.33)(. -2.11) line score is : -4.404, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.639698571215073----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ he had every sense , 
+ he knew it and saw things and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(he -5.07)(had -1.75)(every -2.28)(sense -3.16)(, -6.30) line score is : -3.712, look ahead score is : 0.000
+(he -6.30)(knew -4.74)(it -4.05)(and -2.22)(saw -1.39)(things -4.10)(and -3.36)(replace -6.08)(. -4.58) line score is : -4.093, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ and hop in before all the crowd 
+-------------------------score:  -3.674126327294728----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ and look within before all the space . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(and -5.17)(look -7.07)(within -2.69)(before -1.32)(all -8.17)(the -7.50)(space -7.97)(. -6.35) line score is : -5.780, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ that unlucky old person of ems 
+-------------------------score:  -3.777252746745944----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ that little old lady of replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(that -5.17)(little -7.07)(old -2.69)(lady -4.73)(of -7.87)(replace -5.48)(. -0.98) line score is : -4.854, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD EVERY NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he perused every page 
+ I d probably know two or three 
+-------------------------score:  -3.8922049529079734----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ his eyes were so intense , 
+ they made every sense , 
+ i mean really do one or replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(his -1.59)(eyes -4.25)(were -4.03)(so -0.88)(intense -2.97)(, -5.07) line score is : -3.132, look ahead score is : 0.000
+(they -5.07)(made -1.75)(every -2.86)(sense -2.00)(, -5.17) line score is : -3.370, look ahead score is : 0.000
+(i -5.17)(mean -7.07)(really -2.69)(do -4.60)(one -4.25)(or -4.48)(replace -5.97)(. -7.49) line score is : -5.215, look ahead score is : 0.000

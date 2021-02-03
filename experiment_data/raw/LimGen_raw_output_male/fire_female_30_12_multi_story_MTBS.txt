@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.1533651953795925----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ it was funny to see and to play . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(it -1.24)(was -9.58)(funny -2.60)(to -7.20)(see -0.72)(and -3.68)(to -2.31)(play -0.52)(. -5.07) line score is : -3.657, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.191415648907423----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ so we quickly got on the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(so -1.24)(we -9.58)(quickly -2.60)(got -4.43)(on -0.59)(the -3.99)(survey -2.74)(. -3.59) line score is : -3.594, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.254677007556893----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ he looked through the window and yelled play . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(he -1.24)(looked -9.58)(through -2.60)(the -5.06)(window -3.86)(and -6.16)(yelled -1.45)(play -1.08)(. -0.95) line score is : -3.553, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.328186129157742----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ because we were having our survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(because -1.24)(we -9.58)(were -2.60)(having -5.71)(our -2.03)(survey -0.85)(. -4.54) line score is : -3.793, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ they bedded her down in the stable 
+-------------------------score:  -3.330650270586052----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ he wanted us down in the bay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(he -1.24)(wanted -9.58)(us -2.60)(down -5.06)(in -3.71)(the -2.33)(bay -9.22)(. -2.92) line score is : -4.582, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was destined to go a long way 
+-------------------------score:  -3.3490024047205225----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ he was mad to see a female play . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(he -1.24)(was -9.58)(mad -2.60)(to -5.06)(see -1.52)(a -5.92)(female -5.14)(play -0.46)(. -4.46) line score is : -3.997, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.4098690350449856----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ but it was our friends and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(but -1.24)(it -9.58)(was -2.60)(our -3.89)(friends -3.07)(and -0.92)(resume -4.36)(. -3.85) line score is : -3.689, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.4240674997770015----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ which had come with the latest survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(which -1.24)(had -9.58)(come -2.60)(with -4.22)(the -4.35)(latest -3.53)(survey -3.87)(. -2.72) line score is : -4.013, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ what was shown on the cinema screen 
+-------------------------score:  -3.4255937603452513----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ what was written on the sign sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(what -1.24)(was -9.58)(written -2.60)(on -8.47)(the -2.94)(sign -6.28)(sunday -0.38)(. -1.21) line score is : -4.088, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.4382183907617785----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ we never expected a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(we -1.24)(never -9.58)(expected -2.60)(a -6.10)(birthday -5.49)(. -2.88) line score is : -4.649, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.443446831428446----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were met by a brown , 
+ well i called it orange in the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(met -0.97)(by -1.58)(a -2.45)(brown -0.56)(, -1.39) line score is : -1.919, look ahead score is : 0.000
+(well -1.39)(i -8.81)(called -4.36)(it -4.67)(orange -9.82)(in -6.88)(the -0.77)(day -6.24)(. -5.16) line score is : -5.345, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.494267226778902----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were met by a brown , 
+ well i swear on my life and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(met -0.97)(by -1.58)(a -2.45)(brown -0.56)(, -1.39) line score is : -1.919, look ahead score is : 0.000
+(well -1.39)(i -8.81)(swear -4.36)(on -4.67)(my -9.82)(life -5.99)(and -4.22)(okay -0.51)(. -1.22) line score is : -4.556, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4987944543602003----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ we never know in a crowd okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(we -1.24)(never -9.58)(know -2.60)(in -6.10)(a -5.49)(crowd -4.39)(okay -5.86)(. -2.59) line score is : -4.731, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.5043968929638787----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ which makes it in pretty good okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(which -1.24)(makes -9.58)(it -2.60)(in -4.22)(pretty -6.25)(good -2.81)(okay -7.78)(. -4.39) line score is : -4.858, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as his talent and confidence swelled 
+-------------------------score:  -3.5409314579019946----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ as our friend and family lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(as -1.24)(our -9.58)(friend -2.60)(and -5.10)(family -4.70)(lay -3.72)(. -2.80) line score is : -4.248, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ when he saw there were six little chips 
+-------------------------score:  -3.549580736667849----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ when he saw there were two chinese lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(when -1.24)(he -9.58)(saw -2.60)(there -7.30)(were -1.63)(two -1.33)(chinese -7.67)(lay -1.26)(. -2.94) line score is : -3.950, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to write verses relating to wind 
+-------------------------score:  -3.5634440766026576----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ to make ourselves disappear to play . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(to -1.24)(make -9.58)(ourselves -2.60)(disappear -6.23)(to -4.45)(play -6.70)(. -5.74) line score is : -5.219, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBG TO VB NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ pretending to represent chile 
+-------------------------score:  -3.576963342061----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ pretending to offer resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(pretending -1.24)(to -9.58)(offer -2.60)(resume -6.66)(. -0.07) line score is : -4.030, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OF PRP$ NN AND NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ of their city and town promenades 
+-------------------------score:  -3.5788840647786855----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were met by a brown , 
+ of his age and stature resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(met -0.97)(by -1.58)(a -2.45)(brown -0.56)(, -1.39) line score is : -1.919, look ahead score is : 0.000
+(of -1.39)(his -8.81)(age -4.36)(and -9.26)(stature -6.38)(resume -2.29)(. -1.91) line score is : -4.915, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.5925122565279404----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ to take two hours to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(to -1.24)(take -9.58)(two -2.60)(hours -6.23)(to -5.09)(resume -7.03)(. -5.12) line score is : -5.270, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.6299479907999435----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ which took that idea of birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(which -1.24)(took -9.58)(that -2.60)(idea -4.22)(of -4.90)(birthday -6.15)(. -5.45) line score is : -4.877, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he couldn t think of anything 
+-------------------------score:  -3.7059951171038614----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were met by a brown , 
+ almost me ca very look of day . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(met -0.97)(by -1.58)(a -2.45)(brown -0.56)(, -1.39) line score is : -1.919, look ahead score is : 0.000
+(almost -1.39)(me -8.81)(ca -4.36)(very -5.58)(look -8.10)(of -9.33)(day -6.57)(. -5.10) line score is : -6.155, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHILE THAT JJ JJ NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ while that futile old gentleman dozed 
+-------------------------score:  -3.762359407171607----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ while that little old lady halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(while -1.24)(that -9.58)(little -2.60)(old -6.50)(lady -7.46)(halfway -4.08)(. -4.21) line score is : -5.096, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.773462355779163----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ dressed almost a little resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(dressed -1.24)(almost -9.58)(a -2.60)(little -3.75)(resume -6.71)(. -6.85) line score is : -5.122, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I ll give you prostheses for free 
+-------------------------score:  -3.9406999538262046----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were met by a brown , 
+ i ca tag he uses for stray . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(met -0.97)(by -1.58)(a -2.45)(brown -0.56)(, -1.39) line score is : -1.919, look ahead score is : 0.000
+(i -1.39)(ca -8.81)(tag -4.36)(he -8.53)(uses -7.82)(for -6.20)(stray -6.72)(. -8.37) line score is : -6.525, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ or does gravity miss things so small 
+-------------------------score:  -3.9470169194523366----------------------- 
+there was a loud woman named renee 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were met by a brown , 
+ or is hi brush species so okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(met -0.97)(by -1.58)(a -2.45)(brown -0.56)(, -1.39) line score is : -1.919, look ahead score is : 0.000
+(or -1.39)(is -8.81)(hi -4.36)(brush -7.94)(species -7.42)(so -3.28)(okay -5.93)(. -7.32) line score is : -5.806, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -4.097320845350623----------------------- 
+there was a loud woman named kay 
+ who put a big smile on our way . 
+ when we arrived to town , 
+ we were stopped by a clown , 
+ as if they outright thought resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(put -6.38)(a -2.97)(big -3.83)(smile -0.72)(on -0.03)(our -2.83)(way -9.14)(. -2.44) line score is : -3.345, look ahead score is : 0.000
+(when -2.44)(we -4.81)(arrived -0.97)(to -1.67)(town -3.70)(, -5.50) line score is : -3.183, look ahead score is : 0.000
+(we -5.50)(were -0.99)(stopped -0.97)(by -1.58)(a -5.22)(clown -0.49)(, -1.24) line score is : -2.283, look ahead score is : 0.000
+(as -1.24)(if -9.58)(they -2.60)(outright -5.10)(thought -2.63)(resume -4.29)(. -13.19) line score is : -5.518, look ahead score is : 0.000

@@ -1,0 +1,286 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.982289422642101----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ so he gave up and quit on the ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(so -1.46)(he -8.98)(gave -2.33)(up -5.76)(and -0.59)(quit -3.91)(on -4.34)(the -2.72)(ship -6.17)(. -4.81) line score is : -4.109, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.0905103413388133----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ then he saw him walk towards the ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(then -1.46)(he -8.98)(saw -2.33)(him -6.44)(walk -3.82)(towards -2.39)(the -4.60)(ship -4.91)(. -4.24) line score is : -4.354, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.1708941588221933----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ he was able to talk and to strip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(he -1.46)(was -8.98)(able -2.33)(to -5.89)(talk -2.83)(and -4.93)(to -0.00)(strip -4.01)(. -3.77) line score is : -3.802, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.1992393641760857----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ he tells a young girl out in the strip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(he -1.46)(tells -8.98)(a -2.33)(young -5.89)(girl -4.59)(out -4.49)(in -4.57)(the -2.09)(strip -7.01)(. -1.70) line score is : -4.312, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.256509364678942----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ he instantly recognized a ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(he -1.46)(instantly -8.98)(recognized -2.33)(a -5.89)(ship -7.10)(. -1.80) line score is : -4.596, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.355286522768438----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ it was through the window and said rip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(it -1.46)(was -8.98)(through -2.33)(the -8.17)(window -1.31)(and -7.81)(said -1.41)(rip -3.67)(. -2.89) line score is : -4.227, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.40952121373266----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ then he slept on his doorstep and tip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(then -1.46)(he -8.98)(slept -2.33)(on -6.44)(his -3.82)(doorstep -7.66)(and -2.03)(tip -2.68)(. -3.33) line score is : -4.306, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.4325730569901003----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was told by a clown , 
+ to be careful people on he strip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(told -0.61)(by -2.34)(a -3.38)(clown -1.83)(, -1.84) line score is : -2.083, look ahead score is : 0.000
+(to -1.84)(be -9.64)(careful -3.15)(people -5.85)(on -3.35)(he -0.93)(strip -8.91)(. -5.11) line score is : -4.848, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.449486798606813----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ he told them and asked questions and lip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(he -1.46)(told -8.98)(them -2.33)(and -5.89)(asked -2.83)(questions -3.15)(and -3.14)(lip -3.24)(. -6.19) line score is : -4.136, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -3.457179873250425----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ it was not till someone called this ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(it -1.46)(was -8.98)(not -2.33)(till -8.17)(someone -1.31)(called -4.46)(this -5.21)(ship -6.56)(. -2.98) line score is : -4.608, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.50863078621126----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ i think probably bob ten or rip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(i -1.46)(think -8.98)(probably -2.33)(bob -7.74)(ten -2.05)(or -6.00)(rip -5.82)(. -9.13) line score is : -5.439, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.634945084971766----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was struck by a clown , 
+ that no doubt was inspired but slip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(struck -0.61)(by -2.34)(a -5.30)(clown -0.31)(, -1.67) line score is : -2.116, look ahead score is : 0.000
+(that -1.67)(no -8.81)(doubt -2.74)(was -6.20)(inspired -6.16)(but -2.73)(slip -1.81)(. -3.87) line score is : -4.249, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBG RB A NN OF FW FW . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ leaving only a pile of de brie 
+-------------------------score:  -3.7646901367172116----------------------- 
+there was a lazy man named kip 
+ who went a long distance on his trip . 
+ when he returned to town , 
+ he was met by a clown , 
+ trying almost a dozen of de whip . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(went -3.96)(a -5.56)(long -2.21)(distance -3.88)(on -3.38)(his -1.71)(trip -5.60)(. -1.99) line score is : -3.302, look ahead score is : 0.000
+(when -1.99)(he -4.00)(returned -0.64)(to -1.68)(town -2.33)(, -3.38) line score is : -2.338, look ahead score is : 0.000
+(he -3.38)(was -1.20)(met -0.61)(by -2.34)(a -3.68)(clown -0.32)(, -1.46) line score is : -1.856, look ahead score is : 0.000
+(trying -1.46)(almost -8.98)(a -2.33)(dozen -7.59)(of -9.52)(de -5.56)(whip -2.32)(. -5.45) line score is : -5.404, look ahead score is : 0.000

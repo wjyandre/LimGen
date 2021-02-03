@@ -1,0 +1,44 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.799099989235401----------------------- 
+there was a teacher named dot 
+ who found a strange object on her lot . 
+ when she returned to work , 
+ she was told by a clerk , 
+ that the item she saw was a pot . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(found -6.14)(a -2.10)(strange -5.28)(object -3.37)(on -2.44)(her -1.79)(lot -6.92)(. -2.33) line score is : -3.530, look ahead score is : 0.000
+(when -2.33)(she -3.19)(returned -0.46)(to -3.32)(work -1.55)(, -4.04) line score is : -2.483, look ahead score is : 0.000
+(she -4.04)(was -0.97)(told -0.52)(by -2.13)(a -2.30)(clerk -1.57)(, -1.64) line score is : -1.881, look ahead score is : 0.000
+(that -1.64)(the -6.57)(item -4.26)(she -3.10)(saw -1.45)(was -3.52)(a -3.48)(pot -3.56)(. -0.60) line score is : -3.130, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -2.905977411661297----------------------- 
+there was a teacher named bok 
+ who found a dead body on her block . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she was ordered to leave and to knock . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(found -6.14)(a -2.10)(dead -4.89)(body -2.02)(on -2.38)(her -2.49)(block -7.22)(. -1.71) line score is : -3.372, look ahead score is : 0.000
+(when -1.71)(she -3.46)(returned -0.68)(to -3.95)(work -1.13)(, -3.42) line score is : -2.392, look ahead score is : 0.000
+(she -3.42)(was -0.98)(told -0.52)(by -2.34)(a -1.80)(clerk -1.56)(, -1.56) line score is : -1.740, look ahead score is : 0.000
+(she -1.56)(was -6.80)(ordered -3.90)(to -4.13)(leave -1.22)(and -6.17)(to -0.25)(knock -2.43)(. -2.77) line score is : -3.249, look ahead score is : 0.000

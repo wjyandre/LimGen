@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ so he had to sit down on the floor 
+-------------------------score:  -3.019705169623898----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ so i tried to be down on the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(so -1.44)(i -3.92)(tried -2.09)(to -4.17)(be -0.80)(down -3.75)(on -0.46)(the -2.97)(day -8.30)(. -2.65) line score is : -3.057, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ then he walloped me square in the face 
+-------------------------score:  -3.039303008715312----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ once she saw me waving in the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(once -1.44)(she -3.92)(saw -2.09)(me -7.28)(waving -1.55)(in -1.76)(the -0.67)(way -6.24)(. -4.29) line score is : -3.249, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ but they felt it was doing them good 
+-------------------------score:  -3.1374460220336915----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ but i knew she was doing it day . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(but -1.44)(i -3.92)(knew -2.09)(she -3.25)(was -2.10)(doing -2.99)(it -0.79)(day -0.94)(. -3.80) line score is : -2.369, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1576203165515775----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ so i went up and slept on the hay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(so -1.44)(i -3.92)(went -2.09)(up -4.17)(and -0.80)(slept -3.94)(on -3.87)(the -2.33)(hay -7.58)(. -1.89) line score is : -3.204, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ because I was sniffing my toes 
+-------------------------score:  -3.2246818265744617----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ because she was holding my sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(because -1.44)(she -3.92)(was -2.09)(holding -2.49)(my -0.60)(sunday -1.96)(. -4.68) line score is : -2.453, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ within weeks it was all in the past 
+-------------------------score:  -3.2584344665209453----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ in dresses she wore all in the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(in -1.44)(dresses -3.92)(she -2.09)(wore -4.11)(all -7.21)(in -3.14)(the -2.28)(day -3.91)(. -5.58) line score is : -3.742, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.277278519909957----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and her arms were bigger and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(her -3.92)(arms -2.09)(were -1.73)(bigger -3.41)(and -4.83)(okay -1.00)(. -6.07) line score is : -3.060, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ you never can tell till you try 
+-------------------------score:  -3.2942895827622247----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ i never can tell unless i pray . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(i -1.44)(never -3.92)(can -2.09)(tell -3.84)(unless -5.45)(i -6.61)(pray -1.76)(. -6.59) line score is : -3.962, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2991308331489564----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ she looked through the window and smiled day . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(she -1.44)(looked -3.92)(through -2.09)(the -3.21)(window -3.63)(and -6.91)(smiled -1.63)(day -1.71)(. -1.42) line score is : -2.884, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.302088807369101----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ but she kept her promises and lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(but -1.44)(she -3.92)(kept -2.09)(her -3.25)(promises -1.39)(and -4.01)(lay -2.25)(. -2.75) line score is : -2.637, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ he was n't the wizard he woz 
+-------------------------score:  -3.3344596809354323----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ she was also the reason i lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(she -1.44)(was -3.92)(also -2.09)(the -3.21)(reason -1.60)(i -3.97)(lay -3.69)(. -4.10) line score is : -3.003, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ he never completed his task 
+-------------------------score:  -3.345113045639462----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ i never expected her okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(i -1.44)(never -3.92)(expected -2.09)(her -3.84)(okay -5.45)(. -3.99) line score is : -3.454, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.4208669662475586----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and smiled with a gentle resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(smiled -3.92)(with -2.09)(a -1.73)(gentle -5.53)(resume -3.85)(. -1.86) line score is : -2.916, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ then I sat on my moped and moped 
+-------------------------score:  -3.4373103539148966----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ once you get on her level and lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(once -1.44)(you -3.92)(get -2.09)(on -7.28)(her -1.43)(level -2.74)(and -5.78)(lay -1.12)(. -1.85) line score is : -3.073, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and returned on the previous night 
+-------------------------score:  -3.460576512983867----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and was on the upper resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(was -3.92)(on -2.09)(the -1.73)(upper -4.41)(resume -5.90)(. -1.80) line score is : -3.042, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ as his talent and confidence swelled 
+-------------------------score:  -3.480852488960539----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ as my father and mother sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(as -1.44)(my -3.92)(father -2.09)(and -3.06)(mother -4.73)(sunday -2.86)(. -3.48) line score is : -3.083, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and sideways he could n't be seen 
+-------------------------score:  -3.508876788205114----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and says she could not believe sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(says -3.92)(she -2.09)(could -1.73)(not -8.75)(believe -1.41)(sunday -4.44)(. -4.45) line score is : -3.529, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.520362959057093----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ she told me and asked questions and say . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(she -1.44)(told -3.92)(me -2.09)(and -3.21)(asked -4.28)(questions -0.10)(and -4.62)(say -4.80)(. -5.45) line score is : -3.323, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.5269527392727986----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and kept her composure a sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(kept -3.92)(her -2.09)(composure -1.73)(a -5.27)(sunday -2.98)(. -5.37) line score is : -3.256, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ because of his scanty regalia 
+-------------------------score:  -3.531752485495347----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ unlike our previous survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(unlike -1.44)(our -3.92)(previous -2.09)(survey -8.02)(. -4.85) line score is : -4.064, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ to call my last novel impure 
+-------------------------score:  -3.557748398610524----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ to be her own woman resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(to -1.44)(be -3.92)(her -2.09)(own -4.23)(woman -2.10)(resume -6.21)(. -1.78) line score is : -3.110, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.5783172886947106----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ always come up all happy and gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(always -1.44)(come -3.92)(up -2.09)(all -5.92)(happy -7.43)(and -3.63)(gay -7.75)(. -4.86) line score is : -4.630, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and finished the solo with honour 
+-------------------------score:  -3.641996907336371----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and made the process with resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(made -3.92)(the -2.09)(process -1.73)(with -4.45)(resume -3.65)(. -5.44) line score is : -3.245, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.6425619310346145----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ for three days straight right at resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(for -1.44)(three -3.92)(days -2.09)(straight -3.47)(right -7.33)(at -0.99)(resume -2.16)(. -7.61) line score is : -3.627, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ BECAUSE THE NN VBD AND VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ because the man bullied and boucestcr 
+-------------------------score:  -3.7427719363144467----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ because the man was and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(because -1.44)(the -3.92)(man -2.09)(was -2.49)(and -4.13)(resume -5.19)(. -2.55) line score is : -3.115, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ and since then has never benzene 
+-------------------------score:  -3.772269764116832----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ and since then lives happily halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(and -1.44)(since -3.92)(then -2.09)(lives -1.73)(happily -6.31)(halfway -3.59)(. -9.99) line score is : -4.153, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -3.7933057278394697----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ they ca hit it off if i say . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(they -1.44)(ca -3.92)(hit -2.09)(it -7.15)(off -8.91)(if -11.84)(i -2.86)(say -0.23)(. -7.53) line score is : -5.108, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ to balance green peas on her fork 
+-------------------------score:  -3.809997825786985----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ to have grown wings on me resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(to -1.44)(have -3.92)(grown -2.09)(wings -4.23)(on -4.29)(me -4.48)(resume -7.71)(. -2.78) line score is : -3.867, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ PRP MD VB UP A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ they 'd kick up a hullabaloo 
+-------------------------score:  -4.083542266062328----------------------- 
+there was a neat lady named kay 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ they ca play up a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(they -1.44)(ca -3.92)(play -2.09)(up -7.15)(a -8.91)(resume -10.35)(. -6.37) line score is : -5.748, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ IN A JJ NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ in a relative way 
+ great writers are fewer and fewer 
+-------------------------score:  -4.160931753260749----------------------- 
+there was a neat lady named renee 
+ who cut a sweet smile on my birthday . 
+ she was like a fairy , 
+ though a little scary , 
+ big eyes look horsepower and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.84)(cut -7.55)(a -3.52)(sweet -4.05)(smile -2.31)(on -1.72)(my -0.80)(birthday -5.89)(. -0.93) line score is : -3.177, look ahead score is : 0.000
+(she -0.93)(was -2.05)(like -1.73)(a -4.22)(fairy -1.32)(, -4.92) line score is : -2.526, look ahead score is : 0.000
+(though -4.92)(a -3.26)(little -4.97)(scary -4.30)(, -1.44) line score is : -3.779, look ahead score is : 0.000
+(big -1.44)(eyes -3.92)(look -2.09)(horsepower -8.79)(and -3.87)(okay -6.86)(. -18.70) line score is : -6.525, look ahead score is : 0.000

@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ so he had to sit down on the floor 
+-------------------------score:  -3.1180713912754348----------------------- 
+there was a warrior named marcell 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ so i tried to climb down on the trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(so -0.72)(i -5.76)(tried -1.81)(to -3.97)(climb -1.23)(down -4.04)(on -0.12)(the -3.83)(trail -2.96)(. -3.88) line score is : -2.832, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.140834273714008----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ so i jumped up and beat on the rail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(so -0.72)(i -5.76)(jumped -1.81)(up -3.97)(and -1.23)(beat -3.99)(on -2.22)(the -0.83)(rail -5.50)(. -3.41) line score is : -2.944, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.3088432662189007----------------------- 
+there was a warrior named maile 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ but my eyes were down to her detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(but -0.72)(my -5.76)(eyes -1.81)(were -2.30)(down -5.04)(to -1.54)(her -1.35)(detail -7.28)(. -2.82) line score is : -3.181, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but it does n't come out of my purse 
+-------------------------score:  -3.3663145788013935----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ but she is not blind in her detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(but -0.69)(she -5.59)(is -1.76)(not -2.08)(blind -1.98)(in -4.76)(her -2.20)(detail -6.75)(. -4.53) line score is : -3.371, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.3838698089122774----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and followed with a little detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(and -0.72)(followed -5.76)(with -1.81)(a -1.54)(little -6.74)(detail -3.77)(. -2.05) line score is : -3.199, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and finished the solo with honour 
+-------------------------score:  -3.4055534680684407----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and covered the river with detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(and -0.72)(covered -5.76)(the -1.81)(river -1.54)(with -6.60)(detail -2.48)(. -5.14) line score is : -3.434, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ within weeks it was all in the past 
+-------------------------score:  -3.4323759619146585----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ in places it was all in the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(in -0.79)(places -5.81)(it -1.72)(was -4.23)(all -7.02)(in -4.78)(the -0.92)(sand -5.81)(. -4.36) line score is : -3.938, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.432790535111581----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ but it was her movements and detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(but -0.72)(it -5.76)(was -1.81)(her -2.30)(movements -2.89)(and -0.68)(detail -5.10)(. -6.22) line score is : -3.186, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but they felt it was doing them good 
+-------------------------score:  -3.4518836606293917----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ but it was we were seeing it pale . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(but -0.69)(it -5.59)(was -1.76)(we -2.08)(were -2.95)(seeing -0.63)(it -7.02)(pale -4.85)(. -4.02) line score is : -3.288, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.458620375022292----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ and she was down and covered her trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(and -0.69)(she -5.59)(was -1.76)(down -1.54)(and -2.06)(covered -1.76)(her -7.88)(trail -3.53)(. -5.20) line score is : -3.335, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and she baked really great apple pies 
+-------------------------score:  -3.5053945337572405----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and it was not long beforehand pale . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(and -0.72)(it -5.76)(was -1.81)(not -1.54)(long -3.36)(beforehand -1.16)(pale -3.18)(. -3.14) line score is : -2.583, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ then I sat on my moped and moped 
+-------------------------score:  -3.5269787814468145----------------------- 
+there was a warrior named maile 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ then she sprang on my head and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(then -0.72)(she -5.76)(sprang -1.81)(on -5.06)(my -2.08)(head -6.15)(and -3.66)(female -2.60)(. -1.99) line score is : -3.315, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and could n't bend back again 
+-------------------------score:  -3.5270337919394175----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and could hardly see back beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(and -0.79)(could -5.81)(hardly -1.72)(see -1.48)(back -4.87)(beforehand -3.85)(. -2.10) line score is : -2.947, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.529485521838069----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which she kept in the snow , 
+ and for hours she just froze her trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(she -2.23)(kept -5.19)(in -3.25)(the -3.37)(snow -2.64)(, -1.37) line score is : -3.268, look ahead score is : 0.000
+(and -1.37)(for -6.35)(hours -1.98)(she -1.69)(just -5.54)(froze -3.68)(her -0.86)(trail -6.87)(. -6.42) line score is : -3.862, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.541507661342621----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and i felt cold everywhere inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(and -0.79)(i -5.81)(felt -1.72)(cold -1.48)(everywhere -1.51)(inland -2.99)(. -5.11) line score is : -2.774, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and hop in before all the crowd 
+-------------------------score:  -3.5436600273655308----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and put in before all the woodland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(and -0.79)(put -5.81)(in -1.72)(before -1.48)(all -7.67)(the -3.50)(woodland -7.15)(. -5.44) line score is : -4.195, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but I guess that you probably gnu 
+-------------------------score:  -3.546035464732878----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ but i think that she never detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(but -0.72)(i -5.76)(think -1.81)(that -2.30)(she -1.63)(never -5.00)(detail -2.14)(. -1.62) line score is : -2.622, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but nobody knew what he said 
+-------------------------score:  -3.569412976503372----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ but nobody knew what it detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(but -0.72)(nobody -5.76)(knew -1.81)(what -2.30)(it -7.98)(detail -2.40)(. -1.94) line score is : -3.274, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ she sat up in bed and meowed 
+-------------------------score:  -3.603837538150049----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ she was up in water and female . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(she -0.72)(was -5.76)(up -1.81)(in -4.67)(water -1.26)(and -7.25)(female -2.27)(. -7.45) line score is : -3.899, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ he was n't the wizard he woz 
+-------------------------score:  -3.608009482583692----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ she was not the woman she female . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(she -0.69)(was -5.59)(not -1.76)(the -4.58)(woman -1.27)(she -3.68)(female -4.25)(. -4.79) line score is : -3.326, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and showed him many cstar 
+-------------------------score:  -3.6840687558568757----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and made us many beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(and -0.79)(made -5.81)(us -1.72)(many -1.48)(beforehand -5.71)(. -5.74) line score is : -3.542, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.697347543636958----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and made her return a beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(and -0.79)(made -5.81)(her -1.72)(return -1.48)(a -5.71)(beforehand -2.00)(. -6.50) line score is : -3.431, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAN THERE VBP IN THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ than there are in the star-spangled banner 
+-------------------------score:  -3.742770962176784----------------------- 
+there was a warrior named maile 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ than there arose in the same detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(than -0.69)(there -5.59)(arose -1.76)(in -8.96)(the -6.80)(same -6.31)(detail -2.38)(. -1.52) line score is : -4.251, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ for not selling her waterproof paint 
+-------------------------score:  -3.744843178987503----------------------- 
+there was a warrior named marcell 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ for not finding it enough detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(for -0.72)(not -5.76)(finding -1.81)(it -4.77)(enough -6.20)(detail -6.75)(. -2.14) line score is : -4.022, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.7474841763233315----------------------- 
+there was a warrior named brande 
+ who crawled a long distance on her hand . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ the darkness has taken beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(hand -5.69)(. -2.43) line score is : -3.840, look ahead score is : 0.000
+(she -2.43)(was -2.15)(like -1.88)(a -5.16)(shadow -0.62)(, -4.59) line score is : -2.805, look ahead score is : 0.000
+(which -4.59)(i -2.14)(saw -5.20)(in -3.92)(the -2.19)(snow -2.69)(, -0.79) line score is : -3.074, look ahead score is : 0.000
+(the -0.79)(darkness -5.81)(has -1.72)(taken -4.70)(beforehand -4.71)(. -7.83) line score is : -4.259, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ but will ruminate on while I chew 
+-------------------------score:  -3.809815804804525----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ but will remain on while you detail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(but -0.69)(will -5.59)(remain -1.76)(on -2.08)(while -9.03)(you -4.31)(detail -4.56)(. -7.90) line score is : -4.490, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.8403576670154447----------------------- 
+there was a warrior named marcell 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ for two hours straight right at thumbnail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(for -0.72)(two -5.76)(hours -1.81)(straight -4.77)(right -6.09)(at -1.74)(thumbnail -4.79)(. -9.41) line score is : -4.386, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ then he couldn t think of anything 
+-------------------------score:  -3.9450719721855654----------------------- 
+there was a warrior named dayle 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which we saw in the snow , 
+ then she ca not return of trail . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(we -2.23)(saw -5.19)(in -4.70)(the -2.05)(snow -2.74)(, -0.69) line score is : -3.202, look ahead score is : 0.000
+(then -0.69)(she -5.59)(ca -1.76)(not -5.03)(return -1.86)(of -9.50)(trail -12.03)(. -3.75) line score is : -5.026, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.9906381852924824----------------------- 
+there was a warrior named abigail 
+ who crawled a long distance on her tail . 
+ she was like a shadow , 
+ which i saw in the snow , 
+ and trying sleep it is but cruel tale . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(crawled -9.75)(a -5.41)(long -1.70)(distance -2.76)(on -4.22)(her -1.36)(tail -5.25)(. -2.13) line score is : -3.757, look ahead score is : 0.000
+(she -2.13)(was -2.06)(like -1.82)(a -5.03)(shadow -0.57)(, -4.82) line score is : -2.738, look ahead score is : 0.000
+(which -4.82)(i -2.23)(saw -5.19)(in -3.81)(the -2.44)(snow -2.79)(, -0.72) line score is : -3.143, look ahead score is : 0.000
+(and -0.72)(trying -5.76)(sleep -1.81)(it -1.54)(is -8.35)(but -10.92)(cruel -4.72)(tale -5.92)(. -5.99) line score is : -5.080, look ahead score is : 0.000

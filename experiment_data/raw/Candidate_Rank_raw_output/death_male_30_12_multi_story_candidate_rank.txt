@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.618623780481743----------------------- 
+there was a brave soldier named javier 
+ who lived all his life in a nightmare . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and he sat down and said his prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(lived -4.50)(all -5.83)(his -1.12)(life -0.13)(in -1.13)(a -2.41)(nightmare -9.27)(. -2.01) line score is : -3.103, look ahead score is : 0.000
+(he -2.01)(came -1.68)(back -4.71)(from -2.51)(the -1.37)(grave -1.36)(, -2.98) line score is : -2.374, look ahead score is : 0.000
+(and -2.98)(he -2.49)(went -2.17)(to -2.30)(the -4.32)(cave -1.16)(, -1.88) line score is : -2.473, look ahead score is : 0.000
+(and -1.88)(he -6.82)(sat -2.30)(down -0.58)(and -0.56)(said -4.15)(his -0.98)(prayer -1.67)(. -3.56) line score is : -2.500, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHOSE NN VBD A NN IN NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+whose pa made a fortune in pork 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.663316359743476----------------------- 
+there was a brave soldier named theodore 
+ whose father died a hero in war . 
+ he came back from the grave , 
+ and he went to the cave , 
+ and he fell down and killed his mentor . 
+------------------------- score breakdown ------------------------ 
+(whose -5.38)(father -3.07)(died -2.53)(a -4.10)(hero -2.09)(in -2.35)(war -3.43)(. -1.20) line score is : -3.019, look ahead score is : 0.000
+(he -1.20)(came -1.47)(back -4.05)(from -1.52)(the -1.71)(grave -1.36)(, -3.83) line score is : -2.161, look ahead score is : 0.000
+(and -3.83)(he -2.40)(went -2.25)(to -2.98)(the -4.13)(cave -1.01)(, -1.91) line score is : -2.643, look ahead score is : 0.000
+(and -1.91)(he -7.10)(fell -2.46)(down -0.86)(and -0.74)(killed -4.42)(his -2.72)(mentor -1.79)(. -3.17) line score is : -2.796, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -2.9125081980600953----------------------- 
+there was a brave soldier named javier 
+ who lived all his life in a nightmare . 
+ he came back from the war , 
+ and he went to the store , 
+ and he had not much money elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(lived -4.50)(all -5.83)(his -1.12)(life -0.13)(in -1.13)(a -2.41)(nightmare -9.27)(. -2.01) line score is : -3.103, look ahead score is : 0.000
+(he -2.01)(came -1.68)(back -4.71)(from -2.51)(the -1.37)(war -1.36)(, -1.50) line score is : -2.162, look ahead score is : 0.000
+(and -1.50)(he -2.91)(went -2.16)(to -2.02)(the -3.98)(store -0.90)(, -2.04) line score is : -2.217, look ahead score is : 0.000
+(and -2.04)(he -6.07)(had -2.14)(not -0.63)(much -0.44)(money -3.87)(elsewhere -6.64)(. -4.94) line score is : -3.346, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHOSE NN VBD A NN IN NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH THE NN OF A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+whose pa made a fortune in pork 
+ they came back from the ride 
+ with the faith of a marytr 
+ and finished the solo with honour 
+-------------------------score:  -3.0162780480459332----------------------- 
+there was a brave soldier named salvador 
+ whose father died a hero in war . 
+ he came back from the grave , 
+ with the help of a slave , 
+ and joined the resistance with mentor . 
+------------------------- score breakdown ------------------------ 
+(whose -5.38)(father -3.07)(died -2.53)(a -4.10)(hero -2.09)(in -2.35)(war -3.43)(. -1.20) line score is : -3.019, look ahead score is : 0.000
+(he -1.20)(came -1.47)(back -4.05)(from -1.52)(the -1.71)(grave -1.36)(, -3.83) line score is : -2.161, look ahead score is : 0.000
+(with -3.83)(the -2.40)(help -3.64)(of -2.32)(a -2.85)(slave -0.02)(, -1.64) line score is : -2.385, look ahead score is : 0.000
+(and -1.64)(joined -8.12)(the -2.35)(resistance -1.40)(with -3.95)(mentor -0.57)(. -3.42) line score is : -3.063, look ahead score is : 0.000

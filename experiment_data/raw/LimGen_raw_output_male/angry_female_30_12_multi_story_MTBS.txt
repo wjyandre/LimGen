@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.2925052585140353----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ he said that his mother was nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(he -2.20)(said -5.16)(that -1.81)(his -4.27)(mother -2.77)(was -3.33)(nearby -3.15)(. -0.81) line score is : -2.939, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ she was ready to give and to take 
+-------------------------score:  -3.2931557465344667----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ she was afraid to speak and to die . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(she -2.20)(was -5.16)(afraid -1.81)(to -3.53)(speak -1.41)(and -5.52)(to -1.54)(die -2.53)(. -3.94) line score is : -3.072, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.531479589641094----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ he was through the door and was goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(he -2.20)(was -5.16)(through -1.81)(the -4.27)(door -1.30)(and -9.23)(was -2.77)(goodbye -1.68)(. -2.07) line score is : -3.388, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but the other won several prizes 
+-------------------------score:  -3.538349618514379----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ but the latter was silent nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(but -3.20)(the -4.76)(latter -1.49)(was -5.32)(silent -2.50)(nearby -4.47)(. -1.90) line score is : -3.376, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.5982420295476913----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was stopped by her son , 
+ but his eyes were down to her nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(stopped -0.83)(by -2.81)(her -5.30)(son -0.75)(, -2.71) line score is : -3.071, look ahead score is : 0.000
+(but -2.71)(his -5.23)(eyes -1.65)(were -4.79)(down -4.22)(to -3.59)(her -1.02)(nearby -6.10)(. -4.86) line score is : -3.797, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ he left all his fans wanting more 
+-------------------------score:  -3.650699378982667----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ he had all his friends waiting goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(he -2.20)(had -5.16)(all -1.81)(his -4.27)(friends -1.77)(waiting -7.47)(goodbye -2.15)(. -3.10) line score is : -3.490, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but I guess that you probably gnu 
+-------------------------score:  -3.6653227113908335----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was stopped by her son , 
+ but she heard that he also nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(stopped -0.83)(by -2.81)(her -5.30)(son -0.75)(, -2.71) line score is : -3.071, look ahead score is : 0.000
+(but -2.71)(she -5.23)(heard -1.65)(that -4.79)(he -1.76)(also -5.49)(nearby -3.34)(. -1.86) line score is : -3.355, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.6704946698681002----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was stopped by her son , 
+ and told her because she had nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(stopped -0.83)(by -2.81)(her -5.30)(son -0.75)(, -2.71) line score is : -3.071, look ahead score is : 0.000
+(and -2.71)(told -5.23)(her -1.65)(because -3.27)(she -3.51)(had -3.96)(nearby -8.87)(. -0.93) line score is : -3.767, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.6857864472173874----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was stopped by her son , 
+ and then she says a police nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(stopped -0.83)(by -2.81)(her -5.30)(son -0.75)(, -2.71) line score is : -3.071, look ahead score is : 0.000
+(and -2.71)(then -5.23)(she -1.65)(says -3.27)(a -3.49)(police -2.53)(nearby -7.55)(. -3.83) line score is : -3.782, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.704523876309395----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ it was him and were friends and nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(it -2.20)(was -5.16)(him -1.81)(and -5.74)(were -0.35)(friends -4.12)(and -3.49)(nearby -7.40)(. -6.19) line score is : -4.051, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.7139734587361737----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was found by her son , 
+ and put outside before all the sky . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(found -0.83)(by -2.81)(her -5.65)(son -2.59)(, -1.91) line score is : -3.270, look ahead score is : 0.000
+(and -1.91)(put -4.27)(outside -1.68)(before -2.55)(all -5.84)(the -6.83)(sky -5.35)(. -5.50) line score is : -4.242, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.7238764070695445----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ but she heard too little for nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(but -3.20)(she -4.76)(heard -1.49)(too -5.32)(little -2.34)(for -4.85)(nearby -6.99)(. -1.98) line score is : -3.865, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ they bedded her down in the stable 
+-------------------------score:  -3.7376708119146285----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ it was him down underneath the sky . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(it -2.20)(was -5.16)(him -1.81)(down -5.74)(underneath -0.35)(the -4.12)(sky -9.80)(. -8.91) line score is : -4.762, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.739885590970516----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was found by her son , 
+ but she has not come in his nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(found -0.83)(by -2.81)(her -5.65)(son -2.59)(, -1.91) line score is : -3.270, look ahead score is : 0.000
+(but -1.91)(she -4.27)(has -1.68)(not -4.49)(come -1.97)(in -6.29)(his -1.10)(nearby -3.31)(. -4.97) line score is : -3.334, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.7423200170199076----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was stopped by her son , 
+ and said with a serious goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(stopped -0.83)(by -2.81)(her -5.30)(son -0.75)(, -2.71) line score is : -3.071, look ahead score is : 0.000
+(and -2.71)(said -5.23)(with -1.65)(a -3.27)(serious -4.19)(goodbye -5.60)(. -1.09) line score is : -3.392, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.7653716843703697----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was found by her son , 
+ aged only a little nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(found -0.83)(by -2.81)(her -5.65)(son -2.59)(, -1.91) line score is : -3.270, look ahead score is : 0.000
+(aged -1.91)(only -4.27)(a -1.68)(little -6.84)(nearby -4.71)(. -4.85) line score is : -4.045, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ in a sugary takeover bid 
+-------------------------score:  -3.7922597835803855----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ in a different language thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(in -2.20)(a -5.16)(different -1.81)(language -5.77)(thereby -2.02)(. -5.18) line score is : -3.690, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.885468989610672----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ in tears he was all in the nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(in -3.20)(tears -4.76)(he -1.49)(was -5.70)(all -2.26)(in -7.46)(the -3.14)(nearby -5.54)(. -4.29) line score is : -4.204, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ turned out to be plaster of paris 
+-------------------------score:  -3.898204061292833----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ dressed out to be something of ally . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(dressed -3.20)(out -4.76)(to -1.49)(be -6.35)(something -7.76)(of -5.70)(ally -2.56)(. -4.97) line score is : -4.597, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.8988462487856546----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was found by her son , 
+ and asked her forgiveness a nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(found -0.83)(by -2.81)(her -5.65)(son -2.59)(, -1.91) line score is : -3.270, look ahead score is : 0.000
+(and -1.91)(asked -4.27)(her -1.68)(forgiveness -2.55)(a -5.00)(nearby -4.00)(. -4.17) line score is : -3.369, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ as if he 'd been invited 
+-------------------------score:  -3.934079627195994----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ as if she outright denied thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(as -2.20)(if -5.16)(she -1.81)(outright -6.18)(denied -2.99)(thereby -1.29)(. -12.95) line score is : -4.656, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and now a new teacher they seek 
+-------------------------score:  -3.9464538520382297----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ and then a young woman she thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(and -3.20)(then -4.76)(a -1.49)(young -3.67)(woman -3.34)(she -3.44)(thereby -3.77)(. -1.34) line score is : -3.125, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but the telephone book caused him pain 
+-------------------------score:  -3.9502182814382736----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ but the boy stayed shut himself thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(but -3.20)(the -4.76)(boy -1.49)(stayed -5.32)(shut -2.50)(himself -1.95)(thereby -5.72)(. -8.09) line score is : -4.127, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ but nobody knew what he said 
+-------------------------score:  -3.9859514395395914----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was found by her son , 
+ but nobody knew what they thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(found -0.83)(by -2.81)(her -5.65)(son -2.59)(, -1.91) line score is : -3.270, look ahead score is : 0.000
+(but -1.91)(nobody -4.27)(knew -1.68)(what -4.49)(they -5.91)(thereby -1.86)(. -2.21) line score is : -3.190, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.127157935872674----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was found by her son , 
+ and trying help him is but cruel thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(found -0.83)(by -2.81)(her -5.65)(son -2.59)(, -1.91) line score is : -3.270, look ahead score is : 0.000
+(and -1.91)(trying -4.27)(help -1.68)(him -2.55)(is -8.62)(but -9.62)(cruel -0.80)(thereby -7.45)(. -7.13) line score is : -4.892, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ I ll give you prostheses for free 
+-------------------------score:  -4.308993024210776----------------------- 
+there was a fierce lady named lorelei 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was told by her son , 
+ i wo hum i warriors for high . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(told -0.83)(by -2.81)(her -3.33)(son -2.97)(, -2.20) line score is : -3.034, look ahead score is : 0.000
+(i -2.20)(wo -5.16)(hum -1.81)(i -5.72)(warriors -8.34)(for -7.82)(high -5.02)(. -9.17) line score is : -5.656, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was told by his wife 
+ did anyone see where it went 
+-------------------------score:  -4.42407816251119----------------------- 
+there was a fierce lady named kai 
+ who shouted as she went on a cry . 
+ when she came to someone , 
+ she was met by her son , 
+ aged sixteen fold where he thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.25)(shouted -7.41)(as -5.54)(she -0.79)(went -3.94)(on -3.14)(a -4.86)(cry -8.16)(. -2.09) line score is : -4.132, look ahead score is : 0.000
+(when -2.09)(she -5.55)(came -1.12)(to -2.61)(someone -1.06)(, -7.22) line score is : -3.274, look ahead score is : 0.000
+(she -7.22)(was -1.87)(met -0.83)(by -2.81)(her -4.51)(son -1.25)(, -3.20) line score is : -3.100, look ahead score is : 0.000
+(aged -3.20)(sixteen -4.76)(fold -1.49)(where -7.17)(he -5.41)(thereby -10.68)(. -8.60) line score is : -5.902, look ahead score is : 0.000

@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.971592072284583----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ so he had to go down on the tree . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(so -0.91)(he -5.93)(had -4.03)(to -5.24)(go -0.51)(down -2.85)(on -0.30)(the -2.68)(tree -3.56)(. -2.13) line score is : -2.815, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.1517398729920387----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and that is the reason of this plea . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(that -5.93)(is -4.03)(the -1.89)(reason -6.04)(of -4.29)(this -2.75)(plea -1.34)(. -3.67) line score is : -3.429, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.2380737027814313----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and says he could barely walk sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(says -5.93)(he -4.03)(could -1.89)(barely -8.13)(walk -0.83)(sunday -3.66)(. -3.06) line score is : -3.556, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.244983348995447----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then he felt it burning in the tree . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(then -0.91)(he -5.93)(felt -4.03)(it -3.69)(burning -4.68)(in -3.98)(the -4.05)(tree -4.04)(. -1.95) line score is : -3.697, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2490394092164934----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and he fell down and broke his sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(he -5.93)(fell -4.03)(down -1.89)(and -3.05)(broke -3.00)(his -2.82)(sunday -3.28)(. -2.69) line score is : -3.068, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.320674467471338----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ so he never got on the sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(so -0.91)(he -5.93)(never -4.03)(got -5.24)(on -0.51)(the -5.63)(sunday -2.91)(. -5.05) line score is : -3.777, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.3318119077011943----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ but he does not suffer in his plea . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(but -0.91)(he -5.93)(does -4.03)(not -3.13)(suffer -1.64)(in -8.11)(his -0.24)(plea -4.31)(. -6.05) line score is : -3.819, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.3629463488055813----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and then a third time himself sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(then -5.93)(a -4.03)(third -1.89)(time -3.91)(himself -3.42)(sunday -4.43)(. -1.77) line score is : -3.289, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.4299538135528564----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ but he made it was fighting him free . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(but -0.91)(he -5.93)(made -4.03)(it -3.13)(was -1.64)(fighting -4.21)(him -0.41)(free -11.08)(. -6.89) line score is : -4.249, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.438341552019119----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a knight , 
+ and fell with a serious sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(knight -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(fell -8.44)(with -2.68)(a -1.74)(serious -2.74)(sunday -4.90)(. -0.81) line score is : -3.175, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.4587850173314414----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and could not recover back sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(could -5.93)(not -4.03)(recover -1.89)(back -5.08)(sunday -0.50)(. -4.30) line score is : -3.236, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.4770503118634224----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ in hopes it was all within the tree . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(in -0.91)(hopes -5.93)(it -4.03)(was -6.94)(all -6.59)(within -4.05)(the -1.64)(tree -6.60)(. -7.42) line score is : -4.902, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.4871754301711917----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ broke a bone no bigger than sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(broke -0.91)(a -5.93)(bone -4.03)(no -6.88)(bigger -3.32)(than -0.92)(sunday -11.69)(. -0.89) line score is : -4.324, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.4915784504264593----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and he was soon like water of sea . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(he -5.93)(was -4.03)(soon -1.89)(like -3.05)(water -1.41)(of -5.52)(sea -10.06)(. -5.98) line score is : -4.310, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -3.5010482611194735----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and then he has a broken sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(then -5.93)(he -4.03)(has -1.89)(a -3.91)(broken -3.52)(sunday -7.35)(. -3.14) line score is : -3.836, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and kissed her because he was wuise 
+-------------------------score:  -3.511603593826294----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and fell his because he was sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(fell -5.93)(his -4.03)(because -1.89)(he -3.09)(was -8.79)(sunday -9.93)(. -1.12) line score is : -4.461, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.5750057220458986----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ which forced that decision of sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(which -0.91)(forced -5.93)(that -4.03)(decision -2.70)(of -3.71)(sunday -8.31)(. -6.08) line score is : -4.525, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ thirty days is the time he will do 
+-------------------------score:  -3.6158365719020367----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ low blows is the reason he will be . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(low -0.91)(blows -5.93)(is -4.03)(the -6.32)(reason -4.93)(he -10.15)(will -2.43)(be -4.62)(. -1.45) line score is : -4.531, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.64330848955339----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then put up all bloody and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(then -0.91)(put -5.93)(up -4.03)(all -3.69)(bloody -5.46)(and -4.43)(sunday -7.82)(. -7.30) line score is : -4.948, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.667878431658591----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and put in before all the sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(and -0.91)(put -5.93)(in -4.03)(before -1.89)(all -6.06)(the -2.86)(sunday -10.43)(. -6.09) line score is : -4.777, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB BOTH VBN FROM NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then both skedaddled from eden 
+-------------------------score:  -3.716966645470981----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ however both suffered from sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(however -0.91)(both -5.93)(suffered -4.03)(from -6.61)(sunday -6.59)(. -5.49) line score is : -4.929, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.7372061252593993----------------------- 
+there was a firefighter named marquis 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ as if she ca pollen sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(as -0.91)(if -5.93)(she -4.03)(ca -5.77)(pollen -0.84)(sunday -6.09)(. -8.65) line score is : -4.605, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ kept insuring her during the service 
+-------------------------score:  -3.7405535837014514----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a knight , 
+ killed fighting her during the sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(knight -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(killed -0.91)(fighting -8.44)(her -2.68)(during -4.51)(the -8.43)(sunday -6.99)(. -7.19) line score is : -5.591, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because of his scanty regalia 
+-------------------------score:  -3.898072234221867----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ although our medical sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(although -0.91)(our -5.93)(medical -4.03)(sunday -6.62)(. -10.00) line score is : -5.499, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he couldn t think of anything 
+-------------------------score:  -4.162383510220435----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then i ca quickly cut of we . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(struck -0.61)(by -1.52)(a -4.74)(light -1.39)(, -0.91) line score is : -2.393, look ahead score is : 0.000
+(then -0.91)(i -5.93)(ca -4.03)(quickly -3.69)(cut -9.34)(of -9.33)(we -7.64)(. -5.08) line score is : -5.745, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.240487379953265----------------------- 
+there was a firefighter named tyree 
+ who caused a small fire on his knee . 
+ when he returned to fight , 
+ he was shocked by a light , 
+ and trying get he is but scratched sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(caused -9.35)(a -1.46)(small -4.76)(fire -0.58)(on -2.63)(his -2.74)(knee -6.66)(. -2.01) line score is : -3.518, look ahead score is : 0.000
+(when -2.01)(he -4.67)(returned -1.56)(to -2.46)(fight -0.83)(, -6.45) line score is : -2.996, look ahead score is : 0.000
+(he -6.45)(was -1.14)(shocked -0.61)(by -1.52)(a -4.50)(light -2.49)(, -3.51) line score is : -2.888, look ahead score is : 0.000
+(and -3.51)(trying -6.38)(get -4.40)(he -3.28)(is -9.35)(but -9.94)(scratched -7.70)(sunday -6.44)(. -7.67) line score is : -6.519, look ahead score is : 0.000

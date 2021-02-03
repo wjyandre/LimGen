@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.029103832319379----------------------- 
+there was a nasty witch named nicole 
+ who trapped all my family in a hole . 
+ it was like a nightmare , 
+ and i cried to the bear , 
+ and it came down and buried my soul . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(family -4.45)(in -1.05)(a -1.35)(hole -5.13)(. -2.66) line score is : -3.510, look ahead score is : 0.000
+(it -2.66)(was -3.80)(like -0.88)(a -3.34)(nightmare -1.81)(, -3.37) line score is : -2.643, look ahead score is : 0.000
+(and -3.37)(i -2.19)(cried -2.12)(to -1.04)(the -4.11)(bear -4.92)(, -2.45) line score is : -2.885, look ahead score is : 0.000
+(and -2.45)(it -7.75)(came -2.57)(down -2.19)(and -1.98)(buried -3.20)(my -3.60)(soul -1.05)(. -3.94) line score is : -3.192, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.1140563661052334----------------------- 
+there was a nasty witch named nicolle 
+ who trapped all my family in a hole . 
+ it was like a nightmare , 
+ i was afraid to stare , 
+ i was frightened to move and to roll . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(family -4.45)(in -1.05)(a -1.35)(hole -5.13)(. -2.66) line score is : -3.510, look ahead score is : 0.000
+(it -2.66)(was -3.80)(like -0.88)(a -3.34)(nightmare -1.81)(, -3.37) line score is : -2.643, look ahead score is : 0.000
+(i -3.37)(was -2.19)(afraid -2.30)(to -2.08)(stare -3.03)(, -1.13) line score is : -2.349, look ahead score is : 0.000
+(i -1.13)(was -9.69)(frightened -4.00)(to -1.47)(move -1.44)(and -4.49)(to -1.17)(roll -2.83)(. -2.46) line score is : -3.186, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.133848826731405----------------------- 
+there was a nasty witch named nicolle 
+ who trapped all my family in a hole . 
+ it was like a nightmare , 
+ i was afraid to stare , 
+ but i knew she was watching me whole . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(family -4.45)(in -1.05)(a -1.35)(hole -5.13)(. -2.66) line score is : -3.510, look ahead score is : 0.000
+(it -2.66)(was -3.80)(like -0.88)(a -3.34)(nightmare -1.81)(, -3.37) line score is : -2.643, look ahead score is : 0.000
+(i -3.37)(was -2.19)(afraid -2.30)(to -2.08)(stare -3.03)(, -1.13) line score is : -2.349, look ahead score is : 0.000
+(but -1.13)(i -9.69)(knew -4.00)(she -2.59)(was -1.08)(watching -2.98)(me -2.84)(whole -0.87)(. -2.95) line score is : -3.127, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.1847614757716656----------------------- 
+there was a nasty witch named nicole 
+ who trapped all my family in a hole . 
+ it was like a nightmare , 
+ and i cried to the air , 
+ but i thought i was losing him whole . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(family -4.45)(in -1.05)(a -1.35)(hole -5.13)(. -2.66) line score is : -3.510, look ahead score is : 0.000
+(it -2.66)(was -3.80)(like -0.88)(a -3.34)(nightmare -1.81)(, -3.37) line score is : -2.643, look ahead score is : 0.000
+(and -3.37)(i -2.19)(cried -2.12)(to -1.04)(the -4.11)(air -4.92)(, -2.45) line score is : -2.885, look ahead score is : 0.000
+(but -2.45)(i -6.34)(thought -2.38)(i -2.73)(was -1.44)(losing -4.84)(him -1.76)(whole -0.86)(. -4.83) line score is : -3.070, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.2481038093566896----------------------- 
+there was a nasty witch named nicolle 
+ who trapped all my family in a hole . 
+ it was like a nightmare , 
+ i was afraid to swear , 
+ but i kept my promises and stole . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(family -4.45)(in -1.05)(a -1.35)(hole -5.13)(. -2.66) line score is : -3.510, look ahead score is : 0.000
+(it -2.66)(was -3.80)(like -0.88)(a -3.34)(nightmare -1.81)(, -3.37) line score is : -2.643, look ahead score is : 0.000
+(i -3.37)(was -2.19)(afraid -2.30)(to -2.08)(swear -3.03)(, -1.13) line score is : -2.349, look ahead score is : 0.000
+(but -1.13)(i -11.80)(kept -2.28)(my -1.90)(promises -0.91)(and -3.11)(stole -2.28)(. -3.72) line score is : -3.391, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.363601819674174----------------------- 
+there was a nasty witch named nicole 
+ who trapped all my money in a hole . 
+ it was like a nightmare , 
+ and i went to the chair , 
+ and i started crying again whole . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(money -5.06)(in -0.91)(a -1.45)(hole -4.67)(. -2.88) line score is : -3.546, look ahead score is : 0.000
+(it -2.88)(was -3.73)(like -1.12)(a -3.23)(nightmare -1.85)(, -4.33) line score is : -2.858, look ahead score is : 0.000
+(and -4.33)(i -2.29)(went -2.07)(to -0.85)(the -4.84)(chair -1.38)(, -2.07) line score is : -2.549, look ahead score is : 0.000
+(and -2.07)(i -9.89)(started -3.24)(crying -1.44)(again -1.45)(whole -3.74)(. -1.04) line score is : -3.268, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ and they rushed to the rail 
+ as his talent and confidence swelled 
+-------------------------score:  -3.3945150355497997----------------------- 
+there was a nasty witch named nicole 
+ who trapped all my family in a hole . 
+ it was like a nightmare , 
+ and i cried to the air , 
+ as my mother and father console . 
+------------------------- score breakdown ------------------------ 
+(who -2.20)(trapped -7.97)(all -4.18)(my -2.60)(family -4.45)(in -1.05)(a -1.35)(hole -5.13)(. -2.66) line score is : -3.510, look ahead score is : 0.000
+(it -2.66)(was -3.80)(like -0.88)(a -3.34)(nightmare -1.81)(, -3.37) line score is : -2.643, look ahead score is : 0.000
+(and -3.37)(i -2.19)(cried -2.12)(to -1.04)(the -4.11)(air -4.92)(, -2.45) line score is : -2.885, look ahead score is : 0.000
+(as -2.45)(my -6.34)(mother -2.38)(and -4.20)(father -2.79)(console -2.32)(. -3.04) line score is : -3.360, look ahead score is : 0.000

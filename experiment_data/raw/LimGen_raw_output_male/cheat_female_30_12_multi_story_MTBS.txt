@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.1518073370379787----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and now she has a family day . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(now -1.77)(she -2.95)(has -1.18)(a -5.49)(family -0.69)(day -2.49)(. -2.45) line score is : -2.710, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.1630022283643484----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ then she saw him crying in the bay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(then -4.66)(she -1.77)(saw -2.95)(him -5.03)(crying -1.86)(in -4.03)(the -2.56)(bay -4.56)(. -2.85) line score is : -3.363, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but it does n't come out of my purse 
+-------------------------score:  -3.177798416465521----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ but she does not get past her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(but -4.66)(she -1.77)(does -2.95)(not -2.28)(get -1.51)(past -6.92)(her -1.34)(birthday -2.36)(. -7.28) line score is : -3.454, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.177828748379984----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ but she lost her friends and resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(but -4.66)(she -1.77)(lost -2.95)(her -2.28)(friends -1.51)(and -3.58)(resume -2.29)(. -6.16) line score is : -3.150, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.1972803704200254----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ so she probably won on the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(so -4.66)(she -1.77)(probably -2.95)(won -4.10)(on -0.75)(the -6.14)(day -2.87)(. -7.25) line score is : -3.811, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but the telephone book caused him pain 
+-------------------------score:  -3.2225649010750557----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ but the show somehow made it halfway . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(but -4.66)(the -1.77)(show -2.95)(somehow -2.28)(made -2.88)(it -3.64)(halfway -6.83)(. -3.43) line score is : -3.555, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ it s a regular brute of a bee 
+-------------------------score:  -3.2246160209178925----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ she has a great story of a day . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(she -4.66)(has -1.77)(a -2.95)(great -4.07)(story -5.39)(of -1.92)(a -3.95)(day -1.85)(. -3.68) line score is : -3.358, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -3.229278145297881----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and read what the characters all say . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(read -1.77)(what -2.95)(the -1.18)(characters -7.78)(all -4.52)(say -2.91)(. -4.15) line score is : -3.740, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.229411082883035----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ but i am still upset for jay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(but -4.66)(i -1.77)(am -2.95)(still -2.28)(upset -3.05)(for -5.25)(jay -2.96)(. -3.26) line score is : -3.274, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.2326039262115955----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ she went through the door and said okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(she -4.66)(went -1.77)(through -2.95)(the -4.07)(door -4.40)(and -2.87)(said -1.37)(okay -3.37)(. -1.24) line score is : -2.967, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.3249423503875732----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ she has a big beautiful birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(she -4.66)(has -1.77)(a -2.95)(big -4.07)(beautiful -5.39)(birthday -1.92)(. -3.87) line score is : -3.518, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.351949183146159----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and finally could afford a day . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(finally -1.77)(could -2.95)(afford -1.18)(a -6.53)(day -7.04)(. -3.23) line score is : -3.909, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ but I guess that you probably gnu 
+-------------------------score:  -3.375303114614179----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ but i know that she never okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(but -4.66)(i -1.77)(know -2.95)(that -2.28)(she -3.05)(never -4.66)(okay -2.08)(. -1.71) line score is : -2.896, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and finished the solo with honour 
+-------------------------score:  -3.379252815246582----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and realized the story with jay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(realized -1.77)(the -2.95)(story -1.18)(with -5.96)(jay -3.64)(. -4.16) line score is : -3.475, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -3.3796765169789715----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ she had all her friends crying sunday . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(she -4.66)(had -1.77)(all -2.95)(her -4.07)(friends -2.81)(crying -3.16)(sunday -0.76)(. -5.33) line score is : -3.188, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and now a new teacher they seek 
+-------------------------score:  -3.4120469324050413----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and then a third time they resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(then -1.77)(a -2.95)(third -1.18)(time -2.71)(they -4.70)(resume -4.99)(. -2.46) line score is : -3.178, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ within weeks it was all in the past 
+-------------------------score:  -3.417971407994628----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ in hopes it was all in the essay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(in -4.66)(hopes -1.77)(it -2.95)(was -4.93)(all -5.85)(in -4.57)(the -2.77)(essay -3.66)(. -4.68) line score is : -3.982, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.4475967912904677----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ she thought that her life was resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(she -4.66)(thought -1.77)(that -2.95)(her -4.07)(life -4.50)(was -3.84)(resume -3.63)(. -3.50) line score is : -3.615, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ I did n't think life was this way 
+-------------------------score:  -3.4667750727385283----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ it was not till someone came this way . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(it -4.66)(was -1.77)(not -2.95)(till -6.43)(someone -0.56)(came -4.43)(this -7.58)(way -6.22)(. -3.20) line score is : -4.201, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ OF THE JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ of the classical music I play 
+-------------------------score:  -3.489921289682388----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ of the second act we resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(of -4.66)(the -1.77)(second -2.95)(act -5.62)(we -1.32)(resume -4.67)(. -0.67) line score is : -3.094, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ OF THE NN FROM NN TO NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ of the distance from object to source 
+-------------------------score:  -3.496191345065111----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ of the show from start to resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(of -4.66)(the -1.77)(show -2.95)(from -5.62)(start -1.32)(to -2.92)(resume -9.02)(. -4.78) line score is : -4.129, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and since then has never benzene 
+-------------------------score:  -3.5771898508071898----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and since then has never resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(since -1.77)(then -2.95)(has -1.18)(never -8.50)(resume -2.45)(. -4.89) line score is : -3.770, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and as far as the bucket 
+-------------------------score:  -3.585967184261729----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and as quickly as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(as -1.77)(quickly -2.95)(as -1.18)(the -5.88)(resume -6.92)(. -0.01) line score is : -3.340, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.6432257679200943----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ it was when he hit across halfway . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(it -4.66)(was -1.77)(when -2.95)(he -6.43)(hit -0.56)(across -7.04)(halfway -2.34)(. -5.65) line score is : -3.925, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ OF THE NN VBN IN VBG PRP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ of the bishop engaged in confirming 'em 
+-------------------------score:  -3.6641813324343775----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ of the show dressed in matching friday . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(of -4.66)(the -1.77)(show -2.95)(dressed -5.62)(in -1.32)(matching -2.92)(friday -7.95)(. -1.57) line score is : -3.595, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -3.7205174430724113----------------------- 
+there once was a liar named kay 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ i mean really get two or okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(i -4.66)(mean -1.77)(really -2.95)(get -5.67)(two -3.47)(or -5.16)(okay -3.52)(. -9.06) line score is : -4.533, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and sometimes get quite cranky 
+-------------------------score:  -3.9112364547006013----------------------- 
+there once was a liar named renee 
+ who put all her money in a play . 
+ it was for her boyfriend , 
+ and she got to the end , 
+ and finally cut quite resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.55)(put -6.53)(all -4.06)(her -1.48)(money -2.99)(in -0.91)(a -1.22)(play -8.29)(. -3.00) line score is : -3.447, look ahead score is : 0.000
+(it -3.00)(was -3.64)(for -1.25)(her -5.32)(boyfriend -2.52)(, -4.22) line score is : -3.324, look ahead score is : 0.000
+(and -4.22)(she -1.84)(got -2.32)(to -1.37)(the -3.48)(end -2.86)(, -4.66) line score is : -2.965, look ahead score is : 0.000
+(and -4.66)(finally -1.77)(cut -2.95)(quite -1.18)(resume -6.53)(. -7.60) line score is : -4.115, look ahead score is : 0.000

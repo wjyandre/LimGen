@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she was ready to give and to take 
+-------------------------score:  -3.260614776938793----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ we were able to rent and to eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(we -5.49)(were -6.32)(able -1.68)(to -1.11)(rent -3.31)(and -1.74)(to -0.00)(eat -2.73)(. -5.20) line score is : -3.064, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.262566891408736----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ but our neighbors were down to their feet . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(but -5.49)(our -6.32)(neighbors -1.68)(were -3.71)(down -2.63)(to -1.87)(their -1.85)(feet -6.71)(. -2.24) line score is : -3.611, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ so he had to sit down on the floor 
+-------------------------score:  -3.263749971985817----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ so we had to keep down on the heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(so -5.49)(we -6.32)(had -1.68)(to -3.14)(keep -6.27)(down -2.90)(on -0.76)(the -3.64)(heat -7.51)(. -2.34) line score is : -4.004, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and now he 's a college professor 
+-------------------------score:  -3.2728985925515492----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ and now it is a neighborhood treat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(and -5.49)(now -6.32)(it -1.68)(is -3.16)(a -5.23)(neighborhood -1.43)(treat -1.98)(. -2.69) line score is : -3.497, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.28734605350802----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ we went through the roof and bought concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(we -5.49)(went -6.32)(through -1.68)(the -1.11)(roof -4.41)(and -3.99)(bought -2.58)(concrete -2.91)(. -2.11) line score is : -3.398, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but they felt it was doing them good 
+-------------------------score:  -3.2988347911065623----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ but we thought we were doing it neat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(but -5.49)(we -6.32)(thought -1.68)(we -3.71)(were -1.79)(doing -4.19)(it -1.56)(neat -1.82)(. -4.04) line score is : -3.398, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4154646058877307----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ we still live in a neighborhood suite . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(we -5.49)(still -6.32)(live -1.68)(in -1.11)(a -5.58)(neighborhood -3.92)(suite -1.90)(. -3.48) line score is : -3.684, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that her head was bare 
+-------------------------score:  -3.4406580179929733----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ that our landlord wanted concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(that -5.49)(our -6.32)(landlord -1.68)(wanted -2.47)(concrete -3.35)(. -2.01) line score is : -3.551, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.478170166412989----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our landlord was so good , 
+ but we are still grateful for concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(landlord -1.20)(was -3.35)(so -2.29)(good -2.84)(, -4.34) line score is : -3.637, look ahead score is : 0.000
+(but -4.34)(we -5.98)(are -3.17)(still -3.48)(grateful -2.39)(for -5.27)(concrete -1.59)(. -4.21) line score is : -3.802, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.4846498798578978----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ so we went up and live on the beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(so -5.49)(we -6.32)(went -1.68)(up -3.14)(and -6.27)(live -4.20)(on -4.03)(the -2.79)(beat -7.43)(. -2.80) line score is : -4.413, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he left all his fans wanting more 
+-------------------------score:  -3.485258529583613----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ we had all our friends buying concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(we -5.49)(had -6.32)(all -1.68)(our -1.11)(friends -2.65)(buying -5.54)(concrete -1.79)(. -3.45) line score is : -3.502, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.501617408567859----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ and for years we just eaten their meat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(and -5.49)(for -6.32)(years -1.68)(we -3.16)(just -6.20)(eaten -2.57)(their -0.92)(meat -4.85)(. -9.42) line score is : -4.512, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he was n't the wizard he woz 
+-------------------------score:  -3.5474112888177234----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ it was always the place we upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(it -5.49)(was -6.32)(always -1.68)(the -2.15)(place -1.22)(we -5.08)(upbeat -2.55)(. -3.25) line score is : -3.467, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.571575766801834----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ so i really wanted on the beat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(so -5.49)(i -6.32)(really -1.68)(wanted -3.14)(on -7.36)(the -5.09)(beat -1.69)(. -8.99) line score is : -4.968, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that no one was present but smarty 
+-------------------------score:  -3.656270585457484----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ that no business was open but sweet . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(that -5.49)(no -6.32)(business -1.68)(was -2.47)(open -5.51)(but -6.39)(sweet -2.86)(. -3.57) line score is : -4.285, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that she pickled her internal workins' 
+-------------------------score:  -3.657275243052121----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ that we bought it several concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(that -5.49)(we -6.32)(bought -1.68)(it -2.47)(several -1.00)(concrete -3.48)(. -1.36) line score is : -3.112, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that ungracious young lady in blue 
+-------------------------score:  -3.695759423847856----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ that pretty much anyone in sweet . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(that -5.49)(pretty -6.32)(much -1.68)(anyone -2.47)(in -8.52)(sweet -0.78)(. -3.05) line score is : -4.043, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but I guess that you probably gnu 
+-------------------------score:  -3.7137480517228445----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ but we heard that they only concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(but -5.49)(we -6.32)(heard -1.68)(that -3.71)(they -1.79)(only -6.56)(concrete -1.86)(. -3.25) line score is : -3.832, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but nobody knew what he said 
+-------------------------score:  -3.751228186590918----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ but nobody knew what we concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(but -5.49)(nobody -6.32)(knew -1.68)(what -3.71)(we -6.51)(concrete -2.61)(. -1.91) line score is : -4.032, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that man in a boat 
+-------------------------score:  -3.794989349586623----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ that nobody outside a heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(that -5.49)(nobody -6.32)(outside -1.68)(a -2.47)(heartbeat -6.51)(. -6.26) line score is : -4.786, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that unlucky old person of ems 
+-------------------------score:  -3.814094983298203----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ that pretty much anyone of sweet . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(that -5.49)(pretty -6.32)(much -1.68)(anyone -2.47)(of -8.52)(sweet -0.78)(. -3.05) line score is : -4.043, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.8387902398904163----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ we thought when we move across concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(we -5.49)(thought -6.32)(when -1.68)(we -1.11)(move -3.26)(across -8.16)(concrete -0.27)(. -4.98) line score is : -3.908, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ in a sugary takeover bid 
+-------------------------score:  -3.846630262477057----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our landlord was so good , 
+ though a little impatient concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(landlord -1.20)(was -3.35)(so -2.29)(good -2.84)(, -4.34) line score is : -3.637, look ahead score is : 0.000
+(though -4.34)(a -5.98)(little -3.17)(impatient -5.18)(concrete -4.48)(. -1.37) line score is : -4.086, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ as his talent and confidence swelled 
+-------------------------score:  -3.8887186235394973----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ as my father and mother concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(as -5.49)(my -6.32)(father -1.68)(and -6.29)(mother -5.23)(concrete -2.88)(. -3.34) line score is : -4.461, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ as if he 'd been invited 
+-------------------------score:  -3.9034091665826995----------------------- 
+there once was a blacksmith named pete 
+ who housed a small shop on our street . 
+ when we moved to greenwood , 
+ our house was so good , 
+ as if it outright needed concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.90)(housed -11.00)(a -1.99)(small -3.42)(shop -3.37)(on -2.43)(our -5.98)(street -1.33)(. -0.64) line score is : -3.562, look ahead score is : 0.000
+(when -0.64)(we -4.11)(moved -1.82)(to -1.36)(greenwood -1.45)(, -7.80) line score is : -2.863, look ahead score is : 0.000
+(our -7.80)(house -1.20)(was -3.35)(so -2.83)(good -0.86)(, -5.49) line score is : -3.588, look ahead score is : 0.000
+(as -5.49)(if -6.32)(it -1.68)(outright -6.29)(needed -4.44)(concrete -1.59)(. -14.21) line score is : -5.716, look ahead score is : 0.000

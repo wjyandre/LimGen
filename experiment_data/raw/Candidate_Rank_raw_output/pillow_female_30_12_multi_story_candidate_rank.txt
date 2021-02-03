@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.1288044303655624----------------------- 
+there was a bright lady named grace 
+ who felt a strange feeling on her face . 
+ she looked like a fairy , 
+ her hair was a cherry , 
+ but her eyes were down to her birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(felt -6.67)(a -3.38)(strange -3.78)(feeling -3.61)(on -3.73)(her -0.18)(face -2.56)(. -1.23) line score is : -2.960, look ahead score is : 0.000
+(she -1.23)(looked -1.77)(like -2.05)(a -2.74)(fairy -1.47)(, -4.78) line score is : -2.339, look ahead score is : 0.000
+(her -4.78)(hair -2.52)(was -3.05)(a -1.77)(cherry -0.73)(, -3.46) line score is : -2.719, look ahead score is : 0.000
+(but -3.46)(her -7.69)(eyes -2.98)(were -4.56)(down -1.20)(to -0.78)(her -0.48)(birthplace -8.53)(. -2.40) line score is : -3.565, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.1544116221127974----------------------- 
+there was a bright lady named grace 
+ who felt a strange feeling on her face . 
+ she looked like a fairy , 
+ her hair was a cherry , 
+ and she had long like finger of grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(felt -6.67)(a -3.38)(strange -3.78)(feeling -3.61)(on -3.73)(her -0.18)(face -2.56)(. -1.23) line score is : -2.960, look ahead score is : 0.000
+(she -1.23)(looked -1.77)(like -2.05)(a -2.74)(fairy -1.47)(, -4.78) line score is : -2.339, look ahead score is : 0.000
+(her -4.78)(hair -2.52)(was -3.05)(a -1.77)(cherry -0.73)(, -3.46) line score is : -2.719, look ahead score is : 0.000
+(and -3.46)(she -7.69)(had -2.98)(long -1.24)(like -0.97)(finger -1.24)(of -3.65)(grace -8.19)(. -6.18) line score is : -3.954, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ her hair got so light 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.1785151559499----------------------- 
+there was a bright lady named grace 
+ who felt a strange feeling on her face . 
+ she looked like a fairy , 
+ her hair was so scary , 
+ but her eyes were down to our case . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(felt -6.67)(a -3.38)(strange -3.78)(feeling -3.61)(on -3.73)(her -0.18)(face -2.56)(. -1.23) line score is : -2.960, look ahead score is : 0.000
+(she -1.23)(looked -1.77)(like -2.05)(a -2.74)(fairy -1.47)(, -4.78) line score is : -2.339, look ahead score is : 0.000
+(her -4.78)(hair -2.52)(was -3.05)(so -1.77)(scary -0.73)(, -3.29) line score is : -2.691, look ahead score is : 0.000
+(but -3.29)(her -9.94)(eyes -1.62)(were -2.47)(down -2.26)(to -1.16)(our -0.62)(case -8.72)(. -1.83) line score is : -3.545, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ her hair got so light 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.2513813400460827----------------------- 
+there was a bright lady named grace 
+ who felt a strange feeling on her face . 
+ she looked like a fairy , 
+ her hair was so scary , 
+ and she had long like angel of grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.51)(felt -6.67)(a -3.38)(strange -3.78)(feeling -3.61)(on -3.73)(her -0.18)(face -2.56)(. -1.23) line score is : -2.960, look ahead score is : 0.000
+(she -1.23)(looked -1.77)(like -2.05)(a -2.74)(fairy -1.47)(, -4.78) line score is : -2.339, look ahead score is : 0.000
+(her -4.78)(hair -2.52)(was -3.05)(so -1.77)(scary -0.73)(, -3.29) line score is : -2.691, look ahead score is : 0.000
+(and -3.29)(she -9.94)(had -1.62)(long -1.98)(like -1.04)(angel -1.51)(of -3.97)(grace -7.81)(. -6.05) line score is : -4.134, look ahead score is : 0.000

@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.842014162490765----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and that is the beauty of this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(that -2.76)(is -0.88)(the -0.81)(beauty -4.96)(of -3.64)(this -2.92)(day -3.39)(. -0.10) line score is : -2.343, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he claimed that his costume was chile 
+-------------------------score:  -2.928816073927386----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she knew that her family was gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(she -1.63)(knew -2.76)(that -0.88)(her -1.03)(family -4.41)(was -3.07)(gay -3.28)(. -3.75) line score is : -2.602, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -2.997517865896225----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she was proud to be a female gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(she -1.63)(was -2.76)(proud -0.88)(to -1.03)(be -0.69)(a -6.48)(female -1.67)(gay -0.37)(. -1.73) line score is : -1.917, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now he 's a college professor 
+-------------------------score:  -3.0318704802414467----------------------- 
+there was a engineer named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and now she has a baby birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(met -6.54)(a -2.84)(young -3.10)(woman -2.18)(on -3.75)(her -2.94)(way -0.79)(. -6.83) line score is : -3.413, look ahead score is : 0.000
+(she -6.83)(was -1.64)(a -1.84)(musician -2.41)(, -6.55) line score is : -3.854, look ahead score is : 0.000
+(she -6.55)(was -1.58)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.219, look ahead score is : 0.000
+(and -1.63)(now -2.76)(she -0.88)(has -0.81)(a -4.46)(baby -0.36)(birthday -4.73)(. -1.79) line score is : -2.177, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.1202749649683637----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she was through the door and was sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(she -1.63)(was -2.76)(through -0.88)(the -1.03)(door -0.69)(and -8.22)(was -2.19)(sunday -2.49)(. -2.24) line score is : -2.460, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.123187267780304----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and drove home to her family in clay . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(drove -2.76)(home -0.88)(to -0.81)(her -9.88)(family -4.54)(in -1.96)(clay -2.28)(. -2.24) line score is : -2.997, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but they felt it was doing them good 
+-------------------------score:  -3.1364293018976848----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ but she knew she was doing it day . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(but -1.63)(she -2.76)(knew -0.88)(she -3.31)(was -0.87)(doing -4.07)(it -1.91)(day -1.58)(. -4.70) line score is : -2.414, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but it does n't come out of my purse 
+-------------------------score:  -3.193243596951167----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a physician , 
+ she was on a mission , 
+ but she has always put in her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(physician -2.40)(, -7.74) line score is : -3.935, look ahead score is : 0.000
+(she -7.74)(was -1.87)(on -2.92)(a -1.79)(mission -5.38)(, -2.02) line score is : -3.621, look ahead score is : 0.000
+(but -2.02)(she -1.43)(has -0.83)(always -3.09)(put -0.76)(in -6.94)(her -3.33)(day -6.52)(. -5.59) line score is : -3.389, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he never completed his task 
+-------------------------score:  -3.2053771482573614----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she never expected her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(she -1.63)(never -2.76)(expected -0.88)(her -1.03)(birthday -6.48)(. -4.15) line score is : -2.822, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.2110423281274993----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a physician , 
+ she was on a mission , 
+ but she had her eyes and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(physician -2.40)(, -7.74) line score is : -3.935, look ahead score is : 0.000
+(she -7.74)(was -1.87)(on -2.92)(a -1.79)(mission -5.38)(, -2.02) line score is : -3.621, look ahead score is : 0.000
+(but -2.02)(she -1.43)(had -0.83)(her -3.09)(eyes -0.76)(and -2.14)(resume -3.95)(. -3.22) line score is : -2.180, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he left all his fans wanting more 
+-------------------------score:  -3.213206278866735----------------------- 
+there was a engineer named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she had all her friends coming sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(met -6.54)(a -2.84)(young -3.10)(woman -2.18)(on -3.75)(her -2.94)(way -0.79)(. -6.83) line score is : -3.413, look ahead score is : 0.000
+(she -6.83)(was -1.64)(a -1.84)(musician -2.41)(, -6.55) line score is : -3.854, look ahead score is : 0.000
+(she -6.55)(was -1.58)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.219, look ahead score is : 0.000
+(she -1.63)(had -2.76)(all -0.88)(her -1.03)(friends -1.89)(coming -4.86)(sunday -3.08)(. -2.16) line score is : -2.287, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.3000157049724033----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a physician , 
+ she was on a mission , 
+ and was with a beautiful birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(physician -2.40)(, -7.74) line score is : -3.935, look ahead score is : 0.000
+(she -7.74)(was -1.87)(on -2.92)(a -1.79)(mission -5.38)(, -2.02) line score is : -3.621, look ahead score is : 0.000
+(and -2.02)(was -1.43)(with -0.83)(a -0.83)(beautiful -4.97)(birthday -5.43)(. -1.54) line score is : -2.437, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ this did n't apply to her feet 
+-------------------------score:  -3.3995611914272965----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a physician , 
+ she was on a mission , 
+ this was not routine to her okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(physician -2.40)(, -7.74) line score is : -3.935, look ahead score is : 0.000
+(she -7.74)(was -1.87)(on -2.92)(a -1.79)(mission -5.38)(, -2.02) line score is : -3.621, look ahead score is : 0.000
+(this -2.02)(was -1.43)(not -0.83)(routine -6.32)(to -1.30)(her -3.59)(okay -8.05)(. -5.29) line score is : -3.604, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.416145635502679----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and soon could become a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(soon -2.76)(could -0.88)(become -0.81)(a -5.81)(resume -8.02)(. -4.10) line score is : -3.429, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ within weeks it was all in the past 
+-------------------------score:  -3.4297838230927784----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ in tears she told all within the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(in -1.63)(tears -2.76)(she -0.88)(told -6.33)(all -5.95)(within -3.86)(the -1.68)(day -7.31)(. -8.66) line score is : -4.339, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.434621751308441----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ he was a physician , 
+ she was on a mission , 
+ but they are not close for resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(he -5.86)(was -2.95)(a -2.54)(physician -3.04)(, -7.14) line score is : -4.307, look ahead score is : 0.000
+(she -7.14)(was -1.63)(on -2.66)(a -0.86)(mission -5.65)(, -2.29) line score is : -3.372, look ahead score is : 0.000
+(but -2.29)(they -1.73)(are -1.64)(not -2.81)(close -1.53)(for -5.55)(resume -2.49)(. -4.10) line score is : -2.767, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and as far as the bucket 
+-------------------------score:  -3.4419045723708614----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and as early as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(as -2.76)(early -0.88)(as -0.81)(the -5.26)(resume -8.15)(. -0.02) line score is : -2.788, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.4564629554748536----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she was she and had dreams and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(she -1.63)(was -2.76)(she -0.88)(and -1.03)(had -0.69)(dreams -8.33)(and -3.89)(sunday -4.61)(. -6.63) line score is : -3.383, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ you never can tell till you try 
+-------------------------score:  -3.493314091501565----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ she really can play in it okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(she -1.63)(really -2.76)(can -0.88)(play -1.03)(in -6.54)(it -9.22)(okay -2.65)(. -5.14) line score is : -3.732, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and returned on the previous night 
+-------------------------score:  -3.5231759505612508----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and was on the threshold resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(was -2.76)(on -0.88)(the -0.81)(threshold -4.95)(resume -4.40)(. -1.62) line score is : -2.435, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ that ungracious young lady in blue 
+-------------------------score:  -3.558880003435271----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ that little white girl in resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(that -1.63)(little -2.76)(white -0.88)(girl -6.61)(in -6.43)(resume -5.30)(. -1.44) line score is : -3.579, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ that no one was present but smarty 
+-------------------------score:  -3.595578744493682----------------------- 
+there was a engineer named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ that no man was worthy but sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(met -6.54)(a -2.84)(young -3.10)(woman -2.18)(on -3.75)(her -2.94)(way -0.79)(. -6.83) line score is : -3.413, look ahead score is : 0.000
+(she -6.83)(was -1.64)(a -1.84)(musician -2.41)(, -6.55) line score is : -3.854, look ahead score is : 0.000
+(she -6.55)(was -1.58)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.219, look ahead score is : 0.000
+(that -1.63)(no -2.76)(man -0.88)(was -6.61)(worthy -7.07)(but -3.11)(sunday -3.50)(. -3.12) line score is : -3.586, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now a new teacher they seek 
+-------------------------score:  -3.6081624031066895----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and then a short distance she okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(then -2.76)(a -0.88)(short -0.81)(distance -5.40)(she -3.83)(okay -4.60)(. -3.07) line score is : -2.873, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and sideways he could n't be seen 
+-------------------------score:  -3.6227072436234047----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a physician , 
+ she was on a mission , 
+ and is she could not bear resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(physician -2.40)(, -7.74) line score is : -3.935, look ahead score is : 0.000
+(she -7.74)(was -1.87)(on -2.92)(a -1.79)(mission -5.38)(, -2.02) line score is : -3.621, look ahead score is : 0.000
+(and -2.02)(is -1.43)(she -0.83)(could -0.83)(not -7.77)(bear -7.73)(resume -4.57)(. -3.04) line score is : -3.528, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ ALL OF THIS NN AFTER NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ all of this homework after school 
+-------------------------score:  -3.652617403439113----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a physician , 
+ she was on a mission , 
+ all of this kind after resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(physician -2.40)(, -7.74) line score is : -3.935, look ahead score is : 0.000
+(she -7.74)(was -1.87)(on -2.92)(a -1.79)(mission -5.38)(, -2.02) line score is : -3.621, look ahead score is : 0.000
+(all -2.02)(of -1.43)(this -0.83)(kind -6.50)(after -1.37)(resume -2.04)(. -5.00) line score is : -2.744, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ that man in a boat 
+-------------------------score:  -3.716797117833738----------------------- 
+there was a engineer named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ that afternoon in a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.75)(met -6.54)(a -2.84)(young -3.10)(woman -2.18)(on -3.75)(her -2.94)(way -0.79)(. -6.83) line score is : -3.413, look ahead score is : 0.000
+(she -6.83)(was -1.64)(a -1.84)(musician -2.41)(, -6.55) line score is : -3.854, look ahead score is : 0.000
+(she -6.55)(was -1.58)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.219, look ahead score is : 0.000
+(that -1.63)(afternoon -2.76)(in -0.88)(a -6.61)(resume -7.70)(. -3.83) line score is : -3.901, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.7538215935230257----------------------- 
+there was a lieutenant named kay 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ and trying make it is but hard halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(and -1.63)(trying -2.76)(make -0.88)(it -0.81)(is -9.17)(but -9.22)(hard -1.39)(halfway -7.34)(. -8.30) line score is : -4.610, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ that unlucky old person of ems 
+-------------------------score:  -3.7744561369929994----------------------- 
+there was a lieutenant named renee 
+ who met a young woman on her way . 
+ she was a musician , 
+ she was on a mission , 
+ that little white dress of resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(met -6.77)(a -3.45)(young -2.54)(woman -2.41)(on -3.86)(her -2.44)(way -0.42)(. -5.86) line score is : -3.243, look ahead score is : 0.000
+(she -5.86)(was -1.79)(a -1.89)(musician -2.40)(, -7.20) line score is : -3.828, look ahead score is : 0.000
+(she -7.20)(was -1.69)(on -2.82)(a -1.53)(mission -5.19)(, -1.63) line score is : -3.345, look ahead score is : 0.000
+(that -1.63)(little -2.76)(white -0.88)(dress -6.61)(of -6.43)(resume -5.30)(. -2.58) line score is : -3.742, look ahead score is : 0.000

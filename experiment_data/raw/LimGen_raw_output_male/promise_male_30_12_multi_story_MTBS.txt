@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -3.130657664754174----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ so we had to go down on the hill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(so -0.58)(we -4.11)(had -6.87)(to -3.25)(go -1.31)(down -2.77)(on -1.41)(the -2.92)(hill -4.80)(. -4.19) line score is : -3.220, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.207979499362409----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ and he got down and took our bill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(and -0.58)(he -4.11)(got -6.87)(down -1.20)(and -1.22)(took -3.59)(our -4.96)(bill -1.64)(. -3.62) line score is : -3.087, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.221408227176377----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ so he was up and go on the hill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(so -0.58)(he -4.11)(was -6.87)(up -3.25)(and -2.01)(go -2.03)(on -4.75)(the -1.95)(hill -6.45)(. -4.82) line score is : -3.681, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.2852932093665004----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ then he got it broken in the drill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(then -0.58)(he -4.11)(got -6.87)(it -5.34)(broken -1.11)(in -2.27)(the -5.85)(drill -4.53)(. -2.20) line score is : -3.651, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ they bedded her down in the stable 
+-------------------------score:  -3.329918287341453----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ he took us down in the downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(he -0.00)(took -3.95)(us -6.98)(down -2.01)(in -2.93)(the -4.05)(downhill -2.91)(. -2.96) line score is : -3.224, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.347830286910457----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ so he really wanted on the hill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(so -0.58)(he -4.11)(really -6.87)(wanted -3.25)(on -2.01)(the -5.03)(hill -2.74)(. -8.28) line score is : -4.108, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and some of the members are swines 
+-------------------------score:  -3.4356203433802173----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ and some of the players have goodwill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(and -0.00)(some -3.95)(of -6.98)(the -2.31)(players -6.77)(have -0.66)(goodwill -0.83)(. -3.67) line score is : -3.146, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.452376096509397----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ and he did not like hearing of bill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(and -0.58)(he -4.11)(did -6.87)(not -1.20)(like -1.22)(hearing -2.61)(of -4.89)(bill -5.39)(. -5.59) line score is : -3.605, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.471599764288253----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ he really dug in a lot downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(he -0.00)(really -3.95)(dug -6.98)(in -2.01)(a -5.01)(lot -5.68)(downhill -1.32)(. -5.13) line score is : -3.760, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.4784561292108265----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ now we are on our way and downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(now -0.00)(we -3.95)(are -6.98)(on -5.88)(our -2.56)(way -2.82)(and -4.31)(downhill -2.59)(. -0.43) line score is : -3.279, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and kissed her because he was wuise 
+-------------------------score:  -3.5126733328065565----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ and got his because it was downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(and -0.58)(got -4.11)(his -6.87)(because -1.20)(it -5.72)(was -2.75)(downhill -10.57)(. -3.26) line score is : -4.382, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ are making a nest in my beard 
+-------------------------score:  -3.543730684713791----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to shake , 
+ get going a bit in our drill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(shake -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(get -0.00)(going -6.33)(a -6.30)(bit -4.08)(in -5.86)(our -4.60)(drill -2.03)(. -4.78) line score is : -4.249, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5457784483830133----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ and it was time finally downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(and -0.58)(it -4.11)(was -6.87)(time -1.20)(finally -3.20)(downhill -0.82)(. -3.26) line score is : -2.864, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and hop in before all the crowd 
+-------------------------score:  -3.547555149450237----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ and get in before all the goodwill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(and -0.00)(get -3.95)(in -6.98)(before -2.31)(all -4.94)(the -3.72)(goodwill -6.76)(. -5.65) line score is : -4.289, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.57974231135731----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ he took that my father was downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(he -0.00)(took -3.95)(that -6.98)(my -2.01)(father -2.93)(was -4.21)(downhill -7.99)(. -4.40) line score is : -4.059, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.5814126028168585----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ he was not the player he downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(he -0.58)(was -4.11)(not -6.87)(the -1.48)(player -1.17)(he -5.30)(downhill -4.43)(. -2.95) line score is : -3.361, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.6387568432311976----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to make , 
+ but we are not confident for till . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(make -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(but -0.00)(we -3.70)(are -7.37)(not -4.29)(confident -2.16)(for -4.29)(till -2.35)(. -5.40) line score is : -3.694, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ that she pickled her internal workins' 
+-------------------------score:  -3.6809968937265998----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to make , 
+ that he had us prepared uphill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(make -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(that -0.00)(he -3.70)(had -7.37)(us -4.89)(prepared -3.24)(uphill -2.68)(. -6.83) line score is : -4.100, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -3.7074295694624344----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ and do what the others all downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(and -0.00)(do -3.95)(what -6.98)(the -2.31)(others -5.71)(all -2.31)(downhill -4.51)(. -5.60) line score is : -3.921, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.723238746635616----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ he was not put tin tired this drill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(he -0.58)(was -4.11)(not -6.87)(put -1.48)(tin -1.17)(tired -5.30)(this -7.71)(drill -5.97)(. -7.92) line score is : -4.568, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ that unlucky old person of ems 
+-------------------------score:  -3.7269252123854435----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the end , 
+ he was able to bend , 
+ that little old lady of goodwill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(end -1.89)(, -6.02) line score is : -2.812, look ahead score is : 0.000
+(he -6.02)(was -5.01)(able -2.17)(to -1.89)(bend -3.60)(, -0.00) line score is : -3.116, look ahead score is : 0.000
+(that -0.00)(little -7.74)(old -3.58)(lady -4.89)(of -5.57)(goodwill -6.04)(. -2.84) line score is : -4.380, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.7432921966537833----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ but he had none left going he bill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(but -0.58)(he -4.11)(had -6.87)(none -3.21)(left -1.43)(going -2.54)(he -7.16)(bill -2.90)(. -8.29) line score is : -4.120, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.753207229458106----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ and then could continue a downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(and -0.00)(then -3.95)(could -6.98)(continue -2.31)(a -3.07)(downhill -9.08)(. -4.64) line score is : -4.289, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ but nobody knew what he said 
+-------------------------score:  -3.7618951429923375----------------------- 
+there was a lucky man named gil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ but nobody knew what i refill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(but -0.58)(nobody -4.11)(knew -6.87)(what -3.21)(i -7.13)(refill -2.29)(. -1.46) line score is : -3.665, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ what finished him off was the crust 
+-------------------------score:  -3.8458600302692503----------------------- 
+there was a lucky man named phil 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to take , 
+ what were we off loaded the goodwill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(take -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(what -0.00)(were -3.95)(we -6.98)(off -4.34)(loaded -4.44)(the -1.84)(goodwill -8.72)(. -8.30) line score is : -4.819, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ for not selling her waterproof paint 
+-------------------------score:  -3.9304135034481686----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was ready to take , 
+ for now playing it easy downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(ready -2.35)(to -1.98)(take -4.02)(, -0.58) line score is : -3.083, look ahead score is : 0.000
+(for -0.58)(now -4.11)(playing -6.87)(it -6.39)(easy -5.41)(downhill -8.96)(. -4.86) line score is : -5.312, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ as if he 'd been invited 
+-------------------------score:  -3.9976529269246384----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the break , 
+ he was able to make , 
+ as if it outright happened downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(break -1.89)(, -6.72) line score is : -2.911, look ahead score is : 0.000
+(he -6.72)(was -2.85)(able -2.35)(to -1.98)(make -4.45)(, -0.00) line score is : -3.060, look ahead score is : 0.000
+(as -0.00)(if -3.70)(it -7.37)(outright -4.17)(happened -7.02)(downhill -2.23)(. -15.72) line score is : -5.745, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.136259833576332----------------------- 
+there was a lucky man named bill 
+ who did a great job on our will . 
+ he came back from the end , 
+ he was able to bend , 
+ and swing strike it is but right downhill . 
+------------------------- score breakdown ------------------------ 
+(who -2.83)(did -4.23)(a -3.12)(great -2.00)(job -0.15)(on -3.08)(our -4.34)(will -10.05)(. -1.29) line score is : -3.456, look ahead score is : 0.000
+(he -1.29)(came -1.81)(back -3.92)(from -2.47)(the -2.28)(end -1.89)(, -6.02) line score is : -2.812, look ahead score is : 0.000
+(he -6.02)(was -5.01)(able -2.17)(to -1.89)(bend -3.60)(, -0.00) line score is : -3.116, look ahead score is : 0.000
+(and -0.00)(swing -7.74)(strike -3.58)(it -2.20)(is -9.18)(but -9.65)(right -4.35)(downhill -6.31)(. -7.22) line score is : -5.579, look ahead score is : 0.000

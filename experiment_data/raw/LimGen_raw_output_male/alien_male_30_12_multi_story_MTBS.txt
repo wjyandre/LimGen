@@ -1,0 +1,264 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.2158375792205334----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ and they took down and captured his whip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(and -2.72)(they -7.68)(took -2.52)(down -2.08)(and -2.20)(captured -3.54)(his -4.91)(whip -5.64)(. -3.01) line score is : -3.810, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.406596126094941----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ played a guitar no longer than hip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(played -2.72)(a -7.68)(guitar -2.52)(no -5.93)(longer -2.16)(than -3.89)(hip -9.75)(. -0.73) line score is : -4.422, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.4530962761491537----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to space , 
+ he was met by his face , 
+ he had grown to be a complete rip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(space -0.98)(, -6.32) line score is : -2.956, look ahead score is : 0.000
+(he -6.32)(was -0.76)(met -0.51)(by -2.13)(his -3.65)(face -0.42)(, -2.71) line score is : -2.358, look ahead score is : 0.000
+(he -2.71)(had -8.56)(grown -2.09)(to -5.23)(be -2.98)(a -4.59)(complete -2.77)(rip -2.23)(. -1.52) line score is : -3.632, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.5033760275691748----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ in hopes it was all worthwhile the trip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(in -2.72)(hopes -7.68)(it -2.52)(was -6.15)(all -5.69)(worthwhile -7.03)(the -2.21)(trip -3.07)(. -7.99) line score is : -5.006, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ this did n't apply to her feet 
+-------------------------score:  -3.5285843033944406----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was killed by his hand , 
+ this was not forgotten to his grip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(killed -0.59)(by -2.15)(his -4.40)(hand -0.52)(, -3.01) line score is : -2.475, look ahead score is : 0.000
+(this -3.01)(was -7.68)(not -2.49)(forgotten -7.08)(to -2.67)(his -3.77)(grip -5.32)(. -5.91) line score is : -4.741, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.5404838919639587----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ and for reasons he just knows his lip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(and -2.72)(for -7.68)(reasons -2.52)(he -2.08)(just -6.62)(knows -4.87)(his -1.98)(lip -7.75)(. -5.01) line score is : -4.581, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.5739210074947727----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ and killed her because she refused lip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(and -2.72)(killed -7.68)(her -2.52)(because -2.08)(she -5.03)(refused -6.68)(lip -6.17)(. -1.21) line score is : -4.262, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and sideways he could n't be seen 
+-------------------------score:  -3.5925657864539855----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ and tells himself could never be hip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(and -2.72)(tells -7.68)(himself -2.52)(could -2.08)(never -8.09)(be -5.84)(hip -10.96)(. -2.27) line score is : -5.268, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that ungracious young lady in blue 
+-------------------------score:  -3.7591519395510358----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ that same female warrior in hip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(that -2.72)(same -7.68)(female -2.52)(warrior -7.53)(in -5.94)(hip -5.51)(. -3.03) line score is : -4.989, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ to write verses relating to wind 
+-------------------------score:  -3.784497831265132----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was forced by his band , 
+ to kill women willingly to strip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(forced -0.59)(by -2.15)(his -4.28)(band -2.91)(, -1.95) line score is : -2.648, look ahead score is : 0.000
+(to -1.95)(kill -7.57)(women -4.77)(willingly -3.73)(to -2.35)(strip -6.93)(. -8.80) line score is : -5.157, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.8208273341578822----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ and drove towards before all the trip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(and -2.72)(drove -7.68)(towards -2.52)(before -2.08)(all -8.17)(the -6.03)(trip -10.90)(. -6.47) line score is : -5.820, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and see what the critics all say 
+-------------------------score:  -3.8960657158205585----------------------- 
+there was a cunning man named kip 
+ who trapped a young woman on his ship . 
+ when he returned to land , 
+ he was met by his band , 
+ and beat what the officers all grip . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(trapped -9.07)(a -3.15)(young -3.74)(woman -1.81)(on -3.94)(his -2.15)(ship -3.81)(. -1.77) line score is : -3.530, look ahead score is : 0.000
+(when -1.77)(he -3.63)(returned -1.49)(to -3.54)(land -0.98)(, -5.59) line score is : -2.833, look ahead score is : 0.000
+(he -5.59)(was -1.07)(met -0.59)(by -2.15)(his -2.92)(band -0.33)(, -2.72) line score is : -2.195, look ahead score is : 0.000
+(and -2.72)(beat -7.68)(what -2.52)(the -2.08)(officers -7.54)(all -9.09)(grip -4.72)(. -4.80) line score is : -5.143, look ahead score is : 0.000

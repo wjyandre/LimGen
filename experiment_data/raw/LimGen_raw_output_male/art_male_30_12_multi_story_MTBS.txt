@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he was n't the wizard he woz 
+-------------------------score:  -3.100276583433151----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ she was really the reason i stole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(she -4.28)(was -4.87)(really -2.89)(the -1.63)(reason -1.87)(i -4.68)(stole -2.80)(. -3.09) line score is : -3.264, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she was destined to go a long way 
+-------------------------score:  -3.111301960483674----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ i was blessed to have a great console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(i -4.28)(was -4.87)(blessed -2.89)(to -2.28)(have -2.16)(a -5.20)(great -1.32)(console -0.72)(. -2.04) line score is : -2.862, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.142824822856534----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ and that is the reason of this role . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(and -4.28)(that -4.87)(is -2.89)(the -2.37)(reason -4.64)(of -3.45)(this -3.01)(role -1.39)(. -4.37) line score is : -3.474, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.2427933772404987----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ but she had her reasons and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(but -4.28)(she -4.87)(had -2.89)(her -2.45)(reasons -1.59)(and -2.84)(console -3.92)(. -4.45) line score is : -3.411, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he never completed his task 
+-------------------------score:  -3.303795282329832----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ i never expected her console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(i -4.28)(never -4.87)(expected -2.89)(her -2.28)(console -3.51)(. -4.75) line score is : -3.762, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.3094630741303965----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ but her words were down to my console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(but -4.28)(her -4.87)(words -2.89)(were -2.45)(down -3.43)(to -4.62)(my -1.20)(console -8.38)(. -2.27) line score is : -3.820, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.312321146329244----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i got to childhood , 
+ my mother was so good , 
+ so i always wanted on the role . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(got -0.66)(to -3.07)(childhood -1.70)(, -8.71) line score is : -3.338, look ahead score is : 0.000
+(my -8.71)(mother -1.26)(was -2.14)(so -2.34)(good -2.03)(, -4.01) line score is : -3.414, look ahead score is : 0.000
+(so -4.01)(i -5.09)(always -3.00)(wanted -2.07)(on -5.60)(the -4.00)(role -2.23)(. -9.92) line score is : -4.491, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.339297809908467----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my father was so good , 
+ and he was not like someone of role . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(father -1.36)(was -2.02)(so -2.14)(good -1.37)(, -5.08) line score is : -3.474, look ahead score is : 0.000
+(and -5.08)(he -4.76)(was -2.81)(not -2.41)(like -1.93)(someone -1.58)(of -4.70)(role -3.24)(. -4.83) line score is : -3.483, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.3661484281222025----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ but i am not happy for console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(but -4.28)(i -4.87)(am -2.89)(not -2.45)(happy -1.75)(for -5.12)(console -2.02)(. -4.81) line score is : -3.523, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.373027512005397----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ i never imagined a console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(i -4.28)(never -4.87)(imagined -2.89)(a -2.28)(console -3.51)(. -3.77) line score is : -3.599, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ I invariably get in a stew ! 
+-------------------------score:  -3.383768959840139----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i got to childhood , 
+ my father was so good , 
+ he even beat in a game console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(got -0.66)(to -3.07)(childhood -1.70)(, -8.71) line score is : -3.338, look ahead score is : 0.000
+(my -8.71)(father -1.26)(was -2.14)(so -2.45)(good -1.76)(, -4.80) line score is : -3.520, look ahead score is : 0.000
+(he -4.80)(even -4.98)(beat -2.94)(in -1.54)(a -3.86)(game -5.39)(console -6.84)(. -2.63) line score is : -4.124, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.390461653470993----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i got to childhood , 
+ my mother was so good , 
+ so i was up and go on the roll . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(got -0.66)(to -3.07)(childhood -1.70)(, -8.71) line score is : -3.338, look ahead score is : 0.000
+(my -8.71)(mother -1.26)(was -2.14)(so -2.34)(good -2.03)(, -4.01) line score is : -3.414, look ahead score is : 0.000
+(so -4.01)(i -5.09)(was -3.00)(up -2.07)(and -5.60)(go -2.30)(on -7.84)(the -2.55)(roll -7.12)(. -4.57) line score is : -4.414, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and some of the members are swines 
+-------------------------score:  -3.392541035016378----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i got to childhood , 
+ my mother was so good , 
+ and some of the teachers are charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(got -0.66)(to -3.07)(childhood -1.70)(, -8.71) line score is : -3.338, look ahead score is : 0.000
+(my -8.71)(mother -1.26)(was -2.14)(so -2.34)(good -2.03)(, -4.01) line score is : -3.414, look ahead score is : 0.000
+(and -4.01)(some -5.09)(of -3.00)(the -2.32)(teachers -7.90)(are -1.07)(charcoal -1.01)(. -2.64) line score is : -3.381, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he left all his fans wanting more 
+-------------------------score:  -3.4051876028378802----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ she taught all my friends reading charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(she -4.28)(taught -4.87)(all -2.89)(my -1.63)(friends -3.12)(reading -4.67)(charcoal -1.67)(. -2.00) line score is : -3.140, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.405922453730337----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ she taught me and told stories and whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(she -4.28)(taught -4.87)(me -2.89)(and -1.63)(told -3.12)(stories -0.14)(and -5.74)(whole -4.36)(. -6.01) line score is : -3.672, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but they felt it was doing them good 
+-------------------------score:  -3.4125120870528685----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ but she was i was thinking it whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(but -4.28)(she -4.87)(was -2.89)(i -2.45)(was -1.59)(thinking -1.21)(it -8.65)(whole -2.58)(. -5.87) line score is : -3.821, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she sat up in bed and meowed 
+-------------------------score:  -3.4212599456310273----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ she was up in heaven and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(she -4.28)(was -4.87)(up -2.89)(in -1.63)(heaven -1.87)(and -8.22)(console -2.36)(. -0.98) line score is : -3.386, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that her head was bare 
+-------------------------score:  -3.4459151391472136----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ that our apartment was charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(that -4.28)(our -4.87)(apartment -2.89)(was -3.11)(charcoal -6.15)(. -5.88) line score is : -4.529, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.524118953737719----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ and loved with a wonderful console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(and -4.28)(loved -4.87)(with -2.89)(a -2.37)(wonderful -6.01)(console -5.36)(. -2.94) line score is : -4.102, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.5578908189650504----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ and for years she just has her console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(and -4.28)(for -4.87)(years -2.89)(she -2.37)(just -6.12)(has -3.14)(her -1.61)(console -5.54)(. -7.83) line score is : -4.293, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but nobody knew what he said 
+-------------------------score:  -3.5642155984352373----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my father was so good , 
+ but nobody knew what i console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(father -1.36)(was -2.02)(so -2.14)(good -1.37)(, -5.08) line score is : -3.474, look ahead score is : 0.000
+(but -5.08)(nobody -4.76)(knew -2.81)(what -2.42)(i -7.42)(console -1.92)(. -2.34) line score is : -3.822, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that unlucky old person of ems 
+-------------------------score:  -3.5665587515666566----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ that little old lady of console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(that -4.28)(little -4.87)(old -2.89)(lady -3.11)(of -8.51)(console -5.19)(. -1.12) line score is : -4.279, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that she pickled her internal workins' 
+-------------------------score:  -3.5772619329649826----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my father was so good , 
+ that i had it difficult console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(father -1.36)(was -2.02)(so -2.14)(good -1.37)(, -5.08) line score is : -3.474, look ahead score is : 0.000
+(that -5.08)(i -4.76)(had -2.81)(it -2.85)(difficult -1.06)(console -2.98)(. -6.77) line score is : -3.758, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and finished the solo with honour 
+-------------------------score:  -3.6191494629300873----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ and had the desire with console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(and -4.28)(had -4.87)(the -2.89)(desire -2.37)(with -4.91)(console -3.45)(. -5.92) line score is : -4.096, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that ungracious young lady in blue 
+-------------------------score:  -3.676621149326193----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my father was so good , 
+ that little old woman in charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(father -1.36)(was -2.02)(so -2.14)(good -1.37)(, -5.08) line score is : -3.474, look ahead score is : 0.000
+(that -5.08)(little -4.76)(old -2.81)(woman -2.85)(in -8.38)(charcoal -5.23)(. -3.74) line score is : -4.694, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and hop in before all the crowd 
+-------------------------score:  -3.854247438907623----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ and let in before all the console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(and -4.28)(let -4.87)(in -2.89)(before -2.37)(all -8.02)(the -7.66)(console -9.82)(. -4.65) line score is : -5.569, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.8863174665358757----------------------- 
+there was a teacher named cole 
+ who made a big impact on my soul . 
+ when i came to childhood , 
+ my mother was so good , 
+ and trying help me is but right console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(made -4.75)(a -1.99)(big -3.74)(impact -3.67)(on -0.73)(my -1.64)(soul -7.27)(. -1.45) line score is : -2.983, look ahead score is : 0.000
+(when -1.45)(i -4.43)(came -0.66)(to -3.91)(childhood -1.21)(, -8.87) line score is : -3.423, look ahead score is : 0.000
+(my -8.87)(mother -1.36)(was -2.02)(so -2.06)(good -1.67)(, -4.28) line score is : -3.377, look ahead score is : 0.000
+(and -4.28)(trying -4.87)(help -2.89)(me -2.37)(is -9.56)(but -9.66)(right -0.62)(console -5.50)(. -8.65) line score is : -5.377, look ahead score is : 0.000

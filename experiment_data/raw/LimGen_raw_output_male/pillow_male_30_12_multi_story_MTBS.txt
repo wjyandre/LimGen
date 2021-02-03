@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ she was ready to give and to take 
+-------------------------score:  -2.862680737049349----------------------- 
+there was a skinny boy named ted 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we shared in the room , 
+ we had plenty to eat and to read . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(shared -3.99)(in -2.34)(the -2.66)(room -4.06)(, -1.27) line score is : -2.571, look ahead score is : 0.000
+(we -1.27)(had -4.55)(plenty -2.51)(to -1.86)(eat -1.13)(and -4.80)(to -3.43)(read -0.90)(. -1.52) line score is : -2.440, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ he claimed that his costume was chile 
+-------------------------score:  -3.18180492122968----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we found that our father had dead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(we -1.05)(found -4.31)(that -2.22)(our -2.01)(father -3.03)(had -3.77)(dead -3.65)(. -3.01) line score is : -2.880, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ you never can tell till you try 
+-------------------------score:  -3.1932084202766418----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ i never can sleep unless i read . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(i -1.05)(never -4.31)(can -2.22)(sleep -2.75)(unless -4.71)(i -7.04)(read -3.19)(. -4.19) line score is : -3.684, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ then he walloped me square in the face 
+-------------------------score:  -3.242993700888849----------------------- 
+there was a skinny boy named ed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ here i found him sleeping in the lead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(here -1.05)(i -4.31)(found -2.22)(him -7.22)(sleeping -3.33)(in -2.40)(the -3.17)(lead -2.84)(. -2.72) line score is : -3.252, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ he never completed his task 
+-------------------------score:  -3.2881501274449483----------------------- 
+there was a skinny boy named ted 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we also collected our bread . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(we -1.05)(also -4.31)(collected -2.22)(our -2.01)(bread -4.43)(. -6.63) line score is : -3.441, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ they bedded her down in the stable 
+-------------------------score:  -3.288902634382248----------------------- 
+there was a skinny boy named ted 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we found ourselves down in the head . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(we -1.05)(found -4.31)(ourselves -2.22)(down -2.01)(in -3.03)(the -5.03)(head -7.33)(. -2.22) line score is : -3.400, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ then I sat on my moped and moped 
+-------------------------score:  -3.373830622242343----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ here i have on my pillow and read . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(here -1.05)(i -4.31)(have -2.22)(on -7.22)(my -3.33)(pillow -2.66)(and -5.48)(read -1.06)(. -3.54) line score is : -3.431, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ within weeks it was all in the past 
+-------------------------score:  -3.393148249195468----------------------- 
+there was a skinny boy named ned 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ besides books we had all in the head . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(besides -1.05)(books -4.31)(we -2.22)(had -6.52)(all -4.33)(in -4.16)(the -0.61)(head -5.45)(. -3.90) line score is : -3.617, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.450749765549387----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ was also a wonderful instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(was -1.05)(also -4.31)(a -2.22)(wonderful -2.40)(instead -4.29)(. -0.73) line score is : -2.501, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4846568942070006----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ i also have in a box instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(i -1.05)(also -4.31)(have -2.22)(in -2.75)(a -4.78)(box -4.27)(instead -4.64)(. -3.66) line score is : -3.461, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.5101490597571097----------------------- 
+there was a silly boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we found him and put ourselves and read . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.88)(a -5.12)(good -3.18)(deal -1.35)(on -2.80)(our -5.14)(bed -2.22)(. -1.92) line score is : -3.335, look ahead score is : 0.000
+(and -1.92)(in -4.12)(our -4.61)(bedroom -3.23)(, -2.18) line score is : -3.212, look ahead score is : 0.000
+(which -2.18)(we -1.76)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.564, look ahead score is : 0.000
+(we -1.05)(found -4.31)(him -2.22)(and -2.01)(put -3.03)(ourselves -4.01)(and -4.52)(read -4.20)(. -5.87) line score is : -3.469, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.5113226559854325----------------------- 
+there was a skinny boy named ned 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ and that is the door of this instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(and -1.05)(that -4.31)(is -2.22)(the -3.41)(door -4.41)(of -3.17)(this -2.48)(instead -5.27)(. -2.35) line score is : -3.186, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.514495245872005----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we found through the window and saw head . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(we -1.05)(found -4.31)(through -2.22)(the -2.01)(window -3.03)(and -9.17)(saw -1.36)(head -2.41)(. -4.82) line score is : -3.375, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ I did n't think life was this way 
+-------------------------score:  -3.5436207709773893----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we had not put something called this bread . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(we -1.05)(had -4.31)(not -2.22)(put -2.01)(something -0.62)(called -5.28)(this -4.87)(bread -6.60)(. -6.80) line score is : -3.751, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.548639973004659----------------------- 
+there was a skinny boy named ted 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ and our beds were bigger and widespread . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(and -1.05)(our -4.31)(beds -2.22)(were -3.41)(bigger -4.51)(and -4.12)(widespread -1.30)(. -6.44) line score is : -3.419, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ and kissed her because he was wuise 
+-------------------------score:  -3.6803969780604047----------------------- 
+there was a skinny boy named ted 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ and had her because we had instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(and -1.05)(had -4.31)(her -2.22)(because -3.41)(we -3.43)(had -6.20)(instead -8.86)(. -1.91) line score is : -3.924, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.7009316436175643----------------------- 
+there was a silly boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ and was with a beautiful instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.88)(a -5.12)(good -3.18)(deal -1.35)(on -2.80)(our -5.14)(bed -2.22)(. -1.92) line score is : -3.335, look ahead score is : 0.000
+(and -1.92)(in -4.12)(our -4.61)(bedroom -3.23)(, -2.18) line score is : -3.212, look ahead score is : 0.000
+(which -2.18)(we -1.76)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.564, look ahead score is : 0.000
+(and -1.05)(was -4.31)(with -2.22)(a -3.41)(beautiful -3.70)(instead -6.58)(. -2.84) line score is : -3.445, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ and now he 's a college professor 
+-------------------------score:  -3.7262682636578877----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ and here he has a pillow instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(and -1.05)(here -4.31)(he -2.22)(has -3.41)(a -6.04)(pillow -3.19)(instead -4.42)(. -2.07) line score is : -3.340, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.740798604488373----------------------- 
+there was a skinny boy named ed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ we had when we heard across instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(we -1.05)(had -4.31)(when -2.22)(we -2.01)(heard -0.62)(across -8.40)(instead -0.83)(. -6.33) line score is : -3.221, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ because of his scanty regalia 
+-------------------------score:  -3.7455388484177767----------------------- 
+there was a skinny boy named ned 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ besides our usual instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(besides -1.05)(our -4.31)(usual -2.22)(instead -6.52)(. -2.55) line score is : -3.331, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ then grind out a limerick or two 
+-------------------------score:  -3.772749141852061----------------------- 
+there was a skinny boy named ed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ not put out a candle or instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(not -1.05)(put -4.31)(out -2.22)(a -6.68)(candle -8.80)(or -3.17)(instead -3.85)(. -2.89) line score is : -4.122, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ which leaves him in very bad shape 
+-------------------------score:  -3.8573654929796857----------------------- 
+there was a skinny boy named jed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we had in the room , 
+ which is me in very poor instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(had -3.99)(in -2.34)(the -1.93)(room -4.71)(, -1.05) line score is : -2.527, look ahead score is : 0.000
+(which -1.05)(is -4.31)(me -2.22)(in -4.30)(very -3.21)(poor -8.82)(instead -2.69)(. -7.78) line score is : -4.298, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ I ll give you prostheses for free 
+-------------------------score:  -3.918451356887817----------------------- 
+there was a skinny boy named ted 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we shared in the room , 
+ i ca set myself clothes for instead . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(shared -3.99)(in -2.34)(the -2.66)(room -4.06)(, -1.27) line score is : -2.571, look ahead score is : 0.000
+(i -1.27)(ca -4.55)(set -2.51)(myself -2.43)(clothes -9.73)(for -11.23)(instead -3.97)(. -5.90) line score is : -5.199, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ AND IN PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ and as for my hair 
+ which he loosed in the house 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -3.936068488705543----------------------- 
+there was a skinny boy named ed 
+ who slept a good deal on our bed . 
+ and in our bedroom , 
+ which we shared in the room , 
+ i ca put myself off if it spread . 
+------------------------- score breakdown ------------------------ 
+(who -1.40)(slept -6.77)(a -5.29)(good -3.31)(deal -1.53)(on -2.62)(our -5.10)(bed -2.18)(. -1.63) line score is : -3.315, look ahead score is : 0.000
+(and -1.63)(in -4.23)(our -4.57)(bedroom -3.20)(, -1.98) line score is : -3.122, look ahead score is : 0.000
+(which -1.98)(we -1.70)(shared -3.99)(in -2.34)(the -2.66)(room -4.06)(, -1.27) line score is : -2.571, look ahead score is : 0.000
+(i -1.27)(ca -4.55)(put -2.51)(myself -2.43)(off -9.73)(if -10.22)(it -4.14)(spread -6.51)(. -7.15) line score is : -5.391, look ahead score is : 0.000

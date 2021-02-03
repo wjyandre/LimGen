@@ -1,0 +1,264 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.595856206886696----------------------- 
+there was a warrior named brande 
+ who fought a great battle on our land . 
+ she came back from the fight , 
+ and she went to the light , 
+ and she sat down and took our hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(our -4.96)(land -2.57)(. -1.55) line score is : -2.647, look ahead score is : 0.000
+(she -1.55)(came -1.45)(back -3.89)(from -2.09)(the -2.53)(fight -1.23)(, -3.79) line score is : -2.362, look ahead score is : 0.000
+(and -3.79)(she -2.93)(went -1.52)(to -1.65)(the -4.52)(light -1.22)(, -1.84) line score is : -2.496, look ahead score is : 0.000
+(and -1.84)(she -7.17)(sat -1.92)(down -0.43)(and -0.57)(took -3.90)(our -1.02)(hand -2.26)(. -4.49) line score is : -2.621, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.602924046191302----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ so she had to go down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(when -1.67)(she -3.56)(returned -0.85)(to -3.34)(fight -1.29)(, -5.35) line score is : -2.677, look ahead score is : 0.000
+(she -5.35)(was -1.80)(killed -0.51)(by -1.62)(a -3.78)(knight -0.82)(, -1.31) line score is : -2.170, look ahead score is : 0.000
+(so -1.31)(she -5.29)(had -2.94)(to -3.69)(go -1.04)(down -3.25)(on -0.41)(the -2.97)(sand -5.10)(. -3.48) line score is : -2.948, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH THE NN OF A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with the faith of a marytr 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.701932565732436----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ she came back from the fight , 
+ with the help of a knight , 
+ and she went down and buried her hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(she -1.67)(came -1.39)(back -4.07)(from -1.93)(the -2.53)(fight -1.03)(, -3.68) line score is : -2.329, look ahead score is : 0.000
+(with -3.68)(the -3.06)(help -3.45)(of -2.50)(a -2.72)(knight -0.03)(, -2.14) line score is : -2.513, look ahead score is : 0.000
+(and -2.14)(she -5.02)(went -1.86)(down -0.95)(and -2.76)(buried -4.05)(her -4.37)(hand -3.30)(. -3.92) line score is : -3.153, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -2.7689921182970845----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and now she has a family band . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(when -1.67)(she -3.56)(returned -0.85)(to -3.34)(fight -1.29)(, -5.35) line score is : -2.677, look ahead score is : 0.000
+(she -5.35)(was -1.80)(killed -0.51)(by -1.62)(a -3.78)(knight -0.82)(, -1.31) line score is : -2.170, look ahead score is : 0.000
+(and -1.31)(now -5.29)(she -2.94)(has -1.73)(a -4.47)(family -1.45)(band -2.36)(. -3.32) line score is : -2.858, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.798677231868108----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ when she came to combat , 
+ she was killed by a cat , 
+ and she was reborn again inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(when -1.67)(she -3.56)(came -0.85)(to -3.15)(combat -1.21)(, -7.71) line score is : -3.025, look ahead score is : 0.000
+(she -7.71)(was -0.91)(killed -0.65)(by -1.68)(a -3.77)(cat -0.87)(, -1.22) line score is : -2.404, look ahead score is : 0.000
+(and -1.22)(she -5.95)(was -2.55)(reborn -1.49)(again -2.40)(inland -1.47)(. -1.82) line score is : -2.415, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.813530994579196----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ when she returned to fight , 
+ she was struck by a light , 
+ and she fell down and became her hand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(when -1.67)(she -3.56)(returned -0.85)(to -3.34)(fight -1.29)(, -5.35) line score is : -2.677, look ahead score is : 0.000
+(she -5.35)(was -1.80)(struck -0.51)(by -1.62)(a -4.66)(light -1.32)(, -1.09) line score is : -2.335, look ahead score is : 0.000
+(and -1.09)(she -5.82)(fell -2.96)(down -1.28)(and -2.17)(became -2.72)(her -3.41)(hand -2.76)(. -3.32) line score is : -2.836, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.893442763436225----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ when she came to combat , 
+ she was killed by a cat , 
+ but she survived her battles and stand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(when -1.67)(she -3.56)(came -0.85)(to -3.15)(combat -1.21)(, -7.71) line score is : -3.025, look ahead score is : 0.000
+(she -7.71)(was -0.91)(killed -0.65)(by -1.68)(a -3.77)(cat -0.87)(, -1.22) line score is : -2.404, look ahead score is : 0.000
+(but -1.22)(she -5.95)(survived -2.55)(her -1.77)(battles -1.77)(and -2.07)(stand -4.54)(. -5.70) line score is : -3.196, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.909924876689911----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ when she returned to fight , 
+ she was killed by her knight , 
+ and she was reborn elsewhere inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(when -1.67)(she -3.56)(returned -0.85)(to -3.34)(fight -1.29)(, -5.35) line score is : -2.677, look ahead score is : 0.000
+(she -5.35)(was -1.80)(killed -0.51)(by -1.62)(her -3.78)(knight -0.82)(, -2.22) line score is : -2.301, look ahead score is : 0.000
+(and -2.22)(she -6.93)(was -1.71)(reborn -2.24)(elsewhere -2.46)(inland -1.23)(. -2.31) line score is : -2.728, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.917238894008821----------------------- 
+there was a warrior named brande 
+ who fought a great battle on our land . 
+ she came back from the fight , 
+ and she went to the light , 
+ and she returned home safely inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(our -4.96)(land -2.57)(. -1.55) line score is : -2.647, look ahead score is : 0.000
+(she -1.55)(came -1.45)(back -3.89)(from -2.09)(the -2.53)(fight -1.23)(, -3.79) line score is : -2.362, look ahead score is : 0.000
+(and -3.79)(she -2.93)(went -1.52)(to -1.65)(the -4.52)(light -1.22)(, -1.84) line score is : -2.496, look ahead score is : 0.000
+(and -1.84)(she -7.17)(returned -1.92)(home -0.43)(safely -0.57)(inland -4.22)(. -2.71) line score is : -2.692, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.9182364671461043----------------------- 
+there was a warrior named brande 
+ who fought a great battle on our land . 
+ she came back from the fight , 
+ she was healed by a knight , 
+ and she was reborn again inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(our -4.96)(land -2.57)(. -1.55) line score is : -2.647, look ahead score is : 0.000
+(she -1.55)(came -1.45)(back -3.89)(from -2.09)(the -2.53)(fight -1.23)(, -3.79) line score is : -2.362, look ahead score is : 0.000
+(she -3.79)(was -2.93)(healed -2.70)(by -1.43)(a -4.13)(knight -2.97)(, -2.73) line score is : -2.955, look ahead score is : 0.000
+(and -2.73)(she -5.27)(was -1.88)(reborn -1.38)(again -0.77)(inland -1.69)(. -4.31) line score is : -2.576, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH THE NN OF A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with the faith of a marytr 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.9389478468125865----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ she came back from the fight , 
+ with the help of a knight , 
+ and she became queen again inland . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(she -1.67)(came -1.39)(back -4.07)(from -1.93)(the -2.53)(fight -1.03)(, -3.68) line score is : -2.329, look ahead score is : 0.000
+(with -3.68)(the -3.06)(help -3.45)(of -2.50)(a -2.72)(knight -0.03)(, -2.14) line score is : -2.513, look ahead score is : 0.000
+(and -2.14)(she -5.02)(became -1.86)(queen -0.95)(again -2.76)(inland -3.36)(. -3.87) line score is : -2.852, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH THE NN OF A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with the faith of a marytr 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.0204495042562485----------------------- 
+there was a warrior named brande 
+ who fought a great battle on her land . 
+ she came back from the fight , 
+ with the help of a knight , 
+ but she lost her feet and beforehand . 
+------------------------- score breakdown ------------------------ 
+(who -1.24)(fought -3.38)(a -3.71)(great -2.18)(battle -0.55)(on -3.67)(her -2.96)(land -4.11)(. -1.67) line score is : -2.609, look ahead score is : 0.000
+(she -1.67)(came -1.39)(back -4.07)(from -1.93)(the -2.53)(fight -1.03)(, -3.68) line score is : -2.329, look ahead score is : 0.000
+(with -3.68)(the -3.06)(help -3.45)(of -2.50)(a -2.72)(knight -0.03)(, -2.14) line score is : -2.513, look ahead score is : 0.000
+(but -2.14)(she -5.02)(lost -1.86)(her -3.83)(feet -1.72)(and -3.04)(beforehand -0.41)(. -6.09) line score is : -3.014, look ahead score is : 0.000

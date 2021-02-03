@@ -1,0 +1,330 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2266603592903382----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ but it does not hold in our grip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(but -3.58)(it -7.87)(does -2.37)(not -3.25)(hold -1.85)(in -7.68)(our -0.16)(grip -3.99)(. -5.23) line score is : -4.000, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.234553107811559----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and we took down and restored our ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(we -7.87)(took -2.37)(down -1.78)(and -2.57)(restored -3.53)(our -5.81)(ship -5.33)(. -3.31) line score is : -4.018, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.311398722952412----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and it looked much like mother of ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(it -7.87)(looked -2.37)(much -1.78)(like -3.30)(mother -2.58)(of -4.03)(ship -1.52)(. -8.36) line score is : -3.934, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.317884561996306----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we found the same playground , 
+ but our children were down to their zip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(found -1.03)(the -1.07)(same -2.29)(playground -2.46)(, -5.09) line score is : -2.633, look ahead score is : 0.000
+(but -5.09)(our -10.32)(children -2.42)(were -1.72)(down -4.60)(to -3.21)(their -1.18)(zip -7.16)(. -2.83) line score is : -4.282, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.3418336621215268----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and drove home to our hotel in tip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(drove -7.87)(home -2.37)(to -1.78)(our -6.87)(hotel -4.73)(in -1.70)(tip -3.01)(. -2.81) line score is : -3.859, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ but the telephone book caused him pain 
+-------------------------score:  -3.449378785987695----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ but the water fountain was none ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(but -3.58)(the -7.87)(water -2.37)(fountain -3.25)(was -2.44)(none -5.26)(ship -3.04)(. -0.87) line score is : -3.586, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.452958856378832----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and for hours we just swung our hip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(for -7.87)(hours -2.37)(we -1.78)(just -5.66)(swung -4.97)(our -0.82)(hip -5.60)(. -8.96) line score is : -4.625, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and see what the critics all say 
+-------------------------score:  -3.52470550686121----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and wonder what the children all strip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(wonder -7.87)(what -2.37)(the -1.78)(children -8.03)(all -2.20)(strip -2.62)(. -3.17) line score is : -3.954, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.542344623307387----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we found the old playground , 
+ and our friends were happier and tip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(found -1.03)(the -1.07)(old -2.29)(playground -2.46)(, -4.12) line score is : -2.471, look ahead score is : 0.000
+(and -4.12)(our -7.70)(friends -3.57)(were -2.36)(happier -4.40)(and -3.11)(tip -1.92)(. -8.23) line score is : -4.426, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and could n't bend back again 
+-------------------------score:  -3.5513046255399443----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and could only imagine back flip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(could -7.87)(only -2.37)(imagine -1.78)(back -6.30)(flip -3.65)(. -1.66) line score is : -3.889, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ and hop in before all the crowd 
+-------------------------score:  -3.7050487314661344----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ and wonder in before all the strip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(and -3.58)(wonder -7.87)(in -2.37)(before -1.78)(all -8.03)(the -5.72)(strip -11.19)(. -5.02) line score is : -5.696, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ great writers are fewer and fewer 
+-------------------------score:  -3.791836768902581----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we found the old playground , 
+ new buildings are easier and hip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(found -1.03)(the -1.07)(old -2.29)(playground -2.46)(, -4.12) line score is : -2.471, look ahead score is : 0.000
+(new -4.12)(buildings -7.70)(are -3.57)(easier -6.22)(and -4.36)(hip -7.67)(. -8.19) line score is : -5.976, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ kept insuring her during the service 
+-------------------------score:  -3.8090811654411514----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we found the old playground , 
+ restored using our during the ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(found -1.03)(the -1.07)(old -2.29)(playground -2.46)(, -4.12) line score is : -2.471, look ahead score is : 0.000
+(restored -4.12)(using -7.70)(our -3.57)(during -5.89)(the -7.35)(ship -3.99)(. -11.86) line score is : -6.355, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ then he couldn t think of anything 
+-------------------------score:  -3.91330379396677----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we found the old playground , 
+ now we ca always play of ship . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(found -1.03)(the -1.07)(old -2.29)(playground -2.46)(, -4.12) line score is : -2.471, look ahead score is : 0.000
+(now -4.12)(we -7.70)(ca -3.57)(always -3.28)(play -7.71)(of -12.01)(ship -7.77)(. -2.30) line score is : -6.057, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ thirty days is the time he will do 
+-------------------------score:  -3.93146450817585----------------------- 
+there was a lucky boy named kip 
+ who went a long way on our trip . 
+ when we returned to town , 
+ we saw the old playground , 
+ new toys toys the house itself will rip . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(went -4.01)(a -5.42)(long -1.51)(way -0.20)(on -4.49)(our -5.09)(trip -3.63)(. -1.76) line score is : -3.080, look ahead score is : 0.000
+(when -1.76)(we -4.82)(returned -1.03)(to -3.17)(town -1.20)(, -3.87) line score is : -2.642, look ahead score is : 0.000
+(we -3.87)(saw -1.03)(the -1.07)(old -3.48)(playground -2.33)(, -3.58) line score is : -2.559, look ahead score is : 0.000
+(new -3.58)(toys -7.87)(toys -2.37)(the -6.37)(house -5.06)(itself -8.95)(will -6.22)(rip -4.62)(. -5.51) line score is : -5.617, look ahead score is : 0.000

@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ so he had to sit down on the floor 
+-------------------------score:  -3.141694601625204----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ so i had to go down on the chin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(so -0.62)(i -7.68)(had -2.51)(to -2.37)(go -1.54)(down -3.00)(on -1.71)(the -3.15)(chin -4.63)(. -3.56) line score is : -3.079, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ but they felt it was doing them good 
+-------------------------score:  -3.1831157005602315----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ but i felt i was wearing it thin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(but -0.62)(i -7.68)(felt -2.51)(i -2.20)(was -1.76)(wearing -3.57)(it -4.56)(thin -1.26)(. -3.11) line score is : -3.031, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.2914061825722456----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ so i got up and put on the grin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(so -0.62)(i -7.68)(got -2.51)(up -2.37)(and -1.54)(put -3.87)(on -5.69)(the -1.59)(grin -4.13)(. -0.67) line score is : -3.067, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ but it does n't come out of my purse 
+-------------------------score:  -3.4213734519097114----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ but it is always dry in my chin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(but -1.13)(it -8.10)(is -2.47)(always -2.67)(dry -2.61)(in -4.58)(my -4.42)(chin -5.50)(. -3.32) line score is : -3.866, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.49720884138538----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ i was through the roof and became in . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(i -0.62)(was -7.68)(through -2.51)(the -1.77)(roof -2.15)(and -9.25)(became -1.49)(in -0.34)(. -3.18) line score is : -3.221, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.508033871650696----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ and i was not like someone of sin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(and -0.62)(i -7.68)(was -2.51)(not -1.59)(like -1.14)(someone -1.95)(of -4.76)(sin -5.22)(. -4.69) line score is : -3.352, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.5282272193580866----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ it gives a nice glow out towards the chin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(it -1.13)(gives -8.10)(a -2.47)(nice -2.35)(glow -6.18)(out -3.95)(towards -2.99)(the -0.68)(chin -7.97)(. -8.42) line score is : -4.424, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ it s a regular brute of a bee 
+-------------------------score:  -3.5318566022380704----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ it is a real blessing of a sin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(it -1.13)(is -8.10)(a -2.47)(real -2.35)(blessing -5.47)(of -3.27)(a -4.80)(sin -1.75)(. -6.27) line score is : -3.956, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.62119476256832----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ and i got down and did my akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(and -0.62)(i -7.68)(got -2.51)(down -1.59)(and -1.14)(did -3.67)(my -7.20)(akin -3.33)(. -3.99) line score is : -3.527, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.6336977058841335----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ but my pores were down to their akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(but -1.13)(my -8.10)(pores -2.47)(were -2.67)(down -3.31)(to -4.53)(their -1.37)(akin -7.99)(. -1.25) line score is : -3.647, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ but nobody knew what he said 
+-------------------------score:  -3.705458842474839----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ but nobody knew what it akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(but -0.62)(nobody -7.68)(knew -2.51)(what -2.20)(it -8.05)(akin -2.18)(. -1.69) line score is : -3.563, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and now a new teacher they seek 
+-------------------------score:  -3.737471572558085----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i felt so much sunshine , 
+ and not a dull feeling it akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(felt -1.24)(so -1.01)(much -3.26)(sunshine -2.55)(, -1.58) line score is : -2.991, look ahead score is : 0.000
+(and -1.58)(not -8.67)(a -2.53)(dull -1.41)(feeling -5.03)(it -2.85)(akin -3.44)(. -2.85) line score is : -3.544, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ but I guess that you probably gnu 
+-------------------------score:  -3.7680585900942485----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ but i think that i also akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(but -1.13)(i -8.10)(think -2.47)(that -2.67)(i -1.72)(also -4.71)(akin -2.07)(. -2.97) line score is : -3.230, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ that her head was bare 
+-------------------------score:  -3.7769701055118015----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ that our complexion was akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(that -0.62)(our -7.68)(complexion -2.51)(was -3.41)(akin -8.39)(. -5.85) line score is : -4.744, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and now he 's a college professor 
+-------------------------score:  -3.7790130893389384----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ and now it is a problem akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(and -0.62)(now -7.68)(it -2.51)(is -1.59)(a -3.70)(problem -2.27)(akin -2.69)(. -3.10) line score is : -3.021, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.7853216767311095----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ but i had my problems and akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(but -0.62)(i -7.68)(had -2.51)(my -2.20)(problems -1.76)(and -2.65)(akin -4.74)(. -4.48) line score is : -3.330, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ she sat up in bed and meowed 
+-------------------------score:  -3.8197521448135374----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ i felt up in heaven and akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(i -0.62)(felt -7.68)(up -2.51)(in -1.77)(heaven -2.54)(and -8.96)(akin -3.16)(. -1.77) line score is : -3.627, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ when he saw there were six little chips 
+-------------------------score:  -3.8544751867171256----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ when i stopped there was one light akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(when -1.13)(i -8.10)(stopped -2.47)(there -5.92)(was -0.29)(one -3.08)(light -5.29)(akin -1.57)(. -5.60) line score is : -3.717, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.8687181390565017----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ it gives a nice natural akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(it -1.13)(gives -8.10)(a -2.47)(nice -2.35)(natural -6.18)(akin -3.95)(. -2.99) line score is : -3.882, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ or does gravity miss things so small 
+-------------------------score:  -3.903857910633087----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ or gets sun burn afterwards so thin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(or -1.13)(gets -8.10)(sun -2.47)(burn -6.46)(afterwards -9.31)(so -3.68)(thin -1.36)(. -7.75) line score is : -5.032, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.908823683344085----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ and i felt radiant now akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(and -0.62)(i -7.68)(felt -2.51)(radiant -1.59)(now -1.14)(akin -3.00)(. -5.13) line score is : -3.098, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.920082119203383----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i had so much sunshine , 
+ and for days i just froze my akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(had -1.24)(so -1.01)(much -3.06)(sunshine -4.21)(, -0.62) line score is : -3.073, look ahead score is : 0.000
+(and -0.62)(for -7.68)(days -2.51)(i -1.59)(just -5.92)(froze -4.55)(my -0.83)(akin -3.76)(. -8.06) line score is : -3.948, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ are all easy marks for a jolly 
+-------------------------score:  -3.954871888955434----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i felt so much sunshine , 
+ feel all good sensations for a in . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(felt -1.24)(so -1.01)(much -3.26)(sunshine -2.55)(, -1.58) line score is : -2.991, look ahead score is : 0.000
+(feel -1.58)(all -8.67)(good -2.53)(sensations -7.06)(for -5.88)(a -4.80)(in -6.11)(. -5.48) line score is : -5.264, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and gave his proboscis a tweak 
+-------------------------score:  -4.018424330086543----------------------- 
+there was a smart man named ervin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ and noticed my body a akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(and -1.13)(noticed -8.10)(my -2.47)(body -1.63)(a -6.58)(akin -1.86)(. -5.01) line score is : -3.825, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ and sometimes get quite cranky 
+-------------------------score:  -4.078341731003353----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i felt so much sunshine , 
+ and also remember quite akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(felt -1.24)(so -1.01)(much -3.26)(sunshine -2.55)(, -1.58) line score is : -2.991, look ahead score is : 0.000
+(and -1.58)(also -8.67)(remember -2.53)(quite -1.41)(akin -5.02)(. -8.45) line score is : -4.609, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD SO JJ NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ she ate so much spice 
+ that man in a boat 
+-------------------------score:  -4.225618711539677----------------------- 
+there was a smart man named erwin 
+ who made a big difference on my skin . 
+ when i started to shine , 
+ i got so much sunshine , 
+ that anything outside a akin . 
+------------------------- score breakdown ------------------------ 
+(who -2.53)(made -4.17)(a -1.33)(big -4.03)(difference -3.16)(on -4.55)(my -2.41)(skin -8.51)(. -1.41) line score is : -3.567, look ahead score is : 0.000
+(when -1.41)(i -4.55)(started -0.67)(to -2.71)(shine -2.67)(, -8.31) line score is : -3.387, look ahead score is : 0.000
+(i -8.31)(got -1.24)(so -1.01)(much -3.46)(sunshine -2.88)(, -1.13) line score is : -3.004, look ahead score is : 0.000
+(that -1.13)(anything -8.10)(outside -2.47)(a -2.87)(akin -8.52)(. -4.97) line score is : -4.677, look ahead score is : 0.000

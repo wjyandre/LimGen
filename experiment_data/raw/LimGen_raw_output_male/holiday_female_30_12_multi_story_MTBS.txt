@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -2.990208274126053----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a frown , 
+ because she was wearing her resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(frown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(because -1.26)(she -9.24)(was -4.47)(wearing -3.61)(her -1.01)(resume -1.66)(. -3.26) line score is : -3.499, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.1824108604341745----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ then she slept on his bed and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(then -1.26)(she -8.60)(slept -2.36)(on -6.40)(his -4.00)(bed -6.74)(and -2.11)(sunday -3.02)(. -2.07) line score is : -4.063, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.19900381565094----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a frown , 
+ and says she could hardly believe ray . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(frown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(says -9.24)(she -4.47)(could -1.16)(hardly -7.39)(believe -0.98)(ray -4.53)(. -2.85) line score is : -3.985, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.2231416048542147----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ but it was her friends and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(but -1.26)(it -8.60)(was -2.36)(her -5.02)(friends -3.45)(and -0.85)(resume -3.58)(. -4.66) line score is : -3.722, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.231480227362725----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ and put outside before all the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(put -8.60)(outside -2.36)(before -2.88)(all -6.62)(the -6.85)(way -5.39)(. -5.80) line score is : -4.969, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.2448765774567923----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ and asked her opinion a survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(asked -8.60)(her -2.36)(opinion -2.88)(a -4.25)(survey -3.88)(. -4.29) line score is : -3.932, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.289147762581706----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ in hopes it was all within the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(in -1.26)(hopes -8.60)(it -2.36)(was -5.83)(all -6.24)(within -5.97)(the -1.24)(way -4.57)(. -9.49) line score is : -5.062, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.314076763391495----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ to take three hours to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(to -1.79)(take -9.30)(three -3.27)(hours -5.95)(to -3.75)(resume -5.48)(. -4.94) line score is : -4.925, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ as his talent and confidence swelled 
+-------------------------score:  -3.3148633499940234----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ as her mother and sister friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(as -1.26)(her -8.60)(mother -2.36)(and -5.87)(sister -3.92)(friday -2.68)(. -3.72) line score is : -4.057, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.316156373869988----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a frown , 
+ for two men were present at sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(frown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(for -1.26)(two -9.24)(men -4.47)(were -5.21)(present -6.20)(at -2.69)(sunday -1.54)(. -4.43) line score is : -4.379, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.3233821289292695----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ dressed however a little halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(dressed -1.26)(however -8.60)(a -2.36)(little -3.93)(halfway -8.16)(. -6.15) line score is : -5.077, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.341002696752548----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ and soon could remember a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(soon -8.60)(could -2.36)(remember -2.88)(a -5.10)(birthday -7.58)(. -6.36) line score is : -4.875, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that ungracious young lady in blue 
+-------------------------score:  -3.345805444320043----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ that little old lady in friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(that -1.26)(little -8.60)(old -2.36)(lady -7.09)(in -6.86)(friday -3.38)(. -1.12) line score is : -4.381, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.359210810353679----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ to be careful people on she way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(to -1.79)(be -9.30)(careful -3.27)(people -5.95)(on -3.57)(she -0.94)(way -8.69)(. -5.96) line score is : -4.933, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.364122109487653----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ and for weeks she just froze her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(for -8.60)(weeks -2.36)(she -2.88)(just -6.05)(froze -4.14)(her -1.15)(birthday -6.06)(. -8.04) line score is : -4.504, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.3690366367499034----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a frown , 
+ and said with a puzzled resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(frown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(said -9.24)(with -4.47)(a -1.16)(puzzled -3.51)(resume -4.68)(. -0.93) line score is : -3.607, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and as far as the bucket 
+-------------------------score:  -3.374916029100617----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ and as early as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(and -1.26)(as -8.60)(early -2.36)(as -2.88)(the -4.65)(resume -8.73)(. -0.03) line score is : -4.073, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ this did n't apply to her feet 
+-------------------------score:  -3.3961070285689448----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ this was not work to her resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(this -1.79)(was -9.30)(not -3.27)(work -7.11)(to -2.70)(her -2.59)(resume -8.11)(. -5.35) line score is : -5.027, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.4048435151576997----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a frown , 
+ as if he outright disliked friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(frown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(as -1.26)(if -9.24)(he -4.47)(outright -2.84)(disliked -0.66)(friday -4.67)(. -11.64) line score is : -4.969, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ in a sugary takeover bid 
+-------------------------score:  -3.4073445981946486----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ in a different outfit resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(in -1.26)(a -8.60)(different -2.36)(outfit -5.83)(resume -1.59)(. -6.10) line score is : -4.290, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to keep from soiling her feet 
+-------------------------score:  -3.4083195507526396----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ to keep from disturbing her friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(to -1.79)(keep -9.30)(from -3.27)(disturbing -5.95)(her -3.99)(friday -7.34)(. -4.89) line score is : -5.218, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ for not selling her waterproof paint 
+-------------------------score:  -3.423095510403315----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ for not paying him enough birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(for -1.79)(not -9.30)(paying -3.27)(him -6.51)(enough -5.79)(birthday -2.13)(. -3.30) line score is : -4.582, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.4855781737715006----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ but she had him killed using him re . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(but -1.26)(she -8.60)(had -2.36)(him -5.02)(killed -1.57)(using -3.59)(him -6.22)(re -4.25)(. -7.39) line score is : -4.473, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that her head was bare 
+-------------------------score:  -3.5378428286519545----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ that our restaurant was halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(that -1.79)(our -9.30)(restaurant -3.27)(was -4.62)(halfway -8.90)(. -7.22) line score is : -5.850, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but will ruminate on while I chew 
+-------------------------score:  -3.581562578678131----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ but will go on while they resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(but -1.26)(will -8.60)(go -2.36)(on -5.02)(while -9.56)(they -4.86)(resume -0.96)(. -8.61) line score is : -5.153, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then grind out a limerick or two 
+-------------------------score:  -3.6070059595569486----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ then put out a fire or birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(then -1.26)(put -8.60)(out -2.36)(a -6.40)(fire -6.62)(or -3.09)(birthday -5.29)(. -3.17) line score is : -4.599, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ because of his scanty regalia 
+-------------------------score:  -3.6246643428291594----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was met by a clown , 
+ although our favorite birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(met -0.52)(by -2.02)(a -3.94)(clown -0.61)(, -1.26) line score is : -1.800, look ahead score is : 0.000
+(although -1.26)(our -8.60)(favorite -2.36)(birthday -7.57)(. -8.50) line score is : -5.657, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that man in a boat 
+-------------------------score:  -3.6701641308850257----------------------- 
+there was a silly chef named kay 
+ who spent all her money in a day . 
+ when she returned to town , 
+ she was told by a clown , 
+ that anyone in a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(town -2.00)(, -3.14) line score is : -2.915, look ahead score is : 0.000
+(she -3.14)(was -1.11)(told -0.52)(by -2.02)(a -2.89)(clown -2.10)(, -1.79) line score is : -1.939, look ahead score is : 0.000
+(that -1.79)(anyone -9.30)(in -3.27)(a -4.62)(resume -6.73)(. -4.48) line score is : -5.031, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.922665674239397----------------------- 
+there was a silly chef named renee 
+ who spent all her money in a day . 
+ when she returned to school , 
+ she was found by a cruel , 
+ and trying judge she is but young friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(spent -6.14)(all -2.14)(her -0.59)(money -1.26)(in -3.60)(a -2.12)(day -6.52)(. -3.00) line score is : -2.988, look ahead score is : 0.000
+(when -3.00)(she -4.74)(returned -1.05)(to -3.56)(school -2.00)(, -3.81) line score is : -3.027, look ahead score is : 0.000
+(she -3.81)(was -1.08)(found -0.48)(by -1.57)(a -5.10)(cruel -2.91)(, -1.77) line score is : -2.389, look ahead score is : 0.000
+(and -1.77)(trying -8.48)(judge -3.71)(she -5.22)(is -8.60)(but -5.49)(young -6.45)(friday -5.32)(. -7.87) line score is : -5.879, look ahead score is : 0.000

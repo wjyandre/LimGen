@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.719131606630981----------------------- 
+there was a lady named renee 
+ who got a flat tire on her way . 
+ when she went to someone , 
+ she was told by her son , 
+ that the person she called was a stray . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -4.79)(a -2.84)(flat -6.27)(tire -0.68)(on -2.06)(her -1.29)(way -1.25)(. -6.69) line score is : -3.012, look ahead score is : 0.000
+(when -6.69)(she -3.74)(went -0.63)(to -3.50)(someone -0.48)(, -6.87) line score is : -3.651, look ahead score is : 0.000
+(she -6.87)(was -2.49)(told -0.97)(by -1.54)(her -0.65)(son -2.65)(, -2.71) line score is : -2.553, look ahead score is : 0.000
+(that -2.71)(the -5.25)(person -1.86)(she -2.76)(called -2.34)(was -2.71)(a -2.76)(stray -2.26)(. -1.04) line score is : -2.632, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.7233210201224973----------------------- 
+there was a lady named renee 
+ who got a flat tire on her way . 
+ she decided to walk , 
+ so she ran down the block , 
+ and that is the story of this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -4.79)(a -2.84)(flat -6.27)(tire -0.68)(on -2.06)(her -1.29)(way -1.25)(. -6.69) line score is : -3.012, look ahead score is : 0.000
+(she -6.69)(decided -1.27)(to -4.12)(walk -0.20)(, -3.72) line score is : -3.202, look ahead score is : 0.000
+(so -3.72)(she -4.09)(ran -2.76)(down -0.76)(the -3.90)(block -3.19)(, -0.78) line score is : -2.743, look ahead score is : 0.000
+(and -0.78)(that -3.66)(is -2.07)(the -2.28)(story -4.53)(of -3.12)(this -3.45)(day -2.33)(. -0.91) line score is : -2.572, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.8676393166184426----------------------- 
+there was a lady named kay 
+ who got a flat tire on her way . 
+ she decided to walk , 
+ so she walked down the block , 
+ but she forgot her keys and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -4.79)(a -2.84)(flat -6.27)(tire -0.68)(on -2.06)(her -1.29)(way -1.25)(. -6.69) line score is : -3.012, look ahead score is : 0.000
+(she -6.69)(decided -1.27)(to -4.12)(walk -0.20)(, -3.72) line score is : -3.202, look ahead score is : 0.000
+(so -3.72)(she -4.09)(walked -2.76)(down -0.76)(the -3.64)(block -3.15)(, -0.66) line score is : -2.682, look ahead score is : 0.000
+(but -0.66)(she -4.05)(forgot -2.00)(her -3.31)(keys -2.14)(and -4.39)(okay -1.31)(. -1.92) line score is : -2.472, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -2.936960684676324----------------------- 
+there was a lady named renee 
+ who got a flat tire on her way . 
+ when she went to someone , 
+ she was told by her son , 
+ he said that his father died okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -4.79)(a -2.84)(flat -6.27)(tire -0.68)(on -2.06)(her -1.29)(way -1.25)(. -6.69) line score is : -3.012, look ahead score is : 0.000
+(when -6.69)(she -3.74)(went -0.63)(to -3.50)(someone -0.48)(, -6.87) line score is : -3.651, look ahead score is : 0.000
+(she -6.87)(was -2.49)(told -0.97)(by -1.54)(her -0.65)(son -2.65)(, -2.71) line score is : -2.553, look ahead score is : 0.000
+(he -2.71)(said -5.25)(that -1.86)(his -4.30)(father -2.56)(died -2.61)(okay -3.25)(. -2.02) line score is : -3.069, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ SO PRP VBD DOWN THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ so he went down the mall 
+ and she baked really great apple pies 
+-------------------------score:  -2.941235726575057----------------------- 
+there was a lady named renee 
+ who got a flat tire on her way . 
+ she decided to walk , 
+ so she walked down the block , 
+ and it was still pretty dark sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(got -4.79)(a -2.84)(flat -6.27)(tire -0.68)(on -2.06)(her -1.29)(way -1.25)(. -6.69) line score is : -3.012, look ahead score is : 0.000
+(she -6.69)(decided -1.27)(to -4.12)(walk -0.20)(, -3.72) line score is : -3.202, look ahead score is : 0.000
+(so -3.72)(she -4.09)(walked -2.76)(down -0.76)(the -3.64)(block -3.15)(, -0.66) line score is : -2.682, look ahead score is : 0.000
+(and -0.66)(it -4.05)(was -2.00)(still -1.92)(pretty -4.14)(dark -1.12)(sunday -4.65)(. -4.28) line score is : -2.852, look ahead score is : 0.000

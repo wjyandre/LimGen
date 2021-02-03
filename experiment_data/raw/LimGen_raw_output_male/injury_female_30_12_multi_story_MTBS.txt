@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1565694413147867----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and she fell down and broke her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(she -7.20)(fell -3.24)(down -2.16)(and -1.72)(broke -3.74)(her -3.15)(staircase -3.44)(. -2.99) line score is : -3.239, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1668438208289444----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ and she fell down and broke her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(and -1.89)(she -6.87)(fell -2.16)(down -1.30)(and -2.76)(broke -3.82)(her -2.90)(staircase -3.28)(. -2.68) line score is : -3.074, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.270228836933772----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and suddenly could see a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(suddenly -7.20)(could -3.24)(see -2.16)(a -5.28)(staircase -7.07)(. -1.29) line score is : -3.962, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.3165814121311996----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ she was able to see and to trace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(she -1.50)(was -7.20)(able -3.24)(to -5.18)(see -1.91)(and -2.36)(to -0.01)(trace -3.42)(. -3.98) line score is : -3.199, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.3168606851249933----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ but her senses were down to her case . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(but -1.89)(her -6.87)(senses -2.16)(were -2.40)(down -3.43)(to -5.37)(her -1.18)(case -8.37)(. -1.98) line score is : -3.738, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.346561320622762----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ and realized the danger with grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(and -1.89)(realized -6.87)(the -2.16)(danger -1.30)(with -4.02)(grace -3.44)(. -4.77) line score is : -3.493, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and finished the solo with honour 
+-------------------------score:  -3.351822249094645----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and realized the danger with grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(realized -7.20)(the -3.24)(danger -2.16)(with -5.74)(grace -3.20)(. -4.44) line score is : -3.926, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so I sat on my moped and moped 
+-------------------------score:  -3.3561656922101974----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a knight , 
+ so she swore on her honor and case . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(knight -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(so -1.50)(she -7.46)(swore -2.77)(on -5.82)(her -0.58)(honor -6.80)(and -5.12)(case -0.58)(. -2.83) line score is : -3.717, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.363498547384816----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and says she could not understand grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(says -7.20)(she -3.24)(could -2.16)(not -7.64)(understand -1.50)(grace -3.76)(. -1.84) line score is : -3.606, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.379810193553567----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ but her clothes were down to her birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(but -1.50)(her -7.20)(clothes -3.24)(were -3.33)(down -3.41)(to -4.72)(her -0.67)(birthplace -7.73)(. -2.30) line score is : -3.787, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.401260010401408----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ and realized her vision a base . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(and -1.89)(realized -6.87)(her -2.16)(vision -1.30)(a -4.02)(base -2.97)(. -2.44) line score is : -3.093, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.4217940072218576----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and found her opponent a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(found -7.20)(her -3.24)(opponent -2.16)(a -5.61)(staircase -2.75)(. -4.83) line score is : -3.898, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.4368984680622816----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ but she is then hit in her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(but -1.50)(she -7.20)(is -3.24)(then -3.33)(hit -1.76)(in -6.25)(her -4.33)(staircase -3.52)(. -2.38) line score is : -3.723, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and kissed her because he was wuise 
+-------------------------score:  -3.451260197547174----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and saw her because she was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(saw -7.20)(her -3.24)(because -2.16)(she -5.13)(was -2.64)(replace -9.78)(. -1.15) line score is : -4.100, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.453212614982359----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ and her eyes became smaller and space . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(and -1.89)(her -6.87)(eyes -2.16)(became -1.30)(smaller -3.08)(and -2.29)(space -3.18)(. -6.57) line score is : -3.416, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.4726951848715544----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ she was through the door and was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(she -1.50)(was -7.20)(through -3.24)(the -5.18)(door -1.91)(and -9.39)(was -2.26)(replace -2.30)(. -1.17) line score is : -3.794, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.497985509134108----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ and told her because she was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(and -1.89)(told -6.87)(her -2.16)(because -1.30)(she -4.77)(was -2.29)(replace -9.26)(. -0.93) line score is : -3.684, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.513310411284047----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and her clothes were lighter and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(her -7.20)(clothes -3.24)(were -2.16)(lighter -3.58)(and -4.46)(replace -1.12)(. -7.34) line score is : -3.826, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.531787194808324----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ and she fell asleep again replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(and -1.50)(she -7.20)(fell -3.24)(asleep -2.16)(again -1.72)(replace -3.74)(. -4.56) line score is : -3.446, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.5690844424309267----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ she was up in heaven and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(she -1.50)(was -7.20)(up -3.24)(in -5.18)(heaven -1.91)(and -8.01)(staircase -1.73)(. -6.04) line score is : -4.350, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5955866456031798----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was shocked by her sight , 
+ and she was hurt terribly replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(shocked -0.65)(by -1.67)(her -3.89)(sight -2.60)(, -1.89) line score is : -2.767, look ahead score is : 0.000
+(and -1.89)(she -6.87)(was -2.16)(hurt -1.30)(terribly -2.76)(replace -1.61)(. -5.54) line score is : -3.162, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ in a sugary takeover bid 
+-------------------------score:  -3.647371154406975----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a knight , 
+ in a different outfit replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(knight -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(in -1.50)(a -7.46)(different -2.77)(outfit -6.44)(replace -2.03)(. -4.74) line score is : -4.157, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that she pickled her internal workins' 
+-------------------------score:  -3.6527440011501313----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a light , 
+ that she thought she understood replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(light -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(that -1.50)(she -7.20)(thought -3.24)(she -5.72)(understood -2.38)(replace -3.44)(. -2.78) line score is : -3.750, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ her career with damir is bizarre 
+-------------------------score:  -3.6965030133724213----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a knight , 
+ his armor with silver scales replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(knight -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(his -1.50)(armor -7.46)(with -2.77)(silver -5.94)(scales -2.72)(replace -6.21)(. -5.24) line score is : -4.549, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.893122140438326----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a knight , 
+ it was when she beat across staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(knight -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(it -1.50)(was -7.46)(when -2.77)(she -7.67)(beat -0.60)(across -5.82)(staircase -0.78)(. -6.39) line score is : -4.124, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ a habit unpleasant but curious 
+-------------------------score:  -3.919609277412809----------------------- 
+there was a firefighter named grace 
+ who caused a small fire on her face . 
+ when she returned to fight , 
+ she was met by a knight , 
+ a warrior worthy but replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(caused -9.36)(a -1.60)(small -4.82)(fire -0.67)(on -2.67)(her -2.40)(face -6.39)(. -1.95) line score is : -3.494, look ahead score is : 0.000
+(when -1.95)(she -4.85)(returned -1.62)(to -3.06)(fight -0.89)(, -7.42) line score is : -3.299, look ahead score is : 0.000
+(she -7.42)(was -1.26)(met -0.65)(by -1.67)(a -3.95)(knight -0.92)(, -1.50) line score is : -2.481, look ahead score is : 0.000
+(a -1.50)(warrior -7.46)(worthy -2.77)(but -3.41)(replace -4.11)(. -6.64) line score is : -4.314, look ahead score is : 0.000

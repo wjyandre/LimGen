@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.2006771690917737----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ so she got up and put on the tie . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(so -2.77)(she -7.12)(got -3.55)(up -5.96)(and -1.39)(put -2.82)(on -4.23)(the -1.59)(tie -4.50)(. -0.71) line score is : -3.466, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ then he walloped me square in the face 
+-------------------------score:  -3.201544741168618----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ then she saw him dancing in the sky . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(then -2.77)(she -7.12)(saw -3.55)(him -4.54)(dancing -3.09)(in -3.87)(the -1.31)(sky -4.91)(. -2.38) line score is : -3.728, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ so he had to sit down on the floor 
+-------------------------score:  -3.205223878224691----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the rule , 
+ so she had to go down on the fly . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(rule -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(so -2.77)(she -8.68)(had -3.54)(to -4.66)(go -1.26)(down -3.47)(on -0.74)(the -2.58)(fly -2.08)(. -4.34) line score is : -3.412, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.2283480260521173----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she kept down the fool , 
+ and that is the story of this lie . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(kept -1.46)(down -0.61)(the -3.68)(fool -7.25)(, -1.31) line score is : -3.208, look ahead score is : 0.000
+(and -1.31)(that -8.07)(is -3.10)(the -1.43)(story -3.71)(of -4.05)(this -2.83)(lie -2.64)(. -0.78) line score is : -3.103, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ then I sat on my moped and moped 
+-------------------------score:  -3.3743560556322336----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ then she slept on his couch and goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(then -2.77)(she -7.12)(slept -3.55)(on -4.54)(his -3.09)(couch -5.78)(and -2.41)(goodbye -1.91)(. -0.83) line score is : -3.556, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.3788618851573236----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ which was filled with the hottest nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(which -2.77)(was -7.12)(filled -3.55)(with -3.76)(the -1.16)(hottest -4.89)(nearby -0.05)(. -4.28) line score is : -3.448, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ so I sat on my moped and moped 
+-------------------------score:  -3.39041256532073----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ so she slept on his couch and goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(so -2.77)(she -7.12)(slept -3.55)(on -5.96)(his -1.39)(couch -6.29)(and -2.15)(goodbye -2.12)(. -1.08) line score is : -3.605, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.4297628707718104----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ and set fire to her car in goodbye . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(and -2.77)(set -7.12)(fire -3.55)(to -1.62)(her -8.38)(car -4.80)(in -0.02)(goodbye -1.88)(. -4.17) line score is : -3.813, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ but it does n't come out of my purse 
+-------------------------score:  -3.502712480723858----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the rule , 
+ but he is still mean towards her i . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(rule -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(but -2.77)(he -8.68)(is -3.54)(still -3.61)(mean -2.32)(towards -5.53)(her -2.32)(i -6.23)(. -4.77) line score is : -4.420, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.512566491961479----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she kept down the fool , 
+ but her feelings were down to her i . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(kept -1.46)(down -0.61)(the -3.68)(fool -7.25)(, -1.31) line score is : -3.208, look ahead score is : 0.000
+(but -1.31)(her -8.07)(feelings -3.10)(were -3.35)(down -3.45)(to -2.55)(her -2.05)(i -8.07)(. -2.66) line score is : -3.847, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.522457480430603----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ and started with a little nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(and -2.77)(started -7.12)(with -3.55)(a -1.62)(little -5.03)(nearby -6.01)(. -1.74) line score is : -3.979, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ and returned on the previous night 
+-------------------------score:  -3.5579904675483705----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ and decided on the first nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(and -2.77)(decided -7.12)(on -3.55)(the -1.62)(first -5.46)(nearby -4.46)(. -2.28) line score is : -3.895, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ but the telephone book caused him pain 
+-------------------------score:  -3.5901653458995204----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ but the water level turned him shy . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(but -2.77)(the -7.12)(water -3.55)(level -4.00)(turned -3.31)(him -4.68)(shy -6.15)(. -5.26) line score is : -4.606, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ but I guess that you probably gnu 
+-------------------------score:  -3.608486694674338----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ but she heard that he really nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(but -2.77)(she -7.12)(heard -3.55)(that -4.00)(he -2.50)(really -5.37)(nearby -2.91)(. -2.02) line score is : -3.781, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.6492126045688504----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she moved down the school , 
+ so she never got on the nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(moved -1.46)(down -0.61)(the -4.34)(school -5.61)(, -1.96) line score is : -3.161, look ahead score is : 0.000
+(so -1.96)(she -7.43)(never -3.72)(got -4.55)(on -0.97)(the -4.60)(nearby -2.46)(. -5.25) line score is : -3.866, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ are all easy marks for a jolly 
+-------------------------score:  -3.6669817739917385----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ wore all dark sunglasses for a lie . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(wore -2.77)(all -7.12)(dark -3.55)(sunglasses -6.90)(for -5.11)(a -6.02)(lie -3.56)(. -4.70) line score is : -4.967, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ then grind out a limerick or two 
+-------------------------score:  -3.667264634563077----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ then put out a fire or nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(then -2.77)(put -7.12)(out -3.55)(a -4.54)(fire -5.96)(or -5.12)(nearby -1.59)(. -2.92) line score is : -4.197, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.6931930126682406----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ then come up all naked and nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(then -2.77)(come -7.12)(up -3.55)(all -4.54)(naked -7.97)(and -3.32)(nearby -7.24)(. -3.36) line score is : -4.984, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ which leaves him in very bad shape 
+-------------------------score:  -3.7406681006954563----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the rule , 
+ which means she in now pretty nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(rule -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(which -2.77)(means -8.68)(she -3.54)(in -2.71)(now -2.81)(pretty -1.04)(nearby -8.92)(. -5.88) line score is : -4.545, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ within weeks it was all in the past 
+-------------------------score:  -3.758657768368721----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ in hopes he was all in the nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(in -2.77)(hopes -7.12)(he -3.55)(was -5.81)(all -4.22)(in -2.71)(the -4.08)(nearby -5.29)(. -5.48) line score is : -4.558, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ are making a nest in my beard 
+-------------------------score:  -3.866788964117727----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ swim wearing a shirt in his nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(swim -2.77)(wearing -7.12)(a -3.55)(shirt -7.92)(in -7.54)(his -1.47)(nearby -4.33)(. -5.63) line score is : -5.043, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ and hop in before all the crowd 
+-------------------------score:  -3.8746527548759215----------------------- 
+there was a smart girl named lorelei 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ and drank in before all the nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(and -2.77)(drank -7.12)(in -3.55)(before -1.62)(all -6.95)(the -4.50)(nearby -8.18)(. -6.36) line score is : -5.132, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ but nobody knew what he said 
+-------------------------score:  -3.9025239904721576----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ but nobody knew what she thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(but -2.77)(nobody -7.12)(knew -3.55)(what -4.00)(she -6.88)(thereby -2.73)(. -2.30) line score is : -4.195, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ to keep from soiling her feet 
+-------------------------score:  -3.9906761487325033----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ to go from enjoying their nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(to -2.77)(go -7.12)(from -3.55)(enjoying -4.79)(their -4.37)(nearby -7.36)(. -6.45) line score is : -5.202, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ to tutor two tutors to toot 
+-------------------------score:  -4.016676211357117----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ to meet two reporters to nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(to -2.77)(meet -7.12)(two -3.55)(reporters -4.79)(to -3.81)(nearby -7.20)(. -9.28) line score is : -5.504, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ and see what the critics all say 
+-------------------------score:  -4.042542869044889----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the pool , 
+ and drank what the nurses all nearby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(pool -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(and -2.77)(drank -7.12)(what -3.55)(the -1.62)(nurses -6.95)(all -6.93)(nearby -4.05)(. -5.59) line score is : -4.824, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ BUT PRP$ NN VBD JJ , 
+ SO PRP VBD DOWN THE NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ but his technique was crude 
+ so he went down the mall 
+ then he couldn t think of anything 
+-------------------------score:  -4.192449954248244----------------------- 
+there was a smart girl named kai 
+ who took out her feelings for a guy . 
+ but her boyfriend was cool , 
+ so she went down the rule , 
+ not him outright not be of thereby . 
+------------------------- score breakdown ------------------------ 
+(who -1.42)(took -4.81)(out -4.95)(her -1.03)(feelings -6.53)(for -0.86)(a -3.91)(guy -1.62)(. -3.31) line score is : -3.158, look ahead score is : 0.000
+(but -3.31)(her -4.02)(boyfriend -4.28)(was -2.25)(cool -2.54)(, -6.25) line score is : -3.777, look ahead score is : 0.000
+(so -6.25)(she -1.89)(went -1.46)(down -0.61)(the -3.11)(rule -4.81)(, -2.77) line score is : -2.985, look ahead score is : 0.000
+(not -2.77)(him -8.68)(outright -3.54)(not -4.56)(be -4.51)(of -10.21)(thereby -7.62)(. -5.46) line score is : -5.919, look ahead score is : 0.000

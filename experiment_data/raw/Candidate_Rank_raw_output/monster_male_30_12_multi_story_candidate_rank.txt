@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.865595053542744----------------------- 
+there was a fierce boy named chase 
+ who caught a stray bullet on his face . 
+ when he returned to fight , 
+ he was struck by a light , 
+ so he had to go down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(caught -6.49)(a -2.30)(stray -4.72)(bullet -2.90)(on -3.55)(his -1.49)(face -4.34)(. -1.50) line score is : -3.172, look ahead score is : 0.000
+(when -1.50)(he -3.56)(returned -0.79)(to -3.29)(fight -1.16)(, -6.78) line score is : -2.848, look ahead score is : 0.000
+(he -6.78)(was -1.06)(struck -0.59)(by -1.40)(a -4.22)(light -1.36)(, -0.97) line score is : -2.340, look ahead score is : 0.000
+(so -0.97)(he -6.93)(had -4.05)(to -4.67)(go -0.64)(down -3.24)(on -0.38)(the -2.80)(base -4.26)(. -2.35) line score is : -3.031, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9299497333439914----------------------- 
+there was a fierce boy named chase 
+ who caught a stray bullet on his face . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ so he had to go down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(caught -6.49)(a -2.30)(stray -4.72)(bullet -2.90)(on -3.55)(his -1.49)(face -4.34)(. -1.50) line score is : -3.172, look ahead score is : 0.000
+(when -1.50)(he -3.56)(returned -0.79)(to -3.29)(fight -1.16)(, -6.78) line score is : -2.848, look ahead score is : 0.000
+(he -6.78)(was -1.06)(shocked -0.59)(by -1.40)(his -4.94)(sight -2.62)(, -2.11) line score is : -2.786, look ahead score is : 0.000
+(so -2.11)(he -6.09)(had -2.24)(to -3.78)(go -0.54)(down -3.71)(on -0.95)(the -3.36)(base -5.23)(. -2.43) line score is : -3.044, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.079305186867714----------------------- 
+there was a fierce boy named chase 
+ who got a bad feeling on his face . 
+ it was like a nightmare , 
+ and he ran to the chair , 
+ but he found he was holding it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(got -4.83)(a -3.20)(bad -4.00)(feeling -4.23)(on -5.04)(his -1.88)(face -2.43)(. -1.77) line score is : -3.183, look ahead score is : 0.000
+(it -1.77)(was -3.59)(like -0.78)(a -3.08)(nightmare -2.21)(, -4.94) line score is : -2.728, look ahead score is : 0.000
+(and -4.94)(he -2.02)(ran -1.84)(to -0.90)(the -4.49)(chair -1.88)(, -0.94) line score is : -2.431, look ahead score is : 0.000
+(but -0.94)(he -7.84)(found -2.56)(he -2.02)(was -1.64)(holding -2.70)(it -3.96)(place -1.71)(. -3.57) line score is : -2.992, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.100489487571101----------------------- 
+there was a fierce boy named chase 
+ who caught a stray bullet on his face . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ but he survived his wounds and birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(caught -6.49)(a -2.30)(stray -4.72)(bullet -2.90)(on -3.55)(his -1.49)(face -4.34)(. -1.50) line score is : -3.172, look ahead score is : 0.000
+(when -1.50)(he -3.56)(returned -0.79)(to -3.29)(fight -1.16)(, -6.78) line score is : -2.848, look ahead score is : 0.000
+(he -6.78)(was -1.06)(killed -0.59)(by -1.40)(a -3.20)(knight -1.36)(, -1.30) line score is : -2.241, look ahead score is : 0.000
+(but -1.30)(he -7.64)(survived -3.01)(his -2.67)(wounds -2.19)(and -1.99)(birthplace -4.00)(. -1.71) line score is : -3.063, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.1686517230926023----------------------- 
+there was a fierce boy named chase 
+ who got a bad feeling on his face . 
+ it was like a nightmare , 
+ and he ran to the bear , 
+ but he lost his bearings and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(got -4.83)(a -3.20)(bad -4.00)(feeling -4.23)(on -5.04)(his -1.88)(face -2.43)(. -1.77) line score is : -3.183, look ahead score is : 0.000
+(it -1.77)(was -3.59)(like -0.78)(a -3.08)(nightmare -2.21)(, -4.94) line score is : -2.728, look ahead score is : 0.000
+(and -4.94)(he -2.02)(ran -1.84)(to -0.90)(the -4.49)(bear -1.88)(, -0.94) line score is : -2.431, look ahead score is : 0.000
+(but -0.94)(he -8.43)(lost -2.71)(his -1.47)(bearings -1.69)(and -4.24)(staircase -0.77)(. -4.63) line score is : -3.110, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.185042206197977----------------------- 
+there was a fierce boy named chase 
+ who caught a stray bullet on his face . 
+ when he returned to fight , 
+ he was shocked by his sight , 
+ but he knew he was getting it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(caught -6.49)(a -2.30)(stray -4.72)(bullet -2.90)(on -3.55)(his -1.49)(face -4.34)(. -1.50) line score is : -3.172, look ahead score is : 0.000
+(when -1.50)(he -3.56)(returned -0.79)(to -3.29)(fight -1.16)(, -6.78) line score is : -2.848, look ahead score is : 0.000
+(he -6.78)(was -1.06)(shocked -0.59)(by -1.40)(his -4.94)(sight -2.62)(, -2.11) line score is : -2.786, look ahead score is : 0.000
+(but -2.11)(he -6.09)(knew -2.24)(he -2.56)(was -1.98)(getting -3.86)(it -1.22)(place -1.88)(. -6.12) line score is : -3.118, look ahead score is : 0.000

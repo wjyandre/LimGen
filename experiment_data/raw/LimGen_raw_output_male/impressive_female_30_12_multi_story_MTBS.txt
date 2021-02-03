@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ as his talent and confidence swelled 
+-------------------------score:  -3.3544923872285493----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ as her brother and sister cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(as -0.00)(her -3.77)(brother -7.91)(and -3.80)(sister -3.42)(cannot -4.01)(. -2.55) line score is : -3.639, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.4090377100432914----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ she was able to find , 
+ she was really the person i thought . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(she -4.57)(was -2.71)(able -3.76)(to -1.80)(find -3.58)(, -0.00) line score is : -2.738, look ahead score is : 0.000
+(she -0.00)(was -4.24)(really -7.45)(the -3.73)(person -1.56)(i -4.71)(thought -5.32)(. -3.03) line score is : -3.755, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.4405247154795835----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ once they found me something in the spot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(once -0.00)(they -4.44)(found -7.23)(me -5.58)(something -1.02)(in -1.37)(the -1.90)(spot -7.08)(. -4.16) line score is : -3.643, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a regular brute of a bee 
+-------------------------score:  -3.470812149924196----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ she is a good person of a thought . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(she -0.00)(is -3.77)(a -7.91)(good -3.93)(person -3.85)(of -2.50)(a -3.16)(thought -1.62)(. -7.17) line score is : -3.768, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.500553416298522----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ they were willing to do and to spot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(they -0.00)(were -4.44)(willing -7.23)(to -4.18)(do -1.19)(and -3.72)(to -0.03)(spot -3.12)(. -6.62) line score is : -3.393, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -3.529190407078392----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ because she was doing her onslaught . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(because -0.00)(she -3.77)(was -7.91)(doing -4.35)(her -1.21)(onslaught -1.33)(. -5.04) line score is : -3.374, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.557689878586379----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ once she hit on her boyfriend and got . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(once -0.00)(she -3.77)(hit -7.91)(on -5.54)(her -0.89)(boyfriend -5.81)(and -8.11)(got -1.60)(. -1.67) line score is : -3.923, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.5597936539910733----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ they found that my father was gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(they -0.00)(found -4.44)(that -7.23)(my -4.18)(father -2.45)(was -4.53)(gunshot -2.87)(. -2.41) line score is : -3.516, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.5969059605286606----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ in people she was all in the pot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(in -0.00)(people -3.77)(she -7.91)(was -3.53)(all -5.69)(in -2.45)(the -3.57)(pot -8.03)(. -4.34) line score is : -4.366, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.6284087116739925----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ they were through the system and got hot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(they -0.00)(were -4.44)(through -7.23)(the -4.18)(system -1.19)(and -9.19)(got -1.79)(hot -3.48)(. -1.75) line score is : -3.695, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ then fell into a vat of grease 
+-------------------------score:  -3.6317827420542015----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ not put into a box of cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(her -3.86)(parents -4.60)(were -3.53)(so -1.69)(kind -3.42)(, -3.89) line score is : -3.497, look ahead score is : 0.000
+(she -3.89)(was -2.63)(able -2.43)(to -2.07)(find -2.29)(, -0.00) line score is : -2.218, look ahead score is : 0.000
+(not -0.00)(put -3.77)(into -7.75)(a -4.73)(box -8.89)(of -3.77)(cannot -1.45)(. -1.19) line score is : -3.943, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.677674534197356----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ work hard to get on her way cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(work -0.00)(hard -3.77)(to -7.91)(get -4.93)(on -3.33)(her -4.74)(way -1.91)(cannot -5.07)(. -1.06) line score is : -3.636, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ and she baked really great apple pies 
+-------------------------score:  -3.683035037914912----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was happy to find , 
+ and she was not sure anything thought . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(happy -2.31)(to -2.39)(find -3.70)(, -1.31) line score is : -2.835, look ahead score is : 0.000
+(and -1.31)(she -5.23)(was -7.24)(not -0.93)(sure -1.35)(anything -1.98)(thought -4.74)(. -3.28) line score is : -3.258, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.6905283289263027----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ i really think in a way cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(her -3.86)(parents -4.60)(were -3.53)(so -1.69)(kind -3.42)(, -3.89) line score is : -3.497, look ahead score is : 0.000
+(she -3.89)(was -2.63)(able -2.43)(to -2.07)(find -2.29)(, -0.00) line score is : -2.218, look ahead score is : 0.000
+(i -0.00)(really -3.77)(think -7.75)(in -3.68)(a -4.91)(way -2.54)(cannot -5.41)(. -2.45) line score is : -3.813, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.6916772634971755----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ i never imagined a gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(her -3.86)(parents -4.60)(were -3.53)(so -1.69)(kind -3.42)(, -3.89) line score is : -3.497, look ahead score is : 0.000
+(she -3.89)(was -2.63)(able -2.43)(to -2.07)(find -2.29)(, -0.00) line score is : -2.218, look ahead score is : 0.000
+(i -0.00)(never -3.77)(imagined -7.75)(a -3.68)(gunshot -5.03)(. -3.68) line score is : -3.984, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ they bedded her down in the stable 
+-------------------------score:  -3.69608949314182----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ they found us down in the cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(they -0.00)(found -4.44)(us -7.23)(down -4.18)(in -2.45)(the -4.20)(cannot -8.52)(. -1.42) line score is : -4.057, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.709721311784139----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ and they were down and loved her cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(and -0.00)(they -3.77)(were -7.91)(down -1.71)(and -3.84)(loved -1.72)(her -8.24)(cannot -3.46)(. -6.11) line score is : -4.084, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ are all easy marks for a jolly 
+-------------------------score:  -3.733947979317357----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ get all different things for a gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(get -0.00)(all -4.44)(different -7.23)(things -3.84)(for -4.57)(a -6.18)(gunshot -2.13)(. -1.35) line score is : -3.718, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.7412619943778704----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ she has a new favorite cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(she -0.00)(has -3.77)(a -7.91)(new -3.93)(favorite -3.69)(cannot -1.62)(. -4.09) line score is : -3.575, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ when he found there were five little chips 
+-------------------------score:  -3.769975989779097----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ when she got there was one small gunshot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(her -3.86)(parents -4.60)(were -3.53)(so -1.69)(kind -3.42)(, -3.89) line score is : -3.497, look ahead score is : 0.000
+(she -3.89)(was -2.63)(able -2.43)(to -2.07)(find -2.29)(, -0.00) line score is : -2.218, look ahead score is : 0.000
+(when -0.00)(she -3.77)(got -7.75)(there -4.87)(was -0.49)(one -3.23)(small -3.52)(gunshot -7.59)(. -4.86) line score is : -4.008, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ in a sugary takeover bid 
+-------------------------score:  -3.81047841731093----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ in a local library cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(in -0.00)(a -3.77)(local -7.91)(library -3.53)(cannot -2.40)(. -5.40) line score is : -3.835, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.9259456790595624----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ she had all her friends hanging cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(her -3.86)(parents -4.60)(were -3.53)(so -1.69)(kind -3.42)(, -3.89) line score is : -3.497, look ahead score is : 0.000
+(she -3.89)(was -2.63)(able -2.43)(to -2.07)(find -2.29)(, -0.00) line score is : -2.218, look ahead score is : 0.000
+(she -0.00)(had -3.77)(all -7.75)(her -4.05)(friends -3.03)(hanging -4.26)(cannot -2.28)(. -2.05) line score is : -3.397, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ to keep from soiling her feet 
+-------------------------score:  -4.048713012349567----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ to get from becoming her cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(to -0.00)(get -3.77)(from -7.91)(becoming -3.84)(her -3.37)(cannot -5.98)(. -8.76) line score is : -4.804, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ IN PRP$ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ because of his scanty regalia 
+-------------------------score:  -4.069948115731003----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ my parents were so kind , 
+ they were able to find , 
+ within our limited cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(my -3.86)(parents -3.65)(were -2.40)(so -1.91)(kind -3.01)(, -4.57) line score is : -3.232, look ahead score is : 0.000
+(they -4.57)(were -2.71)(able -2.41)(to -3.12)(find -2.96)(, -0.00) line score is : -2.628, look ahead score is : 0.000
+(within -0.00)(our -4.44)(limited -7.23)(cannot -6.70)(. -4.01) line score is : -4.478, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ VB BEFORE JJ VB JJ JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ be before phoebe be phoebe bee-bee 
+-------------------------score:  -4.09509353772416----------------------- 
+there was a neat artist named dot 
+ who helped out my parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ get before much help outside cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(my -4.33)(parents -4.30)(for -4.44)(a -1.34)(lot -3.68)(. -3.86) line score is : -3.662, look ahead score is : 0.000
+(her -3.86)(parents -4.60)(were -3.53)(so -1.69)(kind -3.42)(, -3.89) line score is : -3.497, look ahead score is : 0.000
+(she -3.89)(was -2.63)(able -2.43)(to -2.07)(find -2.29)(, -0.00) line score is : -2.218, look ahead score is : 0.000
+(get -0.00)(before -3.77)(much -7.75)(help -4.08)(outside -8.92)(cannot -7.98)(. -3.66) line score is : -5.166, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ for not selling her waterproof paint 
+-------------------------score:  -4.095927240880977----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ for once being self conscious cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(for -0.00)(once -3.77)(being -7.91)(self -4.11)(conscious -4.55)(cannot -9.33)(. -5.93) line score is : -5.086, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ as if he 'd been invited 
+-------------------------score:  -4.100059158176761----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ as if they outright recognized not . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(as -0.00)(if -3.77)(they -7.91)(outright -3.80)(recognized -5.13)(not -2.87)(. -14.15) line score is : -5.377, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ her thanks were so cold 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.194033163547095----------------------- 
+there was a neat artist named dot 
+ who helped out her parents for a lot . 
+ her parents were so kind , 
+ she was able to find , 
+ and sing live she is but young cannot . 
+------------------------- score breakdown ------------------------ 
+(who -3.42)(helped -4.18)(out -3.42)(her -5.61)(parents -3.39)(for -4.67)(a -1.41)(lot -3.88)(. -3.85) line score is : -3.756, look ahead score is : 0.000
+(her -3.85)(parents -4.03)(were -1.89)(so -1.89)(kind -3.31)(, -4.64) line score is : -3.267, look ahead score is : 0.000
+(she -4.64)(was -2.65)(able -2.31)(to -2.39)(find -2.15)(, -0.00) line score is : -2.359, look ahead score is : 0.000
+(and -0.00)(sing -3.77)(live -7.91)(she -1.71)(is -8.76)(but -6.76)(young -8.01)(cannot -3.55)(. -9.49) line score is : -5.553, look ahead score is : 0.000

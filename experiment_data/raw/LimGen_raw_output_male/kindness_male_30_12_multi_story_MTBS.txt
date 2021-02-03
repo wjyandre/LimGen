@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.43662266805768----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ and that is the reason of this hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(and -4.52)(that -7.90)(is -3.18)(the -1.32)(reason -4.73)(of -2.94)(this -2.36)(hole -2.12)(. -3.08) line score is : -3.571, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.6231246725205453----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ and he was not worthy thereof whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(and -4.52)(he -7.90)(was -3.18)(not -1.32)(worthy -1.80)(thereof -1.64)(whole -3.02)(. -3.39) line score is : -3.345, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ as his talent and confidence swelled 
+-------------------------score:  -3.6595340351263683----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he did to the fool , 
+ as his father and mother console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(did -0.84)(to -1.00)(the -3.67)(fool -7.65)(, -2.19) line score is : -3.355, look ahead score is : 0.000
+(as -2.19)(his -8.47)(father -3.60)(and -2.20)(mother -3.85)(console -1.86)(. -2.92) line score is : -3.582, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.662200713530183----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he had to the rule , 
+ and he was not like someone of role . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(had -0.84)(to -1.00)(the -3.14)(rule -2.77)(, -8.39) line score is : -3.468, look ahead score is : 0.000
+(and -8.39)(he -7.09)(was -3.77)(not -1.40)(like -1.58)(someone -2.08)(of -2.74)(role -5.41)(. -6.53) line score is : -4.332, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.6912977234009774----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ he said that his father was charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(said -7.90)(that -3.18)(his -4.14)(father -1.93)(was -5.03)(charcoal -3.60)(. -3.54) line score is : -4.228, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ she was destined to go a long way 
+-------------------------score:  -3.720144920051098----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ he was damned to be a poor charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(was -7.90)(damned -3.18)(to -4.14)(be -1.80)(a -6.90)(poor -1.75)(charcoal -2.85)(. -2.22) line score is : -3.917, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.720312474295497----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he did to the fool , 
+ not he did him justice in the hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(did -0.84)(to -1.00)(the -3.67)(fool -7.65)(, -2.19) line score is : -3.355, look ahead score is : 0.000
+(not -2.19)(he -8.47)(did -3.60)(him -3.37)(justice -5.38)(in -5.62)(the -5.43)(hole -1.94)(. -4.28) line score is : -4.475, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.7233508937060833----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he had to the rule , 
+ but his hands were down to his console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(had -0.84)(to -1.00)(the -3.14)(rule -2.77)(, -8.39) line score is : -3.468, look ahead score is : 0.000
+(but -8.39)(his -7.09)(hands -3.77)(were -4.54)(down -2.71)(to -4.22)(his -0.58)(console -8.76)(. -2.63) line score is : -4.744, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.730553727596998----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ and he was down and buried his hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(and -4.52)(he -7.90)(was -3.18)(down -1.32)(and -1.80)(buried -1.64)(his -8.67)(hole -3.66)(. -5.99) line score is : -4.297, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.737992000195288----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ and his eyes were sharper and charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(and -4.52)(his -7.90)(eyes -3.18)(were -1.32)(sharper -2.82)(and -3.36)(charcoal -0.93)(. -6.84) line score is : -3.859, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ I did n't think life was this way 
+-------------------------score:  -3.794629782438278----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ he was not till death did this console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(was -7.90)(not -3.18)(till -4.14)(death -1.80)(did -3.45)(this -7.93)(console -3.32)(. -1.80) line score is : -4.225, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ that unlucky old person of ems 
+-------------------------score:  -3.8094719370206196----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ that poor little fellow of charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(that -4.52)(poor -7.90)(little -3.18)(fellow -3.74)(of -6.08)(charcoal -3.56)(. -2.80) line score is : -4.539, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.820869168266654----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he was to the school , 
+ he was through the door and was charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(was -0.84)(to -1.00)(the -2.28)(school -6.66)(, -4.60) line score is : -3.358, look ahead score is : 0.000
+(he -4.60)(was -7.77)(through -4.13)(the -3.60)(door -1.78)(and -9.37)(was -1.94)(charcoal -2.16)(. -3.14) line score is : -4.276, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.835702169326044----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the rule , 
+ for two years were wasted at console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(rule -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(for -4.52)(two -8.25)(years -3.45)(were -3.63)(wasted -5.78)(at -1.06)(console -6.67)(. -3.53) line score is : -4.610, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.844830095767975----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he had to the rule , 
+ and then he is a tyrant console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(had -0.84)(to -1.00)(the -3.14)(rule -2.77)(, -8.39) line score is : -3.468, look ahead score is : 0.000
+(and -8.39)(then -7.09)(he -3.77)(is -1.40)(a -4.72)(tyrant -1.12)(console -6.41)(. -2.65) line score is : -4.442, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.857097662985325----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his love was cruel , 
+ and he had to the rule , 
+ and for years he just froze his console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(love -3.53)(was -2.17)(cruel -1.32)(, -6.95) line score is : -3.250, look ahead score is : 0.000
+(and -6.95)(he -1.47)(had -1.06)(to -1.23)(the -3.34)(rule -1.90)(, -8.52) line score is : -3.497, look ahead score is : 0.000
+(and -8.52)(for -7.24)(years -3.93)(he -1.48)(just -5.44)(froze -4.33)(his -0.74)(console -7.03)(. -7.79) line score is : -5.168, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ they bedded her down in the stable 
+-------------------------score:  -3.8597042291395125----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ he said himself down in the charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(said -7.90)(himself -3.18)(down -4.14)(in -1.93)(the -6.82)(charcoal -10.78)(. -2.02) line score is : -5.161, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ she sat up in bed and meowed 
+-------------------------score:  -3.8805842784143265----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the rule , 
+ he was up in heaven and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(rule -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(was -8.25)(up -3.45)(in -4.19)(heaven -1.71)(and -8.77)(console -2.79)(. -2.11) line score is : -4.474, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ as if he 'd been invited 
+-------------------------score:  -3.9704335908095043----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ as if he outright despised console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(was -0.84)(to -1.00)(the -2.28)(fool -6.66)(, -4.60) line score is : -3.358, look ahead score is : 0.000
+(as -4.60)(if -8.19)(he -3.31)(outright -2.56)(despised -4.72)(console -0.87)(. -13.03) line score is : -5.326, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.973592467846409----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ he said when he stole across console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(said -7.90)(when -3.18)(he -4.14)(stole -1.93)(across -7.05)(console -0.82)(. -7.11) line score is : -4.581, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -4.002583588323286----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the school , 
+ he never can be in it console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(school -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(he -4.52)(never -7.75)(can -4.08)(be -3.69)(in -4.44)(it -7.72)(console -1.52)(. -5.15) line score is : -4.860, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -4.036106301892188----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he had to the rule , 
+ he had all his friends going console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(had -0.80)(to -0.96)(the -3.10)(rule -2.79)(, -8.28) line score is : -3.469, look ahead score is : 0.000
+(he -8.28)(had -7.24)(all -3.53)(his -4.41)(friends -1.43)(going -7.66)(console -1.64)(. -3.41) line score is : -4.701, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ for not selling her waterproof paint 
+-------------------------score:  -4.075130148728689----------------------- 
+there was a selfish man named cole 
+ who loved a young lady on his soul . 
+ but his heart was cruel , 
+ and he was to the fool , 
+ for not knowing him enough console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(lady -1.91)(on -5.59)(his -2.38)(soul -6.96)(. -1.81) line score is : -3.728, look ahead score is : 0.000
+(but -1.81)(his -3.87)(heart -3.62)(was -3.15)(cruel -0.76)(, -6.83) line score is : -3.341, look ahead score is : 0.000
+(and -6.83)(he -1.52)(was -0.80)(to -0.96)(the -2.29)(fool -6.52)(, -4.52) line score is : -3.349, look ahead score is : 0.000
+(for -4.52)(not -7.90)(knowing -3.18)(him -3.47)(enough -6.08)(console -3.64)(. -3.92) line score is : -4.674, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ then wake up all snappy and snarly 
+-------------------------score:  -4.150169958991389----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he did to the fool , 
+ not give up all human and console . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(did -0.84)(to -1.00)(the -3.67)(fool -7.65)(, -2.19) line score is : -3.355, look ahead score is : 0.000
+(not -2.19)(give -8.47)(up -3.60)(all -3.37)(human -5.68)(and -5.42)(console -4.99)(. -8.05) line score is : -5.221, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ I ll give you prostheses for free 
+-------------------------score:  -4.272127880204108----------------------- 
+there was a selfish man named cole 
+ who loved a young woman on his soul . 
+ but his heart was cruel , 
+ and he did to the fool , 
+ he ca hurt him afterwards for sole . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(loved -4.32)(a -4.76)(young -4.25)(woman -1.42)(on -6.23)(his -2.44)(soul -6.81)(. -1.70) line score is : -3.723, look ahead score is : 0.000
+(but -1.70)(his -3.82)(heart -3.53)(was -3.18)(cruel -0.78)(, -6.64) line score is : -3.277, look ahead score is : 0.000
+(and -6.64)(he -1.48)(did -0.84)(to -1.00)(the -3.67)(fool -7.65)(, -2.19) line score is : -3.355, look ahead score is : 0.000
+(he -2.19)(ca -8.47)(hurt -3.60)(him -4.58)(afterwards -7.88)(for -11.32)(sole -1.21)(. -8.78) line score is : -6.005, look ahead score is : 0.000

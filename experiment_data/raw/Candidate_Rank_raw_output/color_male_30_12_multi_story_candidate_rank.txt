@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ BUT VBD A JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ but got a great fright 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8580802949145436----------------------- 
+there was a bright artist named chase 
+ who used a red lipstick on his face . 
+ it looked like a rainbow , 
+ but was a black shadow , 
+ so it had to be down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -2.46)(used -4.19)(a -3.14)(red -5.96)(lipstick -4.89)(on -3.44)(his -0.51)(face -1.24)(. -1.38) line score is : -3.023, look ahead score is : 0.000
+(it -1.38)(looked -3.37)(like -3.10)(a -1.16)(rainbow -1.28)(, -4.71) line score is : -2.500, look ahead score is : 0.000
+(but -4.71)(was -1.79)(a -1.06)(black -3.14)(shadow -3.71)(, -3.97) line score is : -3.064, look ahead score is : 0.000
+(so -3.97)(it -4.07)(had -2.92)(to -2.89)(be -1.56)(down -3.14)(on -1.53)(the -0.24)(base -8.61)(. -3.86) line score is : -3.278, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ her hair got so light 
+ she was destined to go a long way 
+-------------------------score:  -2.8668364603673258----------------------- 
+there was a bright artist named chase 
+ who used a red lipstick on his face . 
+ his eyes were so intense , 
+ his nose was so immense , 
+ it was hard to find a perfect place . 
+------------------------- score breakdown ------------------------ 
+(who -2.46)(used -4.19)(a -3.14)(red -5.96)(lipstick -4.89)(on -3.44)(his -0.51)(face -1.24)(. -1.38) line score is : -3.023, look ahead score is : 0.000
+(his -1.38)(eyes -3.61)(were -3.49)(so -0.83)(intense -3.11)(, -4.21) line score is : -2.772, look ahead score is : 0.000
+(his -4.21)(nose -2.03)(was -2.63)(so -2.95)(immense -1.51)(, -0.79) line score is : -2.354, look ahead score is : 0.000
+(it -0.79)(was -9.15)(hard -0.55)(to -3.20)(find -1.34)(a -2.59)(perfect -0.13)(place -4.59)(. -1.50) line score is : -2.650, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ so he had to sit down on the floor 
+-------------------------score:  -2.870784195986661----------------------- 
+there was a bright artist named chase 
+ who used a red lipstick on his face . 
+ it looked like a rainbow , 
+ which it was in the show , 
+ so i had to go down on the case . 
+------------------------- score breakdown ------------------------ 
+(who -2.46)(used -4.19)(a -3.14)(red -5.96)(lipstick -4.89)(on -3.44)(his -0.51)(face -1.24)(. -1.38) line score is : -3.023, look ahead score is : 0.000
+(it -1.38)(looked -3.37)(like -3.10)(a -1.16)(rainbow -1.28)(, -4.71) line score is : -2.500, look ahead score is : 0.000
+(which -4.71)(it -1.79)(was -3.69)(in -3.39)(the -0.84)(show -4.24)(, -2.57) line score is : -3.032, look ahead score is : 0.000
+(so -2.57)(i -5.47)(had -1.72)(to -2.45)(go -1.40)(down -3.66)(on -0.48)(the -3.05)(case -5.18)(. -3.14) line score is : -2.911, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ which he loosed in the house 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.1023376621305943----------------------- 
+there was a bright artist named chase 
+ who used a red lipstick on his face . 
+ it looked like a rainbow , 
+ which it was in the show , 
+ and it was not like something of race . 
+------------------------- score breakdown ------------------------ 
+(who -2.46)(used -4.19)(a -3.14)(red -5.96)(lipstick -4.89)(on -3.44)(his -0.51)(face -1.24)(. -1.38) line score is : -3.023, look ahead score is : 0.000
+(it -1.38)(looked -3.37)(like -3.10)(a -1.16)(rainbow -1.28)(, -4.71) line score is : -2.500, look ahead score is : 0.000
+(which -4.71)(it -1.79)(was -3.69)(in -3.39)(the -0.84)(show -4.24)(, -2.57) line score is : -3.032, look ahead score is : 0.000
+(and -2.57)(it -5.47)(was -1.72)(not -1.57)(like -1.85)(something -0.85)(of -5.01)(race -4.59)(. -5.06) line score is : -3.188, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ BUT VBD A JJ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ but got a great fright 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.1311097452717442----------------------- 
+there was a bright artist named chase 
+ who used a red lipstick on his face . 
+ it looked like a rainbow , 
+ but was a black shadow , 
+ and it was not like something of race . 
+------------------------- score breakdown ------------------------ 
+(who -2.46)(used -4.19)(a -3.14)(red -5.96)(lipstick -4.89)(on -3.44)(his -0.51)(face -1.24)(. -1.38) line score is : -3.023, look ahead score is : 0.000
+(it -1.38)(looked -3.37)(like -3.10)(a -1.16)(rainbow -1.28)(, -4.71) line score is : -2.500, look ahead score is : 0.000
+(but -4.71)(was -1.79)(a -1.06)(black -3.14)(shadow -3.71)(, -3.97) line score is : -3.064, look ahead score is : 0.000
+(and -3.97)(it -4.07)(was -2.92)(not -1.64)(like -2.13)(something -1.16)(of -4.59)(race -4.77)(. -5.64) line score is : -3.431, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ BUT VBD A JJ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ but got a great fright 
+ and she baked really great apple pies 
+-------------------------score:  -3.1430604298909506----------------------- 
+there was a bright artist named chase 
+ who used a red lipstick on his face . 
+ it looked like a rainbow , 
+ but had a black shadow , 
+ and it was still pretty intense place . 
+------------------------- score breakdown ------------------------ 
+(who -2.46)(used -4.19)(a -3.14)(red -5.96)(lipstick -4.89)(on -3.44)(his -0.51)(face -1.24)(. -1.38) line score is : -3.023, look ahead score is : 0.000
+(it -1.38)(looked -3.37)(like -3.10)(a -1.16)(rainbow -1.28)(, -4.71) line score is : -2.500, look ahead score is : 0.000
+(but -4.71)(had -1.79)(a -1.06)(black -5.50)(shadow -1.36)(, -3.53) line score is : -2.991, look ahead score is : 0.000
+(and -3.53)(it -4.50)(was -3.04)(still -1.19)(pretty -2.21)(intense -1.01)(place -6.14)(. -3.61) line score is : -3.155, look ahead score is : 0.000

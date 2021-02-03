@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.847341514627139----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and that is the reason of this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(that -1.54)(is -1.84)(the -1.04)(reason -4.25)(of -3.09)(this -3.12)(day -2.38)(. -4.95) line score is : -2.790, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now he 's a college professor 
+-------------------------score:  -2.8902398707537817----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and now she has a family day . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(now -1.54)(she -1.84)(has -1.04)(a -4.77)(family -0.88)(day -3.06)(. -2.02) line score is : -2.257, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.9654134830524184----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ so i really wanted on the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(so -2.47)(i -1.97)(really -1.69)(wanted -3.41)(on -0.75)(the -5.13)(day -1.47)(. -9.81) line score is : -3.338, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9726118395725885----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and i was down and wanted her way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(i -1.54)(was -1.84)(down -1.04)(and -1.58)(wanted -1.61)(her -6.75)(way -3.67)(. -5.19) line score is : -2.903, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.973188456989104----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ so i was up and go on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(so -2.47)(i -1.97)(was -1.69)(up -3.41)(and -0.75)(go -2.45)(on -6.13)(the -3.31)(way -7.57)(. -4.56) line score is : -3.430, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but they re perfectly splendid for shape 
+-------------------------score:  -2.9819597756040506----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ but i am still grateful for ray . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(but -2.47)(i -1.97)(am -1.69)(still -3.41)(grateful -1.49)(for -4.67)(ray -3.10)(. -2.74) line score is : -2.693, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ to balance green peas on her fork 
+-------------------------score:  -3.0278677991751968----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ to cook special dishes on it day . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(to -2.89)(cook -1.54)(special -1.84)(dishes -5.42)(on -2.37)(it -5.35)(day -2.31)(. -2.80) line score is : -3.066, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but I guess that you probably gnu 
+-------------------------score:  -3.137748168460254----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ but i think that she really okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(but -2.89)(i -1.54)(think -1.84)(that -3.70)(she -1.82)(really -3.59)(okay -2.87)(. -2.42) line score is : -2.585, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but it does n't come out of my purse 
+-------------------------score:  -3.1547700454791388----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ but it is now set in my cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(but -2.47)(it -1.97)(is -1.69)(now -3.41)(set -2.18)(in -4.28)(my -3.60)(cache -7.62)(. -1.41) line score is : -3.181, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.158127467547144----------------------- 
+there was a funny chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ and i wanted something close sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.71)(cooked -3.79)(a -3.36)(great -4.12)(meal -1.93)(on -4.49)(my -3.14)(birthday -0.62)(. -1.65) line score is : -2.757, look ahead score is : 0.000
+(it -1.65)(was -3.50)(a -0.34)(tradition -2.16)(, -6.73) line score is : -2.873, look ahead score is : 0.000
+(i -6.73)(was -3.03)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.922, look ahead score is : 0.000
+(and -2.47)(i -1.97)(wanted -1.69)(something -0.91)(close -1.22)(sunday -2.41)(. -3.47) line score is : -2.020, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but the other won several prizes 
+-------------------------score:  -3.1782526512231146----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ but the dish was terrible okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(but -2.47)(the -1.97)(dish -1.69)(was -3.41)(terrible -3.48)(okay -5.44)(. -0.83) line score is : -2.756, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.181717515985171----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and she was here like today of day . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(she -1.54)(was -1.84)(here -1.04)(like -1.53)(today -1.71)(of -4.65)(day -7.24)(. -5.32) line score is : -3.085, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but they felt it was doing them good 
+-------------------------score:  -3.247855384151141----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ but it was i was doing them gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(but -2.47)(it -1.97)(was -1.69)(i -3.41)(was -2.18)(doing -0.83)(them -7.63)(gay -3.31)(. -4.45) line score is : -3.105, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.2501306765609317----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ she always prepared a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(she -2.89)(always -1.54)(prepared -1.84)(a -1.78)(resume -4.30)(. -4.32) line score is : -2.780, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ to call my last novel impure 
+-------------------------score:  -3.2510289901069234----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ to make my own dinner resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(to -2.47)(make -1.97)(my -1.69)(own -5.57)(dinner -1.95)(resume -3.21)(. -1.97) line score is : -2.689, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and returned on the previous night 
+-------------------------score:  -3.3025789952703883----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and was on the other resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(was -1.54)(on -1.84)(the -1.04)(other -5.12)(resume -4.91)(. -1.86) line score is : -2.744, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ you never can tell till you try 
+-------------------------score:  -3.3094401452048072----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ i never can get past it okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(i -2.47)(never -1.97)(can -1.69)(get -1.77)(past -5.19)(it -6.93)(okay -3.53)(. -6.30) line score is : -3.731, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now a new teacher they seek 
+-------------------------score:  -3.329112559556961----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and not a big deal i resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(not -1.54)(a -1.84)(big -1.04)(deal -6.16)(i -2.50)(resume -4.10)(. -1.74) line score is : -2.728, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.336800400699888----------------------- 
+there was a funny chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and now could afford a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.71)(cooked -3.79)(a -3.36)(great -4.12)(meal -1.93)(on -4.49)(my -3.14)(birthday -0.62)(. -1.65) line score is : -2.757, look ahead score is : 0.000
+(it -1.65)(was -3.50)(a -0.34)(tradition -2.16)(, -6.73) line score is : -2.873, look ahead score is : 0.000
+(she -6.73)(was -3.03)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.936, look ahead score is : 0.000
+(and -2.89)(now -1.54)(could -1.84)(afford -1.04)(a -4.77)(resume -8.03)(. -5.33) line score is : -3.637, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ to write verses relating to wind 
+-------------------------score:  -3.3717538469604085----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ to help people get to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(to -2.89)(help -1.54)(people -1.84)(get -5.42)(to -3.45)(resume -2.53)(. -3.34) line score is : -3.002, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she baked really great apple pies 
+-------------------------score:  -3.373896908143471----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and i was too busy stew halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(i -1.54)(was -1.84)(too -1.04)(busy -1.58)(stew -1.61)(halfway -4.48)(. -2.34) line score is : -2.166, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but nobody knew what he said 
+-------------------------score:  -3.4133973217436244----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ but yesterday was what we okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(but -2.47)(yesterday -1.97)(was -1.69)(what -3.41)(we -7.09)(okay -1.92)(. -6.52) line score is : -3.581, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and see what the critics all say 
+-------------------------score:  -3.455598515683207----------------------- 
+there was a silly chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and thank what the heavens all okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(thank -1.54)(what -1.84)(the -1.04)(heavens -6.41)(all -9.74)(okay -3.62)(. -4.21) line score is : -3.913, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and as far as the bucket 
+-------------------------score:  -3.4608197989208356----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and as often as the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(as -1.54)(often -1.84)(as -1.04)(the -5.11)(resume -6.29)(. -0.80) line score is : -2.789, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and since then has never benzene 
+-------------------------score:  -3.5334321994866644----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and since then is always resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(since -1.54)(then -1.84)(is -1.04)(always -5.92)(resume -3.47)(. -6.84) line score is : -3.363, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ to keep from soiling her feet 
+-------------------------score:  -3.5474031578217233----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ to cook from preparing her cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(to -2.89)(cook -1.54)(from -1.84)(preparing -5.42)(her -2.37)(cache -5.88)(. -10.66) line score is : -4.373, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and could n't bend back again 
+-------------------------score:  -3.5592045368892804----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ i was on a mission , 
+ and could not resist back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(i -6.61)(was -2.95)(on -2.86)(a -2.76)(mission -5.69)(, -2.47) line score is : -3.890, look ahead score is : 0.000
+(and -2.47)(could -1.97)(not -1.69)(resist -0.91)(back -7.84)(resume -0.82)(. -3.61) line score is : -2.757, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and hop in before all the crowd 
+-------------------------score:  -3.6275673292834183----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and let in before all the friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(let -1.54)(in -1.84)(before -1.04)(all -7.63)(the -8.35)(friday -9.09)(. -4.58) line score is : -4.622, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.7436242034037908----------------------- 
+there was a silly chef named kay 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ she was on a mission , 
+ and trying make it looks but fair sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.53)(cooked -3.84)(a -3.32)(great -4.10)(meal -1.68)(on -4.57)(my -3.26)(birthday -0.62)(. -1.71) line score is : -2.737, look ahead score is : 0.000
+(it -1.71)(was -3.43)(a -0.37)(tradition -2.13)(, -6.61) line score is : -2.849, look ahead score is : 0.000
+(she -6.61)(was -2.95)(on -2.88)(a -2.73)(mission -5.35)(, -2.89) line score is : -3.903, look ahead score is : 0.000
+(and -2.89)(trying -1.54)(make -1.84)(it -1.04)(looks -8.50)(but -8.66)(fair -2.14)(sunday -9.28)(. -7.94) line score is : -4.870, look ahead score is : 0.000

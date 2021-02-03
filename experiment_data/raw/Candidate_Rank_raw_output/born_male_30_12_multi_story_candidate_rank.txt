@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ she slipped through the straw and fell in 
+-------------------------score:  -2.9136468542344645----------------------- 
+there was a brave boy named lyle 
+ who lived all his life in a exile . 
+ he came back from the war , 
+ and he went to the door , 
+ he looked through the window and saw trial . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(lived -3.50)(all -5.48)(his -0.95)(life -0.10)(in -0.84)(a -1.96)(exile -13.79)(. -1.77) line score is : -3.329, look ahead score is : 0.000
+(he -1.77)(came -1.45)(back -4.03)(from -2.23)(the -2.37)(war -1.65)(, -1.97) line score is : -2.211, look ahead score is : 0.000
+(and -1.97)(he -2.41)(went -1.76)(to -1.85)(the -3.83)(door -0.74)(, -2.13) line score is : -2.098, look ahead score is : 0.000
+(he -2.13)(looked -7.42)(through -2.49)(the -3.95)(window -3.37)(and -2.39)(saw -0.57)(trial -1.56)(. -1.27) line score is : -2.795, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -2.966390364803374----------------------- 
+there was a brave boy named lyle 
+ who lived all his life in a exile . 
+ he came back from the war , 
+ and he went to the door , 
+ he saw that his father was hostile . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(lived -3.50)(all -5.48)(his -0.95)(life -0.10)(in -0.84)(a -1.96)(exile -13.79)(. -1.77) line score is : -3.329, look ahead score is : 0.000
+(he -1.77)(came -1.45)(back -4.03)(from -2.23)(the -2.37)(war -1.65)(, -1.97) line score is : -2.211, look ahead score is : 0.000
+(and -1.97)(he -2.41)(went -1.76)(to -1.85)(the -3.83)(door -0.74)(, -2.13) line score is : -2.098, look ahead score is : 0.000
+(he -2.13)(saw -7.42)(that -2.49)(his -3.95)(father -3.26)(was -2.89)(hostile -3.15)(. -2.30) line score is : -3.448, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.056474599874381----------------------- 
+there was a brave boy named lyle 
+ who lived all his life in a exile . 
+ he came back from the war , 
+ and he went to the store , 
+ but i thought he was doing it style . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(lived -3.50)(all -5.48)(his -0.95)(life -0.10)(in -0.84)(a -1.96)(exile -13.79)(. -1.77) line score is : -3.329, look ahead score is : 0.000
+(he -1.77)(came -1.45)(back -4.03)(from -2.23)(the -2.37)(war -1.65)(, -1.97) line score is : -2.211, look ahead score is : 0.000
+(and -1.97)(he -2.41)(went -1.76)(to -1.85)(the -3.83)(store -0.74)(, -2.13) line score is : -2.098, look ahead score is : 0.000
+(but -2.13)(i -6.14)(thought -2.15)(he -3.53)(was -3.65)(doing -4.08)(it -1.27)(style -0.92)(. -5.45) line score is : -3.257, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ to call my last novel impure 
+-------------------------score:  -3.1014358257093737----------------------- 
+there was a brave boy named lyle 
+ who lived all his life in a exile . 
+ he came back from the war , 
+ and he went to the store , 
+ to see his old family trial . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(lived -3.50)(all -5.48)(his -0.95)(life -0.10)(in -0.84)(a -1.96)(exile -13.79)(. -1.77) line score is : -3.329, look ahead score is : 0.000
+(he -1.77)(came -1.45)(back -4.03)(from -2.23)(the -2.37)(war -1.65)(, -1.97) line score is : -2.211, look ahead score is : 0.000
+(and -1.97)(he -2.41)(went -1.76)(to -1.85)(the -3.83)(store -0.74)(, -2.13) line score is : -2.098, look ahead score is : 0.000
+(to -2.13)(see -6.14)(his -2.15)(old -3.83)(family -3.26)(trial -2.39)(. -2.64) line score is : -3.221, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ when he found there were five little chips 
+-------------------------score:  -3.1890213444377435----------------------- 
+there was a brave boy named lyle 
+ who lived all his life in a exile . 
+ he came back from the war , 
+ and he went to the door , 
+ when he saw there was one young dial . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(lived -3.50)(all -5.48)(his -0.95)(life -0.10)(in -0.84)(a -1.96)(exile -13.79)(. -1.77) line score is : -3.329, look ahead score is : 0.000
+(he -1.77)(came -1.45)(back -4.03)(from -2.23)(the -2.37)(war -1.65)(, -1.97) line score is : -2.211, look ahead score is : 0.000
+(and -1.97)(he -2.41)(went -1.76)(to -1.85)(the -3.83)(door -0.74)(, -2.13) line score is : -2.098, look ahead score is : 0.000
+(when -2.13)(he -7.42)(saw -2.49)(there -5.65)(was -0.88)(one -1.38)(young -5.43)(dial -0.68)(. -4.41) line score is : -3.384, look ahead score is : 0.000

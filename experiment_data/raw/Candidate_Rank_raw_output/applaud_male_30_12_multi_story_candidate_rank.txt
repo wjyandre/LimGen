@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.3501953879992166----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he arrived to stand , 
+ he was struck by a hand , 
+ so he ran up and put on the light . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(arrived -1.36)(to -1.03)(stand -3.85)(, -7.53) line score is : -3.280, look ahead score is : 0.000
+(he -7.53)(was -3.07)(struck -1.12)(by -1.25)(a -4.84)(hand -0.75)(, -1.53) line score is : -2.871, look ahead score is : 0.000
+(so -1.53)(he -5.98)(ran -3.31)(up -4.13)(and -1.10)(put -2.87)(on -2.94)(the -1.83)(light -4.77)(. -3.40) line score is : -3.185, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.3922076942399144----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he came to protest , 
+ he was told by his guest , 
+ he was free to stay a full fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(came -1.36)(to -3.39)(protest -1.88)(, -9.45) line score is : -3.664, look ahead score is : 0.000
+(he -9.45)(was -1.12)(told -1.45)(by -0.60)(his -2.90)(guest -1.90)(, -2.58) line score is : -2.858, look ahead score is : 0.000
+(he -2.58)(was -4.28)(free -2.19)(to -3.91)(stay -1.25)(a -5.66)(full -0.10)(fortnight -3.02)(. -6.08) line score is : -3.231, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.417560847941786----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he came to protest , 
+ he was told by his guest , 
+ he did not have dinner left this night . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(came -1.36)(to -3.39)(protest -1.88)(, -9.45) line score is : -3.664, look ahead score is : 0.000
+(he -9.45)(was -1.12)(told -1.45)(by -0.60)(his -2.90)(guest -1.90)(, -2.58) line score is : -2.858, look ahead score is : 0.000
+(he -2.58)(did -4.28)(not -2.19)(have -3.91)(dinner -4.15)(left -0.10)(this -1.60)(night -7.83)(. -4.71) line score is : -3.484, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ a word of ambiguous meaning 
+-------------------------score:  -3.457796559251588----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he came to protest , 
+ he was met by his guest , 
+ a gentleman of immense insight . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(came -1.36)(to -3.39)(protest -1.88)(, -9.45) line score is : -3.664, look ahead score is : 0.000
+(he -9.45)(was -1.12)(met -1.45)(by -0.60)(his -2.26)(guest -0.98)(, -4.15) line score is : -2.858, look ahead score is : 0.000
+(a -4.15)(gentleman -5.27)(of -1.37)(immense -2.45)(insight -4.57)(. -1.55) line score is : -3.225, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.4845015930632752----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he returned to stand , 
+ he was joined by his band , 
+ and they played till eleven midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(returned -1.36)(to -3.58)(stand -2.00)(, -8.15) line score is : -3.498, look ahead score is : 0.000
+(he -8.15)(was -2.20)(joined -0.97)(by -1.53)(his -5.26)(band -0.05)(, -2.02) line score is : -2.883, look ahead score is : 0.000
+(and -2.02)(they -5.59)(played -1.62)(till -1.87)(eleven -2.65)(midnight -2.10)(. -4.40) line score is : -2.894, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but the other won several prizes 
+-------------------------score:  -3.5670035858949025----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he came to protest , 
+ he was met by his guest , 
+ but the latter was angry outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(came -1.36)(to -3.39)(protest -1.88)(, -9.45) line score is : -3.664, look ahead score is : 0.000
+(he -9.45)(was -1.12)(met -1.45)(by -0.60)(his -2.26)(guest -0.98)(, -4.15) line score is : -2.858, look ahead score is : 0.000
+(but -4.15)(the -5.27)(latter -1.37)(was -5.35)(angry -2.78)(outright -2.52)(. -2.32) line score is : -3.393, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.57436296824486----------------------- 
+there was a wise judge named dwight 
+ who wished a good time on his invite . 
+ when he arrived to stand , 
+ he was met by his band , 
+ which was filled with the hottest midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(good -3.27)(time -3.63)(on -3.36)(his -1.02)(invite -10.47)(. -1.29) line score is : -4.222, look ahead score is : 0.000
+(when -1.29)(he -4.62)(arrived -1.36)(to -1.03)(stand -3.85)(, -7.53) line score is : -3.280, look ahead score is : 0.000
+(he -7.53)(was -3.07)(met -1.12)(by -1.25)(his -2.18)(band -0.50)(, -3.37) line score is : -2.718, look ahead score is : 0.000
+(which -3.37)(was -7.07)(filled -1.96)(with -2.92)(the -1.77)(hottest -4.48)(midnight -0.11)(. -3.33) line score is : -3.126, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he was n't the wizard he woz 
+-------------------------score:  -3.6252719836850322----------------------- 
+there was a wise judge named dwight 
+ who wished a nice meal on his invite . 
+ when he came to protest , 
+ he was told by his guest , 
+ it was not the restaurant it night . 
+------------------------- score breakdown ------------------------ 
+(who -2.58)(wished -6.76)(a -5.62)(nice -5.06)(meal -3.18)(on -4.24)(his -1.44)(invite -9.93)(. -1.27) line score is : -4.455, look ahead score is : 0.000
+(when -1.27)(he -4.31)(came -1.10)(to -3.17)(protest -1.90)(, -9.50) line score is : -3.542, look ahead score is : 0.000
+(he -9.50)(was -1.10)(told -1.38)(by -0.61)(his -2.75)(guest -1.92)(, -2.32) line score is : -2.796, look ahead score is : 0.000
+(it -2.32)(was -4.05)(not -2.16)(the -5.94)(restaurant -0.36)(it -2.34)(night -2.89)(. -4.11) line score is : -3.020, look ahead score is : 0.000

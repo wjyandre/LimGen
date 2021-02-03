@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.858661779202521----------------------- 
+there was a fierce man named pierre 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was told by a lie , 
+ that the woman he loved was a bear . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(told -1.47)(by -2.37)(a -2.40)(lie -1.79)(, -2.09) line score is : -2.119, look ahead score is : 0.000
+(that -2.09)(the -8.66)(woman -2.35)(he -0.96)(loved -2.26)(was -4.66)(a -1.93)(bear -0.42)(. -0.83) line score is : -2.683, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.049422693438828----------------------- 
+there was a fierce man named javier 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was struck by a fly , 
+ and he fell down and broke our chair . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(struck -1.47)(by -2.37)(a -4.46)(fly -1.05)(, -1.74) line score is : -2.258, look ahead score is : 0.000
+(and -1.74)(he -8.30)(fell -1.87)(down -1.08)(and -2.65)(broke -3.25)(our -2.47)(chair -2.55)(. -3.21) line score is : -3.014, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0512100430205464----------------------- 
+there was a fierce man named javier 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was struck by his eye , 
+ and he fell down and broke our chair . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(struck -1.47)(by -2.37)(his -4.46)(eye -1.05)(, -3.30) line score is : -2.480, look ahead score is : 0.000
+(and -3.30)(he -7.52)(fell -1.66)(down -0.98)(and -2.37)(broke -3.34)(our -1.94)(chair -2.30)(. -3.48) line score is : -2.988, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.061845366993258----------------------- 
+there was a fierce man named pierre 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was struck by his eye , 
+ which was covered with the worst nightmare . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(struck -1.47)(by -2.37)(his -4.46)(eye -1.05)(, -3.30) line score is : -2.480, look ahead score is : 0.000
+(which -3.30)(was -7.52)(covered -1.66)(with -1.62)(the -1.48)(worst -3.65)(nightmare -0.51)(. -3.48) line score is : -2.903, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.110827991077977----------------------- 
+there was a fierce man named javier 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was told by a lie , 
+ he said that his family was fair . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(told -1.47)(by -2.37)(a -2.40)(lie -1.79)(, -2.09) line score is : -2.119, look ahead score is : 0.000
+(he -2.09)(said -8.66)(that -2.35)(his -3.24)(family -3.01)(was -2.25)(fair -2.47)(. -4.25) line score is : -3.538, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.1563299427429836----------------------- 
+there was a fierce man named javier 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was saved by a fly , 
+ and he was reborn again elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(saved -1.47)(by -2.37)(a -4.82)(fly -1.02)(, -1.92) line score is : -2.330, look ahead score is : 0.000
+(and -1.92)(he -8.68)(was -2.30)(reborn -1.53)(again -2.29)(elsewhere -2.17)(. -4.48) line score is : -3.337, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.22358043059226----------------------- 
+there was a fierce man named pierre 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was struck by his eye , 
+ and his eyes grew wider and elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(struck -1.47)(by -2.37)(his -4.46)(eye -1.05)(, -3.30) line score is : -2.480, look ahead score is : 0.000
+(and -3.30)(his -7.52)(eyes -1.66)(grew -0.98)(wider -2.71)(and -2.49)(elsewhere -3.76)(. -3.92) line score is : -3.294, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.27483652929465----------------------- 
+there was a fierce man named pierre 
+ who stood all his life in a prayer . 
+ when he began to cry , 
+ he was struck by my eye , 
+ and he cried aloud again elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(stood -4.12)(all -6.38)(his -3.87)(life -0.33)(in -2.06)(a -3.02)(prayer -8.50)(. -2.83) line score is : -3.637, look ahead score is : 0.000
+(when -2.83)(he -3.78)(began -1.02)(to -4.64)(cry -0.41)(, -3.84) line score is : -2.753, look ahead score is : 0.000
+(he -3.84)(was -0.88)(struck -1.47)(by -2.37)(my -4.46)(eye -1.05)(, -6.19) line score is : -2.893, look ahead score is : 0.000
+(and -6.19)(he -5.37)(cried -1.57)(aloud -0.75)(again -2.51)(elsewhere -3.12)(. -3.55) line score is : -3.296, look ahead score is : 0.000

@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.9768337556160986----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ so she got up and put on the play . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(so -0.43)(she -3.78)(got -7.30)(up -3.66)(and -1.24)(put -4.13)(on -3.32)(the -0.92)(play -5.04)(. -1.42) line score is : -3.123, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0709229533871016----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ so she quickly went on the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(so -0.43)(she -3.78)(quickly -7.30)(went -3.66)(on -1.24)(the -5.55)(survey -3.50)(. -2.93) line score is : -3.548, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.124511538494018----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ she was proud to be a female play . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(she -0.43)(was -3.78)(proud -7.30)(to -3.63)(be -1.94)(a -5.07)(female -1.63)(play -0.90)(. -1.79) line score is : -2.939, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ it s a regular brute of a bee 
+-------------------------score:  -3.151070275133656----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she has a new boyfriend of a day . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(has -7.04)(a -4.44)(new -1.67)(boyfriend -6.99)(of -2.11)(a -4.13)(day -2.48)(. -5.68) line score is : -3.865, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.196596410486006----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ go straight to work on her life resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(go -0.43)(straight -3.78)(to -7.30)(work -6.44)(on -6.49)(her -0.83)(life -0.96)(resume -3.81)(. -1.30) line score is : -3.480, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.2009218740276992----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she has a dark side out in the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(has -7.04)(a -4.44)(dark -1.67)(side -6.99)(out -2.11)(in -4.71)(the -0.70)(way -8.58)(. -3.81) line score is : -4.029, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.2522670227673744----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ well she got it right in the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(well -0.43)(she -3.78)(got -7.30)(it -3.34)(right -7.18)(in -3.33)(the -3.25)(survey -3.89)(. -4.05) line score is : -4.060, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.2711487598717213----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she probably had a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(probably -7.04)(had -4.44)(a -1.67)(resume -7.04)(. -3.09) line score is : -3.922, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.287509856124719----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she never slept in a bed friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(never -7.04)(slept -4.44)(in -1.67)(a -5.98)(bed -6.76)(friday -3.09)(. -2.10) line score is : -3.916, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.2906692281365393----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she was not the type you resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(was -7.04)(not -4.44)(the -1.67)(type -1.25)(you -3.46)(resume -2.33)(. -2.35) line score is : -2.849, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.3049757547419647----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and wanted her father a resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(wanted -3.78)(her -7.30)(father -1.16)(a -6.27)(resume -3.66)(. -3.61) line score is : -3.742, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.3311623121301333----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ she said that her life was resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(she -0.43)(said -3.78)(that -7.30)(her -3.63)(life -0.81)(was -7.53)(resume -3.83)(. -3.08) line score is : -3.798, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.3434751432749534----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she was through the roof and did okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(was -7.04)(through -4.44)(the -1.67)(roof -1.25)(and -9.00)(did -4.72)(okay -1.23)(. -4.10) line score is : -3.745, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and returned on the previous night 
+-------------------------score:  -3.347198858857155----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and took on the giant resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(took -3.78)(on -7.30)(the -1.16)(giant -6.16)(resume -4.01)(. -1.12) line score is : -3.423, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and could n't bend back again 
+-------------------------score:  -3.3590617287775566----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and could barely hold back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(could -3.78)(barely -7.30)(hold -1.16)(back -6.43)(resume -2.20)(. -2.71) line score is : -3.429, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.363936207931617----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she has a new favorite essay . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(has -7.04)(a -4.44)(new -1.67)(favorite -6.99)(essay -2.11)(. -4.13) line score is : -3.804, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ which leaves him in very bad shape 
+-------------------------score:  -3.3907555465896926----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ which makes it in pretty good cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(which -0.43)(makes -3.78)(it -7.30)(in -4.52)(pretty -4.64)(good -1.97)(cache -8.17)(. -5.23) line score is : -4.504, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.4326921725465405----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ she told him and walked upstairs and play . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(she -0.43)(told -3.78)(him -7.30)(and -3.63)(walked -2.79)(upstairs -2.16)(and -5.88)(play -5.34)(. -6.68) line score is : -4.221, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.447597505104157----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she was not re kind led this halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(was -7.04)(not -4.44)(re -1.67)(kind -1.25)(led -3.46)(this -9.16)(halfway -3.79)(. -1.17) line score is : -3.581, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.4490360766649246----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and said with a confident resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(said -3.78)(with -7.30)(a -1.16)(confident -5.68)(resume -6.13)(. -0.88) line score is : -3.623, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.495494581758976----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she was up in heaven and halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(was -7.04)(up -4.44)(in -1.67)(heaven -1.25)(and -6.56)(halfway -4.53)(. -4.59) line score is : -3.791, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.571275130410989----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to bet , 
+ she was when she heard across sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(bet -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(was -7.04)(when -4.44)(she -1.67)(heard -1.25)(across -9.04)(sunday -0.81)(. -4.72) line score is : -3.653, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ thirty days is the time he will do 
+-------------------------score:  -3.582094960155026----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ real things is the word she will resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(real -0.43)(things -3.78)(is -7.30)(the -7.39)(word -5.21)(she -7.90)(will -3.14)(resume -1.68)(. -1.75) line score is : -4.286, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -3.595718930661678----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and have what the girls all resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(have -3.78)(what -7.30)(the -1.16)(girls -5.97)(all -5.32)(resume -4.50)(. -3.66) line score is : -4.013, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ to balance green peas on her fork 
+-------------------------score:  -3.6271265253424643----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ to make new moves on you resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(to -0.43)(make -3.78)(new -7.30)(moves -3.82)(on -3.73)(you -4.79)(resume -7.11)(. -3.02) line score is : -4.246, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ ALL OF THIS NN AFTER NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ all of this homework after school 
+-------------------------score:  -3.7152441601301063----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ all of this love after resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(all -0.43)(of -3.78)(this -7.30)(love -6.55)(after -2.37)(resume -4.04)(. -5.08) line score is : -4.221, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and showed him many cstar 
+-------------------------score:  -3.7227707574410096----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and wanted him many resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(wanted -3.78)(him -7.30)(many -1.16)(resume -6.27)(. -2.79) line score is : -3.620, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ great writers are fewer and fewer 
+-------------------------score:  -3.8048877536222854----------------------- 
+there was a nervous girl named renee 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ real women are better and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(real -0.43)(women -3.78)(are -7.30)(better -7.39)(and -7.28)(sunday -4.45)(. -5.17) line score is : -5.113, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.9161538909519873----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ she was ready to get , 
+ and ring call it is but fair sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(she -1.84)(was -0.61)(ready -1.47)(to -1.66)(get -4.60)(, -0.43) line score is : -1.768, look ahead score is : 0.000
+(and -0.43)(ring -3.78)(call -7.30)(it -1.16)(is -9.64)(but -9.47)(fair -3.79)(sunday -7.31)(. -7.89) line score is : -5.640, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD JJ TO VB , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was ready to faint 
+ I ll give you prostheses for free 
+-------------------------score:  -3.949578302601973----------------------- 
+there was a nervous girl named kay 
+ who talked a big game on her birthday . 
+ but the moment they met , 
+ it was easy to get , 
+ she ca put it words for resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(talked -5.94)(a -2.87)(big -4.04)(game -0.13)(on -4.36)(her -1.81)(birthday -5.05)(. -1.26) line score is : -2.993, look ahead score is : 0.000
+(but -1.26)(the -3.43)(moment -3.23)(they -4.95)(met -3.33)(, -1.84) line score is : -3.009, look ahead score is : 0.000
+(it -1.84)(was -0.61)(easy -2.59)(to -0.65)(get -5.33)(, -0.26) line score is : -1.880, look ahead score is : 0.000
+(she -0.26)(ca -4.36)(put -7.65)(it -2.67)(words -9.93)(for -10.05)(resume -0.38)(. -10.89) line score is : -5.774, look ahead score is : 0.000

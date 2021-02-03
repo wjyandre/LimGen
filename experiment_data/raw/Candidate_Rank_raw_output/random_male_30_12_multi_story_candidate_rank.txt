@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he would go to a party 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.9276801999658346----------------------- 
+there was a funny man named lyle 
+ who stuck all his money in a pile . 
+ he would go to a show , 
+ he would take a photo , 
+ and that is the basis of this file . 
+------------------------- score breakdown ------------------------ 
+(who -2.27)(stuck -7.74)(all -6.79)(his -1.02)(money -2.83)(in -0.63)(a -1.42)(pile -5.00)(. -3.27) line score is : -3.440, look ahead score is : 0.000
+(he -3.27)(would -1.65)(go -3.82)(to -3.04)(a -1.47)(show -2.94)(, -5.21) line score is : -3.058, look ahead score is : 0.000
+(he -5.21)(would -1.78)(take -2.89)(a -0.62)(photo -4.00)(, -1.30) line score is : -2.632, look ahead score is : 0.000
+(and -1.30)(that -5.01)(is -1.34)(the -0.85)(basis -4.23)(of -4.56)(this -2.06)(file -4.45)(. -0.54) line score is : -2.704, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.9659441206604242----------------------- 
+there was a stupid man named lyle 
+ who stuck all his money in a pile . 
+ when he went to someone , 
+ he was told by his son , 
+ that the sum he wanted was a mile . 
+------------------------- score breakdown ------------------------ 
+(who -2.01)(stuck -7.63)(all -6.06)(his -1.02)(money -2.49)(in -0.63)(a -1.31)(pile -5.07)(. -3.50) line score is : -3.302, look ahead score is : 0.000
+(when -3.50)(he -4.09)(went -0.99)(to -3.21)(someone -0.68)(, -8.28) line score is : -3.458, look ahead score is : 0.000
+(he -8.28)(was -2.74)(told -0.95)(by -2.18)(his -1.26)(son -2.98)(, -2.69) line score is : -3.012, look ahead score is : 0.000
+(that -2.69)(the -4.90)(sum -1.77)(he -2.97)(wanted -2.19)(was -4.67)(a -2.28)(mile -3.08)(. -0.63) line score is : -2.798, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.979513677370344----------------------- 
+there was a boring boy named lyle 
+ who stuck all his money in a pile . 
+ when he started to talk , 
+ he was able to walk , 
+ and that is the story of this file . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(stuck -7.52)(all -6.67)(his -0.76)(money -3.64)(in -0.69)(a -1.23)(pile -5.06)(. -3.49) line score is : -3.390, look ahead score is : 0.000
+(when -3.49)(he -3.67)(started -0.89)(to -4.15)(talk -1.73)(, -5.49) line score is : -3.237, look ahead score is : 0.000
+(he -5.49)(was -1.53)(able -1.33)(to -2.64)(walk -4.08)(, -0.00) line score is : -2.514, look ahead score is : 0.000
+(and -0.00)(that -5.96)(is -2.87)(the -2.06)(story -4.22)(of -2.80)(this -2.70)(file -3.13)(. -0.56) line score is : -2.700, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.0309333089859254----------------------- 
+there was a stupid man named lyle 
+ who stuck all his money in a pile . 
+ when he went to someone , 
+ he was told by his son , 
+ he said that his father was hostile . 
+------------------------- score breakdown ------------------------ 
+(who -2.01)(stuck -7.63)(all -6.06)(his -1.02)(money -2.49)(in -0.63)(a -1.31)(pile -5.07)(. -3.50) line score is : -3.302, look ahead score is : 0.000
+(when -3.50)(he -4.09)(went -0.99)(to -3.21)(someone -0.68)(, -8.28) line score is : -3.458, look ahead score is : 0.000
+(he -8.28)(was -2.74)(told -0.95)(by -2.18)(his -1.26)(son -2.98)(, -2.69) line score is : -3.012, look ahead score is : 0.000
+(he -2.69)(said -4.90)(that -1.77)(his -3.32)(father -3.96)(was -3.49)(hostile -2.90)(. -0.69) line score is : -2.965, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.065106679491388----------------------- 
+there was a boring boy named lyle 
+ who stuck all his money in a pile . 
+ when he started to talk , 
+ he was able to walk , 
+ but he lost his memories and style . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(stuck -7.52)(all -6.67)(his -0.76)(money -3.64)(in -0.69)(a -1.23)(pile -5.06)(. -3.49) line score is : -3.390, look ahead score is : 0.000
+(when -3.49)(he -3.67)(started -0.89)(to -4.15)(talk -1.73)(, -5.49) line score is : -3.237, look ahead score is : 0.000
+(he -5.49)(was -1.53)(able -1.33)(to -2.64)(walk -4.08)(, -0.00) line score is : -2.514, look ahead score is : 0.000
+(but -0.00)(he -5.96)(lost -2.87)(his -1.49)(memories -1.33)(and -5.00)(style -0.86)(. -4.94) line score is : -2.808, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -3.1600169020399838----------------------- 
+there was a boring boy named lyle 
+ who stuck all his money in a pile . 
+ when he started to talk , 
+ he was able to walk , 
+ because he was holding his dial . 
+------------------------- score breakdown ------------------------ 
+(who -1.43)(stuck -7.52)(all -6.67)(his -0.76)(money -3.64)(in -0.69)(a -1.23)(pile -5.06)(. -3.49) line score is : -3.390, look ahead score is : 0.000
+(when -3.49)(he -3.67)(started -0.89)(to -4.15)(talk -1.73)(, -5.49) line score is : -3.237, look ahead score is : 0.000
+(he -5.49)(was -1.53)(able -1.33)(to -2.64)(walk -4.08)(, -0.00) line score is : -2.514, look ahead score is : 0.000
+(because -0.00)(he -5.96)(was -2.87)(holding -5.27)(his -0.83)(dial -1.23)(. -4.80) line score is : -2.996, look ahead score is : 0.000

@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.2080762637779117----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and that is the story of this file . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(that -6.81)(is -1.69)(the -2.90)(story -4.48)(of -4.33)(this -2.58)(file -2.87)(. -0.41) line score is : -3.238, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.3247030898928642----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and drove home to his wife in exile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(drove -6.81)(home -1.69)(to -2.90)(his -8.10)(wife -4.41)(in -1.51)(exile -2.40)(. -2.28) line score is : -3.685, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.368312385774428----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and his eyes were sharper and hostile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(his -6.81)(eyes -1.69)(were -2.90)(sharper -3.00)(and -5.60)(hostile -1.27)(. -5.57) line score is : -3.740, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ they bedded her down in the stable 
+-------------------------score:  -3.398459421050164----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ he told us down in the aisle . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(he -3.07)(told -6.81)(us -1.69)(down -6.09)(in -1.68)(the -2.72)(aisle -9.83)(. -2.25) line score is : -4.270, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and now he 's a college professor 
+-------------------------score:  -3.401840252261008----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and now he has a family profile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(now -6.81)(he -1.69)(has -2.90)(a -4.06)(family -1.01)(profile -4.38)(. -1.77) line score is : -3.212, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and some of the members are swines 
+-------------------------score:  -3.411283835288017----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and some of the details are hostile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(some -6.81)(of -1.69)(the -2.90)(details -5.70)(are -2.63)(hostile -1.12)(. -4.80) line score is : -3.590, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ a habit unpleasant but curious 
+-------------------------score:  -3.4272932060833634----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ a woman familiar but hostile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(a -3.07)(woman -6.81)(familiar -1.69)(but -1.50)(hostile -3.36)(. -7.87) line score is : -4.051, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.509729739030202----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and was with a different profile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(was -6.81)(with -1.69)(a -2.90)(different -3.16)(profile -7.01)(. -3.50) line score is : -4.022, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and finished the solo with honour 
+-------------------------score:  -3.522490402062734----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and learned the language with exile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(learned -6.81)(the -1.69)(language -2.90)(with -5.47)(exile -2.52)(. -4.24) line score is : -3.814, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ us camels get into a stew 
+-------------------------score:  -3.5891498188177744----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ old enemies come into a smile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(old -3.07)(enemies -6.81)(come -1.69)(into -7.03)(a -5.49)(smile -5.33)(. -3.50) line score is : -4.704, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.5970877870436637----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ which was played with the highest profile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(which -3.07)(was -6.81)(played -1.69)(with -5.99)(the -1.90)(highest -7.04)(profile -3.82)(. -3.56) line score is : -4.236, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ he left all his fans wanting more 
+-------------------------score:  -3.6462782659838275----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ he had all his friends living meanwhile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(he -3.07)(had -6.81)(all -1.69)(his -6.09)(friends -3.18)(living -6.31)(meanwhile -1.84)(. -2.31) line score is : -3.915, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.659415964285533----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and found his revenge a denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(found -6.81)(his -1.69)(revenge -2.90)(a -5.63)(denial -2.50)(. -6.28) line score is : -4.126, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and sideways he could n't be seen 
+-------------------------score:  -3.6637427960672686----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and says he could not be denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(says -6.81)(he -1.69)(could -2.90)(not -8.60)(be -1.04)(denial -4.36)(. -1.89) line score is : -3.796, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.685033082962036----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ he said when we meet across aisle . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(he -3.07)(said -6.81)(when -1.69)(we -6.09)(meet -1.35)(across -8.22)(aisle -2.11)(. -6.36) line score is : -4.464, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.687964014708996----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and for reasons he just knows his style . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(for -6.81)(reasons -1.69)(he -2.90)(just -5.53)(knows -5.06)(his -2.42)(style -7.29)(. -5.77) line score is : -4.505, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and could n't bend back again 
+-------------------------score:  -3.697531360387802----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and could not resist back denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(could -6.81)(not -1.69)(resist -2.90)(back -6.00)(denial -1.93)(. -3.12) line score is : -3.646, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and returned on the previous night 
+-------------------------score:  -3.7345969597498576----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and was on the threshold denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(was -6.81)(on -1.69)(the -2.90)(threshold -3.16)(denial -4.74)(. -1.06) line score is : -3.347, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ great writers are fewer and fewer 
+-------------------------score:  -3.7446744243303933----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ old enemies come closer and smile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(old -3.07)(enemies -6.81)(come -1.69)(closer -7.03)(and -5.49)(smile -5.33)(. -7.62) line score is : -5.292, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ I invariably get in a stew ! 
+-------------------------score:  -3.753519146673141----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ he soon heard in a court denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(he -3.07)(soon -6.81)(heard -1.69)(in -6.09)(a -5.99)(court -5.58)(denial -4.99)(. -2.03) line score is : -4.532, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and now a new teacher they seek 
+-------------------------score:  -3.786698302915019----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and not a great deal she denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(not -6.81)(a -1.69)(great -2.90)(deal -6.12)(she -2.25)(denial -3.74)(. -0.83) line score is : -3.425, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and hop in before all the crowd 
+-------------------------score:  -3.835004969950645----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and put in before all the hostile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(put -6.81)(in -1.69)(before -2.90)(all -7.76)(the -3.12)(hostile -7.80)(. -5.85) line score is : -4.876, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and showed him many cstar 
+-------------------------score:  -3.847092336621778----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and found himself many denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(found -6.81)(himself -1.69)(many -2.90)(denial -5.63)(. -1.15) line score is : -3.542, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and since then has never benzene 
+-------------------------score:  -3.938387127717336----------------------- 
+there was a wise judge named lyle 
+ who brought a young woman on his trial . 
+ she was back from the war , 
+ but had a new mentor , 
+ and since then has never denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(woman -2.16)(on -5.04)(his -1.50)(trial -3.81)(. -1.72) line score is : -3.331, look ahead score is : 0.000
+(she -1.72)(was -2.87)(back -1.17)(from -8.75)(the -3.65)(war -1.91)(, -2.72) line score is : -3.257, look ahead score is : 0.000
+(but -2.72)(had -1.88)(a -2.24)(new -2.73)(mentor -3.50)(, -3.38) line score is : -2.742, look ahead score is : 0.000
+(and -3.38)(since -7.66)(then -1.68)(has -2.66)(never -6.19)(denial -2.04)(. -4.68) line score is : -4.041, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ her career with damir is bizarre 
+-------------------------score:  -3.9556012233098348----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ his son with dark instincts denial . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(his -3.07)(son -6.81)(with -1.69)(dark -4.61)(instincts -3.33)(denial -6.65)(. -6.00) line score is : -4.595, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and see what the critics all say 
+-------------------------score:  -4.014691887363311----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and read what the lawyers all worthwhile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(read -6.81)(what -1.69)(the -2.90)(lawyers -9.26)(all -5.41)(worthwhile -2.85)(. -5.81) line score is : -4.726, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ BUT VBD A JJ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ but got a great fright 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.131883557885885----------------------- 
+there was a wise judge named lyle 
+ who brought a young man on his trial . 
+ he was back from the war , 
+ but had a new mentor , 
+ and trying make it looks but hard worthwhile . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(brought -6.41)(a -2.61)(young -5.04)(man -1.66)(on -5.07)(his -1.76)(trial -3.93)(. -1.94) line score is : -3.344, look ahead score is : 0.000
+(he -1.94)(was -1.95)(back -1.76)(from -8.89)(the -3.64)(war -2.03)(, -2.18) line score is : -3.197, look ahead score is : 0.000
+(but -2.18)(had -2.03)(a -2.20)(new -2.82)(mentor -3.56)(, -3.07) line score is : -2.642, look ahead score is : 0.000
+(and -3.07)(trying -6.81)(make -1.69)(it -2.90)(looks -9.72)(but -9.83)(hard -2.69)(worthwhile -7.69)(. -9.01) line score is : -5.936, look ahead score is : 0.000

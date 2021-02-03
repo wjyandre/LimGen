@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.2090088609726197----------------------- 
+there was a vain woman named nicole 
+ who wished a great favor on my soul . 
+ but my heart remained pure , 
+ and i went to the cure , 
+ which was done with the strongest console . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(favor -5.48)(on -1.36)(my -2.91)(soul -2.66)(. -1.35) line score is : -3.359, look ahead score is : 0.000
+(but -1.35)(my -3.97)(heart -3.18)(remained -2.09)(pure -4.87)(, -3.55) line score is : -3.169, look ahead score is : 0.000
+(and -3.55)(i -1.54)(went -0.62)(to -0.91)(the -3.57)(cure -1.33)(, -1.80) line score is : -1.901, look ahead score is : 0.000
+(which -1.80)(was -9.90)(done -2.72)(with -3.21)(the -1.03)(strongest -2.22)(console -2.53)(. -2.04) line score is : -3.182, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.2611236649174846----------------------- 
+there was a vain woman named nicolle 
+ who wished a great favor on my soul . 
+ but my heart was cruel , 
+ and i went to the pool , 
+ and i drank too much alcohol whole . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(favor -5.48)(on -1.36)(my -2.91)(soul -2.66)(. -1.35) line score is : -3.359, look ahead score is : 0.000
+(but -1.35)(my -3.97)(heart -3.18)(was -2.09)(cruel -0.78)(, -8.16) line score is : -3.257, look ahead score is : 0.000
+(and -8.16)(i -1.65)(went -0.60)(to -0.75)(the -4.60)(pool -1.56)(, -1.93) line score is : -2.750, look ahead score is : 0.000
+(and -1.93)(i -7.73)(drank -1.89)(too -0.81)(much -2.24)(alcohol -3.32)(whole -4.85)(. -0.14) line score is : -2.864, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.2797221383079886----------------------- 
+there was a vain woman named nicolle 
+ who wished a great favor on my soul . 
+ but my heart was cruel , 
+ and i went to the pool , 
+ and i did not like water of bowl . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(favor -5.48)(on -1.36)(my -2.91)(soul -2.66)(. -1.35) line score is : -3.359, look ahead score is : 0.000
+(but -1.35)(my -3.97)(heart -3.18)(was -2.09)(cruel -0.78)(, -8.16) line score is : -3.257, look ahead score is : 0.000
+(and -8.16)(i -1.65)(went -0.60)(to -0.75)(the -4.60)(pool -1.56)(, -1.93) line score is : -2.750, look ahead score is : 0.000
+(and -1.93)(i -7.73)(did -1.89)(not -0.81)(like -2.24)(water -4.04)(of -0.48)(bowl -4.34)(. -5.44) line score is : -3.211, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.310177493479944----------------------- 
+there was a vain woman named nicolle 
+ who wished a great favor on my soul . 
+ i had a desire , 
+ and i prayed to the fire , 
+ and it came forth like lightning of coal . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(favor -5.48)(on -1.36)(my -2.91)(soul -2.66)(. -1.35) line score is : -3.359, look ahead score is : 0.000
+(i -1.35)(had -1.84)(a -3.17)(desire -3.02)(, -4.17) line score is : -2.711, look ahead score is : 0.000
+(and -4.17)(i -3.94)(prayed -2.04)(to -1.86)(the -3.16)(fire -1.53)(, -1.70) line score is : -2.630, look ahead score is : 0.000
+(and -1.70)(it -9.86)(came -1.56)(forth -0.97)(like -2.33)(lightning -3.48)(of -2.44)(coal -4.66)(. -4.09) line score is : -3.456, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ when he saw there were six little chips 
+-------------------------score:  -3.390472648665309----------------------- 
+there was a vain woman named nicolle 
+ who wished a great favor on my soul . 
+ but my heart was cruel , 
+ and i went to the pool , 
+ when i saw there was one small console . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(favor -5.48)(on -1.36)(my -2.91)(soul -2.66)(. -1.35) line score is : -3.359, look ahead score is : 0.000
+(but -1.35)(my -3.97)(heart -3.18)(was -2.09)(cruel -0.78)(, -8.16) line score is : -3.257, look ahead score is : 0.000
+(and -8.16)(i -1.65)(went -0.60)(to -0.75)(the -4.60)(pool -1.56)(, -1.93) line score is : -2.750, look ahead score is : 0.000
+(when -1.93)(i -7.73)(saw -1.89)(there -5.57)(was -1.01)(one -1.27)(small -4.54)(console -1.80)(. -4.17) line score is : -3.323, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.405719330534339----------------------- 
+there was a vain woman named nicolle 
+ who wished a great favor on my soul . 
+ she asked for her offspring , 
+ and i gave to the thing , 
+ and it came forth like milk of charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(favor -5.48)(on -1.36)(my -2.91)(soul -2.66)(. -1.35) line score is : -3.359, look ahead score is : 0.000
+(she -1.35)(asked -1.84)(for -3.23)(her -2.49)(offspring -4.91)(, -8.49) line score is : -3.717, look ahead score is : 0.000
+(and -8.49)(i -1.50)(gave -1.00)(to -1.50)(the -1.35)(thing -3.49)(, -4.26) line score is : -3.086, look ahead score is : 0.000
+(and -4.26)(it -7.11)(came -1.88)(forth -0.90)(like -2.11)(milk -1.91)(of -0.95)(charcoal -4.91)(. -5.36) line score is : -3.266, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but his technique was crude 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.506031157573064----------------------- 
+there was a vain woman named nicolle 
+ who wished a great blessing on my soul . 
+ but my heart was cruel , 
+ and i went to the pool , 
+ and i fell asleep again console . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.77)(a -5.71)(great -3.60)(blessing -5.12)(on -1.57)(my -3.30)(soul -3.00)(. -1.42) line score is : -3.431, look ahead score is : 0.000
+(but -1.42)(my -3.98)(heart -3.24)(was -2.15)(cruel -0.80)(, -8.25) line score is : -3.308, look ahead score is : 0.000
+(and -8.25)(i -1.77)(went -0.70)(to -0.74)(the -4.58)(pool -1.55)(, -1.89) line score is : -2.785, look ahead score is : 0.000
+(and -1.89)(i -7.80)(fell -2.01)(asleep -0.95)(again -2.07)(console -3.93)(. -3.02) line score is : -3.095, look ahead score is : 0.000

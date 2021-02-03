@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ they bedded her down in the stable 
+-------------------------score:  -2.9068332493305205----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her friend was so upset , 
+ she threw herself down in the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(friend -0.76)(was -2.89)(so -3.75)(upset -4.33)(, -3.28) line score is : -3.235, look ahead score is : 0.000
+(she -3.28)(threw -2.61)(herself -2.46)(down -0.74)(in -3.59)(the -3.45)(staircase -2.49)(. -2.77) line score is : -2.672, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9849970018671406----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ and she fell down and broke her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(hair -0.76)(became -2.89)(so -3.53)(wet -3.66)(, -3.27) line score is : -3.086, look ahead score is : 0.000
+(and -3.27)(she -3.54)(fell -2.31)(down -3.67)(and -0.90)(broke -4.08)(her -1.80)(staircase -2.70)(. -2.27) line score is : -2.725, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.0691104954288853----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ it went through the window and caught space . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(hair -0.76)(became -2.89)(so -3.53)(wet -3.66)(, -3.27) line score is : -3.086, look ahead score is : 0.000
+(it -3.27)(went -3.54)(through -2.31)(the -1.78)(window -4.58)(and -3.09)(caught -1.00)(space -3.73)(. -1.69) line score is : -2.778, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.1070357464974925----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ that the skin it covered was a case . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(hair -0.76)(became -2.89)(so -3.53)(wet -3.66)(, -3.27) line score is : -3.086, look ahead score is : 0.000
+(that -3.27)(the -3.54)(skin -2.31)(it -1.90)(covered -2.68)(was -3.81)(a -5.49)(case -0.79)(. -1.62) line score is : -2.823, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.1725755372129743----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she was able to get , 
+ but she felt she was doing it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(she -4.40)(was -0.76)(able -1.14)(to -2.91)(get -4.44)(, -0.00) line score is : -2.278, look ahead score is : 0.000
+(but -0.00)(she -2.89)(felt -8.04)(she -2.91)(was -1.85)(doing -4.12)(it -4.05)(place -1.14)(. -4.49) line score is : -3.277, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ that she pickled her internal workins' 
+-------------------------score:  -3.2327345486344963----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ that it made it difficult replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(hair -0.76)(became -2.89)(so -3.53)(wet -3.66)(, -3.27) line score is : -3.086, look ahead score is : 0.000
+(that -3.27)(it -3.54)(made -2.31)(it -1.90)(difficult -1.41)(replace -3.95)(. -2.63) line score is : -2.716, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ she sat up in bed and meowed 
+-------------------------score:  -3.3117783665657043----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ she threw up in anger and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(hair -0.76)(became -2.89)(so -3.53)(wet -3.66)(, -3.27) line score is : -3.086, look ahead score is : 0.000
+(she -3.27)(threw -3.54)(up -2.31)(in -1.07)(anger -4.50)(and -2.13)(staircase -4.30)(. -4.98) line score is : -3.264, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ he was n't the wizard he woz 
+-------------------------score:  -3.3349162518978117----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ her hair became so wet , 
+ it was almost the color she trace . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(her -4.40)(hair -0.76)(became -2.89)(so -3.53)(wet -3.66)(, -3.27) line score is : -3.086, look ahead score is : 0.000
+(it -3.27)(was -3.54)(almost -2.31)(the -1.78)(color -2.03)(she -3.18)(trace -5.89)(. -0.75) line score is : -2.844, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.3622112850989065----------------------- 
+there was a harsh witch named grace 
+ who stuck a hot iron on her face . 
+ when she started to sweat , 
+ she went outside to get , 
+ and she came down and put her replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.70)(stuck -7.57)(a -2.68)(hot -5.52)(iron -1.11)(on -2.99)(her -1.37)(face -3.55)(. -1.58) line score is : -3.120, look ahead score is : 0.000
+(when -1.58)(she -4.19)(started -1.02)(to -4.20)(sweat -1.41)(, -4.40) line score is : -2.801, look ahead score is : 0.000
+(she -4.40)(went -0.76)(outside -1.14)(to -3.87)(get -3.31)(, -1.07) line score is : -2.426, look ahead score is : 0.000
+(and -1.07)(she -1.97)(came -8.11)(down -2.19)(and -2.20)(put -4.10)(her -5.02)(replace -2.68)(. -3.94) line score is : -3.475, look ahead score is : 0.000

@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.747169621529118----------------------- 
+there once was a woman named lenore 
+ who witnessed an incident of war . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ so she had to go down on the floor . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(witnessed -7.73)(an -3.72)(incident -3.12)(of -2.20)(war -5.20)(. -1.94) line score is : -3.633, look ahead score is : 0.000
+(when -1.94)(she -3.40)(returned -0.59)(to -1.96)(fight -0.88)(, -7.25) line score is : -2.671, look ahead score is : 0.000
+(she -7.25)(was -1.14)(killed -0.35)(by -1.46)(a -3.62)(knight -1.17)(, -1.24) line score is : -2.319, look ahead score is : 0.000
+(so -1.24)(she -7.02)(had -2.72)(to -3.94)(go -0.88)(down -3.07)(on -0.75)(the -3.17)(floor -5.28)(. -3.26) line score is : -3.132, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.751027825203809----------------------- 
+there once was a woman named laure 
+ who killed all her family in a war . 
+ she came back from the grave , 
+ and she went to the cave , 
+ and she looked down and saw her mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(killed -6.85)(all -3.71)(her -2.03)(family -3.17)(in -2.67)(a -1.47)(war -4.26)(. -1.85) line score is : -3.059, look ahead score is : 0.000
+(she -1.85)(came -1.79)(back -4.59)(from -2.37)(the -2.24)(grave -1.32)(, -3.93) line score is : -2.585, look ahead score is : 0.000
+(and -3.93)(she -2.21)(went -2.14)(to -2.10)(the -4.37)(cave -1.05)(, -1.94) line score is : -2.535, look ahead score is : 0.000
+(and -1.94)(she -6.64)(looked -2.27)(down -0.63)(and -0.43)(saw -3.89)(her -2.61)(mentor -1.59)(. -1.41) line score is : -2.378, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8266910235087077----------------------- 
+there once was a woman named lore 
+ who witnessed an incident of war . 
+ when she returned to fight , 
+ she was struck by a light , 
+ and she fell down and killed her mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(witnessed -7.73)(an -3.72)(incident -3.12)(of -2.20)(war -5.20)(. -1.94) line score is : -3.633, look ahead score is : 0.000
+(when -1.94)(she -3.40)(returned -0.59)(to -1.96)(fight -0.88)(, -7.25) line score is : -2.671, look ahead score is : 0.000
+(she -7.25)(was -1.14)(struck -0.35)(by -1.46)(a -4.76)(light -1.25)(, -0.95) line score is : -2.453, look ahead score is : 0.000
+(and -0.95)(she -6.12)(fell -3.64)(down -1.50)(and -2.37)(killed -3.33)(her -3.24)(mentor -2.74)(. -3.88) line score is : -3.084, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.864992076700384----------------------- 
+there once was a woman named laure 
+ who killed all her family in a war . 
+ she came back from the grave , 
+ and she went to the cave , 
+ and that is the story of this door . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(killed -6.85)(all -3.71)(her -2.03)(family -3.17)(in -2.67)(a -1.47)(war -4.26)(. -1.85) line score is : -3.059, look ahead score is : 0.000
+(she -1.85)(came -1.79)(back -4.59)(from -2.37)(the -2.24)(grave -1.32)(, -3.93) line score is : -2.585, look ahead score is : 0.000
+(and -3.93)(she -2.21)(went -2.14)(to -2.10)(the -4.37)(cave -1.05)(, -1.94) line score is : -2.535, look ahead score is : 0.000
+(and -1.94)(that -6.64)(is -2.27)(the -0.63)(story -5.72)(of -2.04)(this -2.71)(door -2.78)(. -0.61) line score is : -2.815, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0126073120101804----------------------- 
+there was a harsh woman named laure 
+ who killed all her family in a war . 
+ she came back from the grave , 
+ and she went to the cave , 
+ and she started hunting again more . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(killed -6.58)(all -3.36)(her -2.13)(family -3.57)(in -2.77)(a -1.95)(war -4.64)(. -1.82) line score is : -3.107, look ahead score is : 0.000
+(she -1.82)(came -2.07)(back -5.16)(from -2.22)(the -2.38)(grave -1.20)(, -3.64) line score is : -2.642, look ahead score is : 0.000
+(and -3.64)(she -2.50)(went -2.14)(to -2.10)(the -4.37)(cave -1.05)(, -1.94) line score is : -2.535, look ahead score is : 0.000
+(and -1.94)(she -6.64)(started -2.27)(hunting -0.63)(again -0.43)(more -4.18)(. -5.22) line score is : -3.043, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ but the telephone book caused him pain 
+-------------------------score:  -3.052831913194349----------------------- 
+there once was a woman named flor 
+ who killed all her family in a war . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ but the evil spirit called me ore . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(killed -6.85)(all -3.71)(her -2.03)(family -3.17)(in -2.67)(a -1.47)(war -4.26)(. -1.85) line score is : -3.059, look ahead score is : 0.000
+(when -1.85)(she -4.24)(returned -1.03)(to -3.43)(hell -0.96)(, -6.30) line score is : -2.969, look ahead score is : 0.000
+(she -6.30)(was -0.99)(saved -0.35)(by -2.08)(a -4.59)(spell -0.33)(, -1.38) line score is : -2.290, look ahead score is : 0.000
+(but -1.38)(the -7.10)(evil -3.31)(spirit -1.31)(called -2.79)(me -4.34)(ore -1.98)(. -5.14) line score is : -3.419, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0971334914366406----------------------- 
+there was a harsh woman named lore 
+ who killed all her family in a war . 
+ when she returned to hell , 
+ she was saved by a spell , 
+ and she was reborn again therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(killed -6.58)(all -3.36)(her -2.13)(family -3.57)(in -2.77)(a -1.95)(war -4.64)(. -1.82) line score is : -3.107, look ahead score is : 0.000
+(when -1.82)(she -4.05)(returned -1.17)(to -3.60)(hell -0.96)(, -6.13) line score is : -2.955, look ahead score is : 0.000
+(she -6.13)(was -0.99)(saved -0.39)(by -2.13)(a -4.62)(spell -0.30)(, -1.40) line score is : -2.280, look ahead score is : 0.000
+(and -1.40)(she -6.97)(was -3.46)(reborn -1.29)(again -2.07)(therefore -2.24)(. -2.83) line score is : -2.893, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.126484753830092----------------------- 
+there once was a woman named lore 
+ who witnessed an incident of war . 
+ when she returned to fight , 
+ she was killed by a knight , 
+ and she was reborn again therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(witnessed -7.73)(an -3.72)(incident -3.12)(of -2.20)(war -5.20)(. -1.94) line score is : -3.633, look ahead score is : 0.000
+(when -1.94)(she -3.40)(returned -0.59)(to -1.96)(fight -0.88)(, -7.25) line score is : -2.671, look ahead score is : 0.000
+(she -7.25)(was -1.14)(killed -0.35)(by -1.46)(a -3.62)(knight -1.17)(, -1.24) line score is : -2.319, look ahead score is : 0.000
+(and -1.24)(she -7.02)(was -2.72)(reborn -1.57)(again -2.29)(therefore -1.30)(. -3.72) line score is : -2.836, look ahead score is : 0.000

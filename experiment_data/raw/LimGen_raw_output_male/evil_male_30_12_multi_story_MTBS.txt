@@ -1,0 +1,506 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.207670303992927----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ then he saw it glowing in the air . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(then -1.87)(he -8.20)(saw -2.56)(it -4.79)(glowing -2.49)(in -2.21)(the -1.99)(air -7.17)(. -2.30) line score is : -3.730, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -3.2408090847911257----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ so he had to go down on the chair . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(so -0.89)(he -8.36)(had -2.31)(to -5.26)(go -2.50)(down -3.39)(on -0.72)(the -3.11)(chair -3.50)(. -3.66) line score is : -3.369, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.2932319757528603----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ and set fire to his house in prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(and -0.89)(set -8.36)(fire -2.31)(to -1.03)(his -7.54)(house -3.50)(in -0.03)(prayer -2.88)(. -2.93) line score is : -3.274, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.2981265008449556----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the crow , 
+ and cried with a terrible prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(crow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(and -1.87)(cried -8.82)(with -2.49)(a -1.07)(terrible -4.49)(prayer -4.40)(. -1.63) line score is : -3.537, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.325017062822978----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ and it was dark everywhere elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(and -1.87)(it -8.20)(was -2.56)(dark -1.07)(everywhere -2.73)(elsewhere -0.86)(. -3.15) line score is : -2.920, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3524475190788507----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ and it was not like darkness of air . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(and -1.87)(it -8.20)(was -2.56)(not -1.07)(like -2.73)(darkness -0.86)(of -3.98)(air -3.66)(. -5.40) line score is : -3.369, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ but it does n't come out of my purse 
+-------------------------score:  -3.4289444107562304----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ but it is not colder in his hair . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(but -1.87)(it -8.20)(is -2.56)(not -3.33)(colder -2.14)(in -5.95)(his -1.63)(hair -7.53)(. -3.54) line score is : -4.084, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.435816338285804----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ but he saw it was freezing it bare . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(but -1.87)(he -8.20)(saw -2.56)(it -3.33)(was -1.27)(freezing -2.79)(it -2.77)(bare -3.31)(. -6.55) line score is : -3.629, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.437676105648279----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the crow , 
+ but its wings were down to its prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(crow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(but -1.87)(its -8.82)(wings -2.49)(were -3.08)(down -5.19)(to -2.07)(its -0.80)(prayer -4.75)(. -3.58) line score is : -3.626, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ which leaves him in very bad shape 
+-------------------------score:  -3.486711877007638----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ which froze him in almost perfect air . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(which -0.89)(froze -8.36)(him -2.31)(in -4.36)(almost -5.83)(perfect -3.06)(air -2.67)(. -7.88) line score is : -4.419, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ within weeks it was all in the past 
+-------------------------score:  -3.4986587036401033----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ in places he was all in the air . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(in -1.87)(places -8.20)(he -2.56)(was -5.09)(all -7.04)(in -3.49)(the -2.28)(air -6.59)(. -5.33) line score is : -4.717, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ so I sat on my moped and moped 
+-------------------------score:  -3.5254338402301073----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he was to the crow , 
+ so he slept on his bed and prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(was -2.59)(to -1.60)(the -1.70)(crow -6.69)(, -3.24) line score is : -3.130, look ahead score is : 0.000
+(so -3.24)(he -8.38)(slept -2.52)(on -4.07)(his -2.32)(bed -5.83)(and -3.37)(prayer -2.62)(. -2.66) line score is : -3.890, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.5320862647025817----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ but it was his shadows and elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(but -1.87)(it -8.20)(was -2.56)(his -3.33)(shadows -2.14)(and -0.50)(elsewhere -5.03)(. -5.76) line score is : -3.673, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.559103451172511----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ and saw his reflection a prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(and -1.87)(saw -8.20)(his -2.56)(reflection -1.07)(a -3.63)(prayer -4.06)(. -3.97) line score is : -3.624, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.5627314679084288----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he was to the crow , 
+ so he never left on the prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(was -2.59)(to -1.60)(the -1.70)(crow -6.69)(, -3.24) line score is : -3.130, look ahead score is : 0.000
+(so -3.24)(he -8.38)(never -2.52)(left -4.07)(on -2.32)(the -5.14)(prayer -2.85)(. -6.41) line score is : -4.366, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and could n't bend back again 
+-------------------------score:  -3.641995886961619----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he looked to the snow , 
+ and could not remember back elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(looked -2.59)(to -1.60)(the -3.97)(snow -4.38)(, -1.87) line score is : -2.928, look ahead score is : 0.000
+(and -1.87)(could -8.20)(not -2.56)(remember -1.07)(back -5.82)(elsewhere -1.13)(. -5.10) line score is : -3.677, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ for not selling her waterproof paint 
+-------------------------score:  -3.657623032728831----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ for once taking it easy elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(for -0.89)(once -8.36)(taking -2.31)(it -5.68)(easy -5.41)(elsewhere -5.22)(. -3.26) line score is : -4.448, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ us camels get into a stew 
+-------------------------score:  -3.7486295262972513----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ dark shadows crept into a prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(dark -0.89)(shadows -8.36)(crept -2.31)(into -7.07)(a -4.55)(prayer -5.56)(. -2.82) line score is : -4.508, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.80569310726658----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ for two days had broken at prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(for -0.89)(two -8.36)(days -2.31)(had -5.68)(broken -7.01)(at -1.93)(prayer -5.77)(. -6.63) line score is : -4.823, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ great writers are fewer and fewer 
+-------------------------score:  -3.8344749450683593----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ dark shadows come closer and nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(dark -0.89)(shadows -8.36)(come -2.31)(closer -7.07)(and -4.55)(nowhere -6.80)(. -5.58) line score is : -5.079, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -3.9925575371711486----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ and froze what the shadows all elsewhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(and -0.89)(froze -8.36)(what -2.31)(the -1.03)(shadows -6.25)(all -6.85)(elsewhere -4.43)(. -5.67) line score is : -4.473, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ NNP JJ EVER TO VB PRP$ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ `twas impossible ever to fill her 
+-------------------------score:  -3.996846667925517----------------------- 
+there was a cruel man named pierre 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he walked to the snow , 
+ till dark ever to follow nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(walked -2.59)(to -1.60)(the -4.05)(snow -5.17)(, -0.89) line score is : -2.910, look ahead score is : 0.000
+(till -0.89)(dark -8.36)(ever -2.31)(to -6.73)(follow -7.62)(nowhere -9.22)(. -5.63) line score is : -5.824, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he ran like a flash 
+ and they rushed to the rail 
+ or does gravity miss things so small 
+-------------------------score:  -4.165136716058178----------------------- 
+there was a cruel man named javier 
+ who thought as he did on a nightmare . 
+ he was like a shadow , 
+ and he was to the crow , 
+ or has something come towards so rare . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(thought -5.47)(as -6.47)(he -0.63)(did -1.35)(on -5.74)(a -2.92)(nightmare -7.35)(. -2.38) line score is : -3.768, look ahead score is : 0.000
+(he -2.38)(was -2.04)(like -1.90)(a -4.97)(shadow -0.68)(, -4.08) line score is : -2.675, look ahead score is : 0.000
+(and -4.08)(he -2.00)(was -2.59)(to -1.60)(the -1.70)(crow -6.69)(, -3.24) line score is : -3.130, look ahead score is : 0.000
+(or -3.24)(has -8.38)(something -2.52)(come -3.94)(towards -8.80)(so -5.55)(rare -6.20)(. -6.76) line score is : -5.674, look ahead score is : 0.000

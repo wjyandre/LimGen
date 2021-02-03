@@ -1,0 +1,506 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.1182080247709827----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ and that is the beauty of this race . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(and -2.70)(that -4.88)(is -1.10)(the -1.92)(beauty -3.94)(of -3.26)(this -2.61)(race -4.22)(. -0.12) line score is : -2.748, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.137683965265751----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was scared by a tree , 
+ so he came up and slept on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(scared -2.23)(by -1.02)(a -6.38)(tree -5.40)(, -3.89) line score is : -4.347, look ahead score is : 0.000
+(so -3.89)(he -5.52)(came -1.36)(up -3.16)(and -0.83)(slept -3.39)(on -2.14)(the -2.08)(base -7.04)(. -1.24) line score is : -3.065, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.301223079363505----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ he came up in poverty and space . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(he -2.70)(came -4.88)(up -1.10)(in -0.81)(poverty -4.31)(and -3.14)(space -2.16)(. -4.77) line score is : -2.982, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.301258639494578----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ he was not the person we replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(he -2.70)(was -4.88)(not -1.10)(the -0.81)(person -1.17)(we -4.04)(replace -3.84)(. -3.71) line score is : -2.781, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ then fell into a vat of grease 
+-------------------------score:  -3.3222729245821636----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ then grew into a person of grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(then -2.70)(grew -4.88)(into -1.10)(a -6.66)(person -5.23)(of -2.32)(grace -0.68)(. -4.95) line score is : -3.563, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.328145525147838----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was scared by a bee , 
+ he was afraid to walk and to pace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(scared -2.23)(by -1.02)(a -6.38)(bee -5.40)(, -3.89) line score is : -4.347, look ahead score is : 0.000
+(he -3.89)(was -5.86)(afraid -1.37)(to -0.95)(walk -0.93)(and -2.73)(to -2.07)(pace -3.07)(. -4.77) line score is : -2.847, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.349296477533156----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ he came through the door and was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(he -2.70)(came -4.88)(through -1.10)(the -0.81)(door -4.31)(and -3.95)(was -1.41)(replace -2.90)(. -1.77) line score is : -2.648, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.3794123184296394----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ but he knew he was doing him grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(but -2.70)(he -4.88)(knew -1.10)(he -2.24)(was -0.49)(doing -3.70)(him -4.53)(grace -1.29)(. -4.20) line score is : -2.792, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -3.4697913239079137----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ he was not pro wrestling was this case . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(he -2.70)(was -4.88)(not -1.10)(pro -0.81)(wrestling -1.17)(was -4.04)(this -8.10)(case -2.04)(. -6.76) line score is : -3.511, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.5630086223284403----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ but he had his moments and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(but -2.70)(he -4.88)(had -1.10)(his -2.24)(moments -0.49)(and -3.11)(replace -3.50)(. -3.61) line score is : -2.703, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.644100146908914----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ and for years he just keeps our space . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(and -2.70)(for -4.88)(years -1.10)(he -1.92)(just -5.82)(keeps -3.99)(our -0.57)(space -4.22)(. -8.27) line score is : -3.717, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ so I sat on my moped and moped 
+-------------------------score:  -3.6477188756389003----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ so we are on his side and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(so -2.70)(we -4.88)(are -1.10)(on -3.43)(his -2.42)(side -4.62)(and -6.18)(replace -2.76)(. -1.07) line score is : -3.240, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ they bedded her down in the stable 
+-------------------------score:  -3.662105504671733----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ he lived it down outside the birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(he -2.70)(lived -4.88)(it -1.10)(down -0.81)(outside -3.81)(the -5.44)(birthplace -4.54)(. -9.93) line score is : -4.151, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.662533928950628----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was scared by a tree , 
+ he had all his friends dying replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(scared -2.23)(by -1.02)(a -6.38)(tree -5.40)(, -3.89) line score is : -4.347, look ahead score is : 0.000
+(he -3.89)(had -5.52)(all -1.36)(his -0.94)(friends -2.57)(dying -5.08)(replace -2.02)(. -2.99) line score is : -3.045, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ which pickled his internal workins 
+-------------------------score:  -3.668243940387453----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was scared by a bee , 
+ which was our favorite staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(scared -2.23)(by -1.02)(a -6.38)(bee -5.40)(, -3.89) line score is : -4.347, look ahead score is : 0.000
+(which -3.89)(was -5.86)(our -1.37)(favorite -5.67)(staircase -1.70)(. -6.08) line score is : -4.092, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ as his talent and confidence swelled 
+-------------------------score:  -3.703795749565651----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ as his mother and father replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(as -2.70)(his -4.88)(mother -1.10)(and -6.51)(father -4.46)(replace -2.45)(. -4.10) line score is : -3.742, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.7135491689046223----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ and is i could never forget face . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(and -2.70)(is -4.88)(i -1.10)(could -1.92)(never -6.10)(forget -8.29)(face -5.88)(. -2.86) line score is : -4.216, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.7310263991355894----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was scared by a bee , 
+ and then a black widow i replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(scared -2.23)(by -1.02)(a -6.38)(bee -5.40)(, -3.89) line score is : -4.347, look ahead score is : 0.000
+(and -3.89)(then -5.86)(a -1.37)(black -1.85)(widow -3.53)(i -4.49)(replace -5.09)(. -2.38) line score is : -3.557, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.7678780555725098----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ which was done with the greatest staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(which -2.70)(was -4.88)(done -1.10)(with -5.82)(the -1.99)(greatest -7.74)(staircase -2.78)(. -2.76) line score is : -3.722, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.8044644832611083----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ and live outside before all the space . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(and -2.70)(live -4.88)(outside -1.10)(before -1.92)(all -9.47)(the -5.71)(space -8.06)(. -5.62) line score is : -4.933, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.8204349716504415----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ that no way was possible but grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(that -2.70)(no -4.88)(way -1.10)(was -5.18)(possible -7.47)(but -6.27)(grace -2.68)(. -5.28) line score is : -4.445, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ that unlucky old person of ems 
+-------------------------score:  -3.92413971752956----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ that little old lady of replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(that -2.70)(little -4.88)(old -1.10)(lady -5.18)(of -6.17)(replace -4.75)(. -2.93) line score is : -3.959, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD VBN BY A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ he was pained by a tooth 
+ but nobody knew what he said 
+-------------------------score:  -4.016808240578093----------------------- 
+there was a honest man named chase 
+ who did a great job on our place . 
+ he was a nobody , 
+ he was born by a tree , 
+ but somebody had what it replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(did -3.86)(a -2.88)(great -2.18)(job -0.77)(on -3.48)(our -4.34)(place -7.17)(. -1.52) line score is : -3.131, look ahead score is : 0.000
+(he -1.52)(was -1.70)(a -1.80)(nobody -2.05)(, -9.73) line score is : -3.359, look ahead score is : 0.000
+(he -9.73)(was -1.79)(born -2.23)(by -1.02)(a -5.88)(tree -7.18)(, -2.70) line score is : -4.360, look ahead score is : 0.000
+(but -2.70)(somebody -4.88)(had -1.10)(what -2.24)(it -7.77)(replace -2.84)(. -8.95) line score is : -4.354, look ahead score is : 0.000

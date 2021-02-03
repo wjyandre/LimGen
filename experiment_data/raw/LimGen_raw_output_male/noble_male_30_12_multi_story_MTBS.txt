@@ -1,0 +1,462 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -3.1731919841840863----------------------- 
+there was a vain soldier named theodore 
+ who wished all his money in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ so he went to live down on the shore . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(war -7.45)(. -2.53) line score is : -4.078, look ahead score is : 0.000
+(but -2.53)(his -3.91)(father -3.45)(was -3.47)(cruel -2.04)(, -6.89) line score is : -3.715, look ahead score is : 0.000
+(his -6.89)(mother -1.56)(was -4.16)(a -0.42)(fool -1.77)(, -2.71) line score is : -2.920, look ahead score is : 0.000
+(so -2.71)(he -4.38)(went -0.75)(to -4.24)(live -0.87)(down -3.29)(on -0.86)(the -2.69)(shore -7.43)(. -3.29) line score is : -3.050, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.2616184498033216----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and that is the reason of this plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(and -2.61)(that -4.23)(is -0.64)(the -0.44)(reason -5.35)(of -3.63)(this -2.27)(plan -1.53)(. -3.35) line score is : -2.672, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.458112591697324----------------------- 
+there was a vain soldier named theodore 
+ who wished all his country in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and he was not like man of before . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(country -4.34)(in -6.90)(a -3.59)(war -3.84)(. -2.70) line score is : -4.137, look ahead score is : 0.000
+(but -2.70)(his -3.77)(father -3.47)(was -3.29)(cruel -1.98)(, -6.66) line score is : -3.646, look ahead score is : 0.000
+(his -6.66)(mother -1.51)(was -3.87)(a -0.45)(fool -1.87)(, -3.02) line score is : -2.898, look ahead score is : 0.000
+(and -3.02)(he -4.12)(was -0.72)(not -0.46)(like -1.66)(man -1.61)(of -3.11)(before -5.61)(. -6.94) line score is : -3.028, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.4759902925260606----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and he was down and despised his clan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(and -2.61)(he -4.23)(was -0.64)(down -0.44)(and -1.65)(despised -1.66)(his -8.73)(clan -3.18)(. -6.62) line score is : -3.306, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and now he 's a college professor 
+-------------------------score:  -3.5162005871534348----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and now he has a brother milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(and -2.61)(now -4.23)(he -0.64)(has -0.44)(a -5.86)(brother -1.27)(milan -3.68)(. -2.78) line score is : -2.689, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.5933759933517826----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ but his parents were down to their plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(but -2.61)(his -4.23)(parents -0.64)(were -4.65)(down -1.88)(to -5.40)(their -1.29)(plan -9.19)(. -2.07) line score is : -3.550, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.617066207630881----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and he was content only milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(and -2.61)(he -4.23)(was -0.64)(content -0.44)(only -1.65)(milan -1.66)(. -5.94) line score is : -2.452, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ I invariably get in a stew ! 
+-------------------------score:  -3.6317847202221554----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he never slept in a bed afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(he -2.61)(never -4.23)(slept -0.64)(in -3.04)(a -3.37)(bed -5.80)(afghan -3.33)(. -2.10) line score is : -3.140, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.7309935400883356----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ but they are still married for milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(but -2.61)(they -4.23)(are -0.64)(still -4.65)(married -2.98)(for -4.97)(milan -3.66)(. -3.99) line score is : -3.467, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ her career with damir is bizarre 
+-------------------------score:  -3.747175757227273----------------------- 
+there was a vain soldier named theodore 
+ who wished all his army in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ his brother with envy is uproar . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(army -4.62)(in -4.92)(a -3.45)(war -4.96)(. -2.97) line score is : -4.086, look ahead score is : 0.000
+(but -2.97)(his -3.52)(father -3.64)(was -3.75)(cruel -2.12)(, -6.63) line score is : -3.773, look ahead score is : 0.000
+(his -6.63)(mother -1.51)(was -4.36)(a -0.56)(fool -1.82)(, -3.04) line score is : -2.987, look ahead score is : 0.000
+(his -3.04)(brother -3.95)(with -0.72)(envy -2.13)(is -1.68)(uproar -6.38)(. -4.61) line score is : -3.216, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.7564870917027995----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he was through the world and was milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(he -2.61)(was -4.23)(through -0.64)(the -3.04)(world -1.48)(and -9.97)(was -3.39)(milan -4.04)(. -2.71) line score is : -3.568, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and finished the solo with honour 
+-------------------------score:  -3.766616336230574----------------------- 
+there was a vain soldier named salvador 
+ who wished all his country in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and had the advantage with therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(country -4.34)(in -6.90)(a -3.59)(war -3.84)(. -2.70) line score is : -4.137, look ahead score is : 0.000
+(but -2.70)(his -3.77)(father -3.47)(was -3.29)(cruel -1.98)(, -6.66) line score is : -3.646, look ahead score is : 0.000
+(his -6.66)(mother -1.51)(was -3.87)(a -0.45)(fool -1.87)(, -3.02) line score is : -2.898, look ahead score is : 0.000
+(and -3.02)(had -4.12)(the -0.72)(advantage -0.46)(with -5.72)(therefore -4.02)(. -5.33) line score is : -3.341, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ she sat up in bed and meowed 
+-------------------------score:  -3.774745598435402----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ they were up in heaven and milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(they -2.61)(were -4.23)(up -0.64)(in -4.70)(heaven -1.63)(and -8.45)(milan -2.50)(. -3.88) line score is : -3.580, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ he was n't the wizard he woz 
+-------------------------score:  -3.780680877963702----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he had not the courage he afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(he -2.61)(had -4.23)(not -0.64)(the -3.04)(courage -2.09)(he -3.91)(afghan -1.81)(. -2.58) line score is : -2.614, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ within weeks it was all in the past 
+-------------------------score:  -3.7868759382155632----------------------- 
+there was a vain soldier named salvador 
+ who wished all his army in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ in times he had all in the uproar . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(army -4.62)(in -4.92)(a -3.45)(war -4.96)(. -2.97) line score is : -4.086, look ahead score is : 0.000
+(but -2.97)(his -3.52)(father -3.64)(was -3.75)(cruel -2.12)(, -6.63) line score is : -3.773, look ahead score is : 0.000
+(his -6.63)(mother -1.51)(was -4.36)(a -0.56)(fool -1.82)(, -3.04) line score is : -2.987, look ahead score is : 0.000
+(in -3.04)(times -3.95)(he -0.72)(had -6.41)(all -6.51)(in -3.50)(the -2.29)(uproar -5.89)(. -5.33) line score is : -4.182, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ I did n't think life was this way 
+-------------------------score:  -3.787701395250136----------------------- 
+there was a vain soldier named salvador 
+ who wished all his country in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he was not brave till wounded this sore . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(country -4.34)(in -6.90)(a -3.59)(war -3.84)(. -2.70) line score is : -4.137, look ahead score is : 0.000
+(but -2.70)(his -3.77)(father -3.47)(was -3.29)(cruel -1.98)(, -6.66) line score is : -3.646, look ahead score is : 0.000
+(his -6.66)(mother -1.51)(was -3.87)(a -0.45)(fool -1.87)(, -3.02) line score is : -2.898, look ahead score is : 0.000
+(he -3.02)(was -4.12)(not -0.72)(brave -3.04)(till -1.48)(wounded -2.95)(this -3.85)(sore -5.72)(. -8.04) line score is : -3.660, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ as if he 'd been invited 
+-------------------------score:  -3.969327688217163----------------------- 
+there was a vain soldier named salvador 
+ who wished all his army in a war . 
+ but his father was cruel , 
+ his brother was a fool , 
+ as if he outright hated before . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(army -4.62)(in -4.92)(a -3.45)(war -4.96)(. -2.97) line score is : -4.086, look ahead score is : 0.000
+(but -2.97)(his -3.52)(father -3.64)(was -3.75)(cruel -2.12)(, -6.63) line score is : -3.773, look ahead score is : 0.000
+(his -6.63)(brother -1.51)(was -4.36)(a -2.49)(fool -1.59)(, -3.02) line score is : -3.266, look ahead score is : 0.000
+(as -3.02)(if -3.18)(he -0.54)(outright -6.00)(hated -4.10)(before -0.93)(. -13.93) line score is : -4.528, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ to tutor two tutors to toot 
+-------------------------score:  -3.9705740326437455----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ to be two companions to milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(to -2.61)(be -4.23)(two -0.64)(companions -6.85)(to -2.89)(milan -7.99)(. -8.01) line score is : -4.746, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ because I was sniffing my toes 
+-------------------------score:  -4.006515378582066----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ because she was cunning her milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(because -2.61)(she -4.23)(was -0.64)(cunning -6.96)(her -1.42)(milan -2.19)(. -6.19) line score is : -3.462, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ I relaxed when I eos across aunt 
+-------------------------score:  -4.099110925197602----------------------- 
+there was a vain soldier named salvador 
+ who wished all his army in a war . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he had when he heard across therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(army -4.62)(in -4.92)(a -3.45)(war -4.96)(. -2.97) line score is : -4.086, look ahead score is : 0.000
+(but -2.97)(his -3.52)(father -3.64)(was -3.75)(cruel -2.12)(, -6.63) line score is : -3.773, look ahead score is : 0.000
+(his -6.63)(mother -1.51)(was -4.36)(a -0.56)(fool -1.82)(, -3.04) line score is : -2.987, look ahead score is : 0.000
+(he -3.04)(had -3.95)(when -0.72)(he -3.07)(heard -2.30)(across -9.04)(therefore -0.46)(. -5.97) line score is : -3.568, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ to balance green peas on her fork 
+-------------------------score:  -4.110159090161323----------------------- 
+there was a vain soldier named stan 
+ who wished all his money in a man . 
+ but his father was cruel , 
+ his mother was a fool , 
+ to be married means on him milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(wished -5.74)(all -6.74)(his -1.99)(money -4.73)(in -3.17)(a -2.96)(man -4.77)(. -4.52) line score is : -4.001, look ahead score is : 0.000
+(but -4.52)(his -3.75)(father -3.71)(was -3.74)(cruel -2.08)(, -6.90) line score is : -4.117, look ahead score is : 0.000
+(his -6.90)(mother -1.50)(was -4.18)(a -0.37)(fool -1.75)(, -2.61) line score is : -2.886, look ahead score is : 0.000
+(to -2.61)(be -4.23)(married -0.64)(means -6.85)(on -2.89)(him -4.49)(milan -7.03)(. -8.36) line score is : -4.638, look ahead score is : 0.000

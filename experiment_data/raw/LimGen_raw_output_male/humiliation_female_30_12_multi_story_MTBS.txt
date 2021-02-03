@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.851215270432559----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ so she got up and put on the case . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(so -1.71)(she -4.24)(got -3.29)(up -4.16)(and -0.90)(put -3.91)(on -2.79)(the -0.58)(case -5.26)(. -1.25) line score is : -2.809, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8660773382042395----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was stopped by a guy , 
+ so she tried to go down on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(stopped -1.20)(by -2.42)(a -5.57)(guy -0.67)(, -1.93) line score is : -2.116, look ahead score is : 0.000
+(so -1.93)(she -4.23)(tried -3.16)(to -4.56)(go -0.52)(down -3.51)(on -0.22)(the -4.27)(place -4.71)(. -1.54) line score is : -2.864, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -2.914016890910364----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ and now she has a family place . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(and -1.71)(now -4.24)(she -3.29)(has -2.24)(a -3.98)(family -0.90)(place -2.51)(. -1.38) line score is : -2.533, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.9334113271005693----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was stopped by a guy , 
+ so she quickly ran on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(stopped -1.20)(by -2.42)(a -5.57)(guy -0.67)(, -1.93) line score is : -2.116, look ahead score is : 0.000
+(so -1.93)(she -4.23)(quickly -3.16)(ran -4.56)(on -0.52)(the -5.14)(staircase -2.67)(. -6.55) line score is : -3.594, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -2.9450804721564054----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was stopped by a guy , 
+ then she saw him walk towards the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(stopped -1.20)(by -2.42)(a -5.57)(guy -0.67)(, -1.93) line score is : -2.116, look ahead score is : 0.000
+(then -1.93)(she -4.23)(saw -3.16)(him -5.10)(walk -2.36)(towards -3.43)(the -2.33)(staircase -4.09)(. -4.32) line score is : -3.438, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.132643586024642----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ but his eyes were down to his birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(but -1.71)(his -4.24)(eyes -3.29)(were -2.79)(down -4.09)(to -4.20)(his -1.23)(birthplace -6.37)(. -3.15) line score is : -3.452, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was destined to go a long way 
+-------------------------score:  -3.1516855829395354----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was told by a guy , 
+ she was good to go a new staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(told -1.20)(by -2.42)(a -2.73)(guy -2.18)(, -2.03) line score is : -1.939, look ahead score is : 0.000
+(she -2.03)(was -5.55)(good -3.05)(to -3.92)(go -1.47)(a -6.05)(new -1.32)(staircase -0.06)(. -8.32) line score is : -3.531, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.1732607980569205----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ and suddenly could see a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(and -1.71)(suddenly -4.24)(could -3.29)(see -2.24)(a -5.90)(staircase -7.86)(. -2.68) line score is : -3.988, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.243349644355476----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ and he was down and helped her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(and -1.71)(he -4.24)(was -3.29)(down -2.24)(and -2.18)(helped -2.85)(her -8.06)(staircase -3.65)(. -5.15) line score is : -3.709, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.279484825208783----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ but it was she was saving him grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(but -1.71)(it -4.24)(was -3.29)(she -2.79)(was -2.98)(saving -1.02)(him -7.70)(grace -5.76)(. -4.38) line score is : -3.764, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.3073317600834753----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ and says she could never have replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(and -1.71)(says -4.24)(she -3.29)(could -2.24)(never -8.02)(have -1.72)(replace -4.38)(. -2.97) line score is : -3.572, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.353880043952696----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was found by a guy , 
+ and put outside before all the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(found -1.20)(by -2.42)(a -5.62)(guy -1.12)(, -1.62) line score is : -2.142, look ahead score is : 0.000
+(and -1.62)(put -4.52)(outside -2.89)(before -1.99)(all -6.13)(the -7.45)(place -6.12)(. -5.82) line score is : -4.566, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.3572510846199526----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ which was followed with the best staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(which -1.71)(was -4.24)(followed -3.29)(with -4.91)(the -1.71)(best -7.39)(staircase -4.80)(. -2.87) line score is : -3.865, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.4068853124495475----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ which makes him in pretty good replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(which -1.71)(makes -4.24)(him -3.29)(in -4.91)(pretty -4.34)(good -3.55)(replace -6.49)(. -6.95) line score is : -4.436, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but the other won several prizes 
+-------------------------score:  -3.415203458070755----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was stopped by a guy , 
+ but the other was happy replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(stopped -1.20)(by -2.42)(a -5.57)(guy -0.67)(, -1.93) line score is : -2.116, look ahead score is : 0.000
+(but -1.93)(the -4.23)(other -3.16)(was -3.13)(happy -3.21)(replace -3.69)(. -5.43) line score is : -3.539, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he never completed his task 
+-------------------------score:  -3.418763146318238----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was found by a guy , 
+ she quickly recovered her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(found -1.20)(by -2.42)(a -5.62)(guy -1.12)(, -1.62) line score is : -2.142, look ahead score is : 0.000
+(she -1.62)(quickly -4.52)(recovered -2.89)(her -4.51)(staircase -5.50)(. -4.71) line score is : -3.958, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.4338339138776064----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was found by a guy , 
+ in tears she told all in the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(found -1.20)(by -2.42)(a -5.62)(guy -1.12)(, -1.62) line score is : -2.142, look ahead score is : 0.000
+(in -1.62)(tears -4.52)(she -2.89)(told -5.90)(all -4.70)(in -7.08)(the -2.27)(staircase -6.63)(. -5.60) line score is : -4.579, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ for not selling her waterproof paint 
+-------------------------score:  -3.4342855234940846----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was stopped by a guy , 
+ for not paying him enough replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(stopped -1.20)(by -2.42)(a -5.57)(guy -0.67)(, -1.93) line score is : -2.116, look ahead score is : 0.000
+(for -1.93)(not -4.23)(paying -3.16)(him -7.10)(enough -4.63)(replace -3.51)(. -3.70) line score is : -4.036, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.53952234214352----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was told by a guy , 
+ i really am in a fight replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(told -1.20)(by -2.42)(a -2.73)(guy -2.18)(, -2.03) line score is : -1.939, look ahead score is : 0.000
+(i -2.03)(really -5.55)(am -3.05)(in -4.94)(a -5.11)(fight -4.42)(replace -4.64)(. -2.40) line score is : -4.018, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.5424506222048113----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was told by a guy , 
+ for two hours straight outside at race . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(told -1.20)(by -2.42)(a -2.73)(guy -2.18)(, -2.03) line score is : -1.939, look ahead score is : 0.000
+(for -2.03)(two -5.55)(hours -3.05)(straight -6.64)(outside -6.73)(at -1.45)(race -2.86)(. -9.85) line score is : -4.770, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.6069370806217194----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ which made that encounter of replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(which -1.71)(made -4.24)(that -3.29)(encounter -4.91)(of -2.17)(replace -6.56)(. -6.70) line score is : -4.226, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.7359566469987233----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was met by a guy , 
+ as if he outright ignored replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(met -1.20)(by -2.42)(a -5.01)(guy -1.56)(, -1.35) line score is : -2.080, look ahead score is : 0.000
+(as -1.35)(if -4.97)(he -3.33)(outright -5.88)(ignored -1.57)(replace -1.36)(. -13.61) line score is : -4.582, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he couldn t think of anything 
+-------------------------score:  -3.7992188372919635----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was found by a guy , 
+ then he ca not believe of race . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(found -1.20)(by -2.42)(a -5.62)(guy -1.12)(, -1.62) line score is : -2.142, look ahead score is : 0.000
+(then -1.62)(he -4.52)(ca -2.89)(not -5.34)(believe -2.90)(of -9.51)(race -13.00)(. -3.91) line score is : -5.460, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.8613695483654737----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was stopped by a guy , 
+ and trying help him is but good replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(stopped -1.20)(by -2.42)(a -5.57)(guy -0.67)(, -1.93) line score is : -2.116, look ahead score is : 0.000
+(and -1.93)(trying -4.23)(help -3.16)(him -2.35)(is -9.37)(but -9.51)(good -2.73)(replace -6.01)(. -8.51) line score is : -5.311, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.0130747659131885----------------------- 
+there once was a girl named grace 
+ who faced a big problem on her face . 
+ when she started to cry , 
+ she was saved by a guy , 
+ i wo mar us off if you base . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(faced -7.92)(a -1.89)(big -4.67)(problem -1.69)(on -5.03)(her -0.59)(face -5.63)(. -1.14) line score is : -3.370, look ahead score is : 0.000
+(when -1.14)(she -4.54)(started -0.77)(to -3.62)(cry -1.63)(, -2.16) line score is : -2.308, look ahead score is : 0.000
+(she -2.16)(was -0.86)(saved -1.20)(by -2.42)(a -5.59)(guy -0.24)(, -1.71) line score is : -2.026, look ahead score is : 0.000
+(i -1.71)(wo -4.24)(mar -3.29)(us -5.90)(off -9.05)(if -5.88)(you -5.63)(base -9.51)(. -10.35) line score is : -6.173, look ahead score is : 0.000

@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9414535214503608----------------------- 
+there was a loud lawyer named kay 
+ who stopped a young woman on her way . 
+ she asked for her address , 
+ which she found in the press , 
+ so she knew to come down on the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.18)(stopped -6.66)(a -5.16)(young -4.48)(woman -2.02)(on -3.74)(her -1.89)(way -0.14)(. -4.62) line score is : -3.431, look ahead score is : 0.000
+(she -4.62)(asked -1.50)(for -2.59)(her -3.41)(address -1.45)(, -4.39) line score is : -2.993, look ahead score is : 0.000
+(which -4.39)(she -1.27)(found -2.91)(in -0.84)(the -4.26)(press -2.31)(, -1.19) line score is : -2.451, look ahead score is : 0.000
+(so -1.19)(she -7.28)(knew -2.20)(to -3.37)(come -0.45)(down -4.15)(on -3.05)(the -3.18)(day -4.28)(. -4.79) line score is : -3.392, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ but they felt it was doing them good 
+-------------------------score:  -3.0442061335779727----------------------- 
+there was a loud lawyer named renee 
+ who stopped a young woman on her way . 
+ she asked for her address , 
+ which she gave in the press , 
+ but she knew she was doing it gay . 
+------------------------- score breakdown ------------------------ 
+(who -2.18)(stopped -6.66)(a -5.16)(young -4.48)(woman -2.02)(on -3.74)(her -1.89)(way -0.14)(. -4.62) line score is : -3.431, look ahead score is : 0.000
+(she -4.62)(asked -1.50)(for -2.59)(her -3.41)(address -1.45)(, -4.39) line score is : -2.993, look ahead score is : 0.000
+(which -4.39)(she -1.27)(gave -2.91)(in -0.84)(the -1.43)(press -3.33)(, -2.39) line score is : -2.364, look ahead score is : 0.000
+(but -2.39)(she -7.82)(knew -1.80)(she -2.06)(was -2.05)(doing -4.18)(it -2.20)(gay -1.33)(. -4.94) line score is : -3.198, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.0701619002855187----------------------- 
+there was a loud lawyer named renee 
+ who stopped a young woman on her way . 
+ she asked for her address , 
+ which she found in the press , 
+ so she got up and put on the play . 
+------------------------- score breakdown ------------------------ 
+(who -2.18)(stopped -6.66)(a -5.16)(young -4.48)(woman -2.02)(on -3.74)(her -1.89)(way -0.14)(. -4.62) line score is : -3.431, look ahead score is : 0.000
+(she -4.62)(asked -1.50)(for -2.59)(her -3.41)(address -1.45)(, -4.39) line score is : -2.993, look ahead score is : 0.000
+(which -4.39)(she -1.27)(found -2.91)(in -0.84)(the -4.26)(press -2.31)(, -1.19) line score is : -2.451, look ahead score is : 0.000
+(so -1.19)(she -7.28)(got -2.20)(up -3.37)(and -0.45)(put -4.24)(on -4.27)(the -0.63)(play -6.09)(. -1.33) line score is : -3.104, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.100609475870927----------------------- 
+there was a loud lawyer named renee 
+ who stopped a young woman on her way . 
+ she asked for her address , 
+ which she found in the press , 
+ and handed her newspaper a tray . 
+------------------------- score breakdown ------------------------ 
+(who -2.18)(stopped -6.66)(a -5.16)(young -4.48)(woman -2.02)(on -3.74)(her -1.89)(way -0.14)(. -4.62) line score is : -3.431, look ahead score is : 0.000
+(she -4.62)(asked -1.50)(for -2.59)(her -3.41)(address -1.45)(, -4.39) line score is : -2.993, look ahead score is : 0.000
+(which -4.39)(she -1.27)(found -2.91)(in -0.84)(the -4.26)(press -2.31)(, -1.19) line score is : -2.451, look ahead score is : 0.000
+(and -1.19)(handed -7.28)(her -2.20)(newspaper -0.66)(a -4.44)(tray -0.62)(. -6.38) line score is : -3.253, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.120455359739642----------------------- 
+there was a loud lawyer named kay 
+ who stopped a young woman on her way . 
+ she asked for her address , 
+ which she found in the press , 
+ but it was her parents and birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.18)(stopped -6.66)(a -5.16)(young -4.48)(woman -2.02)(on -3.74)(her -1.89)(way -0.14)(. -4.62) line score is : -3.431, look ahead score is : 0.000
+(she -4.62)(asked -1.50)(for -2.59)(her -3.41)(address -1.45)(, -4.39) line score is : -2.993, look ahead score is : 0.000
+(which -4.39)(she -1.27)(found -2.91)(in -0.84)(the -4.26)(press -2.31)(, -1.19) line score is : -2.451, look ahead score is : 0.000
+(but -1.19)(it -7.28)(was -2.20)(her -2.37)(parents -3.54)(and -0.67)(birthday -4.00)(. -4.29) line score is : -3.191, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and finished the solo with honour 
+-------------------------score:  -3.2069537167747817----------------------- 
+there was a loud lawyer named renee 
+ who stopped a young woman on her way . 
+ she asked for her address , 
+ which she gave in the press , 
+ and called the police with resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.18)(stopped -6.66)(a -5.16)(young -4.48)(woman -2.02)(on -3.74)(her -1.89)(way -0.14)(. -4.62) line score is : -3.431, look ahead score is : 0.000
+(she -4.62)(asked -1.50)(for -2.59)(her -3.41)(address -1.45)(, -4.39) line score is : -2.993, look ahead score is : 0.000
+(which -4.39)(she -1.27)(gave -2.91)(in -0.84)(the -1.43)(press -3.33)(, -2.39) line score is : -2.364, look ahead score is : 0.000
+(and -2.39)(called -7.82)(the -1.80)(police -0.85)(with -5.09)(resume -1.50)(. -0.50) line score is : -2.851, look ahead score is : 0.000

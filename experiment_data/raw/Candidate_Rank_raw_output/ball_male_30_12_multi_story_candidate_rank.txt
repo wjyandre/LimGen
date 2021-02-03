@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.896120703148265----------------------- 
+there was a lucky boy named chase 
+ who put a big smile on our face . 
+ when we started to play , 
+ it was easy to say , 
+ but we knew we were doing it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(put -6.45)(a -2.61)(big -4.26)(smile -2.06)(on -0.03)(our -2.53)(face -1.66)(. -1.90) line score is : -2.571, look ahead score is : 0.000
+(when -1.90)(we -4.63)(started -1.29)(to -3.53)(play -3.02)(, -3.62) line score is : -2.998, look ahead score is : 0.000
+(it -3.62)(was -2.03)(easy -3.02)(to -0.37)(say -3.76)(, -0.72) line score is : -2.254, look ahead score is : 0.000
+(but -0.72)(we -4.31)(knew -1.77)(we -5.07)(were -2.76)(doing -2.95)(it -1.35)(place -1.82)(. -2.97) line score is : -2.635, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -2.9333179171287243----------------------- 
+there was a lucky boy named chase 
+ who put a big smile on our face . 
+ when we started to play , 
+ it was easy to say , 
+ we were good to go and to replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(put -6.45)(a -2.61)(big -4.26)(smile -2.06)(on -0.03)(our -2.53)(face -1.66)(. -1.90) line score is : -2.571, look ahead score is : 0.000
+(when -1.90)(we -4.63)(started -1.29)(to -3.53)(play -3.02)(, -3.62) line score is : -2.998, look ahead score is : 0.000
+(it -3.62)(was -2.03)(easy -3.02)(to -0.37)(say -3.76)(, -0.72) line score is : -2.254, look ahead score is : 0.000
+(we -0.72)(were -4.31)(good -1.77)(to -4.40)(go -2.63)(and -3.94)(to -4.45)(replace -0.36)(. -2.60) line score is : -2.797, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -2.9607168685644867----------------------- 
+there was a lucky boy named chase 
+ who put a big smile on our face . 
+ when we started to play , 
+ it was easy to say , 
+ and then it becomes a nightmare race . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(put -6.45)(a -2.61)(big -4.26)(smile -2.06)(on -0.03)(our -2.53)(face -1.66)(. -1.90) line score is : -2.571, look ahead score is : 0.000
+(when -1.90)(we -4.63)(started -1.29)(to -3.53)(play -3.02)(, -3.62) line score is : -2.998, look ahead score is : 0.000
+(it -3.62)(was -2.03)(easy -3.02)(to -0.37)(say -3.76)(, -0.72) line score is : -2.254, look ahead score is : 0.000
+(and -0.72)(then -4.31)(it -1.77)(becomes -4.95)(a -3.50)(nightmare -1.88)(race -5.68)(. -1.88) line score is : -3.085, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -2.99089031910588----------------------- 
+there was a lucky boy named chase 
+ who put a big smile on our face . 
+ when we started to play , 
+ it was easy to say , 
+ because we were playing my birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(put -6.45)(a -2.61)(big -4.26)(smile -2.06)(on -0.03)(our -2.53)(face -1.66)(. -1.90) line score is : -2.571, look ahead score is : 0.000
+(when -1.90)(we -4.63)(started -1.29)(to -3.53)(play -3.02)(, -3.62) line score is : -2.998, look ahead score is : 0.000
+(it -3.62)(was -2.03)(easy -3.02)(to -0.37)(say -3.76)(, -0.72) line score is : -2.254, look ahead score is : 0.000
+(because -0.72)(we -4.31)(were -1.77)(playing -5.90)(my -1.09)(birthplace -1.62)(. -2.39) line score is : -2.542, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -3.0445578425424173----------------------- 
+there was a lucky boy named chase 
+ who put a big smile on our face . 
+ he would go to a game , 
+ he would get a nickname , 
+ but he knew we were watching them place . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(put -6.45)(a -2.61)(big -4.26)(smile -2.06)(on -0.03)(our -2.53)(face -1.66)(. -1.90) line score is : -2.571, look ahead score is : 0.000
+(he -1.90)(would -1.59)(go -4.47)(to -3.70)(a -1.48)(game -3.80)(, -4.00) line score is : -2.992, look ahead score is : 0.000
+(he -4.00)(would -2.22)(get -3.08)(a -0.56)(nickname -3.34)(, -1.73) line score is : -2.488, look ahead score is : 0.000
+(but -1.73)(he -6.98)(knew -0.99)(we -3.54)(were -0.97)(watching -4.30)(them -2.60)(place -1.21)(. -4.09) line score is : -2.934, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he told the same joke 
+ because I was sniffing my toes 
+-------------------------score:  -3.1497638565969877----------------------- 
+there was a lucky boy named chase 
+ who put a big smile on our face . 
+ when we started to play , 
+ it was the perfect day , 
+ because we were doing our birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.63)(put -6.45)(a -2.61)(big -4.26)(smile -2.06)(on -0.03)(our -2.53)(face -1.66)(. -1.90) line score is : -2.571, look ahead score is : 0.000
+(when -1.90)(we -4.63)(started -1.29)(to -3.53)(play -3.02)(, -3.62) line score is : -2.998, look ahead score is : 0.000
+(it -3.62)(was -2.03)(the -3.02)(perfect -0.37)(day -3.88)(, -4.36) line score is : -2.882, look ahead score is : 0.000
+(because -4.36)(we -3.79)(were -3.23)(doing -3.82)(our -1.29)(birthplace -1.38)(. -4.46) line score is : -3.191, look ahead score is : 0.000

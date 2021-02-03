@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1446447986544985----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ so we got up and put on the race . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(so -1.30)(we -8.57)(got -5.82)(up -3.69)(and -0.72)(put -4.08)(on -3.36)(the -0.82)(race -5.67)(. -0.71) line score is : -3.474, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.1702668128475064----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ so we quickly got on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(so -1.30)(we -8.57)(quickly -5.82)(got -3.69)(on -0.72)(the -4.27)(staircase -3.00)(. -3.47) line score is : -3.855, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ thirty days is the time he will do 
+-------------------------score:  -3.4704171251505613----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ white girls is the word i will replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(white -1.30)(girls -8.09)(is -2.00)(the -3.32)(word -7.29)(i -9.02)(will -2.86)(replace -3.83)(. -2.41) line score is : -4.458, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.4746974911540747----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ but it seemed they were having none space . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(but -1.30)(it -8.57)(seemed -5.82)(they -3.93)(were -2.64)(having -3.63)(none -5.26)(space -1.40)(. -3.81) line score is : -4.040, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ for not selling her waterproof paint 
+-------------------------score:  -3.5008908887704213----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ for not paying us enough space . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(for -1.30)(not -8.57)(paying -5.82)(us -6.35)(enough -6.89)(space -4.00)(. -4.69) line score is : -5.376, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.500954395340335----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ but i think somewhat nervous for space . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(but -1.30)(i -8.09)(think -2.00)(somewhat -4.76)(nervous -7.88)(for -2.56)(space -3.38)(. -3.27) line score is : -4.155, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.502285268800012----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ i suddenly realized a face . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(i -1.30)(suddenly -8.57)(realized -5.82)(a -6.91)(face -6.96)(. -1.53) line score is : -5.180, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ what was shown on the cinema screen 
+-------------------------score:  -3.5183186088838885----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ what was called on the island birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(what -1.30)(was -8.57)(called -5.82)(on -7.83)(the -2.68)(island -2.97)(birthplace -5.75)(. -0.86) line score is : -4.473, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.52538525865924----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ it was not the water we replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(it -1.30)(was -8.57)(not -5.82)(the -6.64)(water -0.50)(we -4.73)(replace -3.64)(. -4.92) line score is : -4.515, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.5296983891917812----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ i knew that my mother was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(i -1.30)(knew -8.09)(that -2.00)(my -8.69)(mother -3.94)(was -3.58)(replace -4.27)(. -3.50) line score is : -4.420, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OF PRP$ NN AND NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ of their city and town promenades 
+-------------------------score:  -3.534736067056656----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ of her age and family birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(of -1.30)(her -8.09)(age -2.00)(and -8.92)(family -7.15)(birthplace -2.77)(. -2.39) line score is : -4.660, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.567619694817451----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ for two students were busy at race . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(for -1.30)(two -8.57)(students -5.82)(were -6.35)(busy -5.84)(at -3.54)(race -2.27)(. -5.85) line score is : -4.944, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.58776986412704----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ i knew him and felt friends and birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(i -1.30)(knew -8.09)(him -2.00)(and -8.69)(felt -3.94)(friends -2.94)(and -2.79)(birthplace -5.16)(. -6.70) line score is : -4.622, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.6552793575871374----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ i was up in heaven and staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(i -1.30)(was -8.09)(up -2.00)(in -8.69)(heaven -3.58)(and -7.05)(staircase -2.48)(. -4.80) line score is : -4.748, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.6590899402095425----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ to be polite people on us face . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(to -1.30)(be -8.09)(polite -2.00)(people -7.98)(on -6.62)(us -4.04)(face -5.88)(. -4.96) line score is : -5.109, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as his talent and confidence swelled 
+-------------------------score:  -3.6795266568660736----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ as my sister and brother replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(as -1.30)(my -8.57)(sister -5.82)(and -4.79)(brother -5.56)(replace -2.81)(. -1.26) line score is : -4.302, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.7131658573945363----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ to make one ourselves to replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(to -1.30)(make -8.57)(one -5.82)(ourselves -6.28)(to -5.58)(replace -6.90)(. -5.86) line score is : -5.760, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he left all his fans wanting more 
+-------------------------score:  -3.735815384695607----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ we had all our clothes hanging replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(we -1.30)(had -8.57)(all -5.82)(our -6.22)(clothes -2.46)(hanging -5.04)(replace -3.26)(. -1.61) line score is : -4.286, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.7628824936932532----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ the city is located birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(the -1.30)(city -8.09)(is -2.00)(located -8.19)(birthplace -5.20)(. -4.17) line score is : -4.825, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but nobody knew what he said 
+-------------------------score:  -3.9271956900755565----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ but thoroughly dressed what i replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(but -1.30)(thoroughly -8.09)(dressed -2.00)(what -4.76)(i -7.32)(replace -5.06)(. -12.03) line score is : -5.794, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I ll give you prostheses for free 
+-------------------------score:  -3.927683839874883----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ i ca tag you guys for birthplace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(i -1.30)(ca -8.09)(tag -2.00)(you -8.69)(guys -7.74)(for -7.18)(birthplace -7.53)(. -3.54) line score is : -5.758, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ what finished him off was the crust 
+-------------------------score:  -4.008494379058961----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ what had we off ended the replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(what -1.30)(had -8.57)(we -5.82)(off -7.83)(ended -4.18)(the -5.09)(replace -10.22)(. -5.53) line score is : -6.068, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -4.015443517764409----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a pool , 
+ as if it outright happened replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(pool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(as -1.30)(if -8.57)(it -5.82)(outright -4.79)(happened -2.01)(replace -2.35)(. -14.70) line score is : -5.649, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.084527401253581----------------------- 
+there was a teacher named chase 
+ who taught a small class on our place . 
+ when we arrived to school , 
+ we were met by a cool , 
+ i ca tag i off if you face . 
+------------------------- score breakdown ------------------------ 
+(who -1.58)(taught -2.19)(a -4.30)(small -5.58)(class -0.72)(on -2.41)(our -6.84)(place -7.31)(. -1.80) line score is : -3.636, look ahead score is : 0.000
+(when -1.80)(we -4.11)(arrived -1.78)(to -2.69)(school -3.98)(, -3.43) line score is : -2.963, look ahead score is : 0.000
+(we -3.43)(were -1.08)(met -1.49)(by -1.18)(a -2.46)(cool -0.44)(, -1.30) line score is : -1.627, look ahead score is : 0.000
+(i -1.30)(ca -8.09)(tag -2.00)(i -8.69)(off -7.74)(if -7.18)(you -6.54)(face -9.68)(. -9.13) line score is : -6.706, look ahead score is : 0.000

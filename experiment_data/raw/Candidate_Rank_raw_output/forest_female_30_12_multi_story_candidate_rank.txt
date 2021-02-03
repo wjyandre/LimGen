@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.876930563648542----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when she returned to town , 
+ she was met by a clown , 
+ and that is the story of this band . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(she -3.52)(returned -0.78)(to -2.65)(town -1.27)(, -3.73) line score is : -2.533, look ahead score is : 0.000
+(she -3.73)(was -1.19)(met -0.49)(by -2.07)(a -2.97)(clown -0.40)(, -1.17) line score is : -1.715, look ahead score is : 0.000
+(and -1.17)(that -9.58)(is -2.62)(the -3.32)(story -5.18)(of -2.81)(this -2.89)(band -2.05)(. -0.59) line score is : -3.358, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ my mama was a goat 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.920322073499362----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when he returned to town , 
+ his wife had a breakdown , 
+ so he gave up and slept on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(he -3.52)(returned -2.04)(to -2.58)(town -1.37)(, -3.69) line score is : -2.741, look ahead score is : 0.000
+(his -3.69)(wife -1.16)(had -2.78)(a -1.28)(breakdown -3.12)(, -3.51) line score is : -2.591, look ahead score is : 0.000
+(so -3.51)(he -5.73)(gave -1.91)(up -2.98)(and -0.77)(slept -4.43)(on -1.86)(the -2.93)(sand -7.32)(. -1.50) line score is : -3.293, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -2.926407744487127----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when he returned to town , 
+ his wife had a breakdown , 
+ so he went to work down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(he -3.52)(returned -2.04)(to -2.58)(town -1.37)(, -3.69) line score is : -2.741, look ahead score is : 0.000
+(his -3.69)(wife -1.16)(had -2.78)(a -1.28)(breakdown -3.12)(, -3.51) line score is : -2.591, look ahead score is : 0.000
+(so -3.51)(he -5.73)(went -1.91)(to -2.98)(work -0.77)(down -2.27)(on -0.88)(the -2.86)(sand -8.26)(. -3.79) line score is : -3.295, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9534856821260145----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when she returned to town , 
+ she was met by a frown , 
+ so she went to look down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(she -3.52)(returned -0.78)(to -2.65)(town -1.27)(, -3.73) line score is : -2.533, look ahead score is : 0.000
+(she -3.73)(was -1.19)(met -0.49)(by -2.07)(a -2.97)(frown -0.40)(, -1.17) line score is : -1.715, look ahead score is : 0.000
+(so -1.17)(she -9.11)(went -5.91)(to -4.69)(look -0.38)(down -2.86)(on -1.05)(the -4.61)(sand -6.31)(. -1.58) line score is : -3.767, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.9866841521955307----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when she returned to town , 
+ she was met by a frown , 
+ so she gave up and quit on the band . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(she -3.52)(returned -0.78)(to -2.65)(town -1.27)(, -3.73) line score is : -2.533, look ahead score is : 0.000
+(she -3.73)(was -1.19)(met -0.49)(by -2.07)(a -2.97)(frown -0.40)(, -1.17) line score is : -1.715, look ahead score is : 0.000
+(so -1.17)(she -9.11)(gave -5.91)(up -4.69)(and -0.38)(quit -4.19)(on -2.26)(the -2.01)(band -5.12)(. -5.18) line score is : -4.002, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.07685207426548----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when she returned to town , 
+ she was met by a clown , 
+ but she thought she was playing it grand . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(she -3.52)(returned -0.78)(to -2.65)(town -1.27)(, -3.73) line score is : -2.533, look ahead score is : 0.000
+(she -3.73)(was -1.19)(met -0.49)(by -2.07)(a -2.97)(clown -0.40)(, -1.17) line score is : -1.715, look ahead score is : 0.000
+(but -1.17)(she -9.58)(thought -2.62)(she -5.52)(was -1.80)(playing -5.00)(it -2.42)(grand -0.86)(. -4.65) line score is : -3.736, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD AN NN OF NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who hadnt an atom of fear 
+ when he went to bed 
+ he told the same joke 
+ but they felt it was doing them good 
+-------------------------score:  -3.186337671403227----------------------- 
+there was a brave farmer named brande 
+ who harvested an acre of land . 
+ when she returned to town , 
+ she saw the new playground , 
+ but she knew she was wasting it sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(harvested -8.72)(an -4.63)(acre -2.64)(of -0.35)(land -2.62)(. -3.24) line score is : -3.350, look ahead score is : 0.000
+(when -3.24)(she -3.52)(returned -0.78)(to -2.65)(town -1.27)(, -3.73) line score is : -2.533, look ahead score is : 0.000
+(she -3.73)(saw -1.19)(the -0.49)(new -3.09)(playground -1.94)(, -5.01) line score is : -2.572, look ahead score is : 0.000
+(but -5.01)(she -7.29)(knew -2.44)(she -2.92)(was -1.89)(wasting -3.98)(it -1.89)(sand -2.64)(. -5.24) line score is : -3.699, look ahead score is : 0.000

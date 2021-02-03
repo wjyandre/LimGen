@@ -1,0 +1,264 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.018974294885993----------------------- 
+there was a wise judge named brock 
+ who learned a great lesson on his walk . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that the man he replaced was a cock . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(learned -6.42)(a -3.54)(great -1.84)(lesson -1.58)(on -5.06)(his -3.42)(walk -6.17)(. -2.54) line score is : -3.583, look ahead score is : 0.000
+(when -2.54)(he -3.94)(returned -0.84)(to -3.14)(work -1.09)(, -5.66) line score is : -2.869, look ahead score is : 0.000
+(he -5.66)(was -1.16)(told -0.58)(by -2.08)(a -3.27)(clerk -1.78)(, -2.14) line score is : -2.382, look ahead score is : 0.000
+(that -2.14)(the -4.76)(man -3.30)(he -3.12)(replaced -2.01)(was -4.14)(a -2.52)(cock -5.01)(. -1.06) line score is : -3.117, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ON CD OF PRP$ NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ when he went to bed 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.026792184770878----------------------- 
+there was a wise doctor named rex 
+ who practiced on one of his subjects . 
+ when he learned to walk , 
+ he was able to talk , 
+ and his words grew sharper and complex . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(one -5.65)(of -0.99)(his -2.57)(subjects -5.76)(. -1.87) line score is : -3.631, look ahead score is : 0.000
+(when -1.87)(he -3.40)(learned -1.00)(to -3.86)(walk -5.70)(, -3.69) line score is : -3.256, look ahead score is : 0.000
+(he -3.69)(was -1.26)(able -0.58)(to -2.45)(talk -1.23)(, -0.01) line score is : -1.538, look ahead score is : 0.000
+(and -0.01)(his -5.47)(words -2.27)(grew -1.29)(sharper -3.20)(and -4.29)(complex -4.51)(. -3.20) line score is : -3.029, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ON CD OF PRP$ NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.066702785030488----------------------- 
+there was a wise doctor named rex 
+ who practiced on one of his subjects . 
+ when he returned to work , 
+ he was told by a clerk , 
+ that the woman he had had a sex . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(one -5.65)(of -0.99)(his -2.57)(subjects -5.76)(. -1.87) line score is : -3.631, look ahead score is : 0.000
+(when -1.87)(he -3.40)(returned -1.00)(to -3.96)(work -1.39)(, -4.96) line score is : -2.765, look ahead score is : 0.000
+(he -4.96)(was -0.99)(told -0.76)(by -2.34)(a -3.29)(clerk -1.54)(, -2.00) line score is : -2.269, look ahead score is : 0.000
+(that -2.00)(the -6.21)(woman -3.45)(he -3.26)(had -1.82)(had -4.34)(a -2.58)(sex -0.70)(. -3.94) line score is : -3.144, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ON CD OF PRP$ NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ when he went to bed 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.0878847993599874----------------------- 
+there was a wise doctor named rex 
+ who practiced on one of his subjects . 
+ when he learned to walk , 
+ he was able to talk , 
+ and that is the power of this sex . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(one -5.65)(of -0.99)(his -2.57)(subjects -5.76)(. -1.87) line score is : -3.631, look ahead score is : 0.000
+(when -1.87)(he -3.40)(learned -1.00)(to -3.86)(walk -5.70)(, -3.69) line score is : -3.256, look ahead score is : 0.000
+(he -3.69)(was -1.26)(able -0.58)(to -2.45)(talk -1.23)(, -0.01) line score is : -1.538, look ahead score is : 0.000
+(and -0.01)(that -5.47)(is -2.27)(the -1.29)(power -4.59)(of -2.65)(this -2.63)(sex -5.16)(. -0.42) line score is : -2.722, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ON CD OF PRP$ NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ when he went to bed 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.1231216826508272----------------------- 
+there was a wise doctor named rex 
+ who practiced on one of his subjects . 
+ when he learned to walk , 
+ he was able to talk , 
+ and now he has a family complex . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(one -5.65)(of -0.99)(his -2.57)(subjects -5.76)(. -1.87) line score is : -3.631, look ahead score is : 0.000
+(when -1.87)(he -3.40)(learned -1.00)(to -3.86)(walk -5.70)(, -3.69) line score is : -3.256, look ahead score is : 0.000
+(he -3.69)(was -1.26)(able -0.58)(to -2.45)(talk -1.23)(, -0.01) line score is : -1.538, look ahead score is : 0.000
+(and -0.01)(now -5.47)(he -2.27)(has -1.29)(a -5.00)(family -0.78)(complex -2.83)(. -1.86) line score is : -2.438, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.140699400450103----------------------- 
+there was a wise doctor named rex 
+ who practiced on a lot of subjects . 
+ when he started to walk , 
+ he was able to talk , 
+ but he said he was losing it next . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(a -3.03)(lot -4.60)(of -0.13)(subjects -6.57)(. -2.08) line score is : -3.577, look ahead score is : 0.000
+(when -2.08)(he -4.08)(started -0.86)(to -4.07)(walk -2.33)(, -7.05) line score is : -3.410, look ahead score is : 0.000
+(he -7.05)(was -1.29)(able -0.73)(to -2.37)(talk -2.54)(, -0.00) line score is : -2.330, look ahead score is : 0.000
+(but -0.00)(he -4.66)(said -2.36)(he -1.63)(was -1.04)(losing -5.77)(it -0.95)(next -2.07)(. -5.35) line score is : -2.648, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.1626743335975336----------------------- 
+there was a wise doctor named rex 
+ who practiced on a lot of subjects . 
+ when he started to walk , 
+ he was able to talk , 
+ and that is the basis of this sex . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(a -3.03)(lot -4.60)(of -0.13)(subjects -6.57)(. -2.08) line score is : -3.577, look ahead score is : 0.000
+(when -2.08)(he -4.08)(started -0.86)(to -4.07)(walk -2.33)(, -7.05) line score is : -3.410, look ahead score is : 0.000
+(he -7.05)(was -1.29)(able -0.73)(to -2.37)(talk -2.54)(, -0.00) line score is : -2.330, look ahead score is : 0.000
+(and -0.00)(that -4.66)(is -2.36)(the -1.45)(basis -3.78)(of -3.20)(this -2.78)(sex -4.88)(. -0.47) line score is : -2.619, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.1642623985073817----------------------- 
+there was a wise doctor named rex 
+ who practiced on a lot of subjects . 
+ when he started to walk , 
+ he was able to talk , 
+ and now he has a degree complex . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(a -3.03)(lot -4.60)(of -0.13)(subjects -6.57)(. -2.08) line score is : -3.577, look ahead score is : 0.000
+(when -2.08)(he -4.08)(started -0.86)(to -4.07)(walk -2.33)(, -7.05) line score is : -3.410, look ahead score is : 0.000
+(he -7.05)(was -1.29)(able -0.73)(to -2.37)(talk -2.54)(, -0.00) line score is : -2.330, look ahead score is : 0.000
+(and -0.00)(now -4.66)(he -2.36)(has -1.45)(a -4.09)(degree -0.49)(complex -2.57)(. -1.68) line score is : -2.163, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ON CD OF PRP$ NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.1658920841601987----------------------- 
+there was a wise doctor named rex 
+ who practiced on one of his subjects . 
+ when he learned to walk , 
+ he was able to talk , 
+ but he felt he was losing it next . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(one -5.65)(of -0.99)(his -2.57)(subjects -5.76)(. -1.87) line score is : -3.631, look ahead score is : 0.000
+(when -1.87)(he -3.40)(learned -1.00)(to -3.86)(walk -5.70)(, -3.69) line score is : -3.256, look ahead score is : 0.000
+(he -3.69)(was -1.26)(able -0.58)(to -2.45)(talk -1.23)(, -0.01) line score is : -1.538, look ahead score is : 0.000
+(but -0.01)(he -5.47)(felt -2.27)(he -2.18)(was -1.27)(losing -5.58)(it -2.62)(next -1.52)(. -4.47) line score is : -2.821, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.253048500046134----------------------- 
+there was a wise judge named brock 
+ who learned a great lesson on his walk . 
+ when he returned to work , 
+ he was told by his clerk , 
+ that the man he was supposed a lock . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(learned -6.42)(a -3.54)(great -1.84)(lesson -1.58)(on -5.06)(his -3.42)(walk -6.17)(. -2.54) line score is : -3.583, look ahead score is : 0.000
+(when -2.54)(he -3.94)(returned -0.84)(to -3.14)(work -1.09)(, -5.66) line score is : -2.869, look ahead score is : 0.000
+(he -5.66)(was -1.16)(told -0.58)(by -2.08)(his -3.27)(clerk -1.78)(, -1.12) line score is : -2.237, look ahead score is : 0.000
+(that -1.12)(the -8.06)(man -2.26)(he -2.85)(was -2.02)(supposed -4.06)(a -2.50)(lock -1.85)(. -2.24) line score is : -2.996, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ON CD OF PRP$ NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.3399187480249712----------------------- 
+there was a wise doctor named rex 
+ who practiced on one of his subjects . 
+ when he returned to work , 
+ he was told by his clerk , 
+ that the man he had taught a defects . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(one -5.65)(of -0.99)(his -2.57)(subjects -5.76)(. -1.87) line score is : -3.631, look ahead score is : 0.000
+(when -1.87)(he -3.40)(returned -1.00)(to -3.96)(work -1.39)(, -4.96) line score is : -2.765, look ahead score is : 0.000
+(he -4.96)(was -0.99)(told -0.76)(by -2.34)(his -3.29)(clerk -1.54)(, -1.23) line score is : -2.159, look ahead score is : 0.000
+(that -1.23)(the -8.38)(man -2.31)(he -3.20)(had -1.86)(taught -2.97)(a -3.33)(defects -0.62)(. -4.42) line score is : -3.147, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ON A NN OF NNS . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who slipped on a peel of bananas 
+ when he went to bed 
+ he was ready to faint 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.3619227922633934----------------------- 
+there was a wise doctor named rex 
+ who practiced on a lot of subjects . 
+ when he started to walk , 
+ he was able to talk , 
+ and his words were clearer and effects . 
+------------------------- score breakdown ------------------------ 
+(who -1.73)(practiced -5.93)(on -4.55)(a -3.03)(lot -4.60)(of -0.13)(subjects -6.57)(. -2.08) line score is : -3.577, look ahead score is : 0.000
+(when -2.08)(he -4.08)(started -0.86)(to -4.07)(walk -2.33)(, -7.05) line score is : -3.410, look ahead score is : 0.000
+(he -7.05)(was -1.29)(able -0.73)(to -2.37)(talk -2.54)(, -0.00) line score is : -2.330, look ahead score is : 0.000
+(and -0.00)(his -4.66)(words -2.36)(were -1.45)(clearer -3.54)(and -4.40)(effects -1.04)(. -5.20) line score is : -2.832, look ahead score is : 0.000

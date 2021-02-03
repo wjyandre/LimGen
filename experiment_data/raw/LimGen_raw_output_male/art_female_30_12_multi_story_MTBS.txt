@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ she was ready to give and to take 
+-------------------------score:  -3.0390151527620133----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ it was easy to read and to call . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(was -8.39)(easy -2.39)(to -1.62)(read -0.66)(and -5.44)(to -0.24)(call -2.02)(. -1.40) line score is : -2.726, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ so he had to sit down on the floor 
+-------------------------score:  -3.0520679224282503----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ so i had to get down on the ball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(so -2.38)(i -7.36)(had -3.21)(to -3.50)(get -0.70)(down -3.33)(on -0.56)(the -2.80)(ball -7.08)(. -1.75) line score is : -3.267, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.0850513053517186----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ and that is the beauty of this hall . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(that -8.39)(is -2.39)(the -1.80)(beauty -3.98)(of -3.47)(this -2.67)(hall -3.24)(. -0.12) line score is : -3.161, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ it s a regular brute of a bee 
+-------------------------score:  -3.2071218759782854----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ it has a real feeling of a fall . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(has -8.39)(a -2.39)(real -1.62)(feeling -6.18)(of -1.67)(a -4.54)(fall -2.78)(. -1.29) line score is : -3.470, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and now he 's a college professor 
+-------------------------score:  -3.225304321448008----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ and now it is a permanent hall . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(now -7.36)(it -3.21)(is -1.88)(a -4.26)(permanent -1.56)(hall -2.72)(. -3.18) line score is : -3.319, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ a word of ambiguous meaning 
+-------------------------score:  -3.3010110642228807----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ a masterpiece of modern football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(a -2.38)(masterpiece -7.36)(of -3.21)(modern -3.41)(football -3.89)(. -2.28) line score is : -3.754, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ but it does n't come out of my purse 
+-------------------------score:  -3.3015117606809063----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the same shadow , 
+ but it is much wider in its fall . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(same -0.72)(shadow -4.24)(, -2.78) line score is : -3.401, look ahead score is : 0.000
+(but -2.78)(it -8.13)(is -1.85)(much -1.48)(wider -1.67)(in -6.19)(its -3.74)(fall -5.10)(. -3.31) line score is : -3.806, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.322546447477033----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ and i was down and wanted my doll . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(i -7.36)(was -3.21)(down -1.88)(and -1.19)(wanted -2.25)(my -7.04)(doll -3.50)(. -5.39) line score is : -3.801, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.3341526196848963----------------------- 
+there was a neat teacher named kay 
+ who made a big impact on my way . 
+ she was like a shadow , 
+ she was the last photo , 
+ she was through the door and left okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(made -4.22)(a -2.85)(big -3.40)(impact -3.28)(on -0.53)(my -1.33)(way -7.85)(. -2.59) line score is : -3.124, look ahead score is : 0.000
+(she -2.59)(was -2.01)(like -1.71)(a -4.03)(shadow -1.25)(, -5.95) line score is : -2.924, look ahead score is : 0.000
+(she -5.95)(was -2.83)(the -2.42)(last -1.13)(photo -3.49)(, -4.26) line score is : -3.347, look ahead score is : 0.000
+(she -4.26)(was -8.94)(through -3.20)(the -1.61)(door -0.67)(and -8.23)(left -1.32)(okay -1.92)(. -2.30) line score is : -3.607, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and kissed her because he was wuise 
+-------------------------score:  -3.3345792313416798----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ and was his because he loved football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(was -7.36)(his -3.21)(because -1.88)(he -5.70)(loved -5.87)(football -8.29)(. -0.95) line score is : -4.454, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.335927217237411----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ and it was not like mine of football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(it -8.39)(was -2.39)(not -1.80)(like -1.55)(mine -1.02)(of -5.62)(football -3.53)(. -6.28) line score is : -3.663, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ he left all his fans wanting more 
+-------------------------score:  -3.3667731245358783----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ it was all my friends doing football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(was -7.36)(all -3.21)(my -2.31)(friends -0.60)(doing -4.17)(football -3.30)(. -2.09) line score is : -3.177, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.3964398886476244----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ it perfectly captured a baseball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(perfectly -7.36)(captured -3.21)(a -2.31)(baseball -7.45)(. -1.21) line score is : -3.987, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and she baked really great apple pies 
+-------------------------score:  -3.459622913599014----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ and it was too much money baseball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(it -7.36)(was -3.21)(too -1.88)(much -1.94)(money -0.93)(baseball -5.85)(. -2.91) line score is : -3.308, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.460611129629201----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the same shadow , 
+ and then could become a fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(same -0.72)(shadow -4.24)(, -2.78) line score is : -3.401, look ahead score is : 0.000
+(and -2.78)(then -8.13)(could -1.85)(become -3.00)(a -3.01)(fireball -9.79)(. -6.00) line score is : -4.939, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.4715665948802026----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ it has a nice little fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(has -8.39)(a -2.39)(nice -1.62)(little -6.18)(fireball -1.67)(. -3.52) line score is : -3.734, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ he claimed that his costume was chile 
+-------------------------score:  -3.500291085243225----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the same shadow , 
+ it was that her hair was fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(same -0.72)(shadow -4.24)(, -2.78) line score is : -3.401, look ahead score is : 0.000
+(it -2.78)(was -8.13)(that -1.85)(her -2.33)(hair -0.35)(was -5.18)(fireball -9.25)(. -2.54) line score is : -4.052, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ I did n't think life was this way 
+-------------------------score:  -3.5497658752625987----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ it was not dry brush applied this fall . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(was -8.39)(not -2.39)(dry -1.62)(brush -0.66)(applied -5.38)(this -5.75)(fall -4.61)(. -5.78) line score is : -4.106, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and returned on the previous night 
+-------------------------score:  -3.5502845172224373----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the same shadow , 
+ and was on the other fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(same -0.72)(shadow -4.24)(, -2.78) line score is : -3.401, look ahead score is : 0.000
+(and -2.78)(was -8.13)(on -1.85)(the -3.00)(other -5.35)(fireball -3.90)(. -1.14) line score is : -3.737, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and finished the solo with honour 
+-------------------------score:  -3.553976835875676----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a statue , 
+ it was the perfect view , 
+ and was the beginning with football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(statue -1.18)(, -6.98) line score is : -3.030, look ahead score is : 0.000
+(it -6.98)(was -2.65)(the -3.34)(perfect -0.74)(view -4.38)(, -3.14) line score is : -3.538, look ahead score is : 0.000
+(and -3.14)(was -7.39)(the -2.90)(beginning -1.93)(with -5.43)(football -3.14)(. -4.68) line score is : -4.087, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.595122445014215----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ and for years it just has our ball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(for -7.36)(years -3.21)(it -1.88)(just -5.45)(has -3.87)(our -2.84)(ball -3.72)(. -6.29) line score is : -4.111, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.601133636633555----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ it was when you are across baseball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(it -2.38)(was -8.39)(when -2.39)(you -1.62)(are -0.66)(across -7.97)(baseball -1.77)(. -3.55) line score is : -3.590, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.6098907629648846----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ for two hours was good at football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(for -2.38)(two -7.36)(hours -3.21)(was -5.37)(good -4.61)(at -2.58)(football -6.83)(. -4.81) line score is : -4.644, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.7292860448360443----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the same shadow , 
+ the color is mirrored fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(same -0.72)(shadow -4.24)(, -2.78) line score is : -3.401, look ahead score is : 0.000
+(the -2.78)(color -8.13)(is -1.85)(mirrored -1.97)(fireball -4.95)(. -4.20) line score is : -3.982, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.74119574448158----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ and was my birthday a fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(was -7.36)(my -3.21)(birthday -1.88)(a -5.70)(fireball -3.49)(. -4.09) line score is : -4.016, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ for not selling her waterproof paint 
+-------------------------score:  -3.782117247581482----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a statue , 
+ it was the perfect view , 
+ for now seeing it outside football . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(statue -1.18)(, -6.98) line score is : -3.030, look ahead score is : 0.000
+(it -6.98)(was -2.65)(the -3.34)(perfect -0.74)(view -4.38)(, -3.14) line score is : -3.538, look ahead score is : 0.000
+(for -3.14)(now -7.39)(seeing -2.90)(it -5.63)(outside -5.34)(football -8.11)(. -1.30) line score is : -4.830, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ but nobody knew what he said 
+-------------------------score:  -3.8193102026807852----------------------- 
+there was a neat teacher named renee 
+ who made a big impact on my way . 
+ she was like a shadow , 
+ she had the same torso , 
+ but body was what she resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(made -4.22)(a -2.85)(big -3.40)(impact -3.28)(on -0.53)(my -1.33)(way -7.85)(. -2.59) line score is : -3.124, look ahead score is : 0.000
+(she -2.59)(was -2.01)(like -1.71)(a -4.03)(shadow -1.25)(, -5.95) line score is : -2.924, look ahead score is : 0.000
+(she -5.95)(had -2.83)(the -2.42)(same -2.93)(torso -3.00)(, -1.99) line score is : -3.187, look ahead score is : 0.000
+(but -1.99)(body -9.75)(was -2.11)(what -1.48)(she -6.14)(resume -2.73)(. -7.06) line score is : -4.464, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ as if he 'd been invited 
+-------------------------score:  -3.859988603098639----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ as if it ca used fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(as -2.38)(if -8.39)(it -2.39)(ca -5.43)(used -1.14)(fireball -1.81)(. -12.66) line score is : -4.885, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ A NN JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ a habit unpleasant but curious 
+-------------------------score:  -3.968107908964157----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect show , 
+ a picture outside but fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(show -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(a -2.38)(picture -7.36)(outside -3.21)(but -3.41)(fireball -3.55)(. -8.99) line score is : -4.815, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ and sideways he could n't be seen 
+-------------------------score:  -4.048745379845301----------------------- 
+there was a artist named amal 
+ who made a great painting on my wall . 
+ it was like a photo , 
+ it was the perfect flow , 
+ and makes me could not put fireball . 
+------------------------- score breakdown ------------------------ 
+(who -2.45)(made -3.32)(a -1.98)(great -4.59)(painting -3.25)(on -4.20)(my -3.27)(wall -2.37)(. -1.61) line score is : -3.005, look ahead score is : 0.000
+(it -1.61)(was -2.70)(like -1.19)(a -4.52)(photo -1.18)(, -4.92) line score is : -2.687, look ahead score is : 0.000
+(it -4.92)(was -4.43)(the -3.31)(perfect -0.72)(flow -4.24)(, -2.38) line score is : -3.334, look ahead score is : 0.000
+(and -2.38)(makes -8.39)(me -2.39)(could -1.80)(not -9.44)(put -0.64)(fireball -11.96)(. -2.62) line score is : -4.951, look ahead score is : 0.000

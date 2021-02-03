@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ she was destined to go a long way 
+-------------------------score:  -3.2938254687093917----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ it was hard to keep a straight outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(it -1.43)(was -8.24)(hard -2.93)(to -3.03)(keep -1.02)(a -2.70)(straight -0.32)(outfit -1.94)(. -3.62) line score is : -2.804, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.463450750336051----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ so he got up and beat on the pit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(so -1.43)(he -8.24)(got -2.93)(up -2.57)(and -1.59)(beat -4.50)(on -3.97)(the -1.43)(pit -5.89)(. -3.08) line score is : -3.563, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and now he 's a college professor 
+-------------------------score:  -3.5507089654604593----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and now he has a movie permit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(now -8.24)(he -2.93)(has -1.68)(a -4.87)(movie -0.68)(permit -3.38)(. -1.79) line score is : -3.126, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ but I guess that you probably gnu 
+-------------------------score:  -3.584079353014628----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ but i think that he probably quit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(but -1.43)(i -8.24)(think -2.93)(that -3.92)(he -3.55)(probably -3.12)(quit -2.69)(. -2.38) line score is : -3.532, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.618183720496393----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and i was down and needed his grit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(i -8.24)(was -2.93)(down -1.68)(and -3.13)(needed -2.32)(his -6.74)(grit -3.67)(. -4.43) line score is : -3.843, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ I invariably get in a stew ! 
+-------------------------score:  -3.6257108728090923----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ he even rode in a fire kit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(he -1.43)(even -8.24)(rode -2.93)(in -1.36)(a -4.35)(fire -5.70)(kit -3.08)(. -1.07) line score is : -3.521, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ but it does n't come out of my purse 
+-------------------------score:  -3.634924977056442----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ but he has always put in his bit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(but -1.43)(he -8.24)(has -2.93)(always -3.92)(put -1.24)(in -6.96)(his -3.04)(bit -6.37)(. -3.28) line score is : -4.156, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.6712799879812423----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ he went through the roof and became hit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(he -1.43)(went -8.24)(through -2.93)(the -1.36)(roof -4.50)(and -3.40)(became -2.24)(hit -4.54)(. -2.82) line score is : -3.495, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ to balance green peas on her fork 
+-------------------------score:  -3.681819768746694----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ to write funny stories on he bit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(to -1.43)(write -8.24)(funny -2.93)(stories -4.99)(on -2.40)(he -5.97)(bit -0.59)(. -3.30) line score is : -3.732, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.689252557357152----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ but it was his stories and outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(but -1.43)(it -8.24)(was -2.93)(his -3.92)(stories -2.90)(and -0.95)(outfit -2.80)(. -2.59) line score is : -3.220, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.729329397601466----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and he was not like someone of wit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(he -8.24)(was -2.93)(not -1.68)(like -1.14)(someone -1.84)(of -5.31)(wit -6.57)(. -5.21) line score is : -3.817, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ then I sat on my moped and moped 
+-------------------------score:  -3.7312997579574585----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ then he hit on his brother and bit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(then -1.43)(he -8.24)(hit -2.93)(on -7.17)(his -0.84)(brother -5.85)(and -2.22)(bit -3.41)(. -4.33) line score is : -4.047, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and some of the members are swines 
+-------------------------score:  -3.7620030264059703----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and some of the stories are outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(some -8.24)(of -2.93)(the -1.68)(stories -6.68)(are -0.78)(outfit -1.34)(. -1.27) line score is : -3.045, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ to call my last novel impure 
+-------------------------score:  -3.7715271937436072----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ to write his own fantasy outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(to -1.43)(write -8.24)(his -2.93)(own -4.99)(fantasy -2.40)(outfit -3.04)(. -0.72) line score is : -3.395, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.783490450151505----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ he used it and made stories and writ . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(he -1.43)(used -8.24)(it -2.93)(and -1.36)(made -4.21)(stories -1.40)(and -5.16)(writ -4.00)(. -4.56) line score is : -3.701, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.7843609924974113----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and made our family a bit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(made -8.24)(our -2.93)(family -1.68)(a -6.79)(bit -4.77)(. -4.01) line score is : -4.265, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ when he found there were five little chips 
+-------------------------score:  -3.7941841550411715----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ when he died there was one last outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(when -1.43)(he -8.24)(died -2.93)(there -6.66)(was -0.74)(one -3.78)(last -5.05)(outfit -0.36)(. -5.20) line score is : -3.823, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ I did n't think life was this way 
+-------------------------score:  -3.8729551299925773----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ he was not put tin tired this wit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(he -1.43)(was -8.24)(not -2.93)(put -1.36)(tin -2.38)(tired -4.95)(this -7.58)(wit -3.27)(. -8.84) line score is : -4.553, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ he claimed that his costume was chile 
+-------------------------score:  -3.898136478662491----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ he made that his trademark shot outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(he -1.43)(made -8.24)(that -2.93)(his -1.36)(trademark -4.09)(shot -5.84)(outfit -2.69)(. -5.23) line score is : -3.977, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ FROM THE NN NNS PRP COULD VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ from the comedy roles he could play 
+-------------------------score:  -3.9316232999165854----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ from the sound effects he could outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(from -1.43)(the -8.24)(sound -2.93)(effects -6.93)(he -2.08)(could -6.01)(outfit -3.17)(. -3.45) line score is : -4.281, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.9384684480469803----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and he was right everywhere permit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(he -8.24)(was -2.93)(right -1.68)(everywhere -1.14)(permit -1.84)(. -5.83) line score is : -3.299, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ to keep from soiling her feet 
+-------------------------score:  -3.9418969812064337----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ to keep from destroying our lit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(to -1.43)(keep -8.24)(from -2.93)(destroying -4.99)(our -2.41)(lit -6.03)(. -6.43) line score is : -4.636, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ you never can tell till you try 
+-------------------------score:  -3.9868827144304912----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ i never can get past him outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(i -1.43)(never -8.24)(can -2.93)(get -3.50)(past -4.48)(him -7.11)(outfit -1.84)(. -5.93) line score is : -4.434, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and returned on the previous night 
+-------------------------score:  -4.003344741360895----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and was on the opposite outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(was -8.24)(on -2.93)(the -1.68)(opposite -4.65)(outfit -5.66)(. -1.51) line score is : -3.731, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ that unlucky old person of ems 
+-------------------------score:  -4.0254042066376785----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ that little old lady of outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(that -1.43)(little -8.24)(old -2.93)(lady -1.93)(of -7.99)(outfit -4.80)(. -2.91) line score is : -4.319, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ a rolling stone gathers no moss 
+-------------------------score:  -4.0484538078308105----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ a huge appetite is no permit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(a -1.43)(huge -8.24)(appetite -2.93)(is -5.56)(no -4.28)(permit -2.41)(. -9.44) line score is : -4.899, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ to write verses relating to wind 
+-------------------------score:  -4.061844875072611----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ to make stories happen to permit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(to -1.43)(make -8.24)(stories -2.93)(happen -4.99)(to -2.50)(permit -4.49)(. -4.73) line score is : -4.187, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ ALL OF THIS NN AFTER NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ all of this homework after school 
+-------------------------score:  -4.0765014188043----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ all of this fire after permit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(all -1.43)(of -8.24)(this -2.93)(fire -5.61)(after -2.40)(permit -4.00)(. -4.87) line score is : -4.212, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD SO JJ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ she ate so much spice 
+ and hop in before all the crowd 
+-------------------------score:  -4.107997530698777----------------------- 
+there once was a grandpa named dewitt 
+ who loved a good story on his spit . 
+ his stories were so cool , 
+ he had so much fuel , 
+ and come in before all the outfit . 
+------------------------- score breakdown ------------------------ 
+(who -1.91)(loved -3.82)(a -5.22)(good -1.44)(story -3.23)(on -6.76)(his -2.06)(spit -8.83)(. -1.49) line score is : -3.862, look ahead score is : 0.000
+(his -1.49)(stories -4.51)(were -3.48)(so -0.86)(cool -2.95)(, -5.94) line score is : -3.207, look ahead score is : 0.000
+(he -5.94)(had -1.78)(so -1.62)(much -3.06)(fuel -5.11)(, -1.43) line score is : -3.155, look ahead score is : 0.000
+(and -1.43)(come -8.24)(in -2.93)(before -1.68)(all -9.91)(the -4.10)(outfit -7.20)(. -4.89) line score is : -5.049, look ahead score is : 0.000

@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.9929769271383844----------------------- 
+there was a smart farmer named aline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to flee , 
+ and that is the story of this line . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(flee -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(and -0.00)(that -6.61)(is -3.98)(the -1.70)(story -5.67)(of -1.76)(this -2.44)(line -2.46)(. -0.80) line score is : -2.825, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.176859195193937----------------------- 
+there was a smart farmer named leontine 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ she was glad to find a new sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(she -0.33)(was -1.80)(glad -5.99)(to -4.11)(find -4.06)(a -6.06)(new -0.54)(sunshine -2.23)(. -3.70) line score is : -3.201, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.2062363997101784----------------------- 
+there was a smart farmer named emeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ she says a large ship out in the line . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(she -0.33)(says -1.80)(a -5.99)(large -4.11)(ship -1.14)(out -9.36)(in -3.65)(the -2.75)(line -5.79)(. -2.32) line score is : -3.724, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.213884613356523----------------------- 
+there was a smart farmer named kathline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to see , 
+ and she wrote down and gave her outline . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(see -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(and -0.00)(she -4.58)(wrote -5.60)(down -2.39)(and -2.37)(gave -3.13)(her -3.37)(outline -5.02)(. -3.39) line score is : -3.319, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.2277219843429825----------------------- 
+there was a smart farmer named darline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ was a woman no older than mine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(was -0.33)(a -1.80)(woman -5.99)(no -7.90)(older -3.28)(than -3.36)(mine -6.66)(. -2.97) line score is : -4.036, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.243691155026036----------------------- 
+there was a smart farmer named evangeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ first she found it cold in the sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(first -0.33)(she -1.80)(found -5.99)(it -4.91)(cold -6.77)(in -1.89)(the -4.56)(sunshine -4.68)(. -3.77) line score is : -3.855, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.3425987432400386----------------------- 
+there was a smart farmer named adeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ she found that her husband had combine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(she -0.33)(found -1.80)(that -5.99)(her -4.11)(husband -4.55)(had -1.95)(combine -1.51)(. -2.18) line score is : -2.803, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.351495958768345----------------------- 
+there was a smart farmer named emeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to flee , 
+ and found her companion a canine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(flee -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(and -0.00)(found -6.61)(her -3.98)(companion -1.70)(a -4.32)(canine -1.77)(. -6.10) line score is : -3.498, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ that ungracious young lady in blue 
+-------------------------score:  -3.456197112798691----------------------- 
+there was a smart farmer named evangeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ that little white woman in sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(that -0.33)(little -1.80)(white -5.99)(woman -5.13)(in -7.56)(sunshine -4.77)(. -4.10) line score is : -4.240, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ that she pickled her internal workins' 
+-------------------------score:  -3.506140958646248----------------------- 
+there was a smart farmer named aline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ that she found herself married sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(that -0.33)(she -1.80)(found -5.99)(herself -5.13)(married -2.13)(sunshine -4.38)(. -1.74) line score is : -3.071, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.5494216209457767----------------------- 
+there was a smart farmer named evangeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ she told me and had tears and sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(she -0.33)(told -1.80)(me -5.99)(and -4.11)(had -3.80)(tears -1.33)(and -7.43)(sunshine -5.19)(. -5.91) line score is : -3.987, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and returned on the previous night 
+-------------------------score:  -3.5878423688740564----------------------- 
+there was a smart farmer named sunshine 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ and found on the opposite outline . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(and -0.33)(found -1.80)(on -5.99)(the -4.19)(opposite -4.00)(outline -5.00)(. -1.24) line score is : -3.221, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ then I sat on my moped and moped 
+-------------------------score:  -3.6060286661790264----------------------- 
+there was a smart farmer named caroline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ still she wore on her dress and outline . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(still -0.33)(she -1.80)(wore -5.99)(on -6.25)(her -6.95)(dress -4.12)(and -6.28)(outline -0.10)(. -3.31) line score is : -3.902, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ to tutor two tutors to toot 
+-------------------------score:  -3.6135658705607057----------------------- 
+there was a smart farmer named adeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to flee , 
+ to find two companions to combine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(flee -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(to -0.00)(find -6.61)(two -3.98)(companions -5.05)(to -3.47)(combine -6.66)(. -5.14) line score is : -4.416, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ to balance green peas on her fork 
+-------------------------score:  -3.6313769083780545----------------------- 
+there was a smart farmer named adeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to flee , 
+ to find new homes on us sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(flee -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(to -0.00)(find -6.61)(new -3.98)(homes -5.05)(on -3.47)(us -4.95)(sunshine -3.04)(. -3.71) line score is : -3.852, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.656453350859304----------------------- 
+there was a smart farmer named caroline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ it was not dry ice covered this mine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(it -0.33)(was -1.80)(not -5.99)(dry -6.90)(ice -2.05)(covered -2.22)(this -7.74)(mine -5.07)(. -7.20) line score is : -4.365, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ are all easy marks for a jolly 
+-------------------------score:  -3.664176717400551----------------------- 
+there was a smart farmer named sunshine 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ say all modern writers for a sign . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(say -0.33)(all -1.80)(modern -5.99)(writers -8.35)(for -6.52)(a -6.47)(sign -2.43)(. -7.94) line score is : -4.978, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ thirty days is the time he will do 
+-------------------------score:  -3.666426299229985----------------------- 
+there was a smart farmer named emeline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to see , 
+ first hands is the effect she will mine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(see -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(first -0.00)(hands -4.58)(is -5.60)(the -5.29)(effect -6.00)(she -9.06)(will -2.07)(mine -5.56)(. -3.40) line score is : -4.621, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.704186791133496----------------------- 
+there was a smart farmer named evangeline 
+ who made a small fortune on her wine . 
+ when she returned to land , 
+ she was able to stand , 
+ walk straight to work on her way sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(land -0.75)(, -7.25) line score is : -3.092, look ahead score is : 0.000
+(she -7.25)(was -1.69)(able -0.58)(to -2.15)(stand -4.70)(, -0.00) line score is : -2.729, look ahead score is : 0.000
+(walk -0.00)(straight -7.63)(to -5.13)(work -3.36)(on -7.11)(her -5.00)(way -3.08)(sunshine -4.53)(. -1.24) line score is : -4.122, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and sometimes get quite cranky 
+-------------------------score:  -3.770939407770389----------------------- 
+there was a smart farmer named aline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to see , 
+ and even remember quite outline . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(see -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(and -0.00)(even -4.58)(remember -5.60)(quite -2.39)(outline -3.76)(. -5.67) line score is : -3.670, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.79350449784749----------------------- 
+there was a smart farmer named roseline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was able to see , 
+ and sing are she is but young sunshine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(able -0.58)(to -2.22)(see -4.72)(, -0.00) line score is : -2.884, look ahead score is : 0.000
+(and -0.00)(sing -4.58)(are -5.60)(she -2.39)(is -7.95)(but -10.76)(young -5.06)(sunshine -4.35)(. -6.85) line score is : -5.283, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ us camels get into a stew 
+-------------------------score:  -3.814183686313958----------------------- 
+there was a smart farmer named caroline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ amongst men cut into a canine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(amongst -0.33)(men -1.80)(cut -5.99)(into -5.96)(a -6.84)(canine -9.37)(. -3.52) line score is : -4.830, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ I ll give you prostheses for free 
+-------------------------score:  -3.866373339295387----------------------- 
+there was a smart farmer named karoline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ she ca put it calmly for mine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(she -0.33)(ca -1.80)(put -5.99)(it -4.11)(calmly -9.97)(for -9.37)(mine -3.91)(. -7.90) line score is : -5.422, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ for not selling her waterproof paint 
+-------------------------score:  -4.0128013255267305----------------------- 
+there was a smart farmer named darline 
+ who made a small fortune on her wine . 
+ when she returned to sea , 
+ she was surprised to see , 
+ for once seeing him alive combine . 
+------------------------- score breakdown ------------------------ 
+(who -1.69)(made -4.66)(a -1.76)(small -5.11)(fortune -1.14)(on -3.38)(her -1.66)(wine -6.13)(. -1.60) line score is : -3.013, look ahead score is : 0.000
+(when -1.60)(she -3.96)(returned -1.41)(to -3.58)(sea -0.75)(, -8.91) line score is : -3.369, look ahead score is : 0.000
+(she -8.91)(was -0.87)(surprised -0.58)(to -2.22)(see -4.62)(, -0.33) line score is : -2.921, look ahead score is : 0.000
+(for -0.33)(once -1.80)(seeing -5.99)(him -3.70)(alive -5.97)(combine -8.91)(. -5.66) line score is : -4.622, look ahead score is : 0.000

@@ -1,0 +1,22 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.5247368866747077----------------------- 
+there was a bright actor named dario 
+ who played a big role on our show . 
+ he came back from the break , 
+ and he went to the lake , 
+ and he sat down and took his photo . 
+------------------------- score breakdown ------------------------ 
+(who -2.43)(played -1.88)(a -1.95)(big -4.42)(role -0.90)(on -3.58)(our -4.81)(show -0.85)(. -1.64) line score is : -2.495, look ahead score is : 0.000
+(he -1.64)(came -1.22)(back -3.85)(from -2.79)(the -1.89)(break -1.87)(, -5.04) line score is : -2.616, look ahead score is : 0.000
+(and -5.04)(he -2.76)(went -1.01)(to -1.36)(the -4.17)(lake -1.82)(, -1.76) line score is : -2.560, look ahead score is : 0.000
+(and -1.76)(he -7.39)(sat -1.82)(down -0.52)(and -0.63)(took -3.67)(his -1.38)(photo -1.18)(. -4.62) line score is : -2.554, look ahead score is : 0.000

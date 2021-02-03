@@ -1,0 +1,66 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.847876255400479----------------------- 
+there was a hairy witch named grace 
+ who got a strange feeling on her face . 
+ it was like a nightmare , 
+ and she went to the chair , 
+ and she sat down and opened my case . 
+------------------------- score breakdown ------------------------ 
+(who -1.89)(got -4.77)(a -3.14)(strange -6.03)(feeling -2.63)(on -4.32)(her -0.25)(face -2.39)(. -1.79) line score is : -3.024, look ahead score is : 0.000
+(it -1.79)(was -3.12)(like -0.89)(a -2.24)(nightmare -1.90)(, -5.60) line score is : -2.591, look ahead score is : 0.000
+(and -5.60)(she -1.68)(went -1.63)(to -0.79)(the -4.70)(chair -1.17)(, -1.61) line score is : -2.458, look ahead score is : 0.000
+(and -1.61)(she -8.30)(sat -2.78)(down -1.90)(and -2.21)(opened -2.45)(my -1.06)(case -2.03)(. -4.52) line score is : -2.986, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.879890522270492----------------------- 
+there was a hairy witch named grace 
+ who got a strange feeling on her face . 
+ it was like a nightmare , 
+ she was scared by her hair , 
+ so she tried to go down on the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.89)(got -4.77)(a -3.14)(strange -6.03)(feeling -2.63)(on -4.32)(her -0.25)(face -2.39)(. -1.79) line score is : -3.024, look ahead score is : 0.000
+(it -1.79)(was -3.12)(like -0.89)(a -2.24)(nightmare -1.90)(, -5.60) line score is : -2.591, look ahead score is : 0.000
+(she -5.60)(was -1.68)(scared -2.25)(by -2.39)(her -2.92)(hair -4.10)(, -2.98) line score is : -3.132, look ahead score is : 0.000
+(so -2.98)(she -4.13)(tried -1.94)(to -4.90)(go -0.46)(down -2.86)(on -0.24)(the -3.82)(place -4.21)(. -4.22) line score is : -2.976, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD SO JJ , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ her hair got so light 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.046942559381326----------------------- 
+there was a fierce witch named freda 
+ who got a strange feeling on her head . 
+ she looked like a fairy , 
+ her hair was so scary , 
+ and her eyes were bigger and widespread . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(got -5.14)(a -3.37)(strange -5.97)(feeling -2.52)(on -4.54)(her -0.25)(head -3.41)(. -1.51) line score is : -3.137, look ahead score is : 0.000
+(she -1.51)(looked -1.78)(like -3.72)(a -1.74)(fairy -0.96)(, -4.46) line score is : -2.361, look ahead score is : 0.000
+(her -4.46)(hair -2.23)(was -3.61)(so -1.57)(scary -1.04)(, -3.64) line score is : -2.760, look ahead score is : 0.000
+(and -3.64)(her -8.68)(eyes -1.36)(were -1.79)(bigger -1.13)(and -0.93)(widespread -0.67)(. -7.31) line score is : -3.189, look ahead score is : 0.000

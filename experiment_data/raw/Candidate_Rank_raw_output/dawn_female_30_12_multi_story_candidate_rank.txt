@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.822502273134887----------------------- 
+there once was a girl named maire 
+ who slept all her life in a nightmare . 
+ when she awoke to light , 
+ she was shocked by a sight , 
+ and she looked down and noticed her hair . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(when -1.99)(she -3.55)(awoke -0.69)(to -1.73)(light -3.82)(, -5.64) line score is : -2.902, look ahead score is : 0.000
+(she -5.64)(was -0.97)(shocked -0.44)(by -1.62)(a -3.42)(sight -2.70)(, -1.57) line score is : -2.336, look ahead score is : 0.000
+(and -1.57)(she -4.13)(looked -4.22)(down -2.16)(and -2.33)(noticed -4.21)(her -2.41)(hair -1.63)(. -4.47) line score is : -3.014, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8610230377226165----------------------- 
+there once was a girl named clare 
+ who slept all her life in a nightmare . 
+ she came back from the war , 
+ and she went to the store , 
+ and she looked down and noticed her hair . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(she -1.99)(came -1.68)(back -4.63)(from -3.18)(the -1.60)(war -1.53)(, -3.62) line score is : -2.605, look ahead score is : 0.000
+(and -3.62)(she -2.57)(went -2.09)(to -2.16)(the -4.45)(store -0.99)(, -2.82) line score is : -2.673, look ahead score is : 0.000
+(and -2.82)(she -5.61)(looked -2.20)(down -0.66)(and -0.41)(noticed -3.92)(her -4.39)(hair -1.74)(. -6.15) line score is : -3.101, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -2.9256214778870344----------------------- 
+there once was a girl named claire 
+ who slept all her life in a nightmare . 
+ when she woke to sunlight , 
+ she was shocked by her sight , 
+ but she knew she was doing it fair . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(when -1.99)(she -3.55)(woke -0.69)(to -0.65)(sunlight -5.77)(, -5.47) line score is : -3.019, look ahead score is : 0.000
+(she -5.47)(was -0.93)(shocked -0.48)(by -1.71)(her -3.99)(sight -2.75)(, -1.86) line score is : -2.456, look ahead score is : 0.000
+(but -1.86)(she -5.76)(knew -1.83)(she -1.80)(was -1.79)(doing -3.40)(it -1.31)(fair -0.84)(. -6.53) line score is : -2.792, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9860967388376594----------------------- 
+there once was a girl named claire 
+ who slept all her life in a nightmare . 
+ when she awoke to light , 
+ she was shocked by her sight , 
+ and she fell down and screamed her prayer . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(when -1.99)(she -3.55)(awoke -0.69)(to -1.73)(light -3.82)(, -5.64) line score is : -2.902, look ahead score is : 0.000
+(she -5.64)(was -0.97)(shocked -0.44)(by -1.62)(her -3.42)(sight -2.70)(, -2.22) line score is : -2.429, look ahead score is : 0.000
+(and -2.22)(she -5.99)(fell -1.79)(down -1.15)(and -2.33)(screamed -4.14)(her -2.89)(prayer -2.58)(. -4.42) line score is : -3.055, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he told the same joke 
+ but they felt it was doing them good 
+-------------------------score:  -3.0205429830858783----------------------- 
+there once was a girl named claire 
+ who slept all her life in a nightmare . 
+ when she awoke to light , 
+ it was the perfect night , 
+ but she knew she was dreaming it fair . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(when -1.99)(she -3.55)(awoke -0.69)(to -1.73)(light -3.82)(, -5.64) line score is : -2.902, look ahead score is : 0.000
+(it -5.64)(was -0.97)(the -3.43)(perfect -0.33)(night -2.73)(, -4.44) line score is : -2.923, look ahead score is : 0.000
+(but -4.44)(she -2.78)(knew -2.72)(she -1.69)(was -2.01)(dreaming -2.83)(it -1.39)(fair -1.42)(. -0.61) line score is : -2.211, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.0415224086853767----------------------- 
+there once was a girl named cher 
+ who slept all her life in a nightmare . 
+ when she woke to sunlight , 
+ she was afraid to fight , 
+ but she knew she was fighting it fair . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(when -1.99)(she -3.55)(woke -0.69)(to -0.65)(sunlight -5.77)(, -5.47) line score is : -3.019, look ahead score is : 0.000
+(she -5.47)(was -0.93)(afraid -0.48)(to -1.71)(fight -4.85)(, -1.25) line score is : -2.448, look ahead score is : 0.000
+(but -1.25)(she -5.86)(knew -2.29)(she -1.97)(was -1.60)(fighting -3.18)(it -1.09)(fair -2.22)(. -4.76) line score is : -2.691, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0862747334664866----------------------- 
+there once was a girl named maire 
+ who slept all her life in a nightmare . 
+ she came back from the war , 
+ and she went to the store , 
+ and she saw somebody else nowhere . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(slept -6.47)(all -4.16)(her -3.54)(life -0.84)(in -1.68)(a -1.22)(nightmare -8.03)(. -1.99) line score is : -3.301, look ahead score is : 0.000
+(she -1.99)(came -1.68)(back -4.63)(from -3.18)(the -1.60)(war -1.53)(, -3.62) line score is : -2.605, look ahead score is : 0.000
+(and -3.62)(she -2.57)(went -2.09)(to -2.16)(the -4.45)(store -0.99)(, -2.82) line score is : -2.673, look ahead score is : 0.000
+(and -2.82)(she -5.61)(saw -2.20)(somebody -0.66)(else -0.41)(nowhere -3.03)(. -5.93) line score is : -2.952, look ahead score is : 0.000

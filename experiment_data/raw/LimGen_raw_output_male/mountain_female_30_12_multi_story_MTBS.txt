@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.473457749812834----------------------- 
+there was a harsh woman named maryann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ so it burned up and burst on the fan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(so -1.56)(it -6.20)(burned -1.90)(up -5.36)(and -4.43)(burst -2.66)(on -4.06)(the -2.40)(fan -4.92)(. -4.68) line score is : -3.817, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.514171608289083----------------------- 
+there was a harsh woman named dann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she burned through the world and made milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(burned -4.94)(through -3.22)(the -0.90)(world -2.42)(and -5.22)(made -1.52)(milan -3.41)(. -2.25) line score is : -2.824, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ then he walloped me square in the face 
+-------------------------score:  -3.5313963115215303----------------------- 
+there was a harsh woman named susann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ now she had it burning in the van . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(now -1.56)(she -6.20)(had -1.90)(it -7.93)(burning -2.02)(in -2.39)(the -5.04)(van -4.31)(. -2.91) line score is : -3.806, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.5852919181187946----------------------- 
+there was a harsh woman named georgann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ she lit it and brought others and ran . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(she -1.56)(lit -6.20)(it -1.90)(and -1.19)(brought -3.28)(others -3.14)(and -3.61)(ran -3.78)(. -6.09) line score is : -3.416, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ she sat up in bed and meowed 
+-------------------------score:  -3.6179856020828773----------------------- 
+there was a harsh woman named leann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she burned up in passion and afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(burned -4.94)(up -3.22)(in -0.90)(passion -2.42)(and -2.48)(afghan -4.56)(. -5.29) line score is : -3.167, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ he never completed his task 
+-------------------------score:  -3.6435761981540256----------------------- 
+there was a harsh woman named georgann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she also created her afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(also -4.94)(created -3.22)(her -0.90)(afghan -5.96)(. -2.62) line score is : -3.197, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.6520979198916206----------------------- 
+there was a harsh woman named anne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ but it was her emotions and plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(but -1.56)(it -6.20)(was -1.90)(her -7.21)(emotions -3.16)(and -0.89)(plan -3.77)(. -5.32) line score is : -3.751, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ NNS OUT OF PRP$ NNS LIKE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ seeps out of my pockets like honey 
+-------------------------score:  -3.689769439656159----------------------- 
+there was a harsh woman named roxanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ sparks out of her fingertips like fan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(sparks -1.54)(out -4.94)(of -3.22)(her -7.28)(fingertips -7.47)(like -0.37)(fan -1.33)(. -4.43) line score is : -3.823, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ I invariably get in a stew ! 
+-------------------------score:  -3.704260357495012----------------------- 
+there was a harsh woman named roseanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she never slept in a tent afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(never -4.94)(slept -3.22)(in -0.90)(a -6.10)(tent -4.73)(afghan -4.58)(. -2.16) line score is : -3.520, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ he was n't the wizard he woz 
+-------------------------score:  -3.7166098767313462----------------------- 
+there was a harsh woman named lianne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ she brought forth the world itself afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(she -1.56)(brought -6.20)(forth -1.90)(the -1.19)(world -4.27)(itself -1.98)(afghan -1.45)(. -3.75) line score is : -2.786, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.71939697265625----------------------- 
+there was a harsh woman named marianne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she burned it and made people and fan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(burned -4.94)(it -3.22)(and -0.90)(made -2.42)(people -4.38)(and -3.57)(fan -3.52)(. -6.62) line score is : -3.455, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ she sat up in bed and meowed 
+-------------------------score:  -3.7201786287899674----------------------- 
+there was a harsh woman named dianne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ she lit up in glory and afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(she -1.56)(lit -6.20)(up -1.90)(in -1.19)(glory -3.28)(and -1.34)(afghan -5.70)(. -5.68) line score is : -3.354, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ when he saw there were six little chips 
+-------------------------score:  -3.729134035607179----------------------- 
+there was a harsh woman named maryanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ when she felt there was one nearby can . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(when -1.56)(she -6.20)(felt -1.90)(there -6.56)(was -1.27)(one -2.91)(nearby -5.06)(can -0.13)(. -5.10) line score is : -3.408, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ he never completed his task 
+-------------------------score:  -3.744174533420139----------------------- 
+there was a harsh woman named louanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ she quickly created her afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(she -1.56)(quickly -6.20)(created -1.90)(her -1.19)(afghan -6.28)(. -4.08) line score is : -3.534, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ he was n't the wizard he woz 
+-------------------------score:  -3.7442044677405524----------------------- 
+there was a harsh woman named fran 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she brought forth the sun itself afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(brought -4.94)(forth -3.22)(the -0.90)(sun -4.15)(itself -1.98)(afghan -1.49)(. -4.72) line score is : -2.866, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.7610561065375805----------------------- 
+there was a harsh woman named maryann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ made a hole no bigger than milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(made -1.54)(a -4.94)(hole -3.22)(no -7.13)(bigger -2.37)(than -3.33)(milan -8.43)(. -2.71) line score is : -4.207, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ VBN BY A QUITE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ followed by a quite big falling-in 
+-------------------------score:  -3.765606090426445----------------------- 
+there was a harsh woman named joanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ consumed by a quite different plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(consumed -1.54)(by -4.94)(a -3.22)(quite -8.51)(different -2.27)(plan -2.85)(. -11.28) line score is : -4.944, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ he left all his fans wanting more 
+-------------------------score:  -3.7714395934137803----------------------- 
+there was a harsh woman named anne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she burned all her friends burning afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(burned -4.94)(all -3.22)(her -0.90)(friends -2.42)(burning -3.35)(afghan -2.69)(. -3.57) line score is : -2.827, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ turned out to be plaster of paris 
+-------------------------score:  -3.8152966499328613----------------------- 
+there was a harsh woman named ariane 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ was out to burn something of milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(was -1.54)(out -4.94)(to -3.22)(burn -5.00)(something -7.16)(of -1.86)(milan -1.64)(. -5.26) line score is : -3.826, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ he left all his fans wanting more 
+-------------------------score:  -3.8294712428388924----------------------- 
+there was a harsh woman named shan 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ she burned all her fears burning afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(she -1.56)(burned -6.20)(all -1.90)(her -1.19)(fears -2.75)(burning -3.59)(afghan -3.10)(. -3.46) line score is : -2.967, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ what was shown on the cinema screen 
+-------------------------score:  -3.8536729442662208----------------------- 
+there was a harsh woman named dann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ what was left on the altar milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(what -1.56)(was -6.20)(left -1.90)(on -6.50)(the -1.84)(altar -1.07)(milan -4.95)(. -0.83) line score is : -3.105, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ I invariably get in a stew ! 
+-------------------------score:  -3.8751117114363045----------------------- 
+there was a harsh woman named rosanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ it quickly spread in a way afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(it -1.56)(quickly -6.20)(spread -1.90)(in -3.07)(a -5.47)(way -2.59)(afghan -4.93)(. -2.87) line score is : -3.572, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND WITH PRP$ NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and with their weetbix 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.8885683119297028----------------------- 
+there was a harsh woman named ann 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and with her desire , 
+ a fiery flame is no afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(with -3.54)(her -2.30)(desire -5.29)(, -1.56) line score is : -3.764, look ahead score is : 0.000
+(a -1.56)(fiery -6.20)(flame -1.90)(is -3.48)(no -5.43)(afghan -2.01)(. -5.22) line score is : -3.686, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ kept insuring her during the service 
+-------------------------score:  -3.908840528556279----------------------- 
+there was a harsh woman named anne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ was burning our during the ban . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(was -1.54)(burning -4.94)(our -3.22)(during -5.00)(the -3.63)(ban -6.44)(. -13.03) line score is : -5.399, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP MD VB PRP OFF IF PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ you ll wriggle em off if you squirm 
+-------------------------score:  -4.0182119329770405----------------------- 
+there was a harsh woman named chan 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she ca call it off if she pan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(ca -4.94)(call -3.22)(it -0.90)(off -9.16)(if -12.44)(she -2.65)(pan -6.45)(. -4.73) line score is : -5.114, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ AND IN PRP$ NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ and as for my hair 
+ I ll give you prostheses for free 
+-------------------------score:  -4.128064541981138----------------------- 
+there was a harsh woman named joanne 
+ who carved out her feelings for a man . 
+ she was like a fire , 
+ and in her desire , 
+ she ca put him towards for gan . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(carved -9.25)(out -2.40)(her -2.02)(feelings -7.34)(for -0.75)(a -3.86)(man -1.68)(. -2.79) line score is : -3.469, look ahead score is : 0.000
+(she -2.79)(was -2.28)(like -2.43)(a -5.23)(fire -0.80)(, -6.14) line score is : -3.279, look ahead score is : 0.000
+(and -6.14)(in -3.54)(her -2.30)(desire -4.67)(, -1.54) line score is : -3.636, look ahead score is : 0.000
+(she -1.54)(ca -4.94)(put -3.22)(him -0.90)(towards -9.16)(for -10.08)(gan -3.99)(. -8.67) line score is : -5.312, look ahead score is : 0.000

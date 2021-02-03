@@ -1,0 +1,572 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.5957929770151775----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ and she was down and got our prize . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(and -3.50)(she -9.67)(was -2.60)(down -0.89)(and -1.05)(got -1.40)(our -5.51)(prize -3.29)(. -5.51) line score is : -3.714, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.6169704596201577----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ and she was not like someone of size . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(and -3.50)(she -9.67)(was -2.60)(not -0.89)(like -1.05)(someone -1.40)(of -5.45)(size -5.15)(. -5.65) line score is : -3.931, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.693462347162181----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she saw that our guy was allies . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(saw -9.67)(that -2.60)(our -2.66)(guy -3.27)(was -3.51)(allies -5.48)(. -1.10) line score is : -3.974, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.7153910984595617----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ make sure to check on her son likewise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(make -3.58)(sure -9.87)(to -3.26)(check -7.82)(on -0.48)(her -3.36)(son -3.84)(likewise -2.58)(. -1.58) line score is : -4.040, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ when he found there were five little chips 
+-------------------------score:  -3.7356177727381388----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ when she saw there were two dead allies . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(when -3.58)(she -9.87)(saw -3.26)(there -6.46)(were -1.68)(two -1.17)(dead -6.18)(allies -2.09)(. -1.93) line score is : -4.023, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ she sat up in bed and meowed 
+-------------------------score:  -3.744911485704882----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she was up in heaven and sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(was -9.67)(up -2.60)(in -2.66)(heaven -1.00)(and -5.50)(sunrise -2.17)(. -4.34) line score is : -3.930, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.7668123563130695----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she saw him and went nuts and likewise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(saw -9.67)(him -2.60)(and -2.66)(went -3.27)(nuts -1.83)(and -1.92)(likewise -3.51)(. -4.26) line score is : -3.692, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -3.8095435926626466----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she saw all our guys going sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(saw -9.67)(all -2.60)(our -2.66)(guys -3.27)(going -4.83)(sunrise -4.14)(. -0.21) line score is : -3.860, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ he never completed his task 
+-------------------------score:  -3.889461632128115----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she probably saw our sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(probably -9.67)(saw -2.60)(our -2.66)(sunrise -7.13)(. -2.67) line score is : -4.706, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ that ungracious young lady in blue 
+-------------------------score:  -3.90703233225005----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ that little old lady in sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(that -3.50)(little -9.67)(old -2.60)(lady -5.14)(in -5.85)(sunrise -4.69)(. -1.04) line score is : -4.641, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ then I sat on my moped and moped 
+-------------------------score:  -3.908535140752792----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ well you know on your side and likewise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(well -3.58)(you -9.87)(know -3.26)(on -6.41)(your -2.36)(side -0.81)(and -8.22)(likewise -2.58)(. -3.35) line score is : -4.493, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ which leaves him in very bad shape 
+-------------------------score:  -3.9416387841619294----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the key , 
+ which is it in pretty much sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(key -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(which -3.50)(is -9.26)(it -3.78)(in -4.20)(pretty -1.35)(much -6.15)(sunrise -4.04)(. -8.01) line score is : -5.037, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ he was n't the wizard he woz 
+-------------------------score:  -3.9824212296255705----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ she was not the person you allies . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(she -3.58)(was -9.87)(not -3.26)(the -4.09)(person -2.24)(you -4.34)(allies -4.26)(. -2.89) line score is : -4.317, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ to tutor two tutors to toot 
+-------------------------score:  -3.9975638730185374----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and we were to the sea , 
+ to get two survivors to sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(we -1.48)(were -2.92)(to -2.06)(the -1.74)(sea -7.26)(, -3.64) line score is : -3.971, look ahead score is : 0.000
+(to -3.64)(get -9.37)(two -2.25)(survivors -4.11)(to -3.44)(sunrise -7.15)(. -6.55) line score is : -5.214, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ turned out to be plaster of paris 
+-------------------------score:  -4.001902621367882----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ got out to help somebody of size . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(got -3.50)(out -9.67)(to -2.60)(help -7.34)(somebody -3.43)(of -3.99)(size -2.91)(. -4.76) line score is : -4.775, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ then grind out a limerick or two 
+-------------------------score:  -4.043444090876086----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ well get out a minute or sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(well -3.58)(get -9.87)(out -3.26)(a -6.41)(minute -5.70)(or -1.93)(sunrise -6.92)(. -2.60) line score is : -5.033, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ I did n't think life was this way 
+-------------------------score:  -4.045333729187647----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she was not cut till was this sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(was -9.67)(not -2.60)(cut -2.66)(till -1.00)(was -4.14)(this -7.65)(sunrise -6.18)(. -7.98) line score is : -5.042, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ which pickled his internal workins 
+-------------------------score:  -4.065398503232886----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the key , 
+ which opened our little allies . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(key -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(which -3.50)(opened -9.26)(our -3.78)(little -4.20)(allies -6.53)(. -4.47) line score is : -5.290, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ that her head was bare 
+-------------------------score:  -4.0789863312685934----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ that our commander was allies . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(that -3.58)(our -9.87)(commander -3.26)(was -5.54)(allies -6.53)(. -6.92) line score is : -5.949, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -4.115384286847608----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ you know maybe get one or likewise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(you -3.58)(know -9.87)(maybe -3.26)(get -3.80)(one -0.93)(or -7.66)(likewise -6.25)(. -4.29) line score is : -4.955, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ I relaxed when I eos across aunt 
+-------------------------score:  -4.1457433906094785----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ she was when they hit across sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(she -3.50)(was -9.67)(when -2.60)(they -2.66)(hit -1.00)(across -8.46)(sunrise -2.85)(. -3.98) line score is : -4.341, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ thirty days is the time he will do 
+-------------------------score:  -4.199201818307241----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the key , 
+ locked doors is the reason she will rise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(key -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(locked -3.50)(doors -9.26)(is -3.78)(the -6.55)(reason -7.07)(she -7.75)(will -2.97)(rise -5.12)(. -1.61) line score is : -5.291, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ us camels get into a stew 
+-------------------------score:  -4.200792734112058----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and we were to the sea , 
+ right towards land into a sunrise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(we -1.48)(were -2.92)(to -2.06)(the -1.74)(sea -7.26)(, -3.64) line score is : -3.971, look ahead score is : 0.000
+(right -3.64)(towards -9.37)(land -2.25)(into -6.07)(a -7.64)(sunrise -6.48)(. -8.98) line score is : -6.347, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ VBD QUITE THE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ was quite the reverse of 'hosanna' 
+-------------------------score:  -4.2050361058541705----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ was quite the exception of allies . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(was -3.50)(quite -9.67)(the -2.60)(exception -6.59)(of -6.27)(allies -3.78)(. -6.11) line score is : -5.502, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ great writers are fewer and fewer 
+-------------------------score:  -4.379804802792413----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she said to the key , 
+ right afterwards go harder and rise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(said -2.92)(to -1.24)(the -3.41)(key -2.53)(, -3.58) line score is : -3.408, look ahead score is : 0.000
+(right -3.58)(afterwards -9.87)(go -3.26)(harder -7.98)(and -7.36)(rise -8.08)(. -9.47) line score is : -7.086, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ON CD OF PRP$ NNS . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ VBD NN VB WHERE PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who married on one of his trips 
+ he indulged a desire 
+ and they rushed to the rail 
+ did anyone see where it went 
+-------------------------score:  -4.4876377412251065----------------------- 
+there was a lady named lise 
+ who happened on one of our guys . 
+ she was a nobody , 
+ and she was to the tree , 
+ saw somebody go where they likewise . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(happened -6.54)(on -7.26)(one -4.63)(of -0.21)(our -2.21)(guys -5.91)(. -2.92) line score is : -3.866, look ahead score is : 0.000
+(she -2.92)(was -1.14)(a -1.51)(nobody -2.58)(, -8.69) line score is : -3.368, look ahead score is : 0.000
+(and -8.69)(she -1.48)(was -2.92)(to -1.24)(the -1.32)(tree -7.06)(, -3.50) line score is : -3.745, look ahead score is : 0.000
+(saw -3.50)(somebody -9.67)(go -2.60)(where -7.28)(they -5.05)(likewise -4.10)(. -7.97) line score is : -5.739, look ahead score is : 0.000

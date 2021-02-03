@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.4123910078778863----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ that the way he looked was a statue . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(that -1.83)(the -5.78)(way -8.28)(he -3.44)(looked -3.75)(was -4.79)(a -0.21)(statue -1.56)(. -3.49) line score is : -3.681, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.5163173023611307----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was shocked by his sense , 
+ but he is indeed brave in his view . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(shocked -2.42)(by -2.69)(his -4.43)(sense -3.10)(, -1.54) line score is : -2.868, look ahead score is : 0.000
+(but -1.54)(he -6.76)(is -6.61)(indeed -1.75)(brave -1.39)(in -5.70)(his -4.74)(view -5.08)(. -4.53) line score is : -4.233, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.5696592238401212----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ which was filled with the deepest into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(which -1.83)(was -5.78)(filled -8.28)(with -2.57)(the -1.39)(deepest -5.50)(into -0.02)(. -3.31) line score is : -3.585, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.6482002868734558----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ it almost reminded a statue . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(it -1.83)(almost -5.78)(reminded -8.28)(a -4.80)(statue -3.47)(. -3.74) line score is : -4.649, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ which leaves him in very bad shape 
+-------------------------score:  -3.6614152991002604----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ which makes him in almost perfect view . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(which -1.83)(makes -5.78)(him -8.28)(in -2.57)(almost -5.04)(perfect -1.20)(view -6.96)(. -5.75) line score is : -4.676, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.6886162953451276----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and i felt down and wanted his view . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(i -5.78)(felt -8.28)(down -1.75)(and -1.43)(wanted -2.43)(his -9.13)(view -2.93)(. -6.15) line score is : -4.413, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and returned on the previous night 
+-------------------------score:  -3.689251270890236----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and realized on the first review . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(realized -5.78)(on -8.28)(the -1.75)(first -6.22)(review -7.90)(. -1.46) line score is : -4.746, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.70897704269737----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ he looked through the camera and saw true . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(he -1.83)(looked -5.78)(through -8.28)(the -3.75)(camera -3.67)(and -6.43)(saw -2.30)(true -4.18)(. -2.22) line score is : -4.271, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ that she pickled her internal workins' 
+-------------------------score:  -3.7283087273438773----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ that it made me hungry hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(that -1.83)(it -5.78)(made -8.28)(me -3.44)(hungry -2.76)(hitherto -2.14)(. -0.27) line score is : -3.500, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.771728095508391----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and i was not sure anything due . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(i -5.78)(was -8.28)(not -1.75)(sure -1.43)(anything -2.65)(due -4.92)(. -1.47) line score is : -3.513, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.771877732872963----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and he was someone truly statue . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(he -5.78)(was -8.28)(someone -1.75)(truly -2.00)(statue -1.79)(. -5.36) line score is : -3.826, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ because I was sniffing my toes 
+-------------------------score:  -3.7734670748313266----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ because he was giving his into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(because -1.83)(he -5.78)(was -8.28)(giving -5.45)(his -0.93)(into -1.22)(. -5.98) line score is : -4.208, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ that no one was present but smarty 
+-------------------------score:  -3.7810954086242186----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ that no time was wasted but review . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(that -1.83)(no -5.78)(time -8.28)(was -3.44)(wasted -5.22)(but -5.64)(review -2.24)(. -0.30) line score is : -4.091, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.78537816386069----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was shocked by his sense , 
+ but i am still happy for into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(shocked -2.42)(by -2.69)(his -4.43)(sense -3.10)(, -1.54) line score is : -2.868, look ahead score is : 0.000
+(but -1.54)(i -6.76)(am -6.61)(still -1.75)(happy -1.41)(for -5.42)(into -3.47)(. -3.44) line score is : -3.798, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ he left all his fans wanting more 
+-------------------------score:  -3.812707427047914----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ i felt all my thoughts being review . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(i -1.83)(felt -5.78)(all -8.28)(my -4.86)(thoughts -2.49)(being -6.51)(review -2.15)(. -3.36) line score is : -4.408, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ that unlucky old person of ems 
+-------------------------score:  -3.8591234872738522----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ that deep inner feeling of into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(that -1.83)(deep -5.78)(inner -8.28)(feeling -3.44)(of -7.63)(into -4.68)(. -3.66) line score is : -5.044, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ she sat up in bed and meowed 
+-------------------------score:  -3.8824793206107233----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ he looked up towards heaven and spew . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(he -1.83)(looked -5.78)(up -8.28)(towards -3.75)(heaven -3.67)(and -6.72)(spew -5.69)(. -2.11) line score is : -4.728, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ which pickled his internal workins 
+-------------------------score:  -3.9053237797885108----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ which was our special hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(which -1.83)(was -5.78)(our -8.28)(special -2.57)(hitherto -1.39)(. -8.63) line score is : -4.748, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.939872052400343----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ i almost wish in a dream statue . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(i -1.83)(almost -5.78)(wish -8.28)(in -4.86)(a -3.85)(dream -6.13)(statue -8.26)(. -2.27) line score is : -5.158, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.9573060149146664----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ he really can see in you into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(he -1.83)(really -5.78)(can -8.28)(see -3.75)(in -4.40)(you -5.28)(into -1.81)(. -4.70) line score is : -4.480, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.962616657217344----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and felt the emotion with into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(felt -5.78)(the -8.28)(emotion -1.75)(with -4.34)(into -3.12)(. -4.96) line score is : -4.294, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.9884157925844193----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and asked with a nervous hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(asked -5.78)(with -8.28)(a -1.75)(nervous -5.99)(hitherto -5.98)(. -1.11) line score is : -4.389, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ he never completed his task 
+-------------------------score:  -4.010912873621645----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ it almost became my hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(it -1.83)(almost -5.78)(became -8.28)(my -4.80)(hitherto -3.47)(. -4.83) line score is : -4.831, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -4.083451150854429----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ and felt his intent a hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(and -1.83)(felt -5.78)(his -8.28)(intent -1.75)(a -4.34)(hitherto -2.12)(. -5.77) line score is : -4.267, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT PRP$ NN VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ that her head was bare 
+-------------------------score:  -4.091789548767024----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ that our exchange was hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(that -1.83)(our -5.78)(exchange -8.28)(was -3.44)(hitherto -8.51)(. -6.90) line score is : -5.791, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ that ungracious young lady in blue 
+-------------------------score:  -4.133094607790311----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ that deep inner fire in into . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(that -1.83)(deep -5.78)(inner -8.28)(fire -3.44)(in -7.63)(into -4.68)(. -3.08) line score is : -4.960, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ BECAUSE THE NN VBD AND VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ because the man bullied and boucestcr 
+-------------------------score:  -4.141950320204099----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by his sense , 
+ because the child was and hitherto . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(his -4.81)(sense -0.44)(, -1.83) line score is : -2.583, look ahead score is : 0.000
+(because -1.83)(the -5.78)(child -8.28)(was -5.45)(and -3.87)(hitherto -4.67)(. -1.45) line score is : -4.475, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was told by his wife 
+ great writers are fewer and fewer 
+-------------------------score:  -4.15537302394708----------------------- 
+there was a bright man named hugh 
+ who helped a young girl on her debut . 
+ his eyes were so intense , 
+ i was struck by their dense , 
+ dark shadows spread earlier and few . 
+------------------------- score breakdown ------------------------ 
+(who -2.07)(helped -5.18)(a -4.50)(young -3.19)(girl -1.47)(on -4.77)(her -1.41)(debut -7.75)(. -1.80) line score is : -3.570, look ahead score is : 0.000
+(his -1.80)(eyes -4.28)(were -5.51)(so -1.23)(intense -2.98)(, -4.02) line score is : -3.302, look ahead score is : 0.000
+(i -4.02)(was -1.86)(struck -2.42)(by -2.69)(their -4.81)(dense -0.44)(, -2.62) line score is : -2.696, look ahead score is : 0.000
+(dark -2.62)(shadows -9.17)(spread -2.21)(earlier -3.86)(and -3.45)(few -9.56)(. -10.45) line score is : -5.902, look ahead score is : 0.000

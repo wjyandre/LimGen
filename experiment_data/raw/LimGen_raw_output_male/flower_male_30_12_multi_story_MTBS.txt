@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.9013152811676264----------------------- 
+there was a bright boy named bert 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ so he got up and put on the skirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(so -1.41)(he -4.30)(got -1.10)(up -3.11)(and -0.84)(put -3.96)(on -3.47)(the -0.75)(skirt -4.48)(. -0.74) line score is : -2.416, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.9676772240669496----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ but he knew he was doing it hurt . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(but -1.41)(he -4.30)(knew -1.10)(he -1.62)(was -1.27)(doing -3.91)(it -1.50)(hurt -1.84)(. -4.44) line score is : -2.377, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ so he had to sit down on the floor 
+-------------------------score:  -2.976103274151683----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ so he had to go down on the dirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(so -1.41)(he -4.30)(had -1.10)(to -3.11)(go -0.84)(down -2.93)(on -2.52)(the -2.67)(dirt -4.30)(. -3.20) line score is : -2.639, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.092444012241979----------------------- 
+there was a bright boy named bert 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to pay , 
+ he was proud to be a good convert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(pay -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(was -5.90)(proud -2.68)(to -2.35)(be -1.80)(a -3.64)(good -1.83)(convert -1.03)(. -1.77) line score is : -2.490, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.1746628185113273----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ so he even got on the turret . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(so -1.41)(he -4.30)(even -1.10)(got -3.11)(on -0.84)(the -6.80)(turret -2.41)(. -4.70) line score is : -3.083, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ so I sat on my moped and moped 
+-------------------------score:  -3.2372190952301025----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ so it fit on his chest and turret . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(so -1.41)(it -4.30)(fit -1.10)(on -3.11)(his -2.81)(chest -5.63)(and -5.50)(turret -1.22)(. -2.34) line score is : -3.047, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and she baked really great apple pies 
+-------------------------score:  -3.2721302807331085----------------------- 
+there was a bright boy named curt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ and it was still warm today desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(and -1.41)(it -4.30)(was -1.10)(still -0.74)(warm -3.29)(today -0.64)(desert -5.38)(. -2.31) line score is : -2.397, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.2836083462161403----------------------- 
+there was a bright boy named bert 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ he was pleased to see and to insert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(was -4.30)(pleased -1.10)(to -4.75)(see -1.89)(and -5.21)(to -0.70)(insert -1.85)(. -6.28) line score is : -3.055, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.300316576299996----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ and he wanted something far desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(and -1.41)(he -4.30)(wanted -1.10)(something -0.74)(far -1.12)(desert -2.04)(. -3.95) line score is : -2.096, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.310872660080592----------------------- 
+there was a bright boy named jamal 
+ who cut a nice figure on his wall . 
+ it was for his birthday , 
+ he was happy to say , 
+ and now he has a picture football . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(wall -6.62)(. -1.94) line score is : -3.471, look ahead score is : 0.000
+(it -1.94)(was -3.73)(for -0.65)(his -6.65)(birthday -2.52)(, -2.14) line score is : -2.937, look ahead score is : 0.000
+(he -2.14)(was -1.47)(happy -2.54)(to -2.41)(say -4.72)(, -1.59) line score is : -2.478, look ahead score is : 0.000
+(and -1.59)(now -4.37)(he -1.08)(has -0.70)(a -5.78)(picture -0.83)(football -4.85)(. -1.66) line score is : -2.606, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.317228595415751----------------------- 
+there was a bright boy named curt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ but he wanted his clothes and desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(but -1.41)(he -4.30)(wanted -1.10)(his -1.62)(clothes -1.27)(and -3.58)(desert -3.23)(. -4.82) line score is : -2.666, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ but it does n't come out of my purse 
+-------------------------score:  -3.349142489894744----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ but he does not have in his desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(but -1.41)(he -4.30)(does -1.10)(not -1.62)(have -1.27)(in -7.09)(his -1.56)(desert -2.93)(. -8.32) line score is : -3.290, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and hop in before all the crowd 
+-------------------------score:  -3.3997558057308197----------------------- 
+there was a bright boy named jamal 
+ who cut a nice figure on his wall . 
+ it was for his birthday , 
+ he was happy to say , 
+ and put in before all the football . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(wall -6.62)(. -1.94) line score is : -3.471, look ahead score is : 0.000
+(it -1.94)(was -3.73)(for -0.65)(his -6.65)(birthday -2.52)(, -2.14) line score is : -2.937, look ahead score is : 0.000
+(he -2.14)(was -1.47)(happy -2.54)(to -2.41)(say -4.72)(, -1.59) line score is : -2.478, look ahead score is : 0.000
+(and -1.59)(put -4.37)(in -1.08)(before -0.70)(all -7.99)(the -3.74)(football -8.49)(. -5.05) line score is : -4.126, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.405453411738078----------------------- 
+there was a bright boy named curt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to play , 
+ he had all his friends playing desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(play -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(had -6.15)(all -3.31)(his -1.89)(friends -2.38)(playing -4.77)(desert -1.23)(. -1.78) line score is : -2.867, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.447742223739624----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to pay , 
+ he never expected a desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(pay -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(never -5.90)(expected -2.68)(a -2.35)(desert -5.21)(. -3.59) line score is : -3.522, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ you never can tell till you try 
+-------------------------score:  -3.508153263727824----------------------- 
+there was a bright boy named curt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ he never can be unless it hurt . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(never -4.30)(can -1.10)(be -4.75)(unless -5.20)(it -7.83)(hurt -2.80)(. -7.20) line score is : -4.325, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.5360043088595075----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ which was given with the best desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(which -1.41)(was -4.30)(given -1.10)(with -3.94)(the -1.15)(best -6.67)(desert -4.60)(. -2.15) line score is : -3.164, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ which pickled his internal workins 
+-------------------------score:  -3.5431725723402843----------------------- 
+there was a bright boy named jamal 
+ who cut a nice figure on his wall . 
+ it was for his birthday , 
+ he was happy to say , 
+ which meant our little fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(wall -6.62)(. -1.94) line score is : -3.471, look ahead score is : 0.000
+(it -1.94)(was -3.73)(for -0.65)(his -6.65)(birthday -2.52)(, -2.14) line score is : -2.937, look ahead score is : 0.000
+(he -2.14)(was -1.47)(happy -2.54)(to -2.41)(say -4.72)(, -1.59) line score is : -2.478, look ahead score is : 0.000
+(which -1.59)(meant -4.37)(our -1.08)(little -4.05)(fireball -1.73)(. -7.60) line score is : -3.405, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND AS RB AS THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and as far as the bucket 
+-------------------------score:  -3.5546314983532348----------------------- 
+there was a bright boy named saul 
+ who cut a nice figure on his wall . 
+ it was for his birthday , 
+ he was happy to say , 
+ and as often as the fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(wall -6.62)(. -1.94) line score is : -3.471, look ahead score is : 0.000
+(it -1.94)(was -3.73)(for -0.65)(his -6.65)(birthday -2.52)(, -2.14) line score is : -2.937, look ahead score is : 0.000
+(he -2.14)(was -1.47)(happy -2.54)(to -2.41)(say -4.72)(, -1.59) line score is : -2.478, look ahead score is : 0.000
+(and -1.59)(as -4.37)(often -1.08)(as -0.70)(the -4.56)(fireball -7.12)(. -1.06) line score is : -2.926, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.565837187426431----------------------- 
+there was a bright boy named curt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ he never expected his desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(never -4.30)(expected -1.10)(his -4.75)(desert -5.20)(. -3.49) line score is : -3.376, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ which leaves him in very bad shape 
+-------------------------score:  -3.570432620247205----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ which makes him in pretty good insert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(which -1.41)(makes -4.30)(him -1.10)(in -3.94)(pretty -4.69)(good -2.02)(insert -6.61)(. -5.23) line score is : -3.662, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.633997416496277----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ he always wore in a suit desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(he -1.41)(always -4.30)(wore -1.10)(in -4.75)(a -5.26)(suit -3.45)(desert -7.76)(. -3.99) line score is : -4.002, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and could n't bend back again 
+-------------------------score:  -3.639284820392214----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ and could not remember back desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(and -1.41)(could -4.30)(not -1.10)(remember -0.74)(back -6.20)(desert -1.29)(. -3.81) line score is : -2.694, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ in a sugary takeover bid 
+-------------------------score:  -3.64818959576743----------------------- 
+there was a bright boy named burt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ though a little impatient desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(though -1.41)(a -4.30)(little -1.10)(impatient -3.88)(desert -4.77)(. -1.75) line score is : -2.869, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ us camels get into a stew 
+-------------------------score:  -3.7533457690271836----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ whereas others have into a skirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(whereas -1.41)(others -4.30)(have -1.10)(into -8.63)(a -5.24)(skirt -5.24)(. -11.33) line score is : -5.321, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and sometimes get quite cranky 
+-------------------------score:  -3.836597033909389----------------------- 
+there was a bright boy named bert 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ and also remember quite desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(and -1.41)(also -4.30)(remember -1.10)(quite -0.74)(desert -5.42)(. -9.37) line score is : -3.725, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and since then has never benzene 
+-------------------------score:  -3.924418266477256----------------------- 
+there was a bright boy named saul 
+ who cut a nice figure on his wall . 
+ it was for his birthday , 
+ he was happy to say , 
+ and since then has always fireball . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(wall -6.62)(. -1.94) line score is : -3.471, look ahead score is : 0.000
+(it -1.94)(was -3.73)(for -0.65)(his -6.65)(birthday -2.52)(, -2.14) line score is : -2.937, look ahead score is : 0.000
+(he -2.14)(was -1.47)(happy -2.54)(to -2.41)(say -4.72)(, -1.59) line score is : -2.478, look ahead score is : 0.000
+(and -1.59)(since -4.37)(then -1.08)(has -0.70)(always -5.49)(fireball -3.64)(. -5.31) line score is : -3.169, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ I d probably know two or three 
+-------------------------score:  -3.9261168877283734----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ i have always gotten two or dirt . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(i -1.41)(have -4.30)(always -1.10)(gotten -6.49)(two -5.03)(or -3.81)(dirt -6.97)(. -6.99) line score is : -4.514, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.9521093983804025----------------------- 
+there was a bright boy named kurt 
+ who cut a nice figure on his shirt . 
+ it was for his birthday , 
+ he was happy to say , 
+ and trying work it is but hard desert . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(cut -8.16)(a -2.85)(nice -3.37)(figure -1.24)(on -3.48)(his -2.02)(shirt -6.52)(. -1.83) line score is : -3.448, look ahead score is : 0.000
+(it -1.83)(was -3.98)(for -0.62)(his -6.81)(birthday -2.27)(, -1.71) line score is : -2.872, look ahead score is : 0.000
+(he -1.71)(was -1.47)(happy -2.44)(to -2.45)(say -4.56)(, -1.41) line score is : -2.340, look ahead score is : 0.000
+(and -1.41)(trying -4.30)(work -1.10)(it -0.74)(is -9.61)(but -9.76)(hard -3.55)(desert -6.84)(. -7.26) line score is : -4.952, look ahead score is : 0.000

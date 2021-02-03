@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9259506741707977----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ so he had to go down on the floor . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(so -1.32)(he -5.77)(had -3.03)(to -4.45)(go -1.63)(down -3.26)(on -0.59)(the -3.06)(floor -4.14)(. -3.04) line score is : -3.029, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.982767732531735----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ so he went up and slept on the floor . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(so -1.32)(he -5.77)(went -3.03)(up -4.45)(and -1.63)(slept -3.14)(on -4.19)(the -2.28)(floor -5.62)(. -2.50) line score is : -3.393, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.0180354814510792----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ and that is the subject of this lore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(and -1.55)(that -6.59)(is -2.55)(the -1.53)(subject -4.89)(of -3.32)(this -1.58)(lore -5.05)(. -0.09) line score is : -3.017, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0658888171892613----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and he fell down and killed his mentor . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(he -5.77)(fell -3.03)(down -1.31)(and -3.11)(killed -2.70)(his -2.85)(mentor -2.91)(. -4.82) line score is : -3.092, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.1841583296190947----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then he found it burning in the floor . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(then -1.32)(he -5.77)(found -3.03)(it -4.68)(burning -3.85)(in -3.69)(the -3.81)(floor -4.75)(. -1.91) line score is : -3.646, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2411041881423444----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ but he does not die in our lore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(but -1.55)(he -6.59)(does -2.55)(not -2.92)(die -2.04)(in -7.25)(our -0.72)(lore -4.15)(. -1.70) line score is : -3.274, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then fell into a vat of grease 
+-------------------------score:  -3.2735864297757225----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then fell into a state of before . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(then -1.32)(fell -5.77)(into -3.03)(a -4.68)(state -2.75)(of -2.12)(before -0.50)(. -3.69) line score is : -2.982, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -3.277831616661241----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ and now he remains a ghost therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(and -1.55)(now -6.59)(he -2.55)(remains -1.53)(a -5.27)(ghost -2.01)(therefore -4.82)(. -2.10) line score is : -3.301, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.308677715016529----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ but his wounds were down to his before . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(but -1.32)(his -5.77)(wounds -3.03)(were -2.96)(down -3.26)(to -2.04)(his -0.74)(before -10.13)(. -1.26) line score is : -3.389, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.377787002672752----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and could not continue back therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(could -5.77)(not -3.03)(continue -1.31)(back -4.61)(therefore -0.57)(. -4.18) line score is : -2.969, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.424064856142767----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and his eyes became wider and wore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(his -5.77)(eyes -3.03)(became -1.31)(wider -3.43)(and -3.12)(wore -2.48)(. -7.27) line score is : -3.465, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.4250793733423754----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ which was described with the most uproar . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(which -1.32)(was -5.77)(described -3.03)(with -2.29)(the -3.31)(most -4.78)(uproar -6.27)(. -2.78) line score is : -3.692, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.4380595172124524----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ made a prisoner no less than therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(made -1.32)(a -5.77)(prisoner -3.03)(no -6.05)(less -1.81)(than -1.62)(therefore -9.20)(. -1.14) line score is : -3.743, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.438615872734977----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ which makes him in almost perfect lore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(which -1.55)(makes -6.59)(him -2.55)(in -4.33)(almost -5.23)(perfect -1.29)(lore -5.95)(. -6.00) line score is : -4.187, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.4430891244161512----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ and it was not long beforehand more . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(and -1.55)(it -6.59)(was -2.55)(not -1.53)(long -3.70)(beforehand -0.68)(more -2.93)(. -2.35) line score is : -2.735, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so I sat on my moped and moped 
+-------------------------score:  -3.5017711117397994----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ so he rode on his horse and ignore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(so -1.32)(he -5.77)(rode -3.03)(on -4.45)(his -1.63)(horse -6.56)(and -3.38)(ignore -2.49)(. -0.44) line score is : -3.229, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.5053924409051738----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and he fell asleep again before . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(he -5.77)(fell -3.03)(asleep -1.31)(again -3.11)(before -2.70)(. -3.84) line score is : -3.011, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.508296953814645----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ but it was his brothers and therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(but -1.55)(it -6.59)(was -2.55)(his -2.92)(brothers -3.62)(and -0.67)(therefore -3.27)(. -6.02) line score is : -3.397, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.6384079900880653----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ which caused that division of before . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(which -1.32)(caused -5.77)(that -3.03)(division -2.29)(of -2.80)(before -6.47)(. -7.28) line score is : -4.137, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then grind out a limerick or two 
+-------------------------score:  -3.725116407438632----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then put out a window or outdoor . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(then -1.32)(put -5.77)(out -3.03)(a -4.68)(window -5.58)(or -0.89)(outdoor -6.01)(. -3.05) line score is : -3.789, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sometimes get quite cranky 
+-------------------------score:  -3.7342674308295907----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and never forgotten quite therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(never -5.77)(forgotten -3.03)(quite -1.31)(therefore -5.97)(. -7.44) line score is : -4.140, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.765102320117876----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and for years he just dealt his before . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(for -5.77)(years -3.03)(he -1.31)(just -4.59)(dealt -5.11)(his -1.53)(before -8.04)(. -7.96) line score is : -4.295, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but nobody knew what he said 
+-------------------------score:  -3.765646752466758----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ but afterward found what he therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(but -1.32)(afterward -5.77)(found -3.03)(what -2.96)(he -6.65)(therefore -3.44)(. -5.84) line score is : -4.145, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but will ruminate on while I chew 
+-------------------------score:  -3.781589376109262----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ but will live on while us therefore . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(killed -0.62)(by -1.80)(a -4.61)(knight -1.34)(, -1.55) line score is : -2.756, look ahead score is : 0.000
+(but -1.55)(will -6.59)(live -2.55)(on -2.92)(while -8.23)(us -3.50)(therefore -0.79)(. -7.57) line score is : -4.212, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.8043543465435503----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ a terrible thing happens no for . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(a -1.32)(terrible -5.77)(thing -3.03)(happens -3.07)(no -4.23)(for -2.92)(. -9.10) line score is : -4.207, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.8169430270791054----------------------- 
+there was a general named salvador 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ then put up all heavy and uproar . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(then -1.32)(put -5.77)(up -3.03)(all -4.68)(heavy -5.58)(and -4.74)(uproar -6.52)(. -7.39) line score is : -4.878, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.001522683305666----------------------- 
+there was a general named theodore 
+ who learned a great deal on our war . 
+ when he returned to fight , 
+ he was struck by a light , 
+ and trying sleep he has but few before . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(learned -7.45)(a -3.05)(great -1.91)(deal -0.10)(on -5.18)(our -4.96)(war -6.13)(. -2.04) line score is : -3.604, look ahead score is : 0.000
+(when -2.04)(he -4.11)(returned -1.34)(to -2.68)(fight -1.18)(, -7.50) line score is : -3.143, look ahead score is : 0.000
+(he -7.50)(was -1.88)(struck -0.62)(by -1.80)(a -5.09)(light -1.36)(, -1.32) line score is : -2.795, look ahead score is : 0.000
+(and -1.32)(trying -5.77)(sleep -3.03)(he -1.31)(has -9.56)(but -11.26)(few -2.77)(before -8.29)(. -7.88) line score is : -5.687, look ahead score is : 0.000

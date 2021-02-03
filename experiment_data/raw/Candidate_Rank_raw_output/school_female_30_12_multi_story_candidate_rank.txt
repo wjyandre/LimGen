@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.733285364779559----------------------- 
+there was a lucky girl named renee 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was stopped by a clerk , 
+ so she went to sit down on the tray . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(arrived -0.82)(to -2.80)(work -3.73)(, -4.93) line score is : -3.162, look ahead score is : 0.000
+(she -4.93)(was -1.53)(stopped -0.70)(by -1.36)(a -4.89)(clerk -0.53)(, -1.04) line score is : -2.140, look ahead score is : 0.000
+(so -1.04)(she -6.66)(went -2.60)(to -6.11)(sit -0.50)(down -2.81)(on -1.09)(the -4.87)(tray -1.22)(. -2.67) line score is : -2.957, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -2.8532288507107766----------------------- 
+there was a lucky girl named laine 
+ who got a free ride on our train . 
+ when we arrived to work , 
+ we were met by a clerk , 
+ she said that her husband was insane . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(got -3.01)(a -2.32)(free -4.49)(ride -2.19)(on -1.86)(our -4.50)(train -3.09)(. -2.22) line score is : -2.812, look ahead score is : 0.000
+(when -2.22)(we -4.31)(arrived -1.23)(to -1.65)(work -4.20)(, -4.85) line score is : -3.077, look ahead score is : 0.000
+(we -4.85)(were -1.38)(met -1.41)(by -1.35)(a -3.05)(clerk -0.42)(, -1.29) line score is : -1.964, look ahead score is : 0.000
+(she -1.29)(said -7.61)(that -3.03)(her -4.72)(husband -2.55)(was -2.17)(insane -3.34)(. -2.82) line score is : -3.440, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.8569345952886525----------------------- 
+there was a lucky girl named renee 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was stopped by a clerk , 
+ so she gave up and quit on the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(arrived -0.82)(to -2.80)(work -3.73)(, -4.93) line score is : -3.162, look ahead score is : 0.000
+(she -4.93)(was -1.53)(stopped -0.70)(by -1.36)(a -4.89)(clerk -0.53)(, -1.04) line score is : -2.140, look ahead score is : 0.000
+(so -1.04)(she -6.66)(gave -2.60)(up -6.11)(and -0.50)(quit -3.59)(on -4.13)(the -1.62)(day -6.53)(. -4.61) line score is : -3.739, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -2.875616875011474----------------------- 
+there was a lucky girl named renee 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she did not have money left this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(arrived -0.82)(to -2.80)(work -3.73)(, -4.93) line score is : -3.162, look ahead score is : 0.000
+(she -4.93)(was -1.53)(told -0.70)(by -1.36)(a -2.56)(clerk -1.71)(, -1.62) line score is : -2.058, look ahead score is : 0.000
+(she -1.62)(did -5.23)(not -3.65)(have -4.16)(money -4.71)(left -0.04)(this -0.54)(day -5.18)(. -5.50) line score is : -3.402, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -2.900707678000132----------------------- 
+there was a lucky girl named renee 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was stopped by a clerk , 
+ because she was carrying her weigh . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(arrived -0.82)(to -2.80)(work -3.73)(, -4.93) line score is : -3.162, look ahead score is : 0.000
+(she -4.93)(was -1.53)(stopped -0.70)(by -1.36)(a -4.89)(clerk -0.53)(, -1.04) line score is : -2.140, look ahead score is : 0.000
+(because -1.04)(she -6.66)(was -2.60)(carrying -6.02)(her -0.63)(weigh -1.00)(. -1.00) line score is : -2.706, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -2.9900036938488483----------------------- 
+there was a lucky girl named kay 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was stopped by a clerk , 
+ but she said she was doing it gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(arrived -0.82)(to -2.80)(work -3.73)(, -4.93) line score is : -3.162, look ahead score is : 0.000
+(she -4.93)(was -1.53)(stopped -0.70)(by -1.36)(a -4.89)(clerk -0.53)(, -1.04) line score is : -2.140, look ahead score is : 0.000
+(but -1.04)(she -6.66)(said -2.60)(she -4.34)(was -1.92)(doing -3.57)(it -0.95)(gay -1.48)(. -4.89) line score is : -3.049, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.0667046520017807----------------------- 
+there was a lucky girl named kay 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she was not the manager we say . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(arrived -0.82)(to -2.80)(work -3.73)(, -4.93) line score is : -3.162, look ahead score is : 0.000
+(she -4.93)(was -1.53)(told -0.70)(by -1.36)(a -2.56)(clerk -1.71)(, -1.62) line score is : -2.058, look ahead score is : 0.000
+(she -1.62)(was -5.23)(not -3.65)(the -4.16)(manager -1.19)(we -2.28)(say -5.11)(. -3.74) line score is : -3.371, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.120968798475881----------------------- 
+there once was a girl named kay 
+ who had a small baby on her way . 
+ when she arrived to work , 
+ she was met by a clerk , 
+ and she was not happy till friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(had -2.70)(a -1.60)(small -5.08)(baby -4.16)(on -3.47)(her -0.28)(way -4.28)(. -2.63) line score is : -2.885, look ahead score is : 0.000
+(when -2.63)(she -3.67)(arrived -0.82)(to -3.52)(work -3.84)(, -4.11) line score is : -3.098, look ahead score is : 0.000
+(she -4.11)(was -1.42)(met -0.67)(by -1.40)(a -3.37)(clerk -0.47)(, -1.01) line score is : -1.780, look ahead score is : 0.000
+(and -1.01)(she -7.36)(was -2.57)(not -3.83)(happy -2.34)(till -1.55)(friday -4.80)(. -2.33) line score is : -3.223, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he was n't the wizard he woz 
+-------------------------score:  -3.1555371572894435----------------------- 
+there was a lucky girl named kay 
+ who had a small baby on her way . 
+ when she went to someone , 
+ she was told by their son , 
+ she was not the mother it sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.62)(had -2.44)(a -1.80)(small -5.26)(baby -3.33)(on -3.47)(her -0.61)(way -3.51)(. -2.63) line score is : -2.742, look ahead score is : 0.000
+(when -2.63)(she -4.05)(went -0.82)(to -3.44)(someone -0.79)(, -8.19) line score is : -3.321, look ahead score is : 0.000
+(she -8.19)(was -3.32)(told -1.10)(by -1.37)(their -0.98)(son -2.66)(, -3.93) line score is : -3.078, look ahead score is : 0.000
+(she -3.93)(was -4.75)(not -2.08)(the -4.30)(mother -1.17)(it -2.64)(sunday -5.09)(. -1.15) line score is : -3.140, look ahead score is : 0.000

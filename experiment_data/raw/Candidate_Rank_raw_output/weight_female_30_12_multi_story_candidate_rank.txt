@@ -1,0 +1,308 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ he slipped through the straw and fell in 
+-------------------------score:  -2.789783239364624----------------------- 
+there once was a girl named gwyn 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ she walked through the forest and fell in . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(she -1.12)(walked -1.78)(through -2.32)(the -2.78)(forest -3.70)(and -3.03)(fell -0.60)(in -2.86)(. -1.26) line score is : -2.163, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.015748145058751----------------------- 
+there once was a girl named jin 
+ who felt a strange presence on her skin . 
+ when she awoke to light , 
+ she was shocked by her sight , 
+ but she knew she was seeing she twin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(when -1.26)(she -3.99)(awoke -0.49)(to -3.95)(light -3.71)(, -7.21) line score is : -3.435, look ahead score is : 0.000
+(she -7.21)(was -1.41)(shocked -0.44)(by -1.90)(her -2.68)(sight -2.82)(, -2.46) line score is : -2.703, look ahead score is : 0.000
+(but -2.46)(she -4.66)(knew -1.70)(she -1.97)(was -1.88)(seeing -3.50)(she -1.61)(twin -0.66)(. -5.41) line score is : -2.649, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ then fell into a vat of grease 
+-------------------------score:  -3.0709368413314224----------------------- 
+there once was a girl named lyn 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ then ran into a group of akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(then -1.12)(ran -1.78)(into -2.32)(a -3.56)(group -4.84)(of -1.09)(akin -1.21)(. -3.04) line score is : -2.371, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.0780902966376273----------------------- 
+there once was a girl named in 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ but it seemed she was doing it thin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(but -1.12)(it -1.78)(seemed -2.32)(she -2.50)(was -2.95)(doing -3.73)(it -2.95)(thin -1.02)(. -5.11) line score is : -2.609, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.1635407488793135----------------------- 
+there once was a girl named joycelyn 
+ who felt a strange presence on her skin . 
+ when she awoke to light , 
+ she was shocked by a sight , 
+ but she knew she was seeing it sin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(when -1.26)(she -3.99)(awoke -0.49)(to -3.95)(light -3.71)(, -7.21) line score is : -3.435, look ahead score is : 0.000
+(she -7.21)(was -1.41)(shocked -0.44)(by -1.90)(a -2.68)(sight -2.82)(, -1.92) line score is : -2.626, look ahead score is : 0.000
+(but -1.92)(she -3.56)(knew -3.89)(she -3.21)(was -1.91)(seeing -3.47)(it -1.96)(sin -0.74)(. -5.02) line score is : -2.853, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.1926174144591055----------------------- 
+there once was a girl named chin 
+ who felt a strange presence on her skin . 
+ when she awoke to light , 
+ she was shocked by her sight , 
+ but she had her memories and twin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(when -1.26)(she -3.99)(awoke -0.49)(to -3.95)(light -3.71)(, -7.21) line score is : -3.435, look ahead score is : 0.000
+(she -7.21)(was -1.41)(shocked -0.44)(by -1.90)(her -2.68)(sight -2.82)(, -2.46) line score is : -2.703, look ahead score is : 0.000
+(but -2.46)(she -4.66)(had -1.70)(her -1.97)(memories -1.88)(and -3.77)(twin -5.15)(. -2.79) line score is : -3.045, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ when he saw there were six little chips 
+-------------------------score:  -3.2318758579992477----------------------- 
+there once was a girl named min 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ when she saw there were two male akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(when -1.12)(she -1.78)(saw -2.32)(there -2.41)(were -0.63)(two -1.96)(male -6.47)(akin -2.12)(. -2.03) line score is : -2.317, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.27276310901488----------------------- 
+there was a wise woman named chin 
+ who felt a strange presence on her skin . 
+ when she awoke to rest , 
+ she was shocked by her chest , 
+ which was covered with the most akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(felt -6.88)(a -3.60)(strange -3.85)(presence -3.17)(on -3.80)(her -0.41)(skin -3.61)(. -1.30) line score is : -3.083, look ahead score is : 0.000
+(when -1.30)(she -3.95)(awoke -0.55)(to -3.88)(rest -3.63)(, -8.91) line score is : -3.704, look ahead score is : 0.000
+(she -8.91)(was -0.97)(shocked -0.41)(by -1.91)(her -2.59)(chest -3.05)(, -2.06) line score is : -2.843, look ahead score is : 0.000
+(which -2.06)(was -6.17)(covered -2.22)(with -1.86)(the -0.79)(most -1.56)(akin -1.53)(. -4.27) line score is : -2.558, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.276786373058955----------------------- 
+there once was a girl named lin 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ she looked up in wonder and akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(she -1.12)(looked -1.78)(up -2.32)(in -2.78)(wonder -3.40)(and -1.34)(akin -3.75)(. -4.41) line score is : -2.613, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.2889197372621104----------------------- 
+there once was a girl named trinh 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ it was nice to see a new akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(it -1.12)(was -1.78)(nice -2.32)(to -4.94)(see -0.76)(a -4.64)(new -3.07)(akin -2.18)(. -2.38) line score is : -2.577, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ as his talent and confidence swelled 
+-------------------------score:  -3.3072463417875357----------------------- 
+there once was a girl named linn 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ as her mother and sister akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(as -1.12)(her -1.78)(mother -2.32)(and -5.01)(sister -3.06)(akin -2.03)(. -3.21) line score is : -2.650, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.3114853097546484----------------------- 
+there was a wise woman named shin 
+ who felt a strange presence on her skin . 
+ when she awoke to light , 
+ she was shocked by her sight , 
+ and her eyes grew wider and akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.14)(felt -6.88)(a -3.60)(strange -3.85)(presence -3.17)(on -3.80)(her -0.41)(skin -3.61)(. -1.30) line score is : -3.083, look ahead score is : 0.000
+(when -1.30)(she -3.95)(awoke -0.55)(to -3.88)(light -3.63)(, -7.22) line score is : -3.423, look ahead score is : 0.000
+(she -7.22)(was -1.35)(shocked -0.43)(by -2.00)(her -2.59)(sight -2.93)(, -2.34) line score is : -2.694, look ahead score is : 0.000
+(and -2.34)(her -4.43)(eyes -1.82)(grew -1.19)(wider -3.24)(and -2.36)(akin -4.21)(. -3.32) line score is : -2.861, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ as his talent and confidence swelled 
+-------------------------score:  -3.3392190198103586----------------------- 
+there once was a girl named linh 
+ who felt a strange presence on her skin . 
+ when she awoke to light , 
+ she was shocked by her sight , 
+ as her body and spirit akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(when -1.26)(she -3.99)(awoke -0.49)(to -3.95)(light -3.71)(, -7.21) line score is : -3.435, look ahead score is : 0.000
+(she -7.21)(was -1.41)(shocked -0.44)(by -1.90)(her -2.68)(sight -2.82)(, -2.46) line score is : -2.703, look ahead score is : 0.000
+(as -2.46)(her -4.66)(body -1.70)(and -2.86)(spirit -2.42)(akin -2.22)(. -3.63) line score is : -2.848, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD OUT CD NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ she set out one day 
+ he was ready to faint 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.3477106630802154----------------------- 
+there once was a girl named chin 
+ who felt a strange presence on her skin . 
+ it started out one day , 
+ she went outside to play , 
+ but she saw her parents and akin . 
+------------------------- score breakdown ------------------------ 
+(who -1.78)(felt -6.02)(a -3.56)(strange -3.29)(presence -3.35)(on -3.63)(her -0.36)(skin -3.37)(. -1.26) line score is : -2.958, look ahead score is : 0.000
+(it -1.26)(started -2.46)(out -4.85)(one -1.72)(day -7.73)(, -1.32) line score is : -3.226, look ahead score is : 0.000
+(she -1.32)(went -1.72)(outside -2.44)(to -3.76)(play -2.71)(, -1.12) line score is : -2.179, look ahead score is : 0.000
+(but -1.12)(she -1.78)(saw -2.32)(her -2.50)(parents -2.40)(and -3.47)(akin -3.61)(. -3.95) line score is : -2.645, look ahead score is : 0.000

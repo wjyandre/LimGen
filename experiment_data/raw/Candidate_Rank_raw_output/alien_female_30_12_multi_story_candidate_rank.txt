@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -2.770879959631147----------------------- 
+there was a cunning witch named brande 
+ who trapped a small village on their land . 
+ when they tried to rebel , 
+ they were crushed by her spell , 
+ so they had to stay down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(trapped -7.26)(a -3.75)(small -4.27)(village -4.04)(on -3.94)(their -4.45)(land -2.17)(. -1.78) line score is : -3.675, look ahead score is : 0.000
+(when -1.78)(they -3.67)(tried -2.17)(to -2.69)(rebel -0.04)(, -6.76) line score is : -2.851, look ahead score is : 0.000
+(they -6.76)(were -0.89)(crushed -1.32)(by -0.54)(her -4.14)(spell -0.71)(, -2.62) line score is : -2.425, look ahead score is : 0.000
+(so -2.62)(they -3.79)(had -1.95)(to -4.11)(stay -1.13)(down -2.99)(on -0.18)(the -3.77)(sand -5.16)(. -3.31) line score is : -2.900, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.776104739330935----------------------- 
+there was a cunning witch named brande 
+ who trapped a small village on their land . 
+ when they tried to rebel , 
+ they were killed by a spell , 
+ so they had to stay down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.41)(trapped -7.26)(a -3.75)(small -4.27)(village -4.04)(on -3.94)(their -4.45)(land -2.17)(. -1.78) line score is : -3.675, look ahead score is : 0.000
+(when -1.78)(they -3.67)(tried -2.17)(to -2.69)(rebel -0.04)(, -6.76) line score is : -2.851, look ahead score is : 0.000
+(they -6.76)(were -0.89)(killed -1.32)(by -0.54)(a -3.00)(spell -0.97)(, -1.95) line score is : -2.205, look ahead score is : 0.000
+(so -1.95)(they -5.13)(had -3.22)(to -3.60)(stay -0.94)(down -2.89)(on -0.23)(the -3.50)(sand -5.61)(. -2.86) line score is : -2.992, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9882963798590936----------------------- 
+there once was a witch named brande 
+ who trapped a small village on her land . 
+ when they tried to rebel , 
+ they were crushed by her spell , 
+ and she fell down and broke our hand . 
+------------------------- score breakdown ------------------------ 
+(who -2.41)(trapped -7.91)(a -2.52)(small -4.64)(village -3.45)(on -4.08)(her -2.32)(land -2.90)(. -1.61) line score is : -3.538, look ahead score is : 0.000
+(when -1.61)(they -3.28)(tried -3.14)(to -2.47)(rebel -0.03)(, -6.99) line score is : -2.920, look ahead score is : 0.000
+(they -6.99)(were -1.00)(crushed -1.87)(by -0.51)(her -3.92)(spell -0.70)(, -2.39) line score is : -2.483, look ahead score is : 0.000
+(and -2.39)(she -4.31)(fell -1.98)(down -0.89)(and -1.62)(broke -3.93)(our -4.63)(hand -3.29)(. -2.70) line score is : -2.860, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.0392114225775004----------------------- 
+there once was a witch named brande 
+ who trapped a small village on her land . 
+ when she tried to rebel , 
+ she was killed by a spell , 
+ and left with a terrible wasteland . 
+------------------------- score breakdown ------------------------ 
+(who -2.41)(trapped -7.91)(a -2.52)(small -4.64)(village -3.45)(on -4.08)(her -2.32)(land -2.90)(. -1.61) line score is : -3.538, look ahead score is : 0.000
+(when -1.61)(she -3.28)(tried -1.35)(to -3.26)(rebel -0.02)(, -8.55) line score is : -3.010, look ahead score is : 0.000
+(she -8.55)(was -1.04)(killed -1.00)(by -0.61)(a -2.46)(spell -0.82)(, -1.52) line score is : -2.285, look ahead score is : 0.000
+(and -1.52)(left -5.17)(with -3.08)(a -1.07)(terrible -5.14)(wasteland -3.10)(. -2.21) line score is : -3.042, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.0814728051191196----------------------- 
+there once was a witch named brande 
+ who trapped a small village on her land . 
+ when she tried to rebel , 
+ she was killed by a spell , 
+ but her children came down to her stand . 
+------------------------- score breakdown ------------------------ 
+(who -2.41)(trapped -7.91)(a -2.52)(small -4.64)(village -3.45)(on -4.08)(her -2.32)(land -2.90)(. -1.61) line score is : -3.538, look ahead score is : 0.000
+(when -1.61)(she -3.28)(tried -1.35)(to -3.26)(rebel -0.02)(, -8.55) line score is : -3.010, look ahead score is : 0.000
+(she -8.55)(was -1.04)(killed -1.00)(by -0.61)(a -2.46)(spell -0.82)(, -1.52) line score is : -2.285, look ahead score is : 0.000
+(but -1.52)(her -5.17)(children -3.08)(came -2.03)(down -1.98)(to -4.11)(her -4.48)(stand -4.78)(. -1.63) line score is : -3.198, look ahead score is : 0.000

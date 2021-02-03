@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.7722156864981495----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ and that is the story of this plot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(when -4.28)(he -3.62)(returned -0.79)(to -2.72)(fight -1.23)(, -6.49) line score is : -3.190, look ahead score is : 0.000
+(he -6.49)(was -1.44)(killed -0.40)(by -1.25)(a -1.99)(knight -1.30)(, -1.42) line score is : -2.041, look ahead score is : 0.000
+(and -1.42)(that -5.91)(is -2.72)(the -1.87)(story -5.51)(of -2.64)(this -1.74)(plot -2.50)(. -0.36) line score is : -2.740, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ they came back from the ride 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.843375926837325----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ he came back from the war , 
+ and he went to the store , 
+ and that is the story of this plot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(he -4.28)(came -1.28)(back -4.06)(from -1.00)(the -2.75)(war -1.27)(, -1.06) line score is : -2.242, look ahead score is : 0.000
+(and -1.06)(he -2.70)(went -1.91)(to -2.87)(the -3.82)(store -0.90)(, -1.86) line score is : -2.160, look ahead score is : 0.000
+(and -1.86)(that -7.42)(is -2.48)(the -0.65)(story -5.08)(of -3.28)(this -2.91)(plot -2.37)(. -0.80) line score is : -2.982, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8615252627059817----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ he came back from the war , 
+ and he went to the store , 
+ and he looked down and saw our lot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(he -4.28)(came -1.28)(back -4.06)(from -1.00)(the -2.75)(war -1.27)(, -1.06) line score is : -2.242, look ahead score is : 0.000
+(and -1.06)(he -2.70)(went -1.91)(to -2.87)(the -3.82)(store -0.90)(, -1.86) line score is : -2.160, look ahead score is : 0.000
+(and -1.86)(he -7.42)(looked -2.48)(down -0.65)(and -0.48)(saw -3.93)(our -4.07)(lot -1.88)(. -1.51) line score is : -2.698, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ they came back from the ride 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9901376078205724----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ he came back from the war , 
+ and he went to the store , 
+ but he forgot his weapons and shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(he -4.28)(came -1.28)(back -4.06)(from -1.00)(the -2.75)(war -1.27)(, -1.06) line score is : -2.242, look ahead score is : 0.000
+(and -1.06)(he -2.70)(went -1.91)(to -2.87)(the -3.82)(store -0.90)(, -1.86) line score is : -2.160, look ahead score is : 0.000
+(but -1.86)(he -7.42)(forgot -2.48)(his -3.80)(weapons -0.92)(and -4.42)(shot -1.37)(. -4.57) line score is : -3.355, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9976519336303076----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ when he returned to fight , 
+ he was killed by a knight , 
+ but he survived his battles and taught . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(when -4.28)(he -3.62)(returned -0.79)(to -2.72)(fight -1.23)(, -6.49) line score is : -3.190, look ahead score is : 0.000
+(he -6.49)(was -1.44)(killed -0.40)(by -1.25)(a -1.99)(knight -1.30)(, -1.42) line score is : -2.041, look ahead score is : 0.000
+(but -1.42)(he -5.91)(survived -2.72)(his -2.59)(battles -2.30)(and -2.02)(taught -3.92)(. -5.17) line score is : -3.255, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.1185148109992347----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ he came back from the war , 
+ and he went to the store , 
+ and he started shooting again shot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(he -4.28)(came -1.28)(back -4.06)(from -1.00)(the -2.75)(war -1.27)(, -1.06) line score is : -2.242, look ahead score is : 0.000
+(and -1.06)(he -2.70)(went -1.91)(to -2.87)(the -3.82)(store -0.90)(, -1.86) line score is : -2.160, look ahead score is : 0.000
+(and -1.86)(he -7.42)(started -2.48)(shooting -0.65)(again -0.48)(shot -4.03)(. -3.92) line score is : -2.976, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.173263297926995----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ he came back from the war , 
+ and he went to the door , 
+ and he walked right past somebody hot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(he -4.28)(came -1.28)(back -4.06)(from -1.00)(the -2.75)(war -1.27)(, -1.06) line score is : -2.242, look ahead score is : 0.000
+(and -1.06)(he -2.70)(went -1.91)(to -2.87)(the -3.82)(door -0.90)(, -1.86) line score is : -2.160, look ahead score is : 0.000
+(and -1.86)(he -7.78)(walked -3.13)(right -0.69)(past -0.90)(somebody -4.16)(hot -3.07)(. -2.65) line score is : -3.031, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN AND VBD . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who ate a green apple and died 
+ they came back from the ride 
+ and they rushed to the rail 
+ he claimed that his costume was chile 
+-------------------------score:  -3.1806797731307244----------------------- 
+there was a general named scot 
+ who joined a rebel army and fought . 
+ he came back from the war , 
+ and he went to the store , 
+ he saw that his brother had cannot . 
+------------------------- score breakdown ------------------------ 
+(who -1.60)(joined -6.61)(a -4.29)(rebel -5.92)(army -2.12)(and -1.76)(fought -2.25)(. -4.28) line score is : -3.605, look ahead score is : 0.000
+(he -4.28)(came -1.28)(back -4.06)(from -1.00)(the -2.75)(war -1.27)(, -1.06) line score is : -2.242, look ahead score is : 0.000
+(and -1.06)(he -2.70)(went -1.91)(to -2.87)(the -3.82)(store -0.90)(, -1.86) line score is : -2.160, look ahead score is : 0.000
+(he -1.86)(saw -7.42)(that -2.48)(his -3.14)(brother -2.80)(had -2.69)(cannot -3.55)(. -2.80) line score is : -3.343, look ahead score is : 0.000

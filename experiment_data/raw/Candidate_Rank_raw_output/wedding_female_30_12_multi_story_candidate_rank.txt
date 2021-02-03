@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.5697254594415426----------------------- 
+there once was a lady named renee 
+ who wore a red dress on her birthday . 
+ it was like a costume , 
+ and she came to the room , 
+ and we sat down and had our day . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(wore -4.99)(a -1.03)(red -3.69)(dress -1.01)(on -4.14)(her -1.29)(birthday -3.60)(. -1.32) line score is : -2.502, look ahead score is : 0.000
+(it -1.32)(was -3.41)(like -0.59)(a -4.68)(costume -1.53)(, -4.88) line score is : -2.735, look ahead score is : 0.000
+(and -4.88)(she -1.92)(came -2.03)(to -1.07)(the -4.56)(room -1.43)(, -1.89) line score is : -2.540, look ahead score is : 0.000
+(and -1.89)(we -5.11)(sat -2.73)(down -1.44)(and -2.89)(had -3.12)(our -0.91)(day -1.15)(. -3.08) line score is : -2.478, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -2.9125128465314067----------------------- 
+there once was a lady named kay 
+ who wore a red dress on her birthday . 
+ it was like a costume , 
+ and she came to the room , 
+ and her eyes were bigger and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(wore -4.99)(a -1.03)(red -3.69)(dress -1.01)(on -4.14)(her -1.29)(birthday -3.60)(. -1.32) line score is : -2.502, look ahead score is : 0.000
+(it -1.32)(was -3.41)(like -0.59)(a -4.68)(costume -1.53)(, -4.88) line score is : -2.735, look ahead score is : 0.000
+(and -4.88)(she -1.92)(came -2.03)(to -1.07)(the -4.56)(room -1.43)(, -1.89) line score is : -2.540, look ahead score is : 0.000
+(and -1.89)(her -5.11)(eyes -2.73)(were -1.44)(bigger -4.04)(and -3.15)(okay -0.78)(. -6.94) line score is : -3.261, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP$ NN VBD A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ my mama was a goat 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -2.917561250925064----------------------- 
+there once was a woman named kay 
+ who wore a white dress on her birthday . 
+ she looked like a fairy , 
+ her hair was a cherry , 
+ and her nails were longer and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.52)(wore -4.95)(a -1.04)(white -3.53)(dress -0.85)(on -4.10)(her -1.25)(birthday -4.53)(. -1.37) line score is : -2.572, look ahead score is : 0.000
+(she -1.37)(looked -1.57)(like -4.82)(a -1.38)(fairy -1.01)(, -5.02) line score is : -2.528, look ahead score is : 0.000
+(her -5.02)(hair -2.75)(was -3.81)(a -1.06)(cherry -0.99)(, -3.57) line score is : -2.868, look ahead score is : 0.000
+(and -3.57)(her -7.20)(nails -2.30)(were -0.75)(longer -1.29)(and -3.92)(okay -0.26)(. -6.48) line score is : -3.223, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ and they rushed to the rail 
+ and returned on the previous night 
+-------------------------score:  -2.9814622441927594----------------------- 
+there once was a lady named renee 
+ who wore a white dress on her birthday . 
+ it was like a costume , 
+ and she came to the room , 
+ and sat on the wooden resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(wore -4.99)(a -1.03)(white -3.57)(dress -0.92)(on -4.07)(her -1.28)(birthday -4.09)(. -1.36) line score is : -2.528, look ahead score is : 0.000
+(it -1.36)(was -3.39)(like -0.57)(a -4.75)(costume -1.56)(, -5.02) line score is : -2.775, look ahead score is : 0.000
+(and -5.02)(she -1.84)(came -2.06)(to -1.04)(the -4.50)(room -1.43)(, -1.87) line score is : -2.538, look ahead score is : 0.000
+(and -1.87)(sat -5.04)(on -2.70)(the -1.45)(wooden -4.76)(resume -1.68)(. -0.74) line score is : -2.607, look ahead score is : 0.000

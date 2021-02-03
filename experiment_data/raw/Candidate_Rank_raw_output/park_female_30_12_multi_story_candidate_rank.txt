@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.7902714492696705----------------------- 
+there was a quiet girl named bok 
+ who walked a great distance on her walk . 
+ when she arrived to school , 
+ she was met by a pool , 
+ so she had to sit down on the rock . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(walked -5.56)(a -4.45)(great -5.64)(distance -0.45)(on -3.73)(her -0.68)(walk -3.62)(. -1.62) line score is : -3.021, look ahead score is : 0.000
+(when -1.62)(she -4.47)(arrived -0.72)(to -3.26)(school -4.22)(, -3.87) line score is : -3.027, look ahead score is : 0.000
+(she -3.87)(was -1.37)(met -0.58)(by -1.51)(a -4.27)(pool -0.49)(, -1.21) line score is : -1.900, look ahead score is : 0.000
+(so -1.21)(she -8.91)(had -5.87)(to -3.63)(sit -0.54)(down -3.22)(on -0.21)(the -3.65)(rock -1.71)(. -2.12) line score is : -3.108, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -2.9007656608882826----------------------- 
+there was a quiet girl named bridgette 
+ who walked a straight line on our street . 
+ she would walk to a place , 
+ she would take a staircase , 
+ she was able to talk and to eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(walked -5.56)(a -4.45)(straight -3.69)(line -0.15)(on -4.20)(our -5.29)(street -1.64)(. -0.91) line score is : -3.036, look ahead score is : 0.000
+(she -0.91)(would -1.43)(walk -3.83)(to -2.97)(a -2.59)(place -3.64)(, -3.74) line score is : -2.728, look ahead score is : 0.000
+(she -3.74)(would -2.39)(take -3.62)(a -0.48)(staircase -3.49)(, -0.96) line score is : -2.446, look ahead score is : 0.000
+(she -0.96)(was -7.09)(able -0.95)(to -1.02)(talk -4.53)(and -4.39)(to -0.01)(eat -4.81)(. -2.80) line score is : -2.952, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and give vent to their terror in scremyss 
+-------------------------score:  -2.981396118644625----------------------- 
+there was a quiet girl named marguerite 
+ who walked a straight line on our street . 
+ she would walk to a place , 
+ she would take a staircase , 
+ and go home to her family in heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(walked -5.56)(a -4.45)(straight -3.69)(line -0.15)(on -4.20)(our -5.29)(street -1.64)(. -0.91) line score is : -3.036, look ahead score is : 0.000
+(she -0.91)(would -1.43)(walk -3.83)(to -2.97)(a -2.59)(place -3.64)(, -3.74) line score is : -2.728, look ahead score is : 0.000
+(she -3.74)(would -2.39)(take -3.62)(a -0.48)(staircase -3.49)(, -0.96) line score is : -2.446, look ahead score is : 0.000
+(and -0.96)(go -7.09)(home -0.95)(to -1.42)(her -4.33)(family -3.48)(in -2.86)(heat -0.89)(. -2.31) line score is : -2.698, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -2.9940906055271626----------------------- 
+there was a quiet girl named bok 
+ who walked a great distance on her walk . 
+ when she arrived to town , 
+ she was met by a clown , 
+ she was happy to meet and to talk . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(walked -5.56)(a -4.45)(great -5.64)(distance -0.45)(on -3.73)(her -0.68)(walk -3.62)(. -1.62) line score is : -3.021, look ahead score is : 0.000
+(when -1.62)(she -4.47)(arrived -0.72)(to -3.26)(town -4.22)(, -5.10) line score is : -3.233, look ahead score is : 0.000
+(she -5.10)(was -1.59)(met -0.59)(by -1.73)(a -3.18)(clown -0.41)(, -1.13) line score is : -1.963, look ahead score is : 0.000
+(she -1.13)(was -8.83)(happy -2.41)(to -4.63)(meet -2.17)(and -5.20)(to -1.19)(talk -1.58)(. -4.79) line score is : -3.546, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.0559836506843565----------------------- 
+there was a quiet girl named bok 
+ who walked a great distance on her walk . 
+ when she arrived to town , 
+ she was met by a frown , 
+ because she was carrying her clock . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(walked -5.56)(a -4.45)(great -5.64)(distance -0.45)(on -3.73)(her -0.68)(walk -3.62)(. -1.62) line score is : -3.021, look ahead score is : 0.000
+(when -1.62)(she -4.47)(arrived -0.72)(to -3.26)(town -4.22)(, -5.10) line score is : -3.233, look ahead score is : 0.000
+(she -5.10)(was -1.59)(met -0.59)(by -1.73)(a -3.18)(frown -0.41)(, -1.13) line score is : -1.963, look ahead score is : 0.000
+(because -1.13)(she -8.46)(was -5.16)(carrying -3.42)(her -0.90)(clock -1.13)(. -4.40) line score is : -3.516, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ he was n't the wizard he woz 
+-------------------------score:  -3.108912139650314----------------------- 
+there was a quiet girl named margarete 
+ who walked a straight line on our street . 
+ she would walk to a place , 
+ she would take a staircase , 
+ she was always the person i meet . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(walked -5.56)(a -4.45)(straight -3.69)(line -0.15)(on -4.20)(our -5.29)(street -1.64)(. -0.91) line score is : -3.036, look ahead score is : 0.000
+(she -0.91)(would -1.43)(walk -3.83)(to -2.97)(a -2.59)(place -3.64)(, -3.74) line score is : -2.728, look ahead score is : 0.000
+(she -3.74)(would -2.39)(take -3.62)(a -0.48)(staircase -3.49)(, -0.96) line score is : -2.446, look ahead score is : 0.000
+(she -0.96)(was -7.09)(always -0.95)(the -1.02)(person -4.53)(i -2.42)(meet -4.21)(. -3.78) line score is : -3.120, look ahead score is : 0.000

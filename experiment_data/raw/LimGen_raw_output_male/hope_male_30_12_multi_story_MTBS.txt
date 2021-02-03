@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.0526373591274023----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ that the reason i cried was a mess . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(that -2.31)(the -3.73)(reason -3.53)(i -3.88)(cried -3.51)(was -3.36)(a -0.94)(mess -1.91)(. -0.70) line score is : -2.651, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.1176033429801464----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ once he saw me crying in the press . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(once -2.31)(he -3.73)(saw -3.53)(me -7.87)(crying -2.45)(in -2.13)(the -0.81)(press -1.57)(. -4.24) line score is : -3.181, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now a new teacher they seek 
+-------------------------score:  -3.145767496478173----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and not a female person i guess . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(not -3.73)(a -3.53)(female -4.86)(person -5.03)(i -2.59)(guess -4.00)(. -3.36) line score is : -3.675, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.253598317503929----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ but he does not say in his address . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(but -2.31)(he -3.73)(does -3.53)(not -5.79)(say -2.08)(in -6.62)(his -0.65)(address -3.66)(. -5.10) line score is : -3.717, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and now he 's a college professor 
+-------------------------score:  -3.2996671815072336----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and now he is a mentor process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(now -3.73)(he -3.53)(is -4.86)(a -5.81)(mentor -2.68)(process -1.89)(. -2.40) line score is : -3.400, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ then I sat on my moped and moped 
+-------------------------score:  -3.339965980499983----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ now i am on my way and process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(now -2.31)(i -3.73)(am -3.53)(on -7.82)(my -3.04)(way -2.24)(and -4.54)(process -1.34)(. -1.05) line score is : -3.288, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.4013403803110123----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ in tears i was all in the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(in -2.31)(tears -3.73)(i -3.53)(was -5.74)(all -4.80)(in -6.14)(the -2.33)(process -7.02)(. -4.65) line score is : -4.472, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but I guess that you probably gnu 
+-------------------------score:  -3.4013417305484897----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ but i think that i really process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(but -2.31)(i -3.73)(think -3.53)(that -5.79)(i -1.30)(really -3.51)(process -2.74)(. -2.65) line score is : -3.196, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.407310535830836----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and my feelings were stronger and less . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(my -3.73)(feelings -3.53)(were -4.86)(stronger -4.49)(and -5.67)(less -1.01)(. -6.21) line score is : -3.974, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.4546868483225506----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and followed with a different process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(followed -3.73)(with -3.53)(a -4.86)(different -9.45)(process -4.55)(. -1.54) line score is : -4.281, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and returned on the previous night 
+-------------------------score:  -3.461172827084859----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and decided on the same process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(decided -3.73)(on -3.53)(the -4.86)(same -9.07)(process -5.57)(. -2.48) line score is : -4.507, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.475748239024993----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and says he could not understand yes . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(says -3.73)(he -3.53)(could -4.86)(not -9.22)(understand -2.22)(yes -4.75)(. -2.31) line score is : -4.116, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but the telephone book caused him pain 
+-------------------------score:  -3.4998102053519218----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ but the moment someone touched me less . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(but -2.31)(the -3.73)(moment -3.53)(someone -5.79)(touched -4.03)(me -4.70)(less -6.30)(. -4.01) line score is : -4.299, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.506030535697937----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ a fellow athlete has no access . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(a -2.31)(fellow -3.73)(athlete -3.53)(has -4.38)(no -3.80)(access -4.76)(. -8.59) line score is : -4.442, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.532743881146113----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and learned my lesson a process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(learned -3.73)(my -3.53)(lesson -4.86)(a -8.95)(process -5.26)(. -0.80) line score is : -4.204, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that ungracious young lady in blue 
+-------------------------score:  -3.5402015686035155----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ that little red button in process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(that -2.31)(little -3.73)(red -3.53)(button -3.88)(in -9.05)(process -5.38)(. -2.87) line score is : -4.391, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.5468868055651264----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ i have never heard one or address . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(i -2.31)(have -3.73)(never -3.53)(heard -3.11)(one -3.94)(or -3.79)(address -2.90)(. -5.60) line score is : -3.613, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and finished the solo with honour 
+-------------------------score:  -3.5924836794535318----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and realized the truth with process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(realized -3.73)(the -3.53)(truth -4.86)(with -9.09)(process -4.07)(. -2.93) line score is : -4.358, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.613892165819804----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and really could understand a mess . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(really -3.73)(could -3.53)(understand -4.86)(a -6.77)(mess -8.35)(. -4.63) line score is : -4.882, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that she pickled her internal workins' 
+-------------------------score:  -3.6280745466550193----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ that myself was it easy process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(that -2.31)(myself -3.73)(was -3.53)(it -3.88)(easy -9.54)(process -3.83)(. -6.82) line score is : -4.805, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.685925324757894----------------------- 
+there was a honest boy named jess 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and since then becomes very impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(since -3.73)(then -3.53)(becomes -4.86)(very -6.05)(impress -1.45)(. -12.30) line score is : -4.888, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that unlucky old person of ems 
+-------------------------score:  -3.705023678143819----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ that old english lady of address . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(that -2.31)(old -3.73)(english -3.53)(lady -3.88)(of -9.23)(address -5.75)(. -3.03) line score is : -4.493, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ her career with damir is bizarre 
+-------------------------score:  -3.7411287307739256----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ his face with emotion is impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(his -2.31)(face -3.73)(with -3.53)(emotion -5.57)(is -2.89)(impress -7.25)(. -5.03) line score is : -4.328, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and sometimes get quite cranky 
+-------------------------score:  -3.851784007302646----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and also remember quite impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(also -3.73)(remember -3.53)(quite -4.86)(impress -6.11)(. -8.61) line score is : -4.858, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ but will ruminate on while I chew 
+-------------------------score:  -3.8646917035502772----------------------- 
+there was a honest boy named wes 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ but will explain on while we recess . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(but -2.31)(will -3.73)(explain -3.53)(on -5.79)(while -8.57)(we -6.40)(recess -5.31)(. -11.07) line score is : -5.838, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.9256457646687823----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was told by a guy , 
+ and could only wonder back impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(told -1.79)(by -2.48)(a -3.64)(guy -2.49)(, -2.31) line score is : -2.800, look ahead score is : 0.000
+(and -2.31)(could -3.73)(only -3.53)(wonder -4.86)(back -8.70)(impress -2.81)(. -5.32) line score is : -4.465, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.927512066438794----------------------- 
+there was a honest boy named les 
+ who did a great job on my progress . 
+ when i started to cry , 
+ i was scared by a guy , 
+ and trying help me is but wrong process . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(did -3.86)(a -2.79)(great -2.50)(job -0.34)(on -3.41)(my -3.14)(progress -9.48)(. -2.03) line score is : -3.217, look ahead score is : 0.000
+(when -2.03)(i -4.91)(started -0.79)(to -3.23)(cry -2.53)(, -5.64) line score is : -3.187, look ahead score is : 0.000
+(i -5.64)(was -1.24)(scared -1.79)(by -2.48)(a -4.27)(guy -5.88)(, -4.56) line score is : -3.695, look ahead score is : 0.000
+(and -4.56)(trying -4.30)(help -3.85)(me -2.37)(is -7.67)(but -9.67)(wrong -1.03)(process -5.05)(. -8.84) line score is : -5.262, look ahead score is : 0.000

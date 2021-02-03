@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0158584425225854----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and she looked down and saw our way . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(she -6.09)(looked -2.29)(down -1.36)(and -1.79)(saw -3.33)(our -3.13)(way -2.07)(. -1.63) line score is : -2.630, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.1412182248407796----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ she knew that her family was gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(she -2.00)(knew -6.09)(that -2.29)(her -4.05)(family -3.77)(was -2.52)(gay -3.10)(. -4.04) line score is : -3.480, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.1567564019933343----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ it was strange to see a female play . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(it -2.00)(was -6.09)(strange -2.29)(to -5.70)(see -0.77)(a -4.62)(female -1.80)(play -0.65)(. -2.68) line score is : -2.954, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.192644086666405----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ she looked through the window and saw clay . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(she -2.00)(looked -6.09)(through -2.29)(the -4.05)(window -4.19)(and -6.66)(saw -0.72)(clay -1.73)(. -1.04) line score is : -3.196, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.194784947670996----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ but she does not look in our way . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(but -2.00)(she -6.09)(does -2.29)(not -4.12)(look -1.84)(in -7.80)(our -0.49)(way -4.01)(. -5.88) line score is : -3.833, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and sideways he could n't be seen 
+-------------------------score:  -3.2888492009332104----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and says she could not understand jay . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(says -6.09)(she -2.29)(could -1.36)(not -8.33)(understand -0.85)(jay -4.18)(. -0.85) line score is : -3.242, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.307380666024983----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and it was not like something of prey . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(it -6.09)(was -2.29)(not -1.36)(like -4.31)(something -1.24)(of -3.34)(prey -3.83)(. -4.93) line score is : -3.265, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.33310763258487----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ but she knew she was doing it they . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(but -2.00)(she -6.09)(knew -2.29)(she -4.12)(was -1.84)(doing -3.36)(it -2.55)(they -1.26)(. -4.99) line score is : -3.166, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and returned on the previous night 
+-------------------------score:  -3.40447192688783----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and started on the long resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(started -6.09)(on -2.29)(the -1.36)(long -5.12)(resume -6.79)(. -1.97) line score is : -3.659, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.4137625665433946----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our way . 
+ but the moment she came , 
+ she was shocked by her name , 
+ but it was her eyes and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(way -7.52)(. -1.61) line score is : -3.191, look ahead score is : 0.000
+(but -1.61)(the -4.80)(moment -3.44)(she -4.03)(came -1.10)(, -3.85) line score is : -3.137, look ahead score is : 0.000
+(she -3.85)(was -3.04)(shocked -0.92)(by -2.10)(her -4.91)(name -2.53)(, -2.17) line score is : -2.789, look ahead score is : 0.000
+(but -2.17)(it -6.14)(was -2.27)(her -4.09)(eyes -4.02)(and -0.86)(resume -3.50)(. -4.49) line score is : -3.443, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.432486283202325----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and said her because she was halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(said -6.09)(her -2.29)(because -1.36)(she -4.22)(was -3.61)(halfway -10.22)(. -0.91) line score is : -3.836, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ which leaves him in very bad shape 
+-------------------------score:  -3.4414736042099614----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ which makes it in pretty good cache . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(which -2.00)(makes -6.09)(it -2.29)(in -3.28)(pretty -6.26)(good -2.19)(cache -7.85)(. -6.18) line score is : -4.515, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ so I sat on my moped and moped 
+-------------------------score:  -3.4560916470363736----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ so she hit on her husband and lay . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(so -2.00)(she -6.09)(hit -2.29)(on -4.33)(her -0.97)(husband -7.19)(and -3.92)(lay -2.48)(. -4.41) line score is : -3.741, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.4853373895088833----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and suddenly could do a survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(suddenly -6.09)(could -2.29)(do -1.36)(a -5.21)(survey -6.69)(. -4.49) line score is : -4.018, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but nobody knew what he said 
+-------------------------score:  -3.5133452584346134----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ but nobody knew what she friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(but -2.00)(nobody -6.09)(knew -2.29)(what -4.12)(she -7.97)(friday -2.19)(. -1.92) line score is : -3.796, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and now he 's a college professor 
+-------------------------score:  -3.5181519994812627----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and then she has a heart resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(then -6.09)(she -2.29)(has -1.36)(a -4.52)(heart -1.38)(resume -8.15)(. -2.54) line score is : -3.541, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and now a new teacher they seek 
+-------------------------score:  -3.5262499365114395----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and not a good feeling she okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(not -6.09)(a -2.29)(good -1.36)(feeling -5.97)(she -3.37)(okay -4.66)(. -2.47) line score is : -3.527, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and since then has never benzene 
+-------------------------score:  -3.5306938419739406----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and since then has never resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(since -6.09)(then -2.29)(has -1.36)(never -7.32)(resume -1.39)(. -4.99) line score is : -3.633, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ he left all his fans wanting more 
+-------------------------score:  -3.543072759143768----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ she had all her friends watching sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(she -2.00)(had -6.09)(all -2.29)(her -4.05)(friends -3.46)(watching -6.84)(sunday -2.54)(. -3.37) line score is : -3.829, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and she baked really great apple pies 
+-------------------------score:  -3.550000249378143----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and it was too much news resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(it -6.09)(was -2.29)(too -1.36)(much -4.31)(news -1.24)(resume -3.68)(. -1.82) line score is : -2.847, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ as his talent and confidence swelled 
+-------------------------score:  -3.5583587298790613----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ as her face and body resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(as -2.00)(her -6.09)(face -2.29)(and -3.79)(body -4.02)(resume -3.08)(. -3.92) line score is : -3.597, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.5815996864149646----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ she almost burst in a scream halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(she -2.00)(almost -6.09)(burst -2.29)(in -4.05)(a -5.50)(scream -4.14)(halfway -3.62)(. -5.46) line score is : -4.142, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.669675049185753----------------------- 
+there was a harsh woman named kay 
+ who kept a close eye on our way . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and she was glad even resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(way -7.52)(. -1.61) line score is : -3.191, look ahead score is : 0.000
+(but -1.61)(the -4.80)(moment -3.44)(she -4.03)(came -1.10)(, -3.85) line score is : -3.137, look ahead score is : 0.000
+(she -3.85)(was -3.04)(shocked -0.92)(by -2.10)(her -4.91)(name -2.53)(, -2.17) line score is : -2.789, look ahead score is : 0.000
+(and -2.17)(she -6.14)(was -2.27)(glad -1.28)(even -1.79)(resume -2.74)(. -5.72) line score is : -3.159, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ but will ruminate on while I chew 
+-------------------------score:  -3.675820501581315----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ but will keep on while we resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(but -2.00)(will -6.09)(keep -2.29)(on -4.12)(while -9.01)(we -4.00)(resume -3.03)(. -8.81) line score is : -4.918, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.751439816528751----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ it was when i heard across sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(it -2.00)(was -6.09)(when -2.29)(i -5.70)(heard -0.77)(across -7.66)(sunday -2.16)(. -3.97) line score is : -3.829, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ thirty days is the time he will do 
+-------------------------score:  -3.8224169248715043----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ first words is the word she will resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(first -2.00)(words -6.09)(is -2.29)(the -7.70)(word -7.38)(she -8.96)(will -3.50)(resume -2.28)(. -1.51) line score is : -4.633, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.88031320925802----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our day . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and trying make it sounds but clear okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(day -6.95)(. -1.79) line score is : -3.148, look ahead score is : 0.000
+(but -1.79)(the -4.67)(moment -3.46)(she -4.20)(came -1.01)(, -3.74) line score is : -3.145, look ahead score is : 0.000
+(she -3.74)(was -3.18)(shocked -0.92)(by -1.98)(her -5.11)(name -2.55)(, -2.00) line score is : -2.782, look ahead score is : 0.000
+(and -2.00)(trying -6.09)(make -2.29)(it -1.36)(sounds -8.86)(but -10.59)(clear -3.01)(okay -5.71)(. -8.27) line score is : -5.352, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ BUT THE NN PRP VBD , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ but the copy he wrote 
+ he was told by his wife 
+ and showed him many cstar 
+-------------------------score:  -3.9393651660146385----------------------- 
+there was a harsh woman named renee 
+ who kept a close eye on our way . 
+ but the moment she came , 
+ she was shocked by her name , 
+ and looked us many resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.13)(kept -5.08)(a -3.36)(close -4.82)(eye -0.64)(on -0.07)(our -4.49)(way -7.52)(. -1.61) line score is : -3.191, look ahead score is : 0.000
+(but -1.61)(the -4.80)(moment -3.44)(she -4.03)(came -1.10)(, -3.85) line score is : -3.137, look ahead score is : 0.000
+(she -3.85)(was -3.04)(shocked -0.92)(by -2.10)(her -4.91)(name -2.53)(, -2.17) line score is : -2.789, look ahead score is : 0.000
+(and -2.17)(looked -6.14)(us -2.27)(many -1.28)(resume -4.40)(. -6.63) line score is : -3.814, look ahead score is : 0.000

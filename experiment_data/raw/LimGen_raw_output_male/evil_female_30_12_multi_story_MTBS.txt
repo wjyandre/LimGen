@@ -1,0 +1,550 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -3.202464538235818----------------------- 
+there was a selfish witch named roxanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ it was frightening to think and to can . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(it -2.10)(was -6.49)(frightening -1.67)(to -2.22)(think -0.44)(and -4.37)(to -1.20)(can -2.17)(. -5.54) line score is : -2.911, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ then he walloped me square in the face 
+-------------------------score:  -3.274212227713677----------------------- 
+there was a selfish witch named georgann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ then she saw him walk towards the van . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(then -2.10)(she -6.49)(saw -1.67)(him -5.91)(walk -1.66)(towards -4.07)(the -1.77)(van -4.84)(. -4.00) line score is : -3.612, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -3.3848199983437857----------------------- 
+there was a selfish witch named fran 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ she felt that her body was afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(she -2.10)(felt -6.49)(that -1.67)(her -2.94)(body -2.92)(was -3.58)(afghan -2.66)(. -2.84) line score is : -3.150, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -3.406637523443468----------------------- 
+there was a selfish witch named ruthann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ it was hard to watch a young afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(it -2.10)(was -6.49)(hard -1.67)(to -2.22)(watch -0.44)(a -3.37)(young -0.35)(afghan -3.94)(. -4.49) line score is : -2.785, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.477899780196528----------------------- 
+there was a selfish witch named louanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and make love to my wife in milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(make -6.49)(love -1.67)(to -1.75)(my -9.24)(wife -2.16)(in -0.61)(milan -4.48)(. -3.07) line score is : -3.507, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.4850620766480764----------------------- 
+there was a selfish witch named fran 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and now she has a boyfriend milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(now -6.49)(she -1.67)(has -1.75)(a -5.05)(boyfriend -1.32)(milan -3.88)(. -3.18) line score is : -3.180, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.4871804464247917----------------------- 
+there was a selfish witch named rosanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and it was not like life of milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(it -6.49)(was -1.67)(not -1.75)(like -2.17)(life -1.21)(of -3.97)(milan -3.97)(. -6.22) line score is : -3.283, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.56094478170077----------------------- 
+there was a selfish witch named leann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ it was ugly the way she afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(it -2.10)(was -6.49)(ugly -1.67)(the -2.22)(way -0.44)(she -5.82)(afghan -6.72)(. -0.78) line score is : -3.280, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ then fell into a vat of grease 
+-------------------------score:  -3.6061862439848484----------------------- 
+there was a selfish witch named joanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ then turned into a kind of afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(then -2.10)(turned -6.49)(into -1.67)(a -5.91)(kind -7.48)(of -0.91)(afghan -0.93)(. -4.78) line score is : -3.783, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.627084406216939----------------------- 
+there was a selfish witch named leann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ it was all my thoughts going afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(it -2.10)(was -6.49)(all -1.67)(my -2.22)(thoughts -0.44)(going -4.87)(afghan -4.00)(. -3.79) line score is : -3.197, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.630369815134233----------------------- 
+there was a selfish witch named ann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ she felt it and had feelings and than . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(she -2.10)(felt -6.49)(it -1.67)(and -2.94)(had -2.92)(feelings -3.86)(and -4.14)(than -4.49)(. -4.42) line score is : -3.669, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.6336200052294236----------------------- 
+there was a selfish witch named shan 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and it was exhausting too milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(it -6.49)(was -1.67)(exhausting -1.75)(too -2.17)(milan -1.21)(. -5.26) line score is : -2.949, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ kept insuring her during the service 
+-------------------------score:  -3.649176570875891----------------------- 
+there was a selfish witch named georgann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ was frightening her during the plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(was -2.10)(frightening -6.49)(her -1.67)(during -7.18)(the -5.15)(plan -5.67)(. -7.49) line score is : -5.106, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.667552727460861----------------------- 
+there was a selfish witch named susann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ she was up in heaven and milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(she -2.10)(was -6.49)(up -1.67)(in -2.94)(heaven -2.57)(and -8.30)(milan -1.99)(. -3.56) line score is : -3.701, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ you never can tell till you try 
+-------------------------score:  -3.7039530694484712----------------------- 
+there was a selfish witch named joanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ i never can get past it afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(i -2.10)(never -6.49)(can -1.67)(get -3.51)(past -4.41)(it -6.10)(afghan -2.66)(. -4.41) line score is : -3.917, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.7113929529984793----------------------- 
+there was a selfish witch named joann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ she said when she heard across milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(she -2.10)(said -6.49)(when -1.67)(she -2.94)(heard -2.72)(across -6.60)(milan -1.20)(. -3.88) line score is : -3.450, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.729838266454894----------------------- 
+there was a selfish witch named susanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and filled with a terrible afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(filled -6.49)(with -1.67)(a -1.75)(terrible -7.11)(afghan -1.09)(. -3.73) line score is : -3.419, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.802170996008248----------------------- 
+there was a selfish witch named dianne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and made her desire a milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(made -6.49)(her -1.67)(desire -1.75)(a -6.01)(milan -0.91)(. -6.46) line score is : -3.627, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.8113385758229663----------------------- 
+there was a selfish witch named diane 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ she never recovered a milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(she -2.10)(never -6.49)(recovered -1.67)(a -2.94)(milan -4.51)(. -3.96) line score is : -3.611, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.8507897794246673----------------------- 
+there was a selfish witch named joann 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ felt a bit no better than afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(felt -2.10)(a -6.49)(bit -1.67)(no -7.27)(better -5.23)(than -1.89)(afghan -9.40)(. -3.47) line score is : -4.687, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and hop in before all the crowd 
+-------------------------score:  -3.871612924337387----------------------- 
+there was a selfish witch named maryanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and torture in before all the plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(torture -6.49)(in -1.67)(before -1.75)(all -8.88)(the -4.60)(plan -11.24)(. -4.97) line score is : -5.212, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ I d probably know two or three 
+-------------------------score:  -3.94907076160113----------------------- 
+there was a selfish witch named maryanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ i have never come one or afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(i -2.10)(have -6.49)(never -1.67)(come -3.51)(one -4.84)(or -1.92)(afghan -5.82)(. -8.23) line score is : -4.322, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.9509486363780115----------------------- 
+there was a selfish witch named diane 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and trying do it is but cruel plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(trying -6.49)(do -1.67)(it -1.75)(is -7.97)(but -9.66)(cruel -2.49)(plan -4.55)(. -8.48) line score is : -5.016, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -4.039811001221339----------------------- 
+there was a selfish witch named louanne 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ and hurt what the people all afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(and -2.10)(hurt -6.49)(what -1.67)(the -1.75)(people -7.12)(all -7.61)(afghan -4.19)(. -4.64) line score is : -4.447, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD JJ TO VB , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ he ran like a flash 
+ he was ready to faint 
+ then he couldn t think of anything 
+-------------------------score:  -4.353029098113378----------------------- 
+there was a selfish witch named fran 
+ who thought out her feelings for a man . 
+ it was like a nightmare , 
+ it was painful to bear , 
+ then he ca always be of afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.55)(thought -5.07)(out -7.18)(her -2.41)(feelings -4.65)(for -1.22)(a -4.21)(man -2.31)(. -2.37) line score is : -3.441, look ahead score is : 0.000
+(it -2.37)(was -3.76)(like -1.33)(a -3.73)(nightmare -1.82)(, -4.76) line score is : -2.961, look ahead score is : 0.000
+(it -4.76)(was -2.06)(painful -4.13)(to -0.72)(bear -4.71)(, -2.10) line score is : -3.083, look ahead score is : 0.000
+(then -2.10)(he -6.49)(ca -1.67)(always -5.91)(be -3.69)(of -8.02)(afghan -14.99)(. -4.29) line score is : -5.896, look ahead score is : 0.000

@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.819844400510192----------------------- 
+there was a lucky chef named dwight 
+ who ate all his chicken in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and that is the story of this site . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(chicken -3.88)(in -2.78)(a -2.13)(night -4.06)(. -1.97) line score is : -2.934, look ahead score is : 0.000
+(when -1.97)(he -4.41)(returned -1.03)(to -3.40)(town -1.89)(, -2.70) line score is : -2.567, look ahead score is : 0.000
+(he -2.70)(was -1.07)(met -0.63)(by -2.40)(a -4.24)(clown -0.39)(, -1.43) line score is : -1.838, look ahead score is : 0.000
+(and -1.43)(that -8.02)(is -2.35)(the -2.96)(story -5.22)(of -3.38)(this -2.75)(site -2.10)(. -1.21) line score is : -3.270, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8709880501934975----------------------- 
+there was a lucky chef named dwight 
+ who ate all his chicken in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ so he had to go down on the right . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(chicken -3.88)(in -2.78)(a -2.13)(night -4.06)(. -1.97) line score is : -2.934, look ahead score is : 0.000
+(when -1.97)(he -4.41)(returned -1.03)(to -3.40)(town -1.89)(, -2.70) line score is : -2.567, look ahead score is : 0.000
+(he -2.70)(was -1.07)(met -0.63)(by -2.40)(a -4.24)(clown -0.39)(, -1.43) line score is : -1.838, look ahead score is : 0.000
+(so -1.43)(he -8.02)(had -2.35)(to -5.77)(go -0.52)(down -3.81)(on -0.43)(the -2.83)(right -4.31)(. -4.04) line score is : -3.354, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9535456402227283----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and he went down and asked his invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(and -1.45)(he -8.20)(went -2.13)(down -2.72)(and -2.54)(asked -4.00)(his -3.77)(invite -3.38)(. -3.01) line score is : -3.467, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -2.9565529031679034----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ he was afraid to speak and to write . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(he -1.45)(was -8.20)(afraid -2.13)(to -6.31)(speak -2.73)(and -4.45)(to -1.37)(write -3.52)(. -3.93) line score is : -3.787, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.9700005198678663----------------------- 
+there was a lucky chef named dwight 
+ who ate all his chicken in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ so he quickly got on the invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(chicken -3.88)(in -2.78)(a -2.13)(night -4.06)(. -1.97) line score is : -2.934, look ahead score is : 0.000
+(when -1.97)(he -4.41)(returned -1.03)(to -3.40)(town -1.89)(, -2.70) line score is : -2.567, look ahead score is : 0.000
+(he -2.70)(was -1.07)(met -0.63)(by -2.40)(a -4.24)(clown -0.39)(, -1.43) line score is : -1.838, look ahead score is : 0.000
+(so -1.43)(he -8.02)(quickly -2.35)(got -5.77)(on -0.52)(the -5.39)(invite -3.53)(. -4.16) line score is : -3.898, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.0250625694170594----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and it was then like clock of midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(and -1.45)(it -8.20)(was -2.13)(then -2.72)(like -5.01)(clock -0.56)(of -3.51)(midnight -8.47)(. -3.18) line score is : -3.914, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.0786555975675585----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and he went home angrily midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(and -1.45)(he -8.20)(went -2.13)(home -2.72)(angrily -2.54)(midnight -4.00)(. -2.51) line score is : -3.363, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.0837850589906015----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was told by a clown , 
+ he was up in heaven and upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(told -0.66)(by -2.31)(a -3.62)(clown -1.86)(, -1.81) line score is : -2.103, look ahead score is : 0.000
+(he -1.81)(was -8.88)(up -3.05)(in -4.96)(heaven -1.33)(and -5.73)(upright -2.56)(. -2.62) line score is : -3.868, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a regular brute of a bee 
+-------------------------score:  -3.1478995187208056----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ he tells a young woman of a fight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(he -1.45)(tells -8.20)(a -2.13)(young -6.31)(woman -5.33)(of -4.43)(a -4.35)(fight -1.88)(. -4.30) line score is : -4.264, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ when he saw there were six little chips 
+-------------------------score:  -3.1918476028367877----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ when he said there was one good midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(when -1.45)(he -8.20)(said -2.13)(there -7.94)(was -0.52)(one -3.64)(good -5.80)(midnight -0.38)(. -4.45) line score is : -3.834, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.214916964692454----------------------- 
+there was a lucky chef named dwight 
+ who ate all his chicken in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and his chickens were better and light . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(chicken -3.88)(in -2.78)(a -2.13)(night -4.06)(. -1.97) line score is : -2.934, look ahead score is : 0.000
+(when -1.97)(he -4.41)(returned -1.03)(to -3.40)(town -1.89)(, -2.70) line score is : -2.567, look ahead score is : 0.000
+(he -2.70)(was -1.07)(met -0.63)(by -2.40)(a -4.24)(clown -0.39)(, -1.43) line score is : -1.838, look ahead score is : 0.000
+(and -1.43)(his -8.02)(chickens -2.35)(were -2.96)(better -3.81)(and -5.65)(light -0.61)(. -8.31) line score is : -4.144, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.222252259331365----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was told by a clown , 
+ that no person was safe but midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(told -0.66)(by -2.31)(a -3.62)(clown -1.86)(, -1.81) line score is : -2.103, look ahead score is : 0.000
+(that -1.81)(no -8.88)(person -3.05)(was -3.83)(safe -5.25)(but -4.38)(midnight -2.28)(. -4.02) line score is : -4.189, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and sideways he could n't be seen 
+-------------------------score:  -3.246914112760175----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and says he could hardly believe quite . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(and -1.45)(says -8.20)(he -2.13)(could -2.72)(hardly -7.93)(believe -1.43)(quite -4.56)(. -3.35) line score is : -3.970, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT PRP VBD PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that she pickled her internal workins' 
+-------------------------score:  -3.2498399754365286----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was told by a clown , 
+ that he was himself possessed outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(told -0.66)(by -2.31)(a -3.62)(clown -1.86)(, -1.81) line score is : -2.103, look ahead score is : 0.000
+(that -1.81)(he -8.88)(was -3.05)(himself -3.83)(possessed -1.13)(outright -1.71)(. -8.47) line score is : -4.125, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.2665827184915543----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a frown , 
+ as if he outright hated midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(frown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(as -1.45)(if -9.74)(he -5.51)(outright -3.18)(hated -0.68)(midnight -0.64)(. -12.82) line score is : -4.861, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.3041292895873386----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and asked with a serious upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(and -1.45)(asked -8.20)(with -2.13)(a -2.72)(serious -3.18)(upright -6.34)(. -1.75) line score is : -3.680, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.333994178041335----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ he thought that his father had outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(he -1.45)(thought -8.20)(that -2.13)(his -6.31)(father -3.47)(had -3.46)(outright -3.97)(. -3.49) line score is : -4.058, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.3402467677990595----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ and since then has frequently invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(and -1.45)(since -8.20)(then -2.13)(has -2.72)(frequently -7.11)(invite -2.01)(. -2.18) line score is : -3.686, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.363967837889989----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was told by a clown , 
+ to take three potatoes to midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(told -0.66)(by -2.31)(a -3.62)(clown -1.86)(, -1.81) line score is : -2.103, look ahead score is : 0.000
+(to -1.81)(take -8.88)(three -3.05)(potatoes -5.49)(to -3.47)(midnight -5.30)(. -6.25) line score is : -4.893, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.3758859703938167----------------------- 
+there was a lucky chef named dwight 
+ who ate all his chicken in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ he says a young indian outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(chicken -3.88)(in -2.78)(a -2.13)(night -4.06)(. -1.97) line score is : -2.934, look ahead score is : 0.000
+(when -1.97)(he -4.41)(returned -1.03)(to -3.40)(town -1.89)(, -2.70) line score is : -2.567, look ahead score is : 0.000
+(he -2.70)(was -1.07)(met -0.63)(by -2.40)(a -4.24)(clown -0.39)(, -1.43) line score is : -1.838, look ahead score is : 0.000
+(he -1.43)(says -8.02)(a -2.35)(young -6.06)(indian -2.19)(outright -7.35)(. -3.95) line score is : -4.482, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.396538883447647----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ he promptly stole in a car outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(he -1.45)(promptly -8.20)(stole -2.13)(in -6.31)(a -5.44)(car -4.76)(outright -6.64)(. -2.56) line score is : -4.686, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ thirty days is the time he will do 
+-------------------------score:  -3.4131541466340423----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a brown , 
+ old men is the word he will rewrite . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(brown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(old -1.45)(men -7.72)(is -4.60)(the -5.21)(word -6.94)(he -8.85)(will -3.28)(rewrite -1.72)(. -1.91) line score is : -4.631, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I d probably know two or three 
+-------------------------score:  -3.4234955878027025----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ i think probably bob ten or bright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(i -1.45)(think -8.20)(probably -2.13)(bob -8.32)(ten -1.76)(or -5.90)(bright -6.40)(. -9.08) line score is : -5.404, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ us camels get into a stew 
+-------------------------score:  -3.437341363231341----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a brown , 
+ old men figure into a twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(brown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(old -1.45)(men -7.72)(figure -4.60)(into -5.21)(a -6.94)(twilight -6.81)(. -9.00) line score is : -5.962, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE THE NN VBD AND VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ because the man bullied and boucestcr 
+-------------------------score:  -3.437570715943972----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ because the police had and outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(met -0.66)(by -2.31)(a -4.17)(clown -0.32)(, -1.45) line score is : -1.911, look ahead score is : 0.000
+(because -1.45)(the -8.20)(police -2.13)(had -7.30)(and -2.34)(outright -4.83)(. -0.87) line score is : -3.874, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THIS VBD RB VB TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ this did n't apply to her feet 
+-------------------------score:  -3.468700631010917----------------------- 
+there was a lucky chef named dwight 
+ who ate all his chicken in a night . 
+ when he returned to town , 
+ he was met by a clown , 
+ this was not forgotten to his quite . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(chicken -3.88)(in -2.78)(a -2.13)(night -4.06)(. -1.97) line score is : -2.934, look ahead score is : 0.000
+(when -1.97)(he -4.41)(returned -1.03)(to -3.40)(town -1.89)(, -2.70) line score is : -2.567, look ahead score is : 0.000
+(he -2.70)(was -1.07)(met -0.63)(by -2.40)(a -4.24)(clown -0.39)(, -1.43) line score is : -1.838, look ahead score is : 0.000
+(this -1.43)(was -8.02)(not -2.35)(forgotten -6.92)(to -5.78)(his -3.60)(quite -8.23)(. -6.06) line score is : -5.301, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT NN IN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that man in a boat 
+-------------------------score:  -3.4908301891951727----------------------- 
+there was a lucky chef named dwight 
+ who ate all his dinner in a night . 
+ when he returned to town , 
+ he was told by a clown , 
+ that nobody outside a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.34)(ate -5.13)(all -2.54)(his -2.60)(dinner -3.82)(in -2.55)(a -2.01)(night -4.27)(. -2.09) line score is : -2.927, look ahead score is : 0.000
+(when -2.09)(he -4.23)(returned -1.02)(to -3.06)(town -1.78)(, -3.38) line score is : -2.593, look ahead score is : 0.000
+(he -3.38)(was -1.09)(told -0.66)(by -2.31)(a -3.62)(clown -1.86)(, -1.81) line score is : -2.103, look ahead score is : 0.000
+(that -1.81)(nobody -8.88)(outside -3.05)(a -3.83)(fortnight -6.71)(. -6.67) line score is : -5.159, look ahead score is : 0.000

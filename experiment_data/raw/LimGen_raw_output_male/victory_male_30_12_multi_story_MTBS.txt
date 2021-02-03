@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.081903476268053----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and that is the reason of this score . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(that -9.78)(is -7.43)(the -2.24)(reason -5.29)(of -3.52)(this -2.24)(score -1.70)(. -2.74) line score is : -4.073, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ she was destined to go a long way 
+-------------------------score:  -3.1659184992313385----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he had grown to be a great mentor . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(had -10.44)(grown -4.10)(to -8.29)(be -2.61)(a -4.90)(great -3.00)(mentor -1.23)(. -1.63) line score is : -4.204, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ they bedded her down in the stable 
+-------------------------score:  -3.212092343837984----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he wore himself down outside the door . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(wore -10.44)(himself -4.10)(down -8.29)(outside -3.53)(the -6.76)(door -2.61)(. -9.45) line score is : -5.851, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ to call my last novel impure 
+-------------------------score:  -3.266606346766154----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ to give his entire wealth therefore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(to -1.71)(give -9.78)(his -7.43)(entire -2.01)(wealth -3.29)(therefore -2.83)(. -4.38) line score is : -4.489, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ thirty days is the time he will do 
+-------------------------score:  -3.2921504601836205----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ thin hands is the man he will mentor . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(thin -1.64)(hands -10.44)(is -4.10)(the -3.14)(man -5.89)(he -8.04)(will -3.36)(mentor -3.83)(. -1.81) line score is : -4.694, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ he left all his fans wanting more 
+-------------------------score:  -3.2975811612221504----------------------- 
+there once was a captain named dwight 
+ who lost all his money in a fight . 
+ when he returned to court , 
+ he was found by his short , 
+ he had all his teeth missing outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(fight -5.42)(. -1.98) line score is : -2.674, look ahead score is : 0.000
+(when -1.98)(he -3.93)(returned -0.96)(to -3.10)(court -1.31)(, -5.91) line score is : -2.864, look ahead score is : 0.000
+(he -5.91)(was -0.89)(found -0.79)(by -1.25)(his -2.89)(short -4.26)(, -1.97) line score is : -2.565, look ahead score is : 0.000
+(he -1.97)(had -10.65)(all -2.95)(his -8.57)(teeth -2.88)(missing -6.10)(outright -0.56)(. -1.90) line score is : -4.447, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BEFORE PRP VBD OUT FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ before she went out for a walk 
+-------------------------score:  -3.3400038922986677----------------------- 
+there once was a captain named dwight 
+ who lost all his money in a fight . 
+ when he returned to court , 
+ he was told by her tort , 
+ before he was out for a fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(fight -5.42)(. -1.98) line score is : -2.674, look ahead score is : 0.000
+(when -1.98)(he -3.93)(returned -0.96)(to -3.10)(court -1.31)(, -5.91) line score is : -2.864, look ahead score is : 0.000
+(he -5.91)(was -0.89)(told -0.79)(by -1.25)(her -2.75)(tort -2.13)(, -6.39) line score is : -2.874, look ahead score is : 0.000
+(before -6.39)(he -11.17)(was -5.39)(out -7.47)(for -1.39)(a -1.54)(fortnight -6.98)(. -4.88) line score is : -5.652, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.398631788069202----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ which was made with the greatest uproar . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(which -1.71)(was -9.78)(made -7.43)(with -3.10)(the -1.50)(greatest -4.40)(uproar -3.88)(. -1.54) line score is : -4.166, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.418979790902907----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he said that his father had therefore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(said -10.44)(that -4.10)(his -8.29)(father -3.22)(had -4.79)(therefore -2.67)(. -2.89) line score is : -4.755, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and returned on the previous night 
+-------------------------score:  -3.4332259774208067----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and tried on the previous before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(tried -9.78)(on -7.43)(the -2.24)(previous -5.96)(before -3.27)(. -1.75) line score is : -4.592, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.454629234969616----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ in chambers he was all in the floor . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(in -1.71)(chambers -9.78)(he -7.43)(was -3.97)(all -8.13)(in -5.21)(the -1.44)(floor -7.40)(. -4.98) line score is : -5.560, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ she sat up in bed and meowed 
+-------------------------score:  -3.4773740691523396----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he looked up in disbelief and tore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(looked -10.44)(up -4.10)(in -8.29)(disbelief -4.62)(and -4.77)(tore -4.16)(. -3.42) line score is : -5.180, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ which leaves him in very bad shape 
+-------------------------score:  -3.4999260633222518----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ which makes him in very bad before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(which -1.71)(makes -9.78)(him -7.43)(in -3.10)(very -7.93)(bad -0.75)(before -6.18)(. -5.63) line score is : -5.313, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ in a sugary takeover bid 
+-------------------------score:  -3.5065041657151848----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ in a desperate attempt therefore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(in -1.71)(a -9.78)(desperate -7.43)(attempt -3.97)(therefore -2.98)(. -5.01) line score is : -5.146, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.514299176633358----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ and he was down and was his mentor . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(and -1.64)(he -10.44)(was -4.10)(down -6.75)(and -5.44)(was -1.65)(his -7.90)(mentor -3.69)(. -6.16) line score is : -5.308, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and hop in before all the crowd 
+-------------------------score:  -3.528118799771032----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and put in before all the before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(put -9.78)(in -7.43)(before -2.24)(all -6.76)(the -1.70)(before -8.18)(. -5.74) line score is : -5.443, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.534672180811564----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and ordered his family a store . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(ordered -9.78)(his -7.43)(family -2.24)(a -5.52)(store -4.83)(. -3.89) line score is : -5.058, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.55304652651151----------------------- 
+there once was a captain named dwight 
+ who lost all his money in a fight . 
+ when he returned to court , 
+ he was found by his short , 
+ and he was shot eleven midnight . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(fight -5.42)(. -1.98) line score is : -2.674, look ahead score is : 0.000
+(when -1.98)(he -3.93)(returned -0.96)(to -3.10)(court -1.31)(, -5.91) line score is : -2.864, look ahead score is : 0.000
+(he -5.91)(was -0.89)(found -0.79)(by -1.25)(his -2.89)(short -4.26)(, -1.97) line score is : -2.565, look ahead score is : 0.000
+(and -1.97)(he -10.65)(was -2.95)(shot -6.79)(eleven -3.20)(midnight -1.42)(. -5.92) line score is : -4.701, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ he was n't the wizard he woz 
+-------------------------score:  -3.5891120837580774----------------------- 
+there once was a captain named dwight 
+ who lost all his money in a fight . 
+ when he returned to court , 
+ he was told by her tort , 
+ he was not the victim she outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(fight -5.42)(. -1.98) line score is : -2.674, look ahead score is : 0.000
+(when -1.98)(he -3.93)(returned -0.96)(to -3.10)(court -1.31)(, -5.91) line score is : -2.864, look ahead score is : 0.000
+(he -5.91)(was -0.89)(told -0.79)(by -1.25)(her -2.75)(tort -2.13)(, -6.39) line score is : -2.874, look ahead score is : 0.000
+(he -6.39)(was -11.17)(not -5.39)(the -2.96)(victim -1.48)(she -3.12)(outright -4.75)(. -2.86) line score is : -4.767, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.6117169819772243----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he had not come home covered this sore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(had -10.44)(not -4.10)(come -8.29)(home -2.61)(covered -4.30)(this -5.11)(sore -3.33)(. -9.17) line score is : -5.442, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.619892301097993----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he always wore in a pair before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(always -10.44)(wore -4.10)(in -8.29)(a -6.42)(pair -2.48)(before -7.16)(. -2.85) line score is : -5.423, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.6350800241193464----------------------- 
+there once was a captain named dwight 
+ who lost all his money in a fight . 
+ when he returned to court , 
+ he was told by her tort , 
+ he never can be in it upright . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(fight -5.42)(. -1.98) line score is : -2.674, look ahead score is : 0.000
+(when -1.98)(he -3.93)(returned -0.96)(to -3.10)(court -1.31)(, -5.91) line score is : -2.864, look ahead score is : 0.000
+(he -5.91)(was -0.89)(told -0.79)(by -1.25)(her -2.75)(tort -2.13)(, -6.39) line score is : -2.874, look ahead score is : 0.000
+(he -6.39)(never -11.17)(can -5.39)(be -2.96)(in -5.83)(it -6.15)(upright -2.57)(. -3.86) line score is : -5.542, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and kissed her because he was wuise 
+-------------------------score:  -3.6428225001981183----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and had her because she was therefore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(had -9.78)(her -7.43)(because -2.24)(she -4.34)(was -8.27)(therefore -8.30)(. -1.41) line score is : -5.435, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.6626855269555123----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ he was when he hit across before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(he -1.64)(was -10.44)(when -4.10)(he -8.29)(hit -2.07)(across -9.65)(before -0.46)(. -6.16) line score is : -5.353, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and finished the solo with honour 
+-------------------------score:  -3.663782771428426----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and had the defendant with before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(had -9.78)(the -7.43)(defendant -2.24)(with -4.34)(before -3.44)(. -6.44) line score is : -5.054, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ and showed him many cstar 
+-------------------------score:  -3.7309755867925185----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ and sentenced himself many before . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(and -1.71)(sentenced -9.78)(himself -7.43)(many -2.24)(before -5.56)(. -7.09) line score is : -5.636, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ to keep from soiling her feet 
+-------------------------score:  -3.7525041421254475----------------------- 
+there once was a captain named salvador 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was forced by his tort , 
+ to go from presiding his mentor . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(forced -0.67)(by -1.35)(his -4.51)(tort -3.67)(, -1.71) line score is : -2.740, look ahead score is : 0.000
+(to -1.71)(go -9.78)(from -7.43)(presiding -2.01)(his -4.34)(mentor -5.41)(. -9.37) line score is : -5.721, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ as if he 'd been invited 
+-------------------------score:  -3.7566434860229494----------------------- 
+there once was a captain named theodore 
+ who lost all his money in a war . 
+ when he returned to court , 
+ he was told by his short , 
+ as if he outright denied therefore . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(war -5.26)(. -1.53) line score is : -2.607, look ahead score is : 0.000
+(when -1.53)(he -3.96)(returned -0.88)(to -3.01)(court -1.24)(, -6.33) line score is : -2.824, look ahead score is : 0.000
+(he -6.33)(was -0.94)(told -0.67)(by -1.35)(his -3.35)(short -2.13)(, -1.64) line score is : -2.346, look ahead score is : 0.000
+(as -1.64)(if -10.44)(he -4.10)(outright -8.62)(denied -3.86)(therefore -1.82)(. -14.05) line score is : -6.361, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ great writers are fewer and fewer 
+-------------------------score:  -3.9720470726490023----------------------- 
+there once was a captain named dwight 
+ who lost all his money in a fight . 
+ when he returned to court , 
+ he was found by his short , 
+ thin arms re horsepower and outright . 
+------------------------- score breakdown ------------------------ 
+(who -2.21)(lost -5.42)(all -3.42)(his -0.42)(money -2.61)(in -1.86)(a -0.74)(fight -5.42)(. -1.98) line score is : -2.674, look ahead score is : 0.000
+(when -1.98)(he -3.93)(returned -0.96)(to -3.10)(court -1.31)(, -5.91) line score is : -2.864, look ahead score is : 0.000
+(he -5.91)(was -0.89)(found -0.79)(by -1.25)(his -2.89)(short -4.26)(, -1.97) line score is : -2.565, look ahead score is : 0.000
+(thin -1.97)(arms -10.65)(re -2.95)(horsepower -3.25)(and -3.07)(outright -8.50)(. -20.51) line score is : -7.272, look ahead score is : 0.000

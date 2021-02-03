@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.5847678979237876----------------------- 
+there was a lucky girl named renee 
+ who got a great deal on her birthday . 
+ she came back from the store , 
+ and she went to the door , 
+ and she looked down and saw her okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.44)(got -2.71)(a -2.59)(great -3.96)(deal -1.74)(on -1.28)(her -1.67)(birthday -4.73)(. -1.28) line score is : -2.489, look ahead score is : 0.000
+(she -1.28)(came -1.88)(back -4.49)(from -2.76)(the -2.60)(store -1.71)(, -1.88) line score is : -2.371, look ahead score is : 0.000
+(and -1.88)(she -3.22)(went -2.07)(to -2.12)(the -4.84)(door -1.49)(, -1.43) line score is : -2.436, look ahead score is : 0.000
+(and -1.43)(she -3.61)(looked -2.08)(down -0.63)(and -0.75)(saw -3.11)(her -3.41)(okay -1.41)(. -2.10) line score is : -2.057, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.707900570705533----------------------- 
+there was a lucky girl named kay 
+ who got a great deal on her birthday . 
+ she came back from the store , 
+ and she went to the door , 
+ but she forgot her cards and resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.44)(got -2.71)(a -2.59)(great -3.96)(deal -1.74)(on -1.28)(her -1.67)(birthday -4.73)(. -1.28) line score is : -2.489, look ahead score is : 0.000
+(she -1.28)(came -1.88)(back -4.49)(from -2.76)(the -2.60)(store -1.71)(, -1.88) line score is : -2.371, look ahead score is : 0.000
+(and -1.88)(she -3.22)(went -2.07)(to -2.12)(the -4.84)(door -1.49)(, -1.43) line score is : -2.436, look ahead score is : 0.000
+(but -1.43)(she -3.61)(forgot -2.08)(her -2.63)(cards -1.29)(and -4.31)(resume -1.23)(. -5.96) line score is : -2.819, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -2.716143178217339----------------------- 
+there was a lucky girl named kay 
+ who got a great deal on her birthday . 
+ she came back from the store , 
+ and i went to the door , 
+ but she said she was taking it gay . 
+------------------------- score breakdown ------------------------ 
+(who -2.44)(got -2.71)(a -2.59)(great -3.96)(deal -1.74)(on -1.28)(her -1.67)(birthday -4.73)(. -1.28) line score is : -2.489, look ahead score is : 0.000
+(she -1.28)(came -1.88)(back -4.49)(from -2.76)(the -2.60)(store -1.71)(, -1.88) line score is : -2.371, look ahead score is : 0.000
+(and -1.88)(i -3.22)(went -2.07)(to -3.35)(the -4.04)(door -1.27)(, -2.37) line score is : -2.599, look ahead score is : 0.000
+(but -2.37)(she -2.59)(said -2.42)(she -2.84)(was -1.28)(taking -3.01)(it -1.07)(gay -1.73)(. -4.76) line score is : -2.454, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -2.7475128827556485----------------------- 
+there was a lucky girl named renee 
+ who got a great deal on her birthday . 
+ she came back from the store , 
+ and i went to the door , 
+ because she was wearing my resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.44)(got -2.71)(a -2.59)(great -3.96)(deal -1.74)(on -1.28)(her -1.67)(birthday -4.73)(. -1.28) line score is : -2.489, look ahead score is : 0.000
+(she -1.28)(came -1.88)(back -4.49)(from -2.76)(the -2.60)(store -1.71)(, -1.88) line score is : -2.371, look ahead score is : 0.000
+(and -1.88)(i -3.22)(went -2.07)(to -3.35)(the -4.04)(door -1.27)(, -2.37) line score is : -2.599, look ahead score is : 0.000
+(because -2.37)(she -2.59)(was -2.42)(wearing -3.85)(my -1.90)(resume -1.43)(. -3.71) line score is : -2.610, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -2.748226531090275----------------------- 
+there was a lucky girl named renee 
+ who got a great deal on her birthday . 
+ she came back from the store , 
+ and she went to the door , 
+ and she started crying then okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.44)(got -2.71)(a -2.59)(great -3.96)(deal -1.74)(on -1.28)(her -1.67)(birthday -4.73)(. -1.28) line score is : -2.489, look ahead score is : 0.000
+(she -1.28)(came -1.88)(back -4.49)(from -2.76)(the -2.60)(store -1.71)(, -1.88) line score is : -2.371, look ahead score is : 0.000
+(and -1.88)(she -3.22)(went -2.07)(to -2.12)(the -4.84)(door -1.49)(, -1.43) line score is : -2.436, look ahead score is : 0.000
+(and -1.43)(she -3.61)(started -2.08)(crying -0.63)(then -0.75)(okay -4.19)(. -1.43) line score is : -2.016, look ahead score is : 0.000

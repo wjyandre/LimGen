@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.6825840128585696----------------------- 
+there was a funny chef named kay 
+ who cooked a great meal on my birthday . 
+ i asked for her invite , 
+ and she came to the site , 
+ and we sat down and shared our day . 
+------------------------- score breakdown ------------------------ 
+(who -2.09)(cooked -3.96)(a -3.26)(great -3.78)(meal -1.68)(on -4.68)(my -2.75)(birthday -0.54)(. -1.07) line score is : -2.644, look ahead score is : 0.000
+(i -1.07)(asked -1.87)(for -3.94)(her -3.02)(invite -2.06)(, -8.08) line score is : -3.339, look ahead score is : 0.000
+(and -8.08)(she -2.32)(came -1.07)(to -0.50)(the -3.67)(site -2.52)(, -2.19) line score is : -2.907, look ahead score is : 0.000
+(and -2.19)(we -8.76)(sat -2.65)(down -1.61)(and -2.04)(shared -2.59)(our -0.66)(day -1.22)(. -3.67) line score is : -2.821, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8246093609116296----------------------- 
+there was a funny chef named renee 
+ who cooked a great meal on my birthday . 
+ she came back from the day , 
+ and we went to the play , 
+ and we sat down and had our way . 
+------------------------- score breakdown ------------------------ 
+(who -2.09)(cooked -3.96)(a -3.26)(great -3.78)(meal -1.68)(on -4.68)(my -2.75)(birthday -0.54)(. -1.07) line score is : -2.644, look ahead score is : 0.000
+(she -1.07)(came -2.03)(back -4.27)(from -3.00)(the -2.61)(day -2.24)(, -4.86) line score is : -2.867, look ahead score is : 0.000
+(and -4.86)(we -4.00)(went -1.88)(to -2.66)(the -3.11)(play -1.21)(, -2.10) line score is : -2.831, look ahead score is : 0.000
+(and -2.10)(we -7.95)(sat -3.61)(down -0.82)(and -2.45)(had -2.47)(our -1.38)(way -1.32)(. -2.50) line score is : -2.734, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND IN PRP$ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and as for my hair 
+ she was ready to give and to take 
+-------------------------score:  -2.9163343793359298----------------------- 
+there was a funny chef named renee 
+ who cooked a great meal on my birthday . 
+ it was a tradition , 
+ and in my position , 
+ i was honored to serve and to pay . 
+------------------------- score breakdown ------------------------ 
+(who -2.09)(cooked -3.96)(a -3.26)(great -3.78)(meal -1.68)(on -4.68)(my -2.75)(birthday -0.54)(. -1.07) line score is : -2.644, look ahead score is : 0.000
+(it -1.07)(was -3.45)(a -0.37)(tradition -2.06)(, -6.71) line score is : -2.731, look ahead score is : 0.000
+(and -6.71)(in -2.99)(my -1.60)(position -5.78)(, -1.99) line score is : -3.814, look ahead score is : 0.000
+(i -1.99)(was -9.23)(honored -1.20)(to -0.86)(serve -2.55)(and -2.70)(to -0.32)(pay -2.50)(. -4.53) line score is : -2.875, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ because I was sniffing my toes 
+-------------------------score:  -3.1209231575330096----------------------- 
+there was a funny chef named kay 
+ who cooked a hot dog on my birthday . 
+ she asked for my invite , 
+ and i went to the site , 
+ because i was planning my resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.09)(cooked -3.96)(a -3.26)(hot -5.74)(dog -0.77)(on -3.21)(my -3.07)(birthday -1.00)(. -1.11) line score is : -2.689, look ahead score is : 0.000
+(she -1.11)(asked -2.01)(for -4.03)(my -3.31)(invite -1.35)(, -8.73) line score is : -3.423, look ahead score is : 0.000
+(and -8.73)(i -2.20)(went -0.96)(to -0.94)(the -3.84)(site -2.60)(, -2.65) line score is : -3.132, look ahead score is : 0.000
+(because -2.65)(i -7.18)(was -2.75)(planning -3.23)(my -0.72)(resume -2.13)(. -4.76) line score is : -3.348, look ahead score is : 0.000

@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she sat up in bed and meowed 
+-------------------------score:  -2.7416620758073083----------------------- 
+there was a grandma named kay 
+ who died a quick death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ she was up in heaven and okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(died -3.50)(a -3.70)(quick -6.86)(death -0.29)(on -3.40)(her -1.91)(birthday -3.13)(. -1.66) line score is : -2.868, look ahead score is : 0.000
+(she -1.66)(was -1.79)(a -0.96)(physician -2.12)(, -8.11) line score is : -2.927, look ahead score is : 0.000
+(she -8.11)(was -1.76)(on -2.34)(a -1.18)(mission -5.00)(, -2.56) line score is : -3.491, look ahead score is : 0.000
+(she -2.56)(was -1.94)(up -0.96)(in -0.62)(heaven -0.70)(and -6.64)(okay -1.83)(. -1.18) line score is : -2.054, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ so he had to sit down on the floor 
+-------------------------score:  -2.7435212303553858----------------------- 
+there once was a nurse named kay 
+ who died a strange death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ so she had to come down on the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.91)(died -3.97)(a -4.41)(strange -5.68)(death -0.16)(on -3.57)(her -1.87)(birthday -3.60)(. -0.71) line score is : -2.988, look ahead score is : 0.000
+(she -0.71)(was -1.65)(a -0.94)(physician -2.22)(, -6.58) line score is : -2.421, look ahead score is : 0.000
+(she -6.58)(was -1.99)(on -2.64)(a -1.24)(mission -5.03)(, -2.35) line score is : -3.303, look ahead score is : 0.000
+(so -2.35)(she -1.48)(had -1.00)(to -4.97)(come -1.07)(down -3.16)(on -1.02)(the -3.93)(day -4.09)(. -4.11) line score is : -2.719, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.7655428161223727----------------------- 
+there was a grandma named renee 
+ who died a quick death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ and she went down and saved our day . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(died -3.50)(a -3.70)(quick -6.86)(death -0.29)(on -3.40)(her -1.91)(birthday -3.13)(. -1.66) line score is : -2.868, look ahead score is : 0.000
+(she -1.66)(was -1.79)(a -0.96)(physician -2.12)(, -8.11) line score is : -2.927, look ahead score is : 0.000
+(she -8.11)(was -1.76)(on -2.34)(a -1.18)(mission -5.00)(, -2.56) line score is : -3.491, look ahead score is : 0.000
+(and -2.56)(she -1.94)(went -0.96)(down -1.38)(and -0.51)(saved -4.79)(our -3.58)(day -3.94)(. -3.83) line score is : -2.610, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ I did n't think life was this way 
+-------------------------score:  -2.8873332321643828----------------------- 
+there was a grandma named renee 
+ who died a sad death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ she did not have money left this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(died -3.50)(a -3.70)(sad -6.11)(death -0.65)(on -3.89)(her -2.21)(birthday -2.74)(. -1.64) line score is : -2.867, look ahead score is : 0.000
+(she -1.64)(was -1.78)(a -0.94)(physician -1.95)(, -8.38) line score is : -2.939, look ahead score is : 0.000
+(she -8.38)(was -1.82)(on -2.23)(a -1.17)(mission -5.14)(, -2.57) line score is : -3.551, look ahead score is : 0.000
+(she -2.57)(did -1.79)(not -1.01)(have -0.56)(money -3.94)(left -2.76)(this -1.99)(day -2.80)(. -6.57) line score is : -2.666, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but he thanked his detractors and bowed 
+-------------------------score:  -2.9237914542699683----------------------- 
+there once was a nurse named renee 
+ who died a strange death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ but she lost her powers and resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.91)(died -3.97)(a -4.41)(strange -5.68)(death -0.16)(on -3.57)(her -1.87)(birthday -3.60)(. -0.71) line score is : -2.988, look ahead score is : 0.000
+(she -0.71)(was -1.65)(a -0.94)(physician -2.22)(, -6.58) line score is : -2.421, look ahead score is : 0.000
+(she -6.58)(was -1.99)(on -2.64)(a -1.24)(mission -5.03)(, -2.35) line score is : -3.303, look ahead score is : 0.000
+(but -2.35)(she -1.48)(lost -1.00)(her -3.12)(powers -1.04)(and -4.72)(resume -0.35)(. -5.00) line score is : -2.383, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he left all his fans wanting more 
+-------------------------score:  -2.960130952555558----------------------- 
+there was a grandma named renee 
+ who died a sad death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ she had all her friends dying okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(died -3.50)(a -3.70)(sad -6.11)(death -0.65)(on -3.89)(her -2.21)(birthday -2.74)(. -1.64) line score is : -2.867, look ahead score is : 0.000
+(she -1.64)(was -1.78)(a -0.94)(physician -1.95)(, -8.38) line score is : -2.939, look ahead score is : 0.000
+(she -8.38)(was -1.82)(on -2.23)(a -1.17)(mission -5.14)(, -2.57) line score is : -3.551, look ahead score is : 0.000
+(she -2.57)(had -1.79)(all -1.01)(her -0.56)(friends -2.48)(dying -4.21)(okay -2.86)(. -2.47) line score is : -2.243, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and she baked really great apple pies 
+-------------------------score:  -2.964944053312828----------------------- 
+there was a grandma named renee 
+ who died a sad death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ and she was still pretty cool okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(died -3.50)(a -3.70)(sad -6.11)(death -0.65)(on -3.89)(her -2.21)(birthday -2.74)(. -1.64) line score is : -2.867, look ahead score is : 0.000
+(she -1.64)(was -1.78)(a -0.94)(physician -1.95)(, -8.38) line score is : -2.939, look ahead score is : 0.000
+(she -8.38)(was -1.82)(on -2.23)(a -1.17)(mission -5.14)(, -2.57) line score is : -3.551, look ahead score is : 0.000
+(and -2.57)(she -1.79)(was -1.01)(still -1.44)(pretty -0.47)(cool -1.25)(okay -5.27)(. -5.84) line score is : -2.454, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he was n't the wizard he woz 
+-------------------------score:  -2.984782491778505----------------------- 
+there once was a nurse named renee 
+ who died a strange death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ she was not the woman you survey . 
+------------------------- score breakdown ------------------------ 
+(who -2.91)(died -3.97)(a -4.41)(strange -5.68)(death -0.16)(on -3.57)(her -1.87)(birthday -3.60)(. -0.71) line score is : -2.988, look ahead score is : 0.000
+(she -0.71)(was -1.65)(a -0.94)(physician -2.22)(, -6.58) line score is : -2.421, look ahead score is : 0.000
+(she -6.58)(was -1.99)(on -2.64)(a -1.24)(mission -5.03)(, -2.35) line score is : -3.303, look ahead score is : 0.000
+(she -2.35)(was -1.48)(not -1.00)(the -0.85)(woman -0.69)(you -4.87)(survey -3.92)(. -4.66) line score is : -2.478, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ but I guess that you probably gnu 
+-------------------------score:  -2.9985628765204857----------------------- 
+there was a grandma named kay 
+ who died a sad death on her birthday . 
+ she was a physician , 
+ she was on a mission , 
+ but i think that she really okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.37)(died -3.50)(a -3.70)(sad -6.11)(death -0.65)(on -3.89)(her -2.21)(birthday -2.74)(. -1.64) line score is : -2.867, look ahead score is : 0.000
+(she -1.64)(was -1.78)(a -0.94)(physician -1.95)(, -8.38) line score is : -2.939, look ahead score is : 0.000
+(she -8.38)(was -1.82)(on -2.23)(a -1.17)(mission -5.14)(, -2.57) line score is : -3.551, look ahead score is : 0.000
+(but -2.57)(i -1.79)(think -1.01)(that -3.82)(she -3.58)(really -2.09)(okay -2.72)(. -1.87) line score is : -2.430, look ahead score is : 0.000

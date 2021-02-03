@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ she was ready to give and to take 
+-------------------------score:  -2.7342692065623497----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ it was easy to learn and to play . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -7.72)(easy -3.53)(to -1.87)(learn -0.44)(and -4.53)(to -0.33)(play -1.44)(. -1.40) line score is : -2.666, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ she was destined to go a long way 
+-------------------------score:  -3.226038794363699----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect town , 
+ it was nice to live a relaxed day . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(town -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -8.52)(nice -2.57)(to -2.15)(live -0.46)(a -5.00)(relaxed -1.83)(day -1.21)(. -5.96) line score is : -3.382, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.2615580558776855----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ so i really enjoyed on the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(so -2.73)(i -7.72)(really -3.53)(enjoyed -3.90)(on -1.65)(the -4.92)(day -1.91)(. -8.51) line score is : -4.359, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ so he had to sit down on the floor 
+-------------------------score:  -3.2831971887499094----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ so she had to be down on the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(so -2.24)(she -8.90)(had -2.38)(to -3.67)(be -2.65)(down -2.88)(on -1.53)(the -2.50)(day -9.14)(. -3.17) line score is : -3.905, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.328239478667577----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ but it was her words and resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(but -2.24)(it -8.90)(was -2.38)(her -1.64)(words -1.75)(and -0.58)(resume -5.05)(. -5.41) line score is : -3.493, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.338250122964382----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ so i was up and play on the day . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(so -2.73)(i -7.72)(was -3.53)(up -3.90)(and -1.65)(play -2.75)(on -6.89)(the -2.28)(day -6.12)(. -5.58) line score is : -4.315, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ she sat up in bed and meowed 
+-------------------------score:  -3.389755936463674----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect town , 
+ it was up in nature and okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(town -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -8.52)(up -2.57)(in -2.15)(nature -0.46)(and -7.89)(okay -2.54)(. -6.43) line score is : -4.161, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ but they felt it was doing them good 
+-------------------------score:  -3.39013889720363----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ but it was i was sharing it say . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(but -2.24)(it -8.90)(was -2.38)(i -1.64)(was -1.75)(sharing -0.58)(it -8.28)(say -3.52)(. -3.27) line score is : -3.617, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ I invariably get in a stew ! 
+-------------------------score:  -3.4060755411783856----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ it really fit in a room okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(really -7.72)(fit -3.53)(in -1.87)(a -5.05)(room -4.76)(okay -3.21)(. -4.00) line score is : -4.109, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ he left all his fans wanting more 
+-------------------------score:  -3.4111433207988737----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ it was all my friends talking birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -7.72)(all -3.53)(my -1.87)(friends -0.44)(talking -3.65)(birthday -4.67)(. -2.78) line score is : -3.424, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ then I sat on my moped and moped 
+-------------------------score:  -3.457291301219694----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ then you build on your work and resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(then -2.24)(you -8.90)(build -2.38)(on -6.78)(your -2.13)(work -4.11)(and -1.60)(resume -6.11)(. -4.90) line score is : -4.348, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.457463662470541----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ it was through the air and made okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -7.72)(through -3.53)(the -1.87)(air -0.44)(and -9.63)(made -1.45)(okay -3.75)(. -2.13) line score is : -3.695, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.4605082145759036----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ it really created a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(really -7.72)(created -3.53)(a -1.87)(birthday -5.05)(. -4.78) line score is : -4.279, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ I did n't think life was this way 
+-------------------------score:  -3.5098511336311216----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect ground , 
+ it was not dry grass covered this day . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(ground -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -7.41)(not -4.19)(dry -2.31)(grass -0.37)(covered -4.88)(this -6.49)(day -4.36)(. -6.73) line score is : -4.385, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.5158933708744664----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect town , 
+ and for years she just has her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(town -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(and -2.73)(for -8.52)(years -2.57)(she -2.13)(just -4.97)(has -4.33)(her -1.62)(birthday -4.18)(. -7.72) line score is : -4.308, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ but nobody knew what he said 
+-------------------------score:  -3.552982805104091----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ but nobody knew what we okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(but -2.24)(nobody -8.90)(knew -2.38)(what -1.64)(we -7.12)(okay -1.65)(. -1.77) line score is : -3.671, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ you never can tell till you try 
+-------------------------score:  -3.5609097719192504----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ i never can get past it okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(i -2.73)(never -7.72)(can -3.53)(get -3.47)(past -4.44)(it -6.99)(okay -2.22)(. -6.13) line score is : -4.655, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.5685595174630484----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ it was when you play across halfway . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(it -2.73)(was -7.72)(when -3.53)(you -1.87)(play -0.44)(across -8.09)(halfway -1.37)(. -4.29) line score is : -3.756, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and finished the solo with honour 
+-------------------------score:  -3.579523865518899----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ and was the foundation with friday . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(and -2.24)(was -8.90)(the -2.38)(foundation -2.52)(with -5.92)(friday -3.01)(. -3.37) line score is : -4.049, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.585753681262334----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ but we are still different for day . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(but -2.24)(we -8.90)(are -2.38)(still -1.64)(different -3.49)(for -5.18)(day -3.84)(. -3.52) line score is : -3.897, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and kissed her because he was wuise 
+-------------------------score:  -3.5869203905264535----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ and had her because she was halfway . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(and -2.73)(had -7.72)(her -3.53)(because -1.97)(she -6.89)(was -4.40)(halfway -8.45)(. -0.79) line score is : -4.559, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and now a new teacher they seek 
+-------------------------score:  -3.633219979206721----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ and then a new layer we okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(and -2.24)(then -8.90)(a -2.38)(new -2.52)(layer -3.71)(we -4.41)(okay -2.60)(. -2.87) line score is : -3.703, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.6376986256961166----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ and it was fun even resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(and -2.73)(it -7.72)(was -3.53)(fun -1.97)(even -2.04)(resume -0.84)(. -3.11) line score is : -3.134, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.678717691322853----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ and was her idea a birthday . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(and -2.73)(was -7.72)(her -3.53)(idea -1.97)(a -5.76)(birthday -5.31)(. -4.66) line score is : -4.526, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and since then has never benzene 
+-------------------------score:  -3.7268543387281485----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ and since then is only resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(and -2.24)(since -8.90)(then -2.38)(is -2.52)(only -6.21)(resume -1.94)(. -7.08) line score is : -4.467, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ as if he 'd been invited 
+-------------------------score:  -3.9095444083213806----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ as if she ca used resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(as -2.24)(if -8.90)(she -2.38)(ca -5.39)(used -1.32)(resume -1.69)(. -12.50) line score is : -4.917, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP MD VB PRP NNS FOR JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ I ll give you prostheses for free 
+-------------------------score:  -3.9503236452738446----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ she ca call it friends for sunday . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(she -2.73)(ca -7.72)(call -3.53)(it -3.37)(friends -9.62)(for -12.06)(sunday -0.31)(. -8.15) line score is : -5.937, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.0457617986586785----------------------- 
+there was a neat teacher named kay 
+ who shared all her knowledge in a way . 
+ it was like a network , 
+ it was the same framework , 
+ and trying make it scale but first okay . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(network -1.60)(, -5.67) line score is : -3.255, look ahead score is : 0.000
+(it -5.67)(was -2.38)(the -3.65)(same -0.76)(framework -4.19)(, -2.24) line score is : -3.148, look ahead score is : 0.000
+(and -2.24)(trying -8.90)(make -2.38)(it -2.52)(scale -9.59)(but -8.49)(first -1.29)(okay -6.54)(. -6.98) line score is : -5.436, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ he told the same joke 
+ and showed him many cstar 
+-------------------------score:  -4.061688674347741----------------------- 
+there was a neat teacher named renee 
+ who shared all her knowledge in a way . 
+ it was like a playground , 
+ it was the perfect sound , 
+ and had us many resume . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(shared -5.95)(all -3.97)(her -1.29)(knowledge -2.43)(in -3.45)(a -1.66)(way -3.08)(. -5.10) line score is : -3.221, look ahead score is : 0.000
+(it -5.10)(was -3.48)(like -0.90)(a -2.79)(playground -1.60)(, -5.72) line score is : -3.264, look ahead score is : 0.000
+(it -5.72)(was -2.62)(the -3.86)(perfect -0.35)(sound -4.04)(, -2.73) line score is : -3.221, look ahead score is : 0.000
+(and -2.73)(had -7.72)(us -3.53)(many -1.97)(resume -6.89)(. -7.22) line score is : -5.009, look ahead score is : 0.000

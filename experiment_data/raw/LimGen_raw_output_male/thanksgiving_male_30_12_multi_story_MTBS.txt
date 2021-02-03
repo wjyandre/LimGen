@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he carefully spat on the ceiling 
+-------------------------score:  -2.9079019004298794----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ so we never got on the invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(so -1.59)(we -5.32)(never -2.09)(got -1.05)(on -1.18)(the -5.21)(invite -1.15)(. -6.28) line score is : -2.984, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.913571724385926----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ so we got up and put on the light . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(so -1.59)(we -5.32)(got -2.09)(up -1.05)(and -1.18)(put -3.73)(on -3.30)(the -2.01)(light -5.67)(. -1.51) line score is : -2.745, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ she was destined to go a long way 
+-------------------------score:  -2.960631424561143----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ it was nice to have a big invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(it -1.59)(was -5.32)(nice -2.09)(to -5.25)(have -0.52)(a -4.50)(big -0.99)(invite -1.39)(. -1.50) line score is : -2.571, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ but it does n't come out of my purse 
+-------------------------score:  -3.0411841962486506----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ but he does not eat in our sight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(but -1.59)(he -5.32)(does -2.09)(not -1.63)(eat -1.53)(in -6.49)(our -2.28)(sight -2.64)(. -3.89) line score is : -3.051, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ then he walloped me square in the face 
+-------------------------score:  -3.045831453986466----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ then we ate it right in the twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(then -2.26)(we -5.92)(ate -1.72)(it -4.03)(right -2.37)(in -2.56)(the -2.53)(twilight -4.60)(. -3.14) line score is : -3.236, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and kissed her because he was wuise 
+-------------------------score:  -3.160614008865049----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ and was his because it was midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(and -1.59)(was -5.32)(his -2.09)(because -1.75)(it -3.99)(was -4.72)(midnight -9.14)(. -2.80) line score is : -3.924, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.1772608359654746----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ and he wanted something else outright . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(and -1.59)(he -5.32)(wanted -2.09)(something -1.75)(else -1.57)(outright -2.41)(. -2.65) line score is : -2.482, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.2282698499038815----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ and it was not like dinner of light . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(and -2.26)(it -5.92)(was -1.72)(not -1.03)(like -2.23)(dinner -0.32)(of -4.82)(light -5.18)(. -4.65) line score is : -3.125, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ which pickled his internal workins 
+-------------------------score:  -3.274604618549347----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we had in the day , 
+ which was our favorite invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(had -3.63)(in -2.58)(the -2.20)(day -5.85)(, -2.13) line score is : -2.717, look ahead score is : 0.000
+(which -2.13)(was -5.49)(our -1.93)(favorite -3.62)(invite -1.14)(. -4.82) line score is : -3.187, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ within weeks it was all in the past 
+-------------------------score:  -3.3590358030050993----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ in hopes we were all in the twilight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(in -1.59)(hopes -5.32)(we -2.09)(were -5.38)(all -6.49)(in -3.55)(the -4.19)(twilight -4.07)(. -3.49) line score is : -4.017, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.362972905859351----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ and for others he just wants his bite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(and -2.26)(for -5.92)(others -1.72)(he -1.03)(just -2.79)(wants -6.17)(his -3.43)(bite -5.45)(. -5.28) line score is : -3.784, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ OF PRP$ NN AND NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ of their city and town promenades 
+-------------------------score:  -3.4036793251832327----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ of his mother and sister invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(of -1.59)(his -5.32)(mother -2.09)(and -5.14)(sister -7.51)(invite -2.90)(. -2.50) line score is : -3.863, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ as his talent and confidence swelled 
+-------------------------score:  -3.4058601876099903----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ as his sister and brother midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(as -1.59)(his -5.32)(sister -2.09)(and -4.21)(brother -3.48)(midnight -3.15)(. -2.46) line score is : -3.186, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.4136659849074578----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ which was made with the greatest insight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(which -2.26)(was -5.92)(made -1.72)(with -3.90)(the -1.31)(greatest -7.18)(insight -3.19)(. -3.55) line score is : -3.628, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and sideways he could n't be seen 
+-------------------------score:  -3.4271365231083286----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ and is he could not afford midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(and -2.26)(is -5.92)(he -1.72)(could -1.03)(not -5.26)(afford -7.13)(midnight -5.28)(. -1.67) line score is : -3.783, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ which leaves him in very bad shape 
+-------------------------score:  -3.430604321341361----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ which makes it in pretty good upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(which -1.59)(makes -5.32)(it -2.09)(in -4.68)(pretty -3.72)(good -1.10)(upright -7.43)(. -5.20) line score is : -3.890, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ he was n't the wizard he woz 
+-------------------------score:  -3.442129844619382----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ it was not the party i unite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(it -1.59)(was -5.32)(not -2.09)(the -5.25)(party -0.52)(i -4.30)(unite -3.87)(. -4.42) line score is : -3.422, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ I did n't think life was this way 
+-------------------------score:  -3.461455287411809----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ it was not till morning was this light . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(it -1.59)(was -5.32)(not -2.09)(till -5.25)(morning -0.52)(was -4.30)(this -6.13)(light -5.82)(. -5.29) line score is : -4.036, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ then grind out a limerick or two 
+-------------------------score:  -3.5169530472447796----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ then let out a party or fortnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(then -2.26)(let -5.92)(out -1.72)(a -4.03)(party -6.40)(or -3.86)(fortnight -2.45)(. -4.00) line score is : -3.828, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ which refreshed that person of ewell 
+-------------------------score:  -3.5321121156215667----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ which meant that nobody of invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(which -1.59)(meant -5.32)(that -2.09)(nobody -4.68)(of -2.47)(invite -1.57)(. -6.67) line score is : -3.484, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ I d probably know two or three 
+-------------------------score:  -3.5948991987013046----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ i am not say one or midnight . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(i -1.59)(am -5.32)(not -2.09)(say -4.26)(one -4.63)(or -2.07)(midnight -9.05)(. -6.91) line score is : -4.490, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and see what the critics all say 
+-------------------------score:  -3.6459246354718364----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which he did in the day , 
+ and thank what the heavens all unite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(he -2.03)(did -3.63)(in -2.59)(the -3.66)(day -3.30)(, -2.26) line score is : -2.583, look ahead score is : 0.000
+(and -2.26)(thank -5.92)(what -1.72)(the -1.03)(heavens -8.18)(all -9.53)(unite -3.72)(. -2.28) line score is : -4.330, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP MD RB VB OF NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ then he couldn t think of anything 
+-------------------------score:  -3.741697432533387----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ not he ca ere use of invite . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(not -1.59)(he -5.32)(ca -2.09)(ere -5.27)(use -5.71)(of -9.57)(invite -6.97)(. -6.90) line score is : -5.427, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.90118389390409----------------------- 
+there was a humble chef named dwight 
+ who cooked a great meal on our night . 
+ it was for his birthday , 
+ which we were in the way , 
+ and trying make it looks but good upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.30)(cooked -3.67)(a -3.39)(great -3.32)(meal -1.49)(on -4.40)(our -3.38)(night -5.39)(. -1.76) line score is : -3.121, look ahead score is : 0.000
+(it -1.76)(was -3.42)(for -0.37)(his -7.23)(birthday -3.62)(, -0.60) line score is : -2.835, look ahead score is : 0.000
+(which -0.60)(we -2.03)(were -3.63)(in -2.58)(the -1.78)(way -4.64)(, -1.59) line score is : -2.407, look ahead score is : 0.000
+(and -1.59)(trying -5.32)(make -2.09)(it -1.75)(looks -9.61)(but -8.99)(good -1.83)(upright -7.10)(. -8.07) line score is : -5.150, look ahead score is : 0.000

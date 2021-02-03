@@ -1,0 +1,506 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.1346403387459842----------------------- 
+there was a quiet judge named charmaine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ so she went up and put on the chain . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(so -1.05)(she -7.73)(went -3.67)(up -3.79)(and -0.42)(put -2.80)(on -3.06)(the -2.43)(chain -5.41)(. -1.69) line score is : -3.206, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ and kissed her because he was wuise 
+-------------------------score:  -3.1725719119271925----------------------- 
+there was a quiet judge named layne 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the press , 
+ and called her because she was insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(press -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(and -1.05)(called -8.17)(her -3.21)(because -0.64)(she -3.87)(was -1.44)(insane -8.36)(. -0.60) line score is : -3.418, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ so he had to sit down on the floor 
+-------------------------score:  -3.172685641230959----------------------- 
+there was a quiet judge named elayne 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the press , 
+ so she went to get down on the plane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(press -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(so -1.05)(she -8.17)(went -3.21)(to -3.32)(get -0.44)(down -2.91)(on -0.64)(the -3.21)(plane -9.35)(. -2.58) line score is : -3.487, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ what was shown on the cinema screen 
+-------------------------score:  -3.3827221499335383----------------------- 
+there was a quiet judge named laraine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ what was written on the receipt chain . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(what -1.05)(was -7.73)(written -3.67)(on -8.52)(the -2.86)(receipt -3.37)(chain -0.35)(. -0.94) line score is : -3.562, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ but it does n't come out of my purse 
+-------------------------score:  -3.423402762040496----------------------- 
+there was a quiet judge named layne 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ but she has not come within her lane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(but -1.05)(she -7.73)(has -3.67)(not -2.43)(come -2.09)(within -6.46)(her -1.76)(lane -4.94)(. -7.01) line score is : -4.127, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ and now he 's a college professor 
+-------------------------score:  -3.4925416035036885----------------------- 
+there was a quiet judge named jane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ and then she tells a story insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(and -1.05)(then -7.73)(she -3.67)(tells -0.71)(a -2.94)(story -2.18)(insane -7.53)(. -4.05) line score is : -3.734, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ that the dahlia she wore was a failure 
+-------------------------score:  -3.4926671478897333----------------------- 
+there was a quiet judge named charmain 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ that the man she saw was a insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(that -1.05)(the -7.73)(man -3.67)(she -6.04)(saw -3.83)(was -2.63)(a -2.86)(insane -2.49)(. -1.78) line score is : -3.566, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ because I was sniffing my toes 
+-------------------------score:  -3.5002880096435547----------------------- 
+there was a quiet judge named lorraine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she gave in the dress , 
+ because she was wearing her insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(gave -2.34)(in -0.99)(the -2.13)(dress -3.14)(, -2.08) line score is : -2.457, look ahead score is : 0.000
+(because -2.08)(she -7.87)(was -2.73)(wearing -3.93)(her -0.58)(insane -1.73)(. -3.62) line score is : -3.218, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ as his talent and confidence swelled 
+-------------------------score:  -3.520524322986603----------------------- 
+there was a quiet judge named layne 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ as her mother and father insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(as -1.05)(her -7.73)(mother -3.67)(and -3.90)(father -3.30)(insane -2.45)(. -3.84) line score is : -3.707, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ but they felt it was doing them good 
+-------------------------score:  -3.523443901911378----------------------- 
+there was a quiet judge named alane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ but it was it was missing it plain . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(but -1.05)(it -7.73)(was -3.67)(it -2.43)(was -2.79)(missing -0.63)(it -8.77)(plain -1.05)(. -4.46) line score is : -3.620, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ when he saw there were six little chips 
+-------------------------score:  -3.5504511715844274----------------------- 
+there was a quiet judge named jane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ when she saw there were two young insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(when -1.05)(she -7.73)(saw -3.67)(there -5.09)(were -0.46)(two -2.80)(young -5.88)(insane -1.38)(. -2.33) line score is : -3.377, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BEFORE PRP VBD OUT FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ before she went out for a walk 
+-------------------------score:  -3.603498487703262----------------------- 
+there was a quiet judge named jane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ before she went out for a insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(before -1.05)(she -7.73)(went -3.67)(out -5.03)(for -1.81)(a -2.71)(insane -3.54)(. -2.89) line score is : -3.555, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ which refreshed that person of ewell 
+-------------------------score:  -3.6384346306324007----------------------- 
+there was a quiet judge named jayne 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the press , 
+ which was that apartment of insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(press -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(which -1.05)(was -8.17)(that -3.21)(apartment -3.70)(of -2.02)(insane -5.32)(. -6.61) line score is : -4.298, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.6549805441210346----------------------- 
+there was a quiet judge named laine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ and her parents were closer and plain . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(and -1.05)(her -7.73)(parents -3.67)(were -0.71)(closer -4.09)(and -3.73)(plain -2.52)(. -9.12) line score is : -4.078, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.7064217194434135----------------------- 
+there was a quiet judge named charmaine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she gave in the dress , 
+ but she wore too little for insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(gave -2.34)(in -0.99)(the -2.13)(dress -3.14)(, -2.08) line score is : -2.457, look ahead score is : 0.000
+(but -2.08)(she -7.87)(wore -2.73)(too -2.52)(little -2.04)(for -6.25)(insane -5.88)(. -2.67) line score is : -4.004, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ to balance green peas on her fork 
+-------------------------score:  -3.749863080440029----------------------- 
+there was a quiet judge named elane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she gave in the dress , 
+ to be hidden downstairs on them plane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(gave -2.34)(in -0.99)(the -2.13)(dress -3.14)(, -2.08) line score is : -2.457, look ahead score is : 0.000
+(to -2.08)(be -7.87)(hidden -2.73)(downstairs -3.80)(on -2.62)(them -4.43)(plane -7.62)(. -5.16) line score is : -4.539, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ that no one was present but smarty 
+-------------------------score:  -3.7529392761568867----------------------- 
+there was a quiet judge named germaine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ that no man was present but insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(that -1.05)(no -7.73)(man -3.67)(was -6.04)(present -6.40)(but -4.77)(insane -3.11)(. -4.02) line score is : -4.598, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ then grind out a limerick or two 
+-------------------------score:  -3.784242581936621----------------------- 
+there was a quiet judge named elayne 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the press , 
+ then read out a letter or insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(press -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(then -1.05)(read -8.17)(out -3.21)(a -3.48)(letter -5.92)(or -2.58)(insane -1.92)(. -2.39) line score is : -3.590, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ then I sat on my moped and moped 
+-------------------------score:  -3.788722289726138----------------------- 
+there was a quiet judge named delaine 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the press , 
+ then she heard on her cell and insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(press -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(then -1.05)(she -8.17)(heard -3.21)(on -3.48)(her -3.10)(cell -5.52)(and -5.23)(insane -3.30)(. -3.01) line score is : -4.010, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ as if he 'd been invited 
+-------------------------score:  -3.8615916947523754----------------------- 
+there was a loud judge named alane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ as if it outright confirmed insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.31)(noticed -7.44)(as -6.52)(she -1.25)(was -1.21)(on -5.25)(a -3.86)(train -3.60)(. -2.43) line score is : -3.762, look ahead score is : 0.000
+(she -2.43)(asked -2.16)(for -3.04)(her -3.68)(address -2.11)(, -5.17) line score is : -3.099, look ahead score is : 0.000
+(which -5.17)(she -1.63)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.286, look ahead score is : 0.000
+(as -1.05)(if -7.73)(it -3.67)(outright -3.90)(confirmed -4.06)(insane -1.63)(. -13.51) line score is : -5.081, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ that unlucky old person of ems 
+-------------------------score:  -3.880691621700923----------------------- 
+there was a quiet judge named charmain 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ that other female student of plain . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(that -1.05)(other -7.73)(female -3.67)(student -6.04)(of -7.28)(plain -4.59)(. -3.01) line score is : -4.768, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ thirty days is the time he will do 
+-------------------------score:  -4.352883702144027----------------------- 
+there was a quiet judge named charmain 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ right towards is the station she will gain . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(right -1.05)(towards -7.73)(is -3.67)(the -7.64)(station -8.05)(she -8.94)(will -9.54)(gain -5.09)(. -6.99) line score is : -6.523, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ which he loosed in the house 
+ us camels get into a stew 
+-------------------------score:  -4.459062796831131----------------------- 
+there was a quiet judge named elane 
+ who noticed as she was on a train . 
+ she asked for her address , 
+ which she found in the dress , 
+ right towards mar into a insane . 
+------------------------- score breakdown ------------------------ 
+(who -2.22)(noticed -6.82)(as -6.56)(she -1.38)(was -1.25)(on -5.64)(a -3.94)(train -3.79)(. -2.60) line score is : -3.800, look ahead score is : 0.000
+(she -2.60)(asked -2.14)(for -3.11)(her -3.51)(address -1.93)(, -4.93) line score is : -3.035, look ahead score is : 0.000
+(which -4.93)(she -1.58)(found -2.34)(in -0.99)(the -2.60)(dress -2.20)(, -1.05) line score is : -2.244, look ahead score is : 0.000
+(right -1.05)(towards -7.73)(mar -3.67)(into -7.64)(a -8.05)(insane -8.06)(. -11.75) line score is : -6.852, look ahead score is : 0.000

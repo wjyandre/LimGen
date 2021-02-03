@@ -1,0 +1,528 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -3.1993578744657114----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a pool , 
+ so she went to get down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(pool -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(so -1.27)(she -8.41)(went -6.43)(to -4.47)(get -0.50)(down -2.95)(on -1.27)(the -2.95)(base -7.65)(. -1.89) line score is : -3.779, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -3.28799766395241----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she was ordered to leave and to chase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(she -1.71)(was -5.50)(ordered -3.19)(to -4.14)(leave -1.23)(and -6.42)(to -0.25)(chase -1.46)(. -2.83) line score is : -2.971, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ but it does n't come out of my purse 
+-------------------------score:  -3.2890586003195494----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was met by a clerk , 
+ but she does not recall in his face . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(met -0.83)(by -2.03)(a -2.46)(clerk -0.37)(, -1.23) line score is : -1.928, look ahead score is : 0.000
+(but -1.23)(she -7.56)(does -2.30)(not -6.32)(recall -2.24)(in -7.50)(his -0.05)(face -1.19)(. -6.79) line score is : -3.909, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.3617819643789724----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she was not the person they replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(she -1.71)(was -5.50)(not -3.19)(the -4.14)(person -1.23)(they -2.15)(replace -4.97)(. -3.49) line score is : -3.299, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ what was shown on the cinema screen 
+-------------------------score:  -3.391290379147376----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ what had happened on the night staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(what -1.71)(had -5.50)(happened -3.19)(on -8.66)(the -3.43)(night -0.45)(staircase -4.25)(. -1.00) line score is : -3.524, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.4293916936843627----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she thought that her student was replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(she -1.71)(thought -5.50)(that -3.19)(her -4.14)(student -4.16)(was -3.65)(replace -2.64)(. -3.15) line score is : -3.517, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BEFORE PRP VBD OUT FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ before she went out for a walk 
+-------------------------score:  -3.450448852392935----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was met by a clerk , 
+ before she was out for a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(met -0.83)(by -2.03)(a -2.46)(clerk -0.37)(, -1.23) line score is : -1.928, look ahead score is : 0.000
+(before -1.23)(she -7.56)(was -2.30)(out -8.89)(for -1.53)(a -1.40)(staircase -7.51)(. -3.77) line score is : -4.274, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ to tutor two tutors to toot 
+-------------------------score:  -3.4762278258800507----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ to bring two newspapers to replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(to -1.71)(bring -5.50)(two -3.19)(newspapers -6.88)(to -4.27)(replace -4.31)(. -6.08) line score is : -4.564, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.480174446478486----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ he was through the office and had space . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(he -1.71)(was -5.50)(through -3.19)(the -6.04)(office -1.98)(and -9.43)(had -3.33)(space -2.56)(. -1.82) line score is : -3.952, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.508677409030497----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was met by a clerk , 
+ she told him and asked questions and place . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(met -0.83)(by -2.03)(a -2.46)(clerk -0.37)(, -1.23) line score is : -1.928, look ahead score is : 0.000
+(she -1.23)(told -7.56)(him -2.30)(and -5.51)(asked -3.35)(questions -2.93)(and -3.89)(place -2.58)(. -5.64) line score is : -3.888, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -3.549244787544012----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she had not come home needed this place . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(she -1.71)(had -5.50)(not -3.19)(come -4.14)(home -2.50)(needed -4.09)(this -4.66)(place -4.82)(. -9.12) line score is : -4.415, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ to keep from soiling her feet 
+-------------------------score:  -3.576339250802994----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ to stop from approaching her staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(to -1.71)(stop -5.50)(from -3.19)(approaching -6.88)(her -4.28)(staircase -6.68)(. -4.70) line score is : -4.706, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ but they felt it was doing them good 
+-------------------------score:  -3.5802766820415854----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was met by a clerk , 
+ but she told him was doing it face . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(met -0.83)(by -2.03)(a -2.46)(clerk -0.37)(, -1.23) line score is : -1.928, look ahead score is : 0.000
+(but -1.23)(she -7.56)(told -2.30)(him -6.32)(was -2.24)(doing -3.67)(it -0.56)(face -9.18)(. -5.93) line score is : -4.333, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ what finished him off was the crust 
+-------------------------score:  -3.590823875319573----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ what happened she off ended the place . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(what -1.71)(happened -5.50)(she -3.19)(off -8.66)(ended -3.60)(the -6.36)(place -11.02)(. -3.52) line score is : -5.447, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ us camels get into a stew 
+-------------------------score:  -3.644869887828827----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a cool , 
+ white students coach into a staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(cool -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(white -1.27)(students -9.53)(coach -1.57)(into -3.63)(a -8.38)(staircase -7.10)(. -10.17) line score is : -5.948, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.6474912954914953----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ she was up in trouble and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(she -1.71)(was -5.50)(up -3.19)(in -4.14)(trouble -1.23)(and -7.66)(replace -3.28)(. -5.72) line score is : -4.054, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.655936250763555----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ to go right upstairs on you staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(to -1.71)(go -5.50)(right -3.19)(upstairs -6.88)(on -3.12)(you -4.18)(staircase -5.68)(. -6.23) line score is : -4.563, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.666714436809222----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was met by a clerk , 
+ and could not remember back staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(met -0.83)(by -2.03)(a -2.46)(clerk -0.37)(, -1.23) line score is : -1.928, look ahead score is : 0.000
+(and -1.23)(could -7.56)(not -2.30)(remember -4.40)(back -8.15)(staircase -0.83)(. -4.18) line score is : -4.094, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.8391236585955464----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to work , 
+ she was told by a clerk , 
+ which means she in very much replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(work -3.35)(, -5.60) line score is : -3.268, look ahead score is : 0.000
+(she -5.60)(was -0.98)(told -0.83)(by -2.03)(a -2.78)(clerk -1.79)(, -1.71) line score is : -2.245, look ahead score is : 0.000
+(which -1.71)(means -5.50)(she -3.19)(in -6.63)(very -5.54)(much -1.37)(replace -8.40)(. -7.58) line score is : -4.992, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB OUT A NN OR CD . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ then grind out a limerick or two 
+-------------------------score:  -3.8642497178046935----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a cool , 
+ still figure out a chair or replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(cool -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(still -1.27)(figure -9.53)(out -1.57)(a -7.15)(chair -4.53)(or -6.89)(replace -2.61)(. -5.28) line score is : -4.854, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ great writers are fewer and fewer 
+-------------------------score:  -3.911124034722646----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a cool , 
+ calm students approach less and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(cool -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(calm -1.27)(students -9.53)(approach -1.57)(less -3.52)(and -7.87)(replace -7.86)(. -8.85) line score is : -5.780, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.9116612749715007----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a cool , 
+ still figure up all black and replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(cool -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(still -1.27)(figure -9.53)(up -1.57)(all -7.15)(black -4.53)(and -8.68)(replace -7.46)(. -3.54) line score is : -5.466, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ ALL OF THIS NN AFTER NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ all of this homework after school 
+-------------------------score:  -3.9554587523142497----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a pool , 
+ all of this police after staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(pool -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(all -1.27)(of -8.41)(this -6.43)(police -6.36)(after -1.47)(staircase -6.50)(. -6.85) line score is : -5.328, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.001449603587389----------------------- 
+there was a harsh teacher named grace 
+ who sought out her students for a case . 
+ when she arrived to school , 
+ she was met by a cruel , 
+ and trying look she has but few replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.57)(sought -7.25)(out -1.90)(her -2.93)(students -3.40)(for -2.44)(a -3.13)(case -8.07)(. -2.68) line score is : -3.707, look ahead score is : 0.000
+(when -2.68)(she -3.80)(arrived -1.26)(to -2.92)(school -3.35)(, -4.60) line score is : -3.102, look ahead score is : 0.000
+(she -4.60)(was -0.74)(met -0.90)(by -2.04)(a -2.40)(cruel -0.40)(, -1.27) line score is : -1.763, look ahead score is : 0.000
+(and -1.27)(trying -9.52)(look -2.83)(she -5.71)(has -8.70)(but -5.13)(few -6.53)(replace -4.39)(. -9.78) line score is : -5.983, look ahead score is : 0.000

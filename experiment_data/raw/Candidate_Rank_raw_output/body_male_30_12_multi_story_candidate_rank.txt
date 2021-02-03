@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.5517860936233774----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ when we arrived to work , 
+ we were met by a clerk , 
+ and we sat down and took our place . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(when -1.59)(we -4.32)(arrived -1.03)(to -2.43)(work -3.52)(, -4.81) line score is : -2.950, look ahead score is : 0.000
+(we -4.81)(were -1.16)(met -1.24)(by -1.13)(a -2.84)(clerk -0.56)(, -1.34) line score is : -1.868, look ahead score is : 0.000
+(and -1.34)(we -7.47)(sat -2.79)(down -3.90)(and -2.18)(took -4.13)(our -0.23)(place -2.36)(. -3.97) line score is : -3.152, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -2.749055338674225----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ when we arrived to work , 
+ our boss was a jerk , 
+ so we had to sit down on the base . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(when -1.59)(we -4.32)(arrived -1.03)(to -2.43)(work -3.52)(, -4.81) line score is : -2.950, look ahead score is : 0.000
+(our -4.81)(boss -1.16)(was -3.55)(a -1.57)(jerk -2.06)(, -4.05) line score is : -2.866, look ahead score is : 0.000
+(so -4.05)(we -7.02)(had -1.89)(to -2.14)(sit -0.66)(down -2.75)(on -0.22)(the -3.53)(base -1.99)(. -4.16) line score is : -2.841, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.874805673141964----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ when we arrived to work , 
+ we were told by a clerk , 
+ that the place we needed was a space . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(when -1.59)(we -4.32)(arrived -1.03)(to -2.43)(work -3.52)(, -4.81) line score is : -2.950, look ahead score is : 0.000
+(we -4.81)(were -1.16)(told -1.24)(by -1.13)(a -3.19)(clerk -2.36)(, -1.87) line score is : -2.252, look ahead score is : 0.000
+(that -1.87)(the -5.33)(place -3.27)(we -2.69)(needed -2.14)(was -3.92)(a -4.02)(space -4.20)(. -1.16) line score is : -3.177, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -2.9772437667894747----------------------- 
+there was a skinny man named chase 
+ who put a big smile on our face . 
+ when we arrived to work , 
+ we were met by a clerk , 
+ he said that our manager was grace . 
+------------------------- score breakdown ------------------------ 
+(who -1.47)(put -6.61)(a -2.33)(big -4.09)(smile -3.07)(on -0.03)(our -2.88)(face -1.70)(. -1.59) line score is : -2.643, look ahead score is : 0.000
+(when -1.59)(we -4.32)(arrived -1.03)(to -2.43)(work -3.52)(, -4.81) line score is : -2.950, look ahead score is : 0.000
+(we -4.81)(were -1.16)(met -1.24)(by -1.13)(a -2.84)(clerk -0.56)(, -1.34) line score is : -1.868, look ahead score is : 0.000
+(he -1.34)(said -7.47)(that -2.79)(our -5.30)(manager -2.62)(was -2.32)(grace -3.58)(. -4.85) line score is : -3.784, look ahead score is : 0.000

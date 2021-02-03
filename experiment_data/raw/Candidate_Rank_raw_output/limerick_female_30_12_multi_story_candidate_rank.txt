@@ -1,0 +1,242 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD BACK FROM THE NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ they came back from the ride 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.649653440172022----------------------- 
+there was a writer named celeste 
+ who wright all her life in a contest . 
+ she came back from the inn , 
+ and she went to the gin , 
+ and she sat down and wrote her protest . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(her -3.95)(life -1.33)(in -4.67)(a -2.84)(contest -7.63)(. -3.02) line score is : -5.458, look ahead score is : 0.000
+(she -3.02)(came -2.02)(back -4.22)(from -2.49)(the -2.45)(inn -1.86)(, -9.42) line score is : -3.639, look ahead score is : 0.000
+(and -9.42)(she -2.72)(went -2.14)(to -2.76)(the -4.13)(gin -1.33)(, -1.47) line score is : -3.425, look ahead score is : 0.000
+(and -1.47)(she -9.05)(sat -2.79)(down -0.38)(and -0.52)(wrote -3.36)(her -0.97)(protest -1.83)(. -4.18) line score is : -2.728, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he indulged a desire 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.706732585545509----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ it was a satire , 
+ and it went to the wire , 
+ and that is the beauty of this test . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(it -3.07)(was -3.31)(a -1.02)(satire -1.89)(, -8.53) line score is : -3.564, look ahead score is : 0.000
+(and -8.53)(it -2.30)(went -1.99)(to -2.27)(the -4.48)(wire -2.72)(, -1.36) line score is : -3.378, look ahead score is : 0.000
+(and -1.36)(that -5.83)(is -2.14)(the -0.94)(beauty -4.52)(of -3.28)(this -2.43)(test -4.51)(. -0.15) line score is : -2.795, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD RB IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.7950489562133263----------------------- 
+there was a writer named celeste 
+ who wright overheard in a contest . 
+ she wrote a satire , 
+ and it got to the wire , 
+ and she went down and did her protest . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(overheard -7.58)(in -3.07)(a -1.37)(contest -9.73)(. -2.94) line score is : -6.032, look ahead score is : 0.000
+(she -2.94)(wrote -1.38)(a -2.52)(satire -1.49)(, -7.57) line score is : -3.178, look ahead score is : 0.000
+(and -7.57)(it -3.38)(got -1.65)(to -2.30)(the -3.26)(wire -4.07)(, -1.05) line score is : -3.325, look ahead score is : 0.000
+(and -1.05)(she -7.69)(went -2.03)(down -0.90)(and -1.89)(did -3.52)(her -4.55)(protest -2.24)(. -2.91) line score is : -2.976, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.809146232106873----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ when he got to moscow , 
+ he was able to go , 
+ and he came down and met our guest . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(when -3.07)(he -4.41)(got -1.89)(to -2.93)(moscow -1.90)(, -10.13) line score is : -4.057, look ahead score is : 0.000
+(he -10.13)(was -0.97)(able -0.74)(to -2.19)(go -4.31)(, -0.01) line score is : -3.059, look ahead score is : 0.000
+(and -0.01)(he -4.00)(came -5.65)(down -1.43)(and -1.71)(met -3.88)(our -4.67)(guest -2.13)(. -2.09) line score is : -2.840, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.8181516643493407----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ it was a satire , 
+ and it went to the wire , 
+ and it came down and hit our chest . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(it -3.07)(was -3.31)(a -1.02)(satire -1.89)(, -8.53) line score is : -3.564, look ahead score is : 0.000
+(and -8.53)(it -2.30)(went -1.99)(to -2.27)(the -4.48)(wire -2.72)(, -1.36) line score is : -3.378, look ahead score is : 0.000
+(and -1.36)(it -5.83)(came -2.14)(down -0.94)(and -1.53)(hit -3.96)(our -4.25)(chest -2.98)(. -3.92) line score is : -2.991, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -3.904145007817856----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ when he got to norway , 
+ he was able to stay , 
+ but he knew it was taking him rest . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(when -3.07)(he -4.41)(got -1.89)(to -2.93)(norway -1.90)(, -10.54) line score is : -4.126, look ahead score is : 0.000
+(he -10.54)(was -0.93)(able -0.77)(to -2.42)(stay -4.09)(, -0.00) line score is : -3.124, look ahead score is : 0.000
+(but -0.00)(he -4.93)(knew -3.76)(it -1.81)(was -1.78)(taking -4.44)(him -3.03)(rest -0.93)(. -6.85) line score is : -3.061, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he indulged a desire 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.9084489980051593----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ it was a satire , 
+ and it went to the wire , 
+ but i thought he was telling me best . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(it -3.07)(was -3.31)(a -1.02)(satire -1.89)(, -8.53) line score is : -3.564, look ahead score is : 0.000
+(and -8.53)(it -2.30)(went -1.99)(to -2.27)(the -4.48)(wire -2.72)(, -1.36) line score is : -3.378, look ahead score is : 0.000
+(but -1.36)(i -5.83)(thought -2.14)(he -2.35)(was -2.68)(telling -3.53)(me -3.94)(best -0.99)(. -6.28) line score is : -3.233, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -3.9541679679030746----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ when he got to norway , 
+ he was able to stay , 
+ because he was visiting his guest . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(when -3.07)(he -4.41)(got -1.89)(to -2.93)(norway -1.90)(, -10.54) line score is : -4.126, look ahead score is : 0.000
+(he -10.54)(was -0.93)(able -0.77)(to -2.42)(stay -4.09)(, -0.00) line score is : -3.124, look ahead score is : 0.000
+(because -0.00)(he -4.93)(was -3.76)(visiting -3.22)(his -1.08)(guest -1.33)(. -6.57) line score is : -2.985, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he indulged a desire 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.9603885054588317----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ it was a satire , 
+ and it went to the wire , 
+ but it had its moments and impressed . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(it -3.07)(was -3.31)(a -1.02)(satire -1.89)(, -8.53) line score is : -3.564, look ahead score is : 0.000
+(and -8.53)(it -2.30)(went -1.99)(to -2.27)(the -4.48)(wire -2.72)(, -1.36) line score is : -3.378, look ahead score is : 0.000
+(but -1.36)(it -5.83)(had -2.14)(its -2.35)(moments -1.50)(and -3.56)(impressed -4.24)(. -3.38) line score is : -3.045, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he indulged a desire 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -4.029967441161474----------------------- 
+there was a writer named celeste 
+ who wright all his life in a contest . 
+ it was a satire , 
+ and it went to the wire , 
+ and it was not much money impressed . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(all -8.15)(his -4.12)(life -1.15)(in -4.71)(a -2.83)(contest -7.63)(. -3.07) line score is : -5.465, look ahead score is : 0.000
+(it -3.07)(was -3.31)(a -1.02)(satire -1.89)(, -8.53) line score is : -3.564, look ahead score is : 0.000
+(and -8.53)(it -2.30)(went -1.99)(to -2.27)(the -4.48)(wire -2.72)(, -1.36) line score is : -3.378, look ahead score is : 0.000
+(and -1.36)(it -5.83)(was -2.14)(not -0.94)(much -1.53)(money -1.34)(impressed -4.63)(. -5.33) line score is : -2.889, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD RB IN A NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who went everywhere in a go-cart 
+ he indulged a desire 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -4.098349971430642----------------------- 
+there was a writer named celeste 
+ who wright overheard in a contest . 
+ she wrote a satire , 
+ and it went to the wire , 
+ and she got too much respect impressed . 
+------------------------- score breakdown ------------------------ 
+(who -2.71)(wright -14.82)(overheard -7.58)(in -3.07)(a -1.37)(contest -9.73)(. -2.94) line score is : -6.032, look ahead score is : 0.000
+(she -2.94)(wrote -1.38)(a -2.52)(satire -1.49)(, -7.57) line score is : -3.178, look ahead score is : 0.000
+(and -7.57)(it -3.38)(went -1.65)(to -2.30)(the -3.18)(wire -2.54)(, -1.44) line score is : -3.150, look ahead score is : 0.000
+(and -1.44)(she -7.04)(got -2.22)(too -0.97)(much -2.01)(respect -2.14)(impressed -8.24)(. -2.00) line score is : -3.256, look ahead score is : 0.000

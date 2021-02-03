@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ so he had to sit down on the floor 
+-------------------------score:  -3.165230971761048----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ so he had to go down on the stick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(so -3.16)(he -4.25)(had -0.88)(to -3.98)(go -0.92)(down -3.04)(on -0.54)(the -3.66)(stick -4.97)(. -3.74) line score is : -2.915, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.1916877685054654----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and that is the story of this prick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(that -4.25)(is -0.88)(the -0.38)(story -5.23)(of -3.14)(this -2.42)(prick -3.23)(. -0.57) line score is : -2.583, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ but they felt it was doing them good 
+-------------------------score:  -3.288042427070679----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ but he knew he was getting him sick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(but -3.16)(he -4.25)(knew -0.88)(he -4.56)(was -1.37)(getting -3.46)(him -2.06)(sick -1.47)(. -6.17) line score is : -3.041, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.3014207994565368----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ so he went up and beat on the stick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(so -3.16)(he -4.25)(went -0.88)(up -3.98)(and -0.92)(beat -3.59)(on -5.07)(the -3.04)(stick -4.29)(. -4.46) line score is : -3.365, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ I did n't think life was this way 
+-------------------------score:  -3.4286556907238497----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he did not know justice was this thick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(he -3.16)(did -4.25)(not -0.88)(know -3.71)(justice -3.89)(was -0.40)(this -1.38)(thick -6.57)(. -4.66) line score is : -3.213, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ he claimed that his costume was chile 
+-------------------------score:  -3.457030146320661----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he knew that his brother had lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(he -3.16)(knew -4.25)(that -0.88)(his -3.71)(brother -3.88)(had -2.04)(lipstick -2.41)(. -2.92) line score is : -2.907, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ she was destined to go a long way 
+-------------------------score:  -3.4704465779565994----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ it was hard to make a good lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(it -3.16)(was -4.25)(hard -0.88)(to -6.70)(make -0.64)(a -4.45)(good -1.10)(lipstick -3.68)(. -2.22) line score is : -3.008, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.4706404358148575----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ but he loved his brothers and lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(but -3.16)(he -4.25)(loved -0.88)(his -4.56)(brothers -1.37)(and -2.94)(lipstick -1.21)(. -3.89) line score is : -2.783, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and now he 's a college professor 
+-------------------------score:  -3.4816234628359477----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and now he is a liar lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(now -4.25)(he -0.88)(is -0.38)(a -4.89)(liar -1.10)(lipstick -1.88)(. -2.17) line score is : -2.338, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and she baked really great apple pies 
+-------------------------score:  -3.4834176937739056----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and he was not sure anything sick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(he -4.25)(was -0.88)(not -0.38)(sure -1.78)(anything -1.58)(sick -3.52)(. -4.12) line score is : -2.457, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.5867617101438585----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ but his brothers were down to their sick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(but -3.16)(his -4.25)(brothers -0.88)(were -4.56)(down -2.01)(to -3.11)(their -1.26)(sick -9.62)(. -1.78) line score is : -3.404, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ he never completed his task 
+-------------------------score:  -3.613365919462272----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he secretly hated his lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(he -3.16)(secretly -4.25)(hated -0.88)(his -3.71)(lipstick -8.36)(. -2.28) line score is : -3.773, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.6791795117239796----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he was through the roof and lost lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(he -3.16)(was -4.25)(through -0.88)(the -3.71)(roof -1.45)(and -9.85)(lost -3.49)(lipstick -2.05)(. -1.85) line score is : -3.408, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.6845909538013593----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ he finally realized a prick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(he -3.16)(finally -4.25)(realized -0.88)(a -3.71)(prick -7.16)(. -2.81) line score is : -3.662, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BEFORE PRP VBD OUT FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ before she went out for a walk 
+-------------------------score:  -3.685229413708051----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ before he went out for a lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(before -3.16)(he -4.25)(went -0.88)(out -8.74)(for -1.39)(a -3.89)(lipstick -3.24)(. -3.89) line score is : -3.680, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ when he saw there were six little chips 
+-------------------------score:  -3.6885172916996862----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ when he saw there was one good lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(when -3.16)(he -4.25)(saw -0.88)(there -6.88)(was -1.06)(one -3.62)(good -6.41)(lipstick -0.25)(. -4.82) line score is : -3.480, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.696923687540252----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and they were betrayed again lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(they -4.25)(were -0.88)(betrayed -0.38)(again -2.63)(lipstick -1.93)(. -5.29) line score is : -2.644, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and now a new teacher they seek 
+-------------------------score:  -3.731305996576945----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and not a good woman she lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(not -4.25)(a -0.88)(good -0.38)(woman -6.18)(she -2.19)(lipstick -4.53)(. -2.87) line score is : -3.054, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ she sat up in bed and meowed 
+-------------------------score:  -3.735081614057223----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ they were up in heaven and lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(they -3.16)(were -4.25)(up -0.88)(in -4.67)(heaven -1.64)(and -8.52)(lipstick -2.79)(. -3.47) line score is : -3.673, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.735752178231875----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ but they are not evil for lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(but -3.16)(they -4.25)(are -0.88)(not -4.56)(evil -2.40)(for -4.43)(lipstick -3.47)(. -4.01) line score is : -3.396, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ then fell into a vat of grease 
+-------------------------score:  -3.7525870613753796----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ then went into a state of lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(then -3.16)(went -4.25)(into -0.88)(a -7.07)(state -6.96)(of -2.91)(lipstick -2.17)(. -3.71) line score is : -3.889, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ TO VB CD NNS TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ to tutor two tutors to toot 
+-------------------------score:  -3.7653683968659104----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ to mention two families to pick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(to -3.16)(mention -4.25)(two -0.88)(families -7.32)(to -4.90)(pick -4.05)(. -5.41) line score is : -4.281, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ within weeks it was all in the past 
+-------------------------score:  -3.770576020402293----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ in times they were all in the lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(in -3.16)(times -4.25)(they -0.88)(were -7.00)(all -6.56)(in -4.31)(the -1.52)(lipstick -3.78)(. -4.12) line score is : -3.954, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and sideways he could n't be seen 
+-------------------------score:  -3.870397369066874----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and is he could not forgive lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(is -4.25)(he -0.88)(could -0.38)(not -8.43)(forgive -5.74)(lipstick -5.67)(. -1.82) line score is : -3.791, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.876509679357211----------------------- 
+there was a magician named dick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ for two days were wasted at lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(fool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(for -3.16)(two -4.25)(days -0.88)(were -6.96)(wasted -5.87)(at -1.78)(lipstick -6.12)(. -1.97) line score is : -3.873, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -4.052007627102636----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his mother was blind , 
+ his father was a kind , 
+ brave folk to be on his side lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(mother -3.67)(was -2.70)(blind -2.37)(, -6.73) line score is : -3.678, look ahead score is : 0.000
+(his -6.73)(father -1.41)(was -2.92)(a -0.59)(kind -1.38)(, -2.01) line score is : -2.506, look ahead score is : 0.000
+(brave -2.01)(folk -8.08)(to -3.17)(be -4.96)(on -8.23)(his -6.11)(side -3.06)(lipstick -5.86)(. -1.55) line score is : -4.783, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -4.112443250994528----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a tool , 
+ and trying help him is but petty click . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(father -3.67)(was -2.21)(cruel -2.19)(, -7.25) line score is : -3.652, look ahead score is : 0.000
+(his -7.25)(mother -1.90)(was -4.25)(a -0.41)(tool -1.74)(, -3.16) line score is : -3.118, look ahead score is : 0.000
+(and -3.16)(trying -6.86)(help -1.09)(him -0.38)(is -9.73)(but -10.52)(petty -1.29)(click -3.41)(. -8.38) line score is : -4.979, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ JJ NNS VBP JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ great writers are fewer and fewer 
+-------------------------score:  -4.150131408510537----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his mother was blind , 
+ his father was a kind , 
+ good people are better and lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.04)(mother -3.67)(was -2.70)(blind -2.37)(, -6.73) line score is : -3.678, look ahead score is : 0.000
+(his -6.73)(father -1.41)(was -2.92)(a -0.59)(kind -1.38)(, -2.01) line score is : -2.506, look ahead score is : 0.000
+(good -2.01)(people -8.08)(are -3.17)(better -3.51)(and -7.23)(lipstick -6.92)(. -5.32) line score is : -5.177, look ahead score is : 0.000

@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and give vent to their terror in scremyss 
+-------------------------score:  -2.8729236409293883----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ and set fire to his ship in detail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(and -0.14)(set -4.01)(fire -0.54)(to -0.61)(his -5.53)(ship -3.26)(in -0.04)(detail -1.76)(. -1.24) line score is : -1.903, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ which was filled with the heaviest mortar 
+-------------------------score:  -3.001993988174945----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sack on his knee , 
+ which was filled with the smallest detail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sack -3.63)(on -1.58)(his -5.14)(knee -3.32)(, -0.16) line score is : -2.707, look ahead score is : 0.000
+(which -0.16)(was -5.23)(filled -0.56)(with -4.05)(the -1.87)(smallest -1.99)(detail -0.15)(. -2.94) line score is : -2.118, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and finished the solo with honour 
+-------------------------score:  -3.0312334943202233----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ and offered the sacrifice with hail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(and -0.14)(offered -4.01)(the -0.54)(sacrifice -0.61)(with -6.43)(hail -2.45)(. -2.95) line score is : -2.447, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ are making a nest in my beard 
+-------------------------score:  -3.0655767479911447----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ re telling a story in his tale . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(re -0.24)(telling -3.85)(a -0.65)(story -9.71)(in -4.35)(his -3.21)(tale -1.05)(. -3.87) line score is : -3.367, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ TO VB PRP$ JJ NN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ to call my last novel impure 
+-------------------------score:  -3.070225066715671----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ to find his entire household male . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(to -0.24)(find -3.85)(his -0.65)(entire -3.32)(household -1.80)(male -1.80)(. -7.90) line score is : -2.795, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VBD ON THE JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and returned on the previous night 
+-------------------------score:  -3.0941450047877526----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ and started on the little female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(and -0.24)(started -3.85)(on -0.65)(the -0.80)(little -6.42)(female -2.87)(. -2.13) line score is : -2.424, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VBD PRP$ NN A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and gave his proboscis a tweak 
+-------------------------score:  -3.1456881328936546----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ and carried his mother a female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(and -0.14)(carried -4.01)(his -0.54)(mother -0.61)(a -4.60)(female -2.09)(. -4.51) line score is : -2.357, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND SOME OF THE NNS VBP NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and some of the members are swines 
+-------------------------score:  -3.163613553158939----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ and some of the sailors swore wholesale . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(and -0.24)(some -3.85)(of -0.65)(the -0.80)(sailors -6.33)(swore -2.40)(wholesale -0.84)(. -2.61) line score is : -2.217, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.198955988691699----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ and he cried aloud very female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(and -0.24)(he -3.85)(cried -0.65)(aloud -0.80)(very -3.05)(female -3.36)(. -2.87) line score is : -2.117, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ but they felt it was doing them good 
+-------------------------score:  -3.2325608576789047----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ but he saw it was going none trail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(but -0.14)(he -4.01)(saw -0.54)(it -4.22)(was -2.06)(going -3.44)(none -4.28)(trail -0.90)(. -7.08) line score is : -2.961, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and sideways he could n't be seen 
+-------------------------score:  -3.2393961464986205----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ and says he could never see female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(and -0.24)(says -3.85)(he -0.65)(could -0.80)(never -6.64)(see -3.87)(female -4.93)(. -3.37) line score is : -3.045, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ but I guess that you probably gnu 
+-------------------------score:  -3.248774946667254----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ but i think that he never female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(but -0.24)(i -3.85)(think -0.65)(that -4.46)(he -4.10)(never -3.33)(female -2.43)(. -1.53) line score is : -2.574, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ which leaves him in very bad shape 
+-------------------------score:  -3.2766316486522555----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ which is him in very large detail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(which -0.24)(is -3.85)(him -0.65)(in -4.61)(very -3.92)(large -8.32)(detail -2.72)(. -8.72) line score is : -4.130, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ are all easy marks for a jolly 
+-------------------------score:  -3.2830465203151107----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ beat all other sailors for a whale . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(beat -0.14)(all -4.01)(other -0.54)(sailors -8.90)(for -4.18)(a -6.86)(whale -2.21)(. -4.66) line score is : -3.937, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ when he found there were five little chips 
+-------------------------score:  -3.284206900632743----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ when he saw there were two young female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(when -0.14)(he -4.01)(saw -0.54)(there -5.62)(were -0.99)(two -1.03)(young -6.24)(female -2.17)(. -2.77) line score is : -2.611, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.2881627899985157----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ a beautiful girl is no female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(a -0.24)(beautiful -3.85)(girl -0.65)(is -4.32)(no -3.66)(female -1.96)(. -7.68) line score is : -3.194, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and since then has never benzene 
+-------------------------score:  -3.321431185930006----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ and since then appears always female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(and -0.14)(since -4.01)(then -0.54)(appears -0.61)(always -9.13)(female -1.56)(. -8.92) line score is : -3.558, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ within weeks it was all in the past 
+-------------------------score:  -3.322827184742147----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ in hopes it was all in the female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(in -0.24)(hopes -3.85)(it -0.65)(was -4.07)(all -6.61)(in -5.86)(the -1.87)(female -4.63)(. -4.87) line score is : -3.628, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ VBD RB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ found only a sleeveless tuxedo 
+-------------------------score:  -3.3341075907150906----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ dressed beautifully a little female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(dressed -0.24)(beautifully -3.85)(a -0.65)(little -5.93)(female -6.95)(. -8.71) line score is : -4.389, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ FOR CD NNS VBD JJ AT NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ for six sikhs were seasick at eos 
+-------------------------score:  -3.335509021766484----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ for two days were wasted at detail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(for -0.24)(two -3.85)(days -0.65)(were -5.68)(wasted -5.56)(at -1.21)(detail -5.91)(. -2.93) line score is : -3.255, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ that unlucky old person of ems 
+-------------------------score:  -3.3605163837632825----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ that poor little bundle of female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(that -0.24)(poor -3.85)(little -0.65)(bundle -5.41)(of -7.64)(female -2.02)(. -4.69) line score is : -3.500, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ BUT NN VBD WHAT PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ but nobody knew what he said 
+-------------------------score:  -3.3611397118337694----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ but nobody knew what he wholesale . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(but -0.14)(nobody -4.01)(knew -0.54)(what -4.22)(he -6.77)(wholesale -1.83)(. -1.94) line score is : -2.777, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ THAT JJ JJ NN IN JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ that ungracious young lady in blue 
+-------------------------score:  -3.370181922951052----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ that poor little animal in pale . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(that -0.24)(poor -3.85)(little -0.65)(animal -5.41)(in -7.64)(pale -2.02)(. -5.26) line score is : -3.581, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ VBD A NN DT JJR THAN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ was a tipple no stronger than toui 
+-------------------------score:  -3.380551963346079----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ struck a whale no bigger than female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(struck -0.14)(a -4.01)(whale -0.54)(no -7.44)(bigger -2.21)(than -4.22)(female -9.53)(. -2.00) line score is : -3.760, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ BUT THE NN NN VBD PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ but the telephone book caused him pain 
+-------------------------score:  -3.3997298320755363----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ but the captain thought was him female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(but -0.14)(the -4.01)(captain -0.54)(thought -4.22)(was -2.55)(him -3.85)(female -4.44)(. -8.74) line score is : -3.561, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ thirty days is the time he will do 
+-------------------------score:  -3.447328676780065----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ dead men is the word i will detail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(dead -0.24)(men -3.85)(is -0.65)(the -7.22)(word -6.87)(i -9.24)(will -2.24)(detail -1.78)(. -3.59) line score is : -3.966, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ us camels get into a stew 
+-------------------------score:  -3.508858195235652----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ thrust downwards till into a female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(thrust -0.14)(downwards -4.01)(till -0.54)(into -6.97)(a -7.44)(female -5.37)(. -7.67) line score is : -4.590, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and see what the critics all say 
+-------------------------score:  -3.638161509297788----------------------- 
+there was a brave man named nathanael 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a sword on his knee , 
+ and put what the sailors all female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(sword -3.63)(on -1.58)(his -4.49)(knee -4.19)(, -0.14) line score is : -2.734, look ahead score is : 0.000
+(and -0.14)(put -4.01)(what -0.54)(the -0.61)(sailors -5.53)(all -8.39)(female -4.75)(. -2.68) line score is : -3.331, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ VBD VBG PRP$ DURING THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ kept insuring her during the service 
+-------------------------score:  -3.722532819355688----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the sea , 
+ with a child on his knee , 
+ called having his during the female . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(sea -0.91)(, -2.83) line score is : -2.348, look ahead score is : 0.000
+(with -2.83)(a -2.29)(child -3.63)(on -1.58)(his -5.56)(knee -2.87)(, -0.24) line score is : -2.712, look ahead score is : 0.000
+(called -0.24)(having -3.85)(his -0.65)(during -7.46)(the -9.14)(female -3.76)(. -14.03) line score is : -5.590, look ahead score is : 0.000
+======================= template: 30 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD BACK FROM THE NN , 
+ WITH A NN ON PRP$ NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ they came back from the ride 
+ with a hat on my head 
+ and awakening find it 's but dreyrnss ! 
+-------------------------score:  -3.818462798089692----------------------- 
+there was a brave man named jerrell 
+ who crossed a great river on his sail . 
+ he came back from the west , 
+ with a ship on his chest , 
+ and trying cross it is but strange detail . 
+------------------------- score breakdown ------------------------ 
+(who -2.33)(crossed -7.21)(a -2.93)(great -3.70)(river -0.78)(on -3.70)(his -1.66)(sail -6.27)(. -2.24) line score is : -3.426, look ahead score is : 0.000
+(he -2.24)(came -1.55)(back -3.46)(from -2.05)(the -3.38)(west -0.91)(, -4.42) line score is : -2.574, look ahead score is : 0.000
+(with -4.42)(a -2.23)(ship -3.79)(on -1.73)(his -3.78)(chest -4.43)(, -1.42) line score is : -3.112, look ahead score is : 0.000
+(and -1.42)(trying -6.72)(cross -0.70)(it -0.77)(is -9.35)(but -10.73)(strange -2.84)(detail -8.03)(. -5.35) line score is : -5.100, look ahead score is : 0.000

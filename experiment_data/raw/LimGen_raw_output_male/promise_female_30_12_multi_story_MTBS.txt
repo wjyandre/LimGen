@@ -1,0 +1,616 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.019768450003598----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and that is the beauty of this day . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(that -4.39)(is -8.01)(the -1.81)(beauty -4.01)(of -3.37)(this -2.73)(day -3.90)(. -0.13) line score is : -3.150, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.122531083179638----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and now she has a family okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(now -4.39)(she -8.01)(has -1.81)(a -3.82)(family -0.79)(okay -1.81)(. -1.15) line score is : -2.723, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.13660433604673----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ she has a nice house out in the bay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(she -0.00)(has -4.39)(a -8.01)(nice -4.00)(house -3.61)(out -1.26)(in -4.23)(the -2.75)(bay -5.69)(. -1.61) line score is : -3.555, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.283513871712032----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ she has a new favorite birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(she -0.00)(has -4.39)(a -8.01)(new -4.00)(favorite -3.61)(birthday -1.26)(. -3.78) line score is : -3.580, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.3291393253270405----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ we were able to find , 
+ we finally found our birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(we -3.19)(were -2.63)(able -3.67)(to -2.08)(find -2.30)(, -0.00) line score is : -2.314, look ahead score is : 0.000
+(we -0.00)(finally -4.42)(found -8.20)(our -4.04)(birthday -5.69)(. -1.02) line score is : -3.896, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.3358419950480664----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and for years she just enjoys her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(for -4.39)(years -8.01)(she -1.81)(just -5.53)(enjoys -4.29)(her -1.49)(day -5.00)(. -7.38) line score is : -4.213, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and now a new teacher they seek 
+-------------------------score:  -3.380763229681179----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and now a new family we say . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(now -4.39)(a -8.01)(new -1.81)(family -3.82)(we -5.59)(say -3.27)(. -2.41) line score is : -3.662, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.389154519720544----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ she got through the night and went sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(she -0.00)(got -4.39)(through -8.01)(the -4.00)(night -3.23)(and -5.07)(went -2.26)(sunday -4.02)(. -2.08) line score is : -3.673, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ but I guess that you probably gnu 
+-------------------------score:  -3.393410826676215----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ but i think that she really okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(but -0.00)(i -4.39)(think -8.01)(that -4.85)(she -2.25)(really -2.26)(okay -2.75)(. -2.35) line score is : -3.358, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.4085283673128055----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ in people she knew all in the day . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(in -0.00)(people -4.39)(she -8.01)(knew -3.50)(all -6.30)(in -2.48)(the -1.38)(day -7.36)(. -6.00) line score is : -4.380, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ he left all his fans wanting more 
+-------------------------score:  -3.4157898753415794----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ she had all her friends coming friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(she -0.00)(had -4.39)(all -8.01)(her -4.00)(friends -2.86)(coming -4.29)(friday -1.83)(. -2.31) line score is : -3.460, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ VBP VBG A NN IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ are making a nest in my beard 
+-------------------------score:  -3.427245697332546----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ go swimming a lot in her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(go -0.00)(swimming -4.39)(a -8.01)(lot -5.67)(in -7.39)(her -5.45)(birthday -1.73)(. -3.14) line score is : -4.472, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.479637702709184----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ we were able to find , 
+ we found them and took pictures and day . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(we -3.19)(were -2.63)(able -3.67)(to -2.08)(find -2.30)(, -0.00) line score is : -2.314, look ahead score is : 0.000
+(we -0.00)(found -4.42)(them -8.20)(and -4.04)(took -2.48)(pictures -3.06)(and -2.42)(day -3.41)(. -5.12) line score is : -3.683, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.4847367888412855----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and put with a wonderful birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(put -4.39)(with -8.01)(a -1.81)(wonderful -5.77)(birthday -5.84)(. -2.99) line score is : -4.117, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ they bedded her down in the stable 
+-------------------------score:  -3.503759404970333----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ she found herself down in the halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(she -0.00)(found -4.39)(herself -8.01)(down -4.00)(in -2.96)(the -3.80)(halfway -7.10)(. -2.03) line score is : -4.036, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ to balance green peas on her fork 
+-------------------------score:  -3.5063466916015993----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ to help other families on it day . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(to -0.00)(help -4.39)(other -8.01)(families -4.28)(on -3.16)(it -4.41)(day -2.63)(. -4.80) line score is : -3.961, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ SO PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ so I sat on my moped and moped 
+-------------------------score:  -3.5080009573439677----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ so i am on her side and sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(so -0.00)(i -4.39)(am -8.01)(on -4.96)(her -2.33)(side -3.62)(and -7.12)(sunday -2.52)(. -0.62) line score is : -3.730, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ because I was sniffing my toes 
+-------------------------score:  -3.5103043779762912----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ because she was doing our birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(because -0.00)(she -4.39)(was -8.01)(doing -4.69)(our -1.22)(birthday -1.41)(. -5.18) line score is : -3.555, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ as his talent and confidence swelled 
+-------------------------score:  -3.544032188276921----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ as her father and brother survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(as -0.00)(her -4.39)(father -8.01)(and -3.83)(brother -4.00)(survey -2.04)(. -4.44) line score is : -3.814, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and since then has never benzene 
+-------------------------score:  -3.628455831010922----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and since then has also resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(since -4.39)(then -8.01)(has -1.81)(also -6.81)(resume -0.87)(. -3.00) line score is : -3.557, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.644130136895304----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ they were able to find , 
+ they found when they go across halfway . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(they -3.19)(were -2.63)(able -3.03)(to -3.02)(find -2.67)(, -0.00) line score is : -2.424, look ahead score is : 0.000
+(they -0.00)(found -4.53)(when -7.54)(they -3.99)(go -2.24)(across -7.93)(halfway -0.70)(. -5.79) line score is : -4.092, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and could n't bend back again 
+-------------------------score:  -3.7055467829140354----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and could really get back resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(could -4.39)(really -8.01)(get -1.81)(back -7.48)(resume -3.79)(. -3.06) line score is : -4.077, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -3.713958852443223----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and learn what the people all okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(learn -4.39)(what -8.01)(the -1.81)(people -5.01)(all -4.71)(okay -3.90)(. -4.62) line score is : -4.056, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP MANY NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and showed him many cstar 
+-------------------------score:  -3.7649930385107706----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and got us many resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(got -4.39)(us -8.01)(many -1.81)(resume -5.96)(. -3.25) line score is : -3.905, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and sometimes get quite cranky 
+-------------------------score:  -3.8813108215940053----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and hopefully have quite resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(hopefully -4.39)(have -8.01)(quite -1.81)(resume -5.80)(. -4.37) line score is : -4.064, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ THAT JJ JJ NN OF NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ that unlucky old person of ems 
+-------------------------score:  -3.8892989182555726----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ they were able to find , 
+ that little black cat of resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(they -3.19)(were -2.63)(able -3.03)(to -3.02)(find -2.67)(, -0.00) line score is : -2.424, look ahead score is : 0.000
+(that -0.00)(little -4.53)(black -7.54)(cat -4.84)(of -5.51)(resume -5.55)(. -2.16) line score is : -4.306, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ but will ruminate on while I chew 
+-------------------------score:  -3.9699961145718894----------------------- 
+there was a lady named renee 
+ who did a great job on our way . 
+ her parents were so kind , 
+ we were lucky to find , 
+ but will be on while they resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(we -3.19)(were -2.63)(lucky -3.67)(to -2.08)(find -3.99)(, -0.80) line score is : -2.728, look ahead score is : 0.000
+(but -0.80)(will -3.32)(be -8.62)(on -3.25)(while -8.09)(they -2.05)(resume -6.01)(. -11.04) line score is : -5.396, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP$ NNS VBD SO JJ , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ her thanks were so cold 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -4.015136591564383----------------------- 
+there was a lady named kay 
+ who did a great job on our way . 
+ her parents were so kind , 
+ she was able to find , 
+ and sing thank you is but good friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.50)(a -2.49)(great -2.70)(job -0.33)(on -2.63)(our -4.38)(way -8.00)(. -3.13) line score is : -3.265, look ahead score is : 0.000
+(her -3.13)(parents -4.78)(were -4.33)(so -1.64)(kind -2.84)(, -3.19) line score is : -3.319, look ahead score is : 0.000
+(she -3.19)(was -2.63)(able -2.68)(to -1.93)(find -2.67)(, -0.00) line score is : -2.186, look ahead score is : 0.000
+(and -0.00)(sing -4.39)(thank -8.01)(you -1.81)(is -9.11)(but -9.01)(good -0.08)(friday -8.95)(. -8.34) line score is : -5.521, look ahead score is : 0.000

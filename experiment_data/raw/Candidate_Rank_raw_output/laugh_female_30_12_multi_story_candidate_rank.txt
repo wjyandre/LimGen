@@ -1,0 +1,88 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8133800057694316----------------------- 
+there was a loud girl named grace 
+ who smiled a big smile on our face . 
+ when we arrived to wait , 
+ we were met by our date , 
+ and we sat down and took our place . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(smiled -6.73)(a -3.78)(big -4.34)(smile -0.48)(on -2.86)(our -4.28)(face -1.45)(. -1.41) line score is : -2.997, look ahead score is : 0.000
+(when -1.41)(we -5.04)(arrived -1.19)(to -2.70)(wait -3.26)(, -7.63) line score is : -3.539, look ahead score is : 0.000
+(we -7.63)(were -2.73)(met -1.51)(by -1.19)(our -2.95)(date -0.69)(, -3.26) line score is : -2.853, look ahead score is : 0.000
+(and -3.26)(we -5.64)(sat -1.77)(down -3.56)(and -1.90)(took -3.91)(our -0.59)(place -2.47)(. -4.35) line score is : -3.050, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.917244707234204----------------------- 
+there was a loud girl named grace 
+ who smiled a big smile on our face . 
+ when we arrived to wait , 
+ we were met by a gate , 
+ and we walked down and found our place . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(smiled -6.73)(a -3.78)(big -4.34)(smile -0.48)(on -2.86)(our -4.28)(face -1.45)(. -1.41) line score is : -2.997, look ahead score is : 0.000
+(when -1.41)(we -5.04)(arrived -1.19)(to -2.70)(wait -3.26)(, -7.63) line score is : -3.539, look ahead score is : 0.000
+(we -7.63)(were -2.73)(met -1.51)(by -1.19)(a -2.95)(gate -0.69)(, -1.36) line score is : -2.582, look ahead score is : 0.000
+(and -1.36)(we -8.10)(walked -3.84)(down -1.49)(and -2.12)(found -2.75)(our -3.18)(place -4.35)(. -3.91) line score is : -3.454, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0331190776440407----------------------- 
+there was a loud girl named grace 
+ who smiled a big smile on our face . 
+ when we arrived to talk , 
+ we were met by a knock , 
+ so we quickly got on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(smiled -6.73)(a -3.78)(big -4.34)(smile -0.48)(on -2.86)(our -4.28)(face -1.45)(. -1.41) line score is : -2.997, look ahead score is : 0.000
+(when -1.41)(we -5.04)(arrived -1.19)(to -2.70)(talk -3.26)(, -6.24) line score is : -3.306, look ahead score is : 0.000
+(we -6.24)(were -2.89)(met -1.76)(by -1.35)(a -2.80)(knock -0.84)(, -1.46) line score is : -2.478, look ahead score is : 0.000
+(so -1.46)(we -7.45)(quickly -5.35)(got -2.94)(on -0.70)(the -3.19)(staircase -3.06)(. -3.77) line score is : -3.490, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP RB VBD ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he carefully spat on the ceiling 
+-------------------------score:  -3.0693766138245984----------------------- 
+there was a loud girl named grace 
+ who smiled a big smile on our face . 
+ when we arrived to wait , 
+ we were met by our date , 
+ so we quickly got on the staircase . 
+------------------------- score breakdown ------------------------ 
+(who -1.64)(smiled -6.73)(a -3.78)(big -4.34)(smile -0.48)(on -2.86)(our -4.28)(face -1.45)(. -1.41) line score is : -2.997, look ahead score is : 0.000
+(when -1.41)(we -5.04)(arrived -1.19)(to -2.70)(wait -3.26)(, -7.63) line score is : -3.539, look ahead score is : 0.000
+(we -7.63)(were -2.73)(met -1.51)(by -1.19)(our -2.95)(date -0.69)(, -3.26) line score is : -2.853, look ahead score is : 0.000
+(so -3.26)(we -5.64)(quickly -1.77)(got -5.65)(on -0.97)(the -3.58)(staircase -2.69)(. -3.57) line score is : -3.391, look ahead score is : 0.000

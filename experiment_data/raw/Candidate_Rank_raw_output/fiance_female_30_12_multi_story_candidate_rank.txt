@@ -1,0 +1,44 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.8213931005448103----------------------- 
+there once was a girl named renee 
+ who loved a hot dog on her birthday . 
+ when she went to someone , 
+ she was told by her son , 
+ that the person she saw was a stray . 
+------------------------- score breakdown ------------------------ 
+(who -3.06)(loved -3.77)(a -4.89)(hot -5.51)(dog -1.99)(on -4.16)(her -2.51)(birthday -1.15)(. -0.70) line score is : -3.082, look ahead score is : 0.000
+(when -0.70)(she -3.95)(went -1.13)(to -3.49)(someone -0.62)(, -7.16) line score is : -2.841, look ahead score is : 0.000
+(she -7.16)(was -3.81)(told -1.04)(by -1.72)(her -1.27)(son -3.04)(, -2.06) line score is : -2.869, look ahead score is : 0.000
+(that -2.06)(the -5.70)(person -1.69)(she -3.58)(saw -2.23)(was -1.84)(a -2.97)(stray -3.54)(. -1.02) line score is : -2.736, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND VBD THE NN WITH NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ which he loosed in the house 
+ and finished the solo with honour 
+-------------------------score:  -3.1813009480635324----------------------- 
+there was a nervous girl named kay 
+ who wished a good night on her birthday . 
+ she asked for her passport , 
+ which she found in the court , 
+ and left the courtroom with resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(wished -6.91)(a -6.00)(good -3.71)(night -1.04)(on -5.89)(her -0.78)(birthday -1.86)(. -0.70) line score is : -3.153, look ahead score is : 0.000
+(she -0.70)(asked -2.25)(for -3.37)(her -2.50)(passport -2.15)(, -6.72) line score is : -2.950, look ahead score is : 0.000
+(which -6.72)(she -1.98)(found -1.68)(in -0.79)(the -3.37)(court -1.50)(, -1.23) line score is : -2.468, look ahead score is : 0.000
+(and -1.23)(left -8.29)(the -2.64)(courtroom -0.88)(with -4.19)(resume -1.46)(. -3.61) line score is : -3.187, look ahead score is : 0.000

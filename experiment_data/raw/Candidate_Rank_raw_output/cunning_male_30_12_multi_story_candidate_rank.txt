@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ but they felt it was doing them good 
+-------------------------score:  -3.112784231081605----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ and he went to the school , 
+ but he knew he was getting him sick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.14)(father -3.16)(was -1.86)(cruel -1.75)(, -6.83) line score is : -3.380, look ahead score is : 0.000
+(and -6.83)(he -1.95)(went -0.69)(to -1.40)(the -4.71)(school -1.12)(, -1.88) line score is : -2.654, look ahead score is : 0.000
+(but -1.88)(he -4.59)(knew -2.81)(he -2.42)(was -1.51)(getting -4.47)(him -1.99)(sick -1.65)(. -5.20) line score is : -2.946, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.3155162539333105----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ and he went to the school , 
+ and he did not like hearing of nick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.14)(father -3.16)(was -1.86)(cruel -1.75)(, -6.83) line score is : -3.380, look ahead score is : 0.000
+(and -6.83)(he -1.95)(went -0.69)(to -1.40)(the -4.71)(school -1.12)(, -1.88) line score is : -2.654, look ahead score is : 0.000
+(and -1.88)(he -4.59)(did -2.81)(not -1.83)(like -1.82)(hearing -3.77)(of -1.21)(nick -2.81)(. -7.25) line score is : -3.107, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.33875980108015----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ when he returned to hide , 
+ he was caught by his side , 
+ but he escaped his parents and nick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(when -2.55)(he -3.64)(returned -0.95)(to -3.40)(hide -1.42)(, -7.37) line score is : -3.222, look ahead score is : 0.000
+(he -7.37)(was -1.92)(caught -0.77)(by -1.75)(his -3.53)(side -1.14)(, -2.25) line score is : -2.676, look ahead score is : 0.000
+(but -2.25)(he -8.35)(escaped -1.99)(his -2.08)(parents -2.19)(and -2.19)(nick -4.54)(. -5.58) line score is : -3.646, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ PRP$ NN VBD A NN , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ my mama was a goat 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.4127596337949075----------------------- 
+there was a magician named rick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ his mother was a fool , 
+ and he did not like hearing of nick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.14)(father -3.16)(was -1.86)(cruel -1.75)(, -6.83) line score is : -3.380, look ahead score is : 0.000
+(his -6.83)(mother -1.95)(was -4.62)(a -0.39)(fool -1.62)(, -2.73) line score is : -3.023, look ahead score is : 0.000
+(and -2.73)(he -5.17)(did -0.79)(not -0.40)(like -1.78)(hearing -4.50)(of -0.50)(nick -3.17)(. -7.04) line score is : -2.899, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ BUT PRP$ NN VBD JJ , 
+ AND PRP VBD TO THE NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ but his technique was crude 
+ and they rushed to the rail 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.481735581351865----------------------- 
+there was a magician named nick 
+ who fooled all his family in a trick . 
+ but his father was cruel , 
+ and he went to the school , 
+ but he knew his parents and lipstick . 
+------------------------- score breakdown ------------------------ 
+(who -1.99)(fooled -7.00)(all -3.39)(his -2.76)(family -5.29)(in -3.75)(a -2.66)(trick -4.20)(. -2.55) line score is : -3.731, look ahead score is : 0.000
+(but -2.55)(his -4.14)(father -3.16)(was -1.86)(cruel -1.75)(, -6.83) line score is : -3.380, look ahead score is : 0.000
+(and -6.83)(he -1.95)(went -0.69)(to -1.40)(the -4.71)(school -1.12)(, -1.88) line score is : -2.654, look ahead score is : 0.000
+(but -1.88)(he -4.59)(knew -2.81)(his -2.42)(parents -1.51)(and -4.47)(lipstick -3.02)(. -4.18) line score is : -3.110, look ahead score is : 0.000

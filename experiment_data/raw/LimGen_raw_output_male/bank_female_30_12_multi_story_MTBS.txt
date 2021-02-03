@@ -1,0 +1,506 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ you never can tell till you try 
+-------------------------score:  -2.94906672462821----------------------- 
+there was a smart farmer named marquerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ you never can tell unless you eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(you -1.47)(never -8.95)(can -1.19)(tell -4.24)(unless -6.04)(you -4.89)(eat -1.35)(. -5.58) line score is : -4.213, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ she was destined to go a long way 
+-------------------------score:  -3.038351485223481----------------------- 
+there was a smart farmer named marquerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ it was hard to get a good concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(it -3.34)(was -5.80)(hard -2.10)(to -4.80)(get -0.28)(a -5.69)(good -0.57)(concrete -1.31)(. -3.24) line score is : -3.017, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ they bedded her down in the stable 
+-------------------------score:  -3.040398867800832----------------------- 
+there was a smart farmer named bridgette 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ she wanted it down in the concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(she -1.47)(wanted -8.95)(it -1.19)(down -4.62)(in -3.17)(the -4.81)(concrete -6.01)(. -4.05) line score is : -4.282, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and that is the cause of this sonnet 
+-------------------------score:  -3.070080827582966----------------------- 
+there was a smart farmer named marquerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ and that is the reason of this heat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(and -3.34)(that -5.80)(is -2.10)(the -1.34)(reason -4.65)(of -3.68)(this -2.75)(heat -3.73)(. -5.07) line score is : -3.608, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ then he walloped me square in the face 
+-------------------------score:  -3.1011152827378474----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ well i got you something in the meat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(well -1.47)(i -8.95)(got -1.19)(you -6.51)(something -2.50)(in -3.67)(the -4.71)(meat -3.31)(. -4.70) line score is : -4.112, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBZ PRP COULD RB VB VBN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and sideways he could n't be seen 
+-------------------------score:  -3.109318245202303----------------------- 
+there was a smart farmer named bridgette 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ and says she could not afford concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(and -3.34)(says -5.80)(she -2.10)(could -1.34)(not -9.04)(afford -2.47)(concrete -3.41)(. -1.05) line score is : -3.569, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ VBP JJ TO VB ON PRP$ NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ are welcome to sit on my bonnet ! 
+-------------------------score:  -3.121729653893095----------------------- 
+there was a smart farmer named margarete 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ make sure to put on her makeup sheet . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(make -1.47)(sure -8.95)(to -1.19)(put -8.12)(on -1.16)(her -3.55)(makeup -3.81)(sheet -3.37)(. -2.70) line score is : -3.813, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ I did n't think life was this way 
+-------------------------score:  -3.1749699495055457----------------------- 
+there was a smart farmer named margarete 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ it was not till someone brought this meat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(it -3.34)(was -5.80)(not -2.10)(till -4.80)(someone -0.28)(brought -3.60)(this -6.85)(meat -4.99)(. -3.24) line score is : -3.891, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and she baked really great apple pies 
+-------------------------score:  -3.1755432495847344----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ and it was too much money concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(and -3.34)(it -5.80)(was -2.10)(too -1.34)(much -3.42)(money -0.46)(concrete -5.26)(. -2.88) line score is : -3.077, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.1946377994552737----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ and it was cold everywhere concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(and -3.34)(it -5.80)(was -2.10)(cold -1.34)(everywhere -3.42)(concrete -0.46)(. -4.22) line score is : -2.956, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.212141551754691----------------------- 
+there was a smart farmer named bridgette 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ i got through the door and bought concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(i -1.47)(got -8.95)(through -1.19)(the -3.66)(door -4.01)(and -9.20)(bought -2.61)(concrete -1.63)(. -2.17) line score is : -3.876, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and see what the critics all say 
+-------------------------score:  -3.2213271651417017----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she had to the door , 
+ and ask what the customers all eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(had -2.80)(to -2.02)(the -3.90)(door -2.37)(, -9.42) line score is : -3.857, look ahead score is : 0.000
+(and -9.42)(ask -5.13)(what -2.15)(the -1.08)(customers -4.80)(all -3.80)(eat -2.26)(. -5.83) line score is : -4.309, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ when he saw there were six little chips 
+-------------------------score:  -3.2388349356073323----------------------- 
+there was a smart farmer named margarete 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ when she saw there were two big concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(when -1.47)(she -8.95)(saw -1.19)(there -6.25)(were -0.96)(two -1.92)(big -5.20)(concrete -1.52)(. -3.20) line score is : -3.405, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.2476235489050547----------------------- 
+there was a smart farmer named margarete 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ i never imagined a heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(i -1.47)(never -8.95)(imagined -1.19)(a -3.66)(heartbeat -5.85)(. -6.63) line score is : -4.625, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND FOR NNS PRP JUST VBZ PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and for garments he just makes his skindoo 
+-------------------------score:  -3.258825701294523----------------------- 
+there was a smart farmer named margarete 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ and for years she just has my heartbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(and -3.34)(for -5.80)(years -2.10)(she -1.34)(just -6.13)(has -3.43)(my -0.95)(heartbeat -4.45)(. -7.65) line score is : -3.911, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ RB VB UP ALL JJ AND JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ then wake up all snappy and snarly 
+-------------------------score:  -3.2599866706877947----------------------- 
+there was a smart farmer named margarete 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ then get up all dirty and upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(then -3.34)(get -5.80)(up -2.10)(all -5.21)(dirty -4.59)(and -1.99)(upbeat -6.36)(. -4.49) line score is : -4.234, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP$ NNS VBD JJR AND JJR . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and her freckles grew rarer and rarer 
+-------------------------score:  -3.2740425914525986----------------------- 
+there was a smart farmer named bridgette 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she worked to the floor , 
+ and her hands were better and concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(worked -2.80)(to -2.02)(the -5.58)(floor -5.33)(, -4.89) line score is : -3.874, look ahead score is : 0.000
+(and -4.89)(her -5.09)(hands -1.90)(were -1.61)(better -4.08)(and -2.85)(concrete -0.85)(. -7.73) line score is : -3.623, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and now he 's a college professor 
+-------------------------score:  -3.2824157420545816----------------------- 
+there was a smart farmer named marquerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ and then she says a woman athlete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(and -1.47)(then -8.95)(she -1.19)(says -4.21)(a -3.44)(woman -0.65)(athlete -5.47)(. -5.89) line score is : -3.908, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD ALL PRP$ NNS VBG MORE . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ he left all his fans wanting more 
+-------------------------score:  -3.3224636148661375----------------------- 
+there was a smart farmer named marquerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and it was to the floor , 
+ she had all her clothes coming upbeat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(it -2.02)(was -2.80)(to -4.65)(the -1.23)(floor -6.02)(, -3.34) line score is : -3.505, look ahead score is : 0.000
+(she -3.34)(had -5.80)(all -2.10)(her -3.00)(clothes -3.55)(coming -5.21)(upbeat -1.62)(. -1.12) line score is : -3.218, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ I invariably get in a stew ! 
+-------------------------score:  -3.337942538782954----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ you never know in a week concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(you -1.47)(never -8.95)(know -1.19)(in -4.24)(a -6.04)(week -1.03)(concrete -6.52)(. -1.88) line score is : -3.916, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.379874462431127----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ i bought it and made millions and eat . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(i -1.47)(bought -8.95)(it -1.19)(and -3.66)(made -4.81)(millions -3.49)(and -3.60)(eat -6.84)(. -6.36) line score is : -4.486, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ I d probably know two or three 
+-------------------------score:  -3.385154005140066----------------------- 
+there was a smart farmer named marquerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she said to the floor , 
+ you know maybe get one or concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(said -2.80)(to -2.02)(the -4.91)(floor -2.50)(, -1.47) line score is : -2.887, look ahead score is : 0.000
+(you -1.47)(know -8.95)(maybe -1.19)(get -4.24)(one -0.72)(or -7.48)(concrete -5.87)(. -4.42) line score is : -4.293, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ AND PRP VBD TO THE NN , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ and they rushed to the rail 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.83411553727858----------------------- 
+there was a smart farmer named marguerite 
+ who owned a small farm on our street . 
+ she would go to a store , 
+ and she used to the floor , 
+ and sing live it is but good concrete . 
+------------------------- score breakdown ------------------------ 
+(who -1.27)(owned -4.15)(a -0.89)(small -2.46)(farm -1.24)(on -3.25)(our -4.22)(street -2.19)(. -1.20) line score is : -2.319, look ahead score is : 0.000
+(she -1.20)(would -1.22)(go -4.01)(to -3.21)(a -1.29)(store -3.57)(, -4.48) line score is : -2.710, look ahead score is : 0.000
+(and -4.48)(she -2.02)(used -2.80)(to -2.02)(the -4.93)(floor -0.08)(, -9.75) line score is : -3.726, look ahead score is : 0.000
+(and -9.75)(sing -6.32)(live -3.02)(it -0.99)(is -7.28)(but -7.42)(good -7.93)(concrete -5.93)(. -7.78) line score is : -6.271, look ahead score is : 0.000

@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.843889533512054----------------------- 
+there was a warrior named cole 
+ who felt a deep sadness on his soul . 
+ when he returned to mind , 
+ he was surprised to find , 
+ that the person he loved was a hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(deep -2.94)(sadness -4.16)(on -5.08)(his -1.25)(soul -2.82)(. -1.58) line score is : -3.274, look ahead score is : 0.000
+(when -1.58)(he -3.67)(returned -0.78)(to -3.84)(mind -0.86)(, -8.95) line score is : -3.281, look ahead score is : 0.000
+(he -8.95)(was -0.85)(surprised -0.45)(to -2.37)(find -3.37)(, -0.37) line score is : -2.726, look ahead score is : 0.000
+(that -0.37)(the -0.70)(person -5.79)(he -1.38)(loved -2.08)(was -4.02)(a -1.08)(hole -2.09)(. -1.31) line score is : -2.090, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was destined to go a long way 
+-------------------------score:  -2.9195978761680665----------------------- 
+there was a warrior named cole 
+ who felt a strange presence on his soul . 
+ when he returned to mind , 
+ he was surprised to find , 
+ he had grown to be a complete hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(strange -3.70)(presence -2.97)(on -3.79)(his -0.92)(soul -4.27)(. -1.23) line score is : -3.168, look ahead score is : 0.000
+(when -1.23)(he -3.36)(returned -0.93)(to -3.68)(mind -0.79)(, -9.27) line score is : -3.209, look ahead score is : 0.000
+(he -9.27)(was -0.79)(surprised -0.49)(to -2.04)(find -3.44)(, -0.19) line score is : -2.705, look ahead score is : 0.000
+(he -0.19)(had -0.51)(grown -6.13)(to -3.44)(be -1.35)(a -4.88)(complete -2.21)(hole -1.87)(. -1.24) line score is : -2.424, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -2.974109261777372----------------------- 
+there was a warrior named cole 
+ who felt a strange presence on his soul . 
+ when he returned to mind , 
+ he was surprised to find , 
+ he was able to move and to roll . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(strange -3.70)(presence -2.97)(on -3.79)(his -0.92)(soul -4.27)(. -1.23) line score is : -3.168, look ahead score is : 0.000
+(when -1.23)(he -3.36)(returned -0.93)(to -3.68)(mind -0.79)(, -9.27) line score is : -3.209, look ahead score is : 0.000
+(he -9.27)(was -0.79)(surprised -0.49)(to -2.04)(find -3.44)(, -0.19) line score is : -2.705, look ahead score is : 0.000
+(he -0.19)(was -0.51)(able -6.13)(to -3.44)(move -0.96)(and -4.27)(to -0.01)(roll -4.73)(. -2.90) line score is : -2.570, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -2.983555522064368----------------------- 
+there was a warrior named cole 
+ who felt a strange presence on his soul . 
+ when he returned to mind , 
+ he was surprised to find , 
+ he found that his body was charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(strange -3.70)(presence -2.97)(on -3.79)(his -0.92)(soul -4.27)(. -1.23) line score is : -3.168, look ahead score is : 0.000
+(when -1.23)(he -3.36)(returned -0.93)(to -3.68)(mind -0.79)(, -9.27) line score is : -3.209, look ahead score is : 0.000
+(he -9.27)(was -0.79)(surprised -0.49)(to -2.04)(find -3.44)(, -0.19) line score is : -2.705, look ahead score is : 0.000
+(he -0.19)(found -0.51)(that -6.13)(his -3.44)(body -3.01)(was -2.03)(charcoal -2.00)(. -2.82) line score is : -2.517, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.001540120691061----------------------- 
+there was a warrior named cole 
+ who felt a strange presence on his soul . 
+ when he returned to sight , 
+ he was struck by a light , 
+ and he looked down and saw our goal . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(strange -3.70)(presence -2.97)(on -3.79)(his -0.92)(soul -4.27)(. -1.23) line score is : -3.168, look ahead score is : 0.000
+(when -1.23)(he -3.36)(returned -0.93)(to -3.68)(sight -0.79)(, -9.66) line score is : -3.273, look ahead score is : 0.000
+(he -9.66)(was -0.79)(struck -0.52)(by -1.91)(a -4.26)(light -0.61)(, -1.12) line score is : -2.697, look ahead score is : 0.000
+(and -1.12)(he -4.25)(looked -2.59)(down -1.39)(and -2.78)(saw -4.55)(our -3.00)(goal -2.19)(. -0.24) line score is : -2.458, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD TO VB , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he wanted to see 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0167670956542416----------------------- 
+there was a warrior named cole 
+ who felt a great sadness on his soul . 
+ he decided to cry , 
+ and he cried to the sky , 
+ and he fell down and broke our hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(great -3.65)(sadness -4.70)(on -4.98)(his -1.14)(soul -2.83)(. -1.62) line score is : -3.393, look ahead score is : 0.000
+(he -1.62)(decided -1.53)(to -3.34)(cry -0.19)(, -7.55) line score is : -2.844, look ahead score is : 0.000
+(and -7.55)(he -2.92)(cried -1.28)(to -2.55)(the -1.53)(sky -3.49)(, -1.75) line score is : -3.009, look ahead score is : 0.000
+(and -1.75)(he -3.49)(fell -1.50)(down -1.10)(and -0.83)(broke -5.51)(our -1.87)(hole -2.27)(. -3.19) line score is : -2.392, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.032926176824877----------------------- 
+there was a warrior named cole 
+ who felt a strange presence on his soul . 
+ when he returned to sight , 
+ he was struck by a light , 
+ he saw that his body was charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.22)(felt -7.16)(a -3.25)(strange -3.70)(presence -2.97)(on -3.79)(his -0.92)(soul -4.27)(. -1.23) line score is : -3.168, look ahead score is : 0.000
+(when -1.23)(he -3.36)(returned -0.93)(to -3.68)(sight -0.79)(, -9.66) line score is : -3.273, look ahead score is : 0.000
+(he -9.66)(was -0.79)(struck -0.52)(by -1.91)(a -4.26)(light -0.61)(, -1.12) line score is : -2.697, look ahead score is : 0.000
+(he -1.12)(saw -4.25)(that -2.59)(his -4.98)(body -2.27)(was -2.86)(charcoal -1.93)(. -2.60) line score is : -2.827, look ahead score is : 0.000

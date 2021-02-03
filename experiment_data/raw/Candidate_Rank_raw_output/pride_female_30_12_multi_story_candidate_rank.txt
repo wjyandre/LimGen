@@ -1,0 +1,176 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.949663951061666----------------------- 
+there was a fierce woman named nicolle 
+ who felt a deep burning on her soul . 
+ when she came to yourself , 
+ you were shocked by your self , 
+ and that is the meaning of this scroll . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(felt -6.37)(a -3.56)(deep -2.85)(burning -4.44)(on -4.61)(her -0.16)(soul -2.47)(. -1.30) line score is : -2.992, look ahead score is : 0.000
+(when -1.30)(she -4.07)(came -0.65)(to -3.76)(yourself -0.72)(, -10.04) line score is : -3.424, look ahead score is : 0.000
+(you -10.04)(were -0.86)(shocked -0.66)(by -1.68)(your -5.07)(self -2.52)(, -1.43) line score is : -3.181, look ahead score is : 0.000
+(and -1.43)(that -4.94)(is -3.31)(the -1.82)(meaning -4.24)(of -2.76)(this -2.99)(scroll -4.41)(. -0.20) line score is : -2.901, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ which he loosed in the house 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.9543927350351886----------------------- 
+there was a vain woman named nicole 
+ who felt a great longing on her soul . 
+ it was a desire , 
+ which she found in the fire , 
+ and that is the meaning of this scroll . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(felt -6.34)(a -3.72)(great -2.64)(longing -2.06)(on -6.36)(her -0.71)(soul -3.72)(. -1.83) line score is : -3.198, look ahead score is : 0.000
+(it -1.83)(was -4.03)(a -0.56)(desire -2.42)(, -2.99) line score is : -2.366, look ahead score is : 0.000
+(which -2.99)(she -4.59)(found -2.84)(in -1.26)(the -4.59)(fire -1.68)(, -1.43) line score is : -2.768, look ahead score is : 0.000
+(and -1.43)(that -7.04)(is -1.31)(the -2.08)(meaning -4.01)(of -3.15)(this -2.91)(scroll -4.12)(. -0.23) line score is : -2.919, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD VBN WITH THE JJS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which was filled with the heaviest mortar 
+-------------------------score:  -2.9685994926239214----------------------- 
+there was a fierce woman named nicole 
+ who felt a deep burning on her soul . 
+ when she awoke to rest , 
+ she was shocked by her chest , 
+ which was filled with the darkest charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(felt -6.37)(a -3.56)(deep -2.85)(burning -4.44)(on -4.61)(her -0.16)(soul -2.47)(. -1.30) line score is : -2.992, look ahead score is : 0.000
+(when -1.30)(she -4.07)(awoke -0.65)(to -4.31)(rest -3.48)(, -8.45) line score is : -3.709, look ahead score is : 0.000
+(she -8.45)(was -1.14)(shocked -0.38)(by -2.03)(her -2.81)(chest -2.71)(, -2.00) line score is : -2.789, look ahead score is : 0.000
+(which -2.00)(was -6.73)(filled -2.27)(with -1.90)(the -0.82)(darkest -2.03)(charcoal -0.04)(. -3.28) line score is : -2.382, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0080517544861762----------------------- 
+there was a fierce woman named nicole 
+ who felt a deep burning on her soul . 
+ it was a desire , 
+ and she took to the fire , 
+ and it burned down and became her goal . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(felt -6.37)(a -3.56)(deep -2.85)(burning -4.44)(on -4.61)(her -0.16)(soul -2.47)(. -1.30) line score is : -2.992, look ahead score is : 0.000
+(it -1.30)(was -3.61)(a -0.72)(desire -2.16)(, -4.40) line score is : -2.437, look ahead score is : 0.000
+(and -4.40)(she -4.57)(took -2.91)(to -1.58)(the -5.09)(fire -3.15)(, -2.42) line score is : -3.446, look ahead score is : 0.000
+(and -2.42)(it -4.35)(burned -2.10)(down -2.22)(and -3.13)(became -2.17)(her -3.91)(goal -3.36)(. -3.98) line score is : -3.071, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ so he had to sit down on the floor 
+-------------------------score:  -3.061885488304225----------------------- 
+there was a fierce woman named nicolle 
+ who felt a deep burning on her soul . 
+ when she came to yourself , 
+ you were shocked by your self , 
+ so you asked to go down on the hole . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(felt -6.37)(a -3.56)(deep -2.85)(burning -4.44)(on -4.61)(her -0.16)(soul -2.47)(. -1.30) line score is : -2.992, look ahead score is : 0.000
+(when -1.30)(she -4.07)(came -0.65)(to -3.76)(yourself -0.72)(, -10.04) line score is : -3.424, look ahead score is : 0.000
+(you -10.04)(were -0.86)(shocked -0.66)(by -1.68)(your -5.07)(self -2.52)(, -1.43) line score is : -3.181, look ahead score is : 0.000
+(so -1.43)(you -4.94)(asked -3.31)(to -4.60)(go -0.72)(down -3.55)(on -3.65)(the -3.78)(hole -4.47)(. -2.97) line score is : -3.342, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ WHICH PRP VBD IN THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ which he loosed in the house 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.0624536429682085----------------------- 
+there was a vain woman named nicolle 
+ who felt a great longing on her soul . 
+ it was a desire , 
+ which she found in the fire , 
+ and she went down and lit her charcoal . 
+------------------------- score breakdown ------------------------ 
+(who -1.39)(felt -6.34)(a -3.72)(great -2.64)(longing -2.06)(on -6.36)(her -0.71)(soul -3.72)(. -1.83) line score is : -3.198, look ahead score is : 0.000
+(it -1.83)(was -4.03)(a -0.56)(desire -2.42)(, -2.99) line score is : -2.366, look ahead score is : 0.000
+(which -2.99)(she -4.59)(found -2.84)(in -1.26)(the -4.59)(fire -1.68)(, -1.43) line score is : -2.768, look ahead score is : 0.000
+(and -1.43)(she -7.04)(went -1.31)(down -2.08)(and -1.87)(lit -4.26)(her -4.23)(charcoal -2.28)(. -4.11) line score is : -3.178, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I did n't think life was this way 
+-------------------------score:  -3.1301796960178763----------------------- 
+there was a fierce woman named nicolle 
+ who felt a deep burning on her soul . 
+ when she came to yourself , 
+ you were shocked by your self , 
+ you did not know someone had this role . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(felt -6.37)(a -3.56)(deep -2.85)(burning -4.44)(on -4.61)(her -0.16)(soul -2.47)(. -1.30) line score is : -2.992, look ahead score is : 0.000
+(when -1.30)(she -4.07)(came -0.65)(to -3.76)(yourself -0.72)(, -10.04) line score is : -3.424, look ahead score is : 0.000
+(you -10.04)(were -0.86)(shocked -0.66)(by -1.68)(your -5.07)(self -2.52)(, -1.43) line score is : -3.181, look ahead score is : 0.000
+(you -1.43)(did -4.94)(not -3.31)(know -2.23)(someone -3.73)(had -0.09)(this -1.04)(role -8.07)(. -3.22) line score is : -3.119, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he was n't the wizard he woz 
+-------------------------score:  -3.252730719024135----------------------- 
+there was a fierce woman named nicolle 
+ who felt a deep burning on her soul . 
+ when she came to yourself , 
+ you were shocked by your self , 
+ you were not the person you console . 
+------------------------- score breakdown ------------------------ 
+(who -1.17)(felt -6.37)(a -3.56)(deep -2.85)(burning -4.44)(on -4.61)(her -0.16)(soul -2.47)(. -1.30) line score is : -2.992, look ahead score is : 0.000
+(when -1.30)(she -4.07)(came -0.65)(to -3.76)(yourself -0.72)(, -10.04) line score is : -3.424, look ahead score is : 0.000
+(you -10.04)(were -0.86)(shocked -0.66)(by -1.68)(your -5.07)(self -2.52)(, -1.43) line score is : -3.181, look ahead score is : 0.000
+(you -1.43)(were -4.94)(not -3.31)(the -2.23)(person -1.56)(you -3.93)(console -4.28)(. -2.31) line score is : -3.001, look ahead score is : 0.000

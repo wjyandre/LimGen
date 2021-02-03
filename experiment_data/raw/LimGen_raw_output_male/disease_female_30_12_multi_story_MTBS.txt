@@ -1,0 +1,638 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they felt it was doing them good 
+-------------------------score:  -3.2903660889714956----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ but i knew she was doing it less . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(but -3.02)(i -6.52)(knew -2.07)(she -2.52)(was -1.44)(doing -3.34)(it -1.40)(less -0.94)(. -4.63) line score is : -2.876, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but it does n't come out of my purse 
+-------------------------score:  -3.29909448325634----------------------- 
+there was a nasty nurse named cher 
+ who caused a big mess on our care . 
+ when we got to trial , 
+ we were shocked by her style , 
+ but she has always put in her share . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(our -2.59)(care -8.20)(. -2.19) line score is : -3.673, look ahead score is : 0.000
+(when -2.19)(we -4.60)(got -1.56)(to -2.53)(trial -2.15)(, -8.37) line score is : -3.566, look ahead score is : 0.000
+(we -8.37)(were -1.06)(shocked -1.74)(by -1.35)(her -3.81)(style -2.44)(, -2.64) line score is : -3.057, look ahead score is : 0.000
+(but -2.64)(she -7.44)(has -2.17)(always -2.86)(put -1.74)(in -4.18)(her -3.04)(share -5.86)(. -3.94) line score is : -3.763, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then he walloped me square in the face 
+-------------------------score:  -3.35001327842474----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her smile , 
+ then she told me something in the press . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(smile -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(then -3.02)(she -7.55)(told -2.05)(me -5.70)(something -2.55)(in -3.36)(the -0.10)(press -5.03)(. -5.16) line score is : -3.837, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but I guess that you probably gnu 
+-------------------------score:  -3.373912146014552----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by my style , 
+ but i think that i really impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(my -3.43)(style -2.51)(, -2.70) line score is : -3.065, look ahead score is : 0.000
+(but -2.70)(i -8.06)(think -2.33)(that -2.27)(i -1.31)(really -4.03)(impress -2.17)(. -2.04) line score is : -3.113, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.4210560667899346----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ but i am not angry for stress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(but -3.02)(i -6.52)(am -2.07)(not -2.52)(angry -1.44)(for -4.58)(stress -2.56)(. -3.92) line score is : -3.328, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.4290913224220274----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ she has a perfect natural dress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(has -6.52)(a -2.07)(perfect -4.02)(natural -4.62)(dress -1.35)(. -4.90) line score is : -3.786, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.4511694408232167----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ but i knew her intentions and less . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(but -3.02)(i -6.52)(knew -2.07)(her -2.52)(intentions -1.44)(and -3.34)(less -3.78)(. -4.34) line score is : -3.379, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD VBN ON THE NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what was shown on the cinema screen 
+-------------------------score:  -3.4777751680343383----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ what was written on the court address . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(what -3.02)(was -6.52)(written -2.07)(on -6.31)(the -3.69)(court -3.36)(address -0.86)(. -1.44) line score is : -3.409, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he slipped through the straw and fell in 
+-------------------------score:  -3.490174278616905----------------------- 
+there was a nasty nurse named ines 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ she was through the roof and had excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(was -6.52)(through -2.07)(the -4.02)(roof -1.40)(and -9.78)(had -1.48)(excess -0.74)(. -2.16) line score is : -3.466, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.504543403099323----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ i never expected a process . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(i -3.02)(never -6.52)(expected -2.07)(a -5.03)(process -4.62)(. -1.47) line score is : -3.791, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBD PRP$ JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which pickled his internal workins 
+-------------------------score:  -3.5497902097373175----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ which included her constant excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(which -3.02)(included -6.52)(her -2.07)(constant -2.82)(excess -4.43)(. -3.47) line score is : -3.723, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP$ NN WITH NN VBZ JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ her career with damir is bizarre 
+-------------------------score:  -3.5992465257644652----------------------- 
+there was a nasty nurse named claire 
+ who caused a big mess on our care . 
+ when we got to trial , 
+ we were shocked by her style , 
+ her attitude with respect is fair . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(our -2.59)(care -8.20)(. -2.19) line score is : -3.673, look ahead score is : 0.000
+(when -2.19)(we -4.60)(got -1.56)(to -2.53)(trial -2.15)(, -8.37) line score is : -3.566, look ahead score is : 0.000
+(we -8.37)(were -1.06)(shocked -1.74)(by -1.35)(her -3.81)(style -2.44)(, -2.64) line score is : -3.057, look ahead score is : 0.000
+(her -2.64)(attitude -7.44)(with -2.17)(respect -1.41)(is -3.28)(fair -6.36)(. -3.43) line score is : -3.817, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ which leaves him in very bad shape 
+-------------------------score:  -3.610249792375872----------------------- 
+there was a nasty nurse named ines 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ which has me in pretty high process . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(which -3.02)(has -6.52)(me -2.07)(in -2.82)(pretty -5.24)(high -4.32)(process -3.79)(. -6.81) line score is : -4.325, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ VBP ALL JJ NNS FOR A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ are all easy marks for a jolly 
+-------------------------score:  -3.6150595911087526----------------------- 
+there was a nasty nurse named ines 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ use all different colors for a dress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(use -3.02)(all -6.52)(different -2.07)(colors -8.41)(for -8.64)(a -4.17)(dress -2.36)(. -3.59) line score is : -4.849, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I invariably get in a stew ! 
+-------------------------score:  -3.618623637383984----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ she always wore in a way excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(always -6.52)(wore -2.07)(in -4.02)(a -4.85)(way -2.38)(excess -7.62)(. -1.75) line score is : -4.028, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ RB PRP VBP ON PRP$ NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ then I sat on my moped and moped 
+-------------------------score:  -3.631736371666193----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ then she hit on my friend and impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(then -3.02)(she -6.52)(hit -2.07)(on -7.65)(my -2.84)(friend -5.29)(and -2.46)(impress -3.26)(. -3.26) line score is : -4.041, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ within weeks it was all in the past 
+-------------------------score:  -3.634064929559827----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ in ways i thought all in the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(in -3.02)(ways -6.52)(i -2.07)(thought -5.64)(all -6.76)(in -0.77)(the -5.35)(process -6.27)(. -7.07) line score is : -4.832, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT THE JJ VBD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but the other won several prizes 
+-------------------------score:  -3.681517692406972----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her smile , 
+ but the other was surprised process . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(smile -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(but -3.02)(the -7.55)(other -2.05)(was -2.73)(surprised -3.93)(process -4.71)(. -4.76) line score is : -4.109, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.6954818554222584----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her smile , 
+ she was me and had feelings and dress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(smile -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(was -7.55)(me -2.05)(and -3.49)(had -1.49)(feelings -7.54)(and -2.64)(dress -4.76)(. -6.72) line score is : -4.362, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ she sat up in bed and meowed 
+-------------------------score:  -3.7083198716563563----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ she was up in heaven and impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(was -6.52)(up -2.07)(in -4.02)(heaven -1.40)(and -7.91)(impress -3.06)(. -6.26) line score is : -4.283, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -3.74219387385153----------------------- 
+there was a nasty nurse named ines 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ it was that her character was dress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(it -3.02)(was -6.52)(that -2.07)(her -5.78)(character -0.69)(was -6.24)(dress -6.22)(. -4.93) line score is : -4.435, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ you never can tell till you try 
+-------------------------score:  -3.8074529632445304----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ she really can be in she impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(really -6.52)(can -2.07)(be -4.02)(in -4.82)(she -6.60)(impress -2.60)(. -5.70) line score is : -4.421, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ in a sugary takeover bid 
+-------------------------score:  -3.8092041632224776----------------------- 
+there was a nasty nurse named claire 
+ who caused a big mess on our care . 
+ when we got to trial , 
+ we were shocked by her style , 
+ in a cruel irony unfair . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(our -2.59)(care -8.20)(. -2.19) line score is : -3.673, look ahead score is : 0.000
+(when -2.19)(we -4.60)(got -1.56)(to -2.53)(trial -2.15)(, -8.37) line score is : -3.566, look ahead score is : 0.000
+(we -8.37)(were -1.06)(shocked -1.74)(by -1.35)(her -3.81)(style -2.44)(, -2.64) line score is : -3.057, look ahead score is : 0.000
+(in -2.64)(a -7.44)(cruel -2.17)(irony -5.59)(unfair -3.20)(. -6.81) line score is : -4.641, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ WHAT VBD PRP OFF VBD THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ what finished him off was the crust 
+-------------------------score:  -3.8593279084851666----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ what happened it off was the process . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(what -3.02)(happened -6.52)(it -2.07)(off -6.31)(was -5.30)(the -7.73)(process -7.37)(. -5.62) line score is : -5.495, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I d probably know two or three 
+-------------------------score:  -3.8600080205548193----------------------- 
+there was a nasty nurse named ines 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ i have never see one or process . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(i -3.02)(have -6.52)(never -2.07)(see -5.03)(one -4.88)(or -1.52)(process -8.42)(. -5.29) line score is : -4.595, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.8603811648584183----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ she was when she hit across excess . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(she -3.02)(was -6.52)(when -2.07)(she -4.02)(hit -1.40)(across -9.43)(excess -1.07)(. -5.06) line score is : -4.074, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ THE NN VBZ VBN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ the confusion is called harem-scarem 
+-------------------------score:  -3.9325015216038146----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ the quality has improved impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(the -3.02)(quality -6.52)(has -2.07)(improved -4.07)(impress -5.69)(. -11.09) line score is : -5.411, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ BUT WILL VB ON WHILE PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ but will ruminate on while I chew 
+-------------------------score:  -3.990933995093069----------------------- 
+there was a nasty nurse named bess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ but will remain on while i access . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(but -3.02)(will -6.52)(remain -2.07)(on -2.52)(while -8.87)(i -5.62)(access -5.11)(. -10.79) line score is : -5.565, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ OR VBZ NN VB NNS SO JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ or does gravity miss things so small 
+-------------------------score:  -4.214551648785991----------------------- 
+there was a nasty nurse named tess 
+ who caused a big mess on my progress . 
+ when i got to trial , 
+ i was shocked by her style , 
+ or does someone have eyes so impress . 
+------------------------- score breakdown ------------------------ 
+(who -1.36)(caused -7.42)(a -2.01)(big -3.88)(mess -2.23)(on -3.18)(my -1.44)(progress -9.25)(. -2.39) line score is : -3.684, look ahead score is : 0.000
+(when -2.39)(i -4.95)(got -1.02)(to -2.34)(trial -1.65)(, -9.05) line score is : -3.566, look ahead score is : 0.000
+(i -9.05)(was -1.11)(shocked -1.02)(by -1.63)(her -3.43)(style -2.51)(, -3.02) line score is : -3.112, look ahead score is : 0.000
+(or -3.02)(does -6.52)(someone -2.07)(have -6.06)(eyes -9.71)(so -5.62)(impress -2.05)(. -7.56) line score is : -5.326, look ahead score is : 0.000

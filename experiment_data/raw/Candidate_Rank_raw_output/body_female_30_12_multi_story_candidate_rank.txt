@@ -1,0 +1,44 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT THE NN PRP VBD VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ that the dahlia she wore was a failure 
+-------------------------score:  -2.86678211891558----------------------- 
+there was a lady named grace 
+ who put a big smile on our face . 
+ when we arrived to work , 
+ we were told by a clerk , 
+ that the lady we met had a case . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(put -6.66)(a -2.58)(big -4.39)(smile -1.80)(on -0.03)(our -2.87)(face -1.63)(. -1.82) line score is : -2.558, look ahead score is : 0.000
+(when -1.82)(we -4.43)(arrived -1.06)(to -2.83)(work -3.32)(, -4.85) line score is : -3.050, look ahead score is : 0.000
+(we -4.85)(were -1.37)(told -1.22)(by -1.10)(a -3.27)(clerk -2.36)(, -1.82) line score is : -2.284, look ahead score is : 0.000
+(that -1.82)(the -5.33)(lady -3.28)(we -3.02)(met -2.19)(had -4.85)(a -3.70)(case -4.08)(. -2.72) line score is : -3.445, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -2.9931297969193227----------------------- 
+there was a lady named grace 
+ who put a big smile on our face . 
+ when we arrived to work , 
+ we were told by a clerk , 
+ she was not the person we replace . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(put -6.66)(a -2.58)(big -4.39)(smile -1.80)(on -0.03)(our -2.87)(face -1.63)(. -1.82) line score is : -2.558, look ahead score is : 0.000
+(when -1.82)(we -4.43)(arrived -1.06)(to -2.83)(work -3.32)(, -4.85) line score is : -3.050, look ahead score is : 0.000
+(we -4.85)(were -1.37)(told -1.22)(by -1.10)(a -3.27)(clerk -2.36)(, -1.82) line score is : -2.284, look ahead score is : 0.000
+(she -1.82)(was -5.33)(not -3.28)(the -4.55)(person -1.21)(we -3.24)(replace -4.51)(. -3.17) line score is : -3.390, look ahead score is : 0.000

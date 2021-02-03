@@ -1,0 +1,110 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD THE JJ NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he told the same joke 
+ so he had to sit down on the floor 
+-------------------------score:  -2.8159198807552457----------------------- 
+there was a lady named brande 
+ who cut a red ribbon on my hand . 
+ it was for her birthday , 
+ it was the perfect day , 
+ so i had to get down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(cut -7.94)(a -3.52)(red -6.02)(ribbon -1.29)(on -2.37)(my -2.18)(hand -3.44)(. -1.88) line score is : -3.319, look ahead score is : 0.000
+(it -1.88)(was -2.85)(for -0.54)(her -4.42)(birthday -1.80)(, -2.48) line score is : -2.329, look ahead score is : 0.000
+(it -2.48)(was -1.87)(the -4.43)(perfect -0.38)(day -3.20)(, -4.21) line score is : -2.761, look ahead score is : 0.000
+(so -4.21)(i -1.63)(had -2.41)(to -3.76)(get -0.83)(down -3.16)(on -1.17)(the -2.74)(sand -5.67)(. -1.25) line score is : -2.682, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ AND PRP VBD TO THE NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ and they rushed to the rail 
+ so he had to sit down on the floor 
+-------------------------score:  -2.823982551242366----------------------- 
+there was a lady named brande 
+ who cut a red ribbon on my hand . 
+ it was for my birthday , 
+ and i went to the play , 
+ so i had to get down on the sand . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(cut -7.94)(a -3.52)(red -6.02)(ribbon -1.29)(on -2.37)(my -2.18)(hand -3.44)(. -1.88) line score is : -3.319, look ahead score is : 0.000
+(it -1.88)(was -2.85)(for -0.54)(my -4.42)(birthday -1.43)(, -3.24) line score is : -2.393, look ahead score is : 0.000
+(and -3.24)(i -1.88)(went -1.01)(to -1.07)(the -5.04)(play -0.84)(, -1.64) line score is : -2.102, look ahead score is : 0.000
+(so -1.64)(i -7.78)(had -3.14)(to -3.46)(get -0.71)(down -2.91)(on -1.09)(the -2.78)(sand -5.96)(. -1.31) line score is : -3.078, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he told the same joke 
+ she was ready to give and to take 
+-------------------------score:  -2.9010076062498436----------------------- 
+there was a lady named brande 
+ who cut a red ribbon on my hand . 
+ it was for her birthday , 
+ it was the perfect day , 
+ i was able to walk and to stand . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(cut -7.94)(a -3.52)(red -6.02)(ribbon -1.29)(on -2.37)(my -2.18)(hand -3.44)(. -1.88) line score is : -3.319, look ahead score is : 0.000
+(it -1.88)(was -2.85)(for -0.54)(her -4.42)(birthday -1.80)(, -2.48) line score is : -2.329, look ahead score is : 0.000
+(it -2.48)(was -1.87)(the -4.43)(perfect -0.38)(day -3.20)(, -4.21) line score is : -2.761, look ahead score is : 0.000
+(i -4.21)(was -1.63)(able -2.41)(to -2.18)(walk -1.71)(and -5.24)(to -0.00)(stand -3.54)(. -4.00) line score is : -2.768, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he told the same joke 
+ she was destined to go a long way 
+-------------------------score:  -2.9216939162823463----------------------- 
+there was a lady named brande 
+ who cut a red ribbon on my hand . 
+ it was for my birthday , 
+ it was the perfect day , 
+ i was proud to be a female brand . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(cut -7.94)(a -3.52)(red -6.02)(ribbon -1.29)(on -2.37)(my -2.18)(hand -3.44)(. -1.88) line score is : -3.319, look ahead score is : 0.000
+(it -1.88)(was -2.85)(for -0.54)(my -4.42)(birthday -1.43)(, -3.24) line score is : -2.393, look ahead score is : 0.000
+(it -3.24)(was -1.88)(the -4.18)(perfect -0.39)(day -3.24)(, -4.25) line score is : -2.864, look ahead score is : 0.000
+(i -4.25)(was -1.67)(proud -2.42)(to -1.97)(be -1.61)(a -5.58)(female -1.23)(brand -1.04)(. -1.49) line score is : -2.363, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP VBD THE JJ NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he bought for his daughter 
+ he told the same joke 
+ and now he 's a college professor 
+-------------------------score:  -2.966527254382769----------------------- 
+there was a lady named brande 
+ who cut a red ribbon on my hand . 
+ it was for my birthday , 
+ it was the perfect day , 
+ and now it is a permanent brand . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(cut -7.94)(a -3.52)(red -6.02)(ribbon -1.29)(on -2.37)(my -2.18)(hand -3.44)(. -1.88) line score is : -3.319, look ahead score is : 0.000
+(it -1.88)(was -2.85)(for -0.54)(my -4.42)(birthday -1.43)(, -3.24) line score is : -2.393, look ahead score is : 0.000
+(it -3.24)(was -1.88)(the -4.18)(perfect -0.39)(day -3.24)(, -4.25) line score is : -2.864, look ahead score is : 0.000
+(and -4.25)(now -1.67)(it -2.42)(is -1.28)(a -4.33)(permanent -1.89)(brand -3.21)(. -3.07) line score is : -2.767, look ahead score is : 0.000

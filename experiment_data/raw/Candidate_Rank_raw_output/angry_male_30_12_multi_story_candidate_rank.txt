@@ -1,0 +1,154 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -3.085878164479227----------------------- 
+there was a fierce boy named stan 
+ who shouted as he jumped on a man . 
+ when he turned to someone , 
+ he was met by a gun , 
+ so he got up and put on the van . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(jumped -4.32)(on -2.80)(a -3.17)(man -5.76)(. -2.86) line score is : -3.680, look ahead score is : 0.000
+(when -2.86)(he -4.19)(turned -1.19)(to -3.95)(someone -2.21)(, -8.06) line score is : -3.744, look ahead score is : 0.000
+(he -8.06)(was -1.72)(met -0.99)(by -2.40)(a -2.75)(gun -1.20)(, -0.78) line score is : -2.557, look ahead score is : 0.000
+(so -0.78)(he -5.14)(got -2.98)(up -4.36)(and -0.60)(put -4.16)(on -1.99)(the -0.48)(van -5.57)(. -2.61) line score is : -2.866, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.1717638708651066----------------------- 
+there was a fierce boy named stan 
+ who shouted as he jumped on a man . 
+ when he turned to someone , 
+ he was met by a gun , 
+ and he fell down and hit our van . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(jumped -4.32)(on -2.80)(a -3.17)(man -5.76)(. -2.86) line score is : -3.680, look ahead score is : 0.000
+(when -2.86)(he -4.19)(turned -1.19)(to -3.95)(someone -2.21)(, -8.06) line score is : -3.744, look ahead score is : 0.000
+(he -8.06)(was -1.72)(met -0.99)(by -2.40)(a -2.75)(gun -1.20)(, -0.78) line score is : -2.557, look ahead score is : 0.000
+(and -0.78)(he -5.14)(fell -2.98)(down -1.76)(and -1.99)(hit -3.20)(our -2.92)(van -2.76)(. -2.28) line score is : -2.645, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ but they felt it was doing them good 
+-------------------------score:  -3.264720159192239----------------------- 
+there was a fierce boy named stan 
+ who shouted as he jumped on a man . 
+ he screamed for his girlfriend , 
+ his mother and his friend , 
+ but they said he was screaming me gan . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(jumped -4.32)(on -2.80)(a -3.17)(man -5.76)(. -2.86) line score is : -3.680, look ahead score is : 0.000
+(he -2.86)(screamed -2.39)(for -4.52)(his -2.55)(girlfriend -2.12)(, -5.00) line score is : -3.237, look ahead score is : 0.000
+(his -5.00)(mother -1.66)(and -5.10)(his -1.97)(friend -1.52)(, -0.71) line score is : -2.658, look ahead score is : 0.000
+(but -0.71)(they -3.67)(said -1.78)(he -1.83)(was -2.01)(screaming -4.81)(me -1.64)(gan -0.94)(. -3.96) line score is : -2.372, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ then fell into a vat of grease 
+-------------------------score:  -3.2845662981271744----------------------- 
+there was a fierce boy named stan 
+ who shouted as he jumped on a man . 
+ he screamed for his girlfriend , 
+ his mother and his friend , 
+ then fell into a pool of milan . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(jumped -4.32)(on -2.80)(a -3.17)(man -5.76)(. -2.86) line score is : -3.680, look ahead score is : 0.000
+(he -2.86)(screamed -2.39)(for -4.52)(his -2.55)(girlfriend -2.12)(, -5.00) line score is : -3.237, look ahead score is : 0.000
+(his -5.00)(mother -1.66)(and -5.10)(his -1.97)(friend -1.52)(, -0.71) line score is : -2.658, look ahead score is : 0.000
+(then -0.71)(fell -3.67)(into -1.78)(a -3.79)(pool -3.41)(of -2.74)(milan -0.64)(. -1.52) line score is : -2.281, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ BUT PRP$ NNS VBD DOWN TO PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ but her glasses slipped down to her toes 
+-------------------------score:  -3.312514712733607----------------------- 
+there was a fierce boy named stan 
+ who shouted as he jumped on a man . 
+ he screamed for his girlfriend , 
+ his mother and his friend , 
+ but their voices came down to their plan . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(jumped -4.32)(on -2.80)(a -3.17)(man -5.76)(. -2.86) line score is : -3.680, look ahead score is : 0.000
+(he -2.86)(screamed -2.39)(for -4.52)(his -2.55)(girlfriend -2.12)(, -5.00) line score is : -3.237, look ahead score is : 0.000
+(his -5.00)(mother -1.66)(and -5.10)(his -1.97)(friend -1.52)(, -0.71) line score is : -2.658, look ahead score is : 0.000
+(but -0.71)(their -3.67)(voices -1.78)(came -1.83)(down -4.74)(to -1.14)(their -4.11)(plan -4.15)(. -2.34) line score is : -2.718, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.324688557783763----------------------- 
+there was a fierce boy named dwight 
+ who shouted as he went on a fight . 
+ when he turned to someone , 
+ he was met by a gun , 
+ and he started shooting right upright . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(went -3.69)(on -3.01)(a -4.68)(fight -6.28)(. -1.73) line score is : -3.733, look ahead score is : 0.000
+(when -1.73)(he -4.10)(turned -1.12)(to -4.06)(someone -2.06)(, -7.14) line score is : -3.368, look ahead score is : 0.000
+(he -7.14)(was -2.08)(met -1.02)(by -2.67)(a -2.66)(gun -1.24)(, -0.86) line score is : -2.525, look ahead score is : 0.000
+(and -0.86)(he -5.94)(started -2.84)(shooting -1.47)(right -2.06)(upright -4.03)(. -1.64) line score is : -2.690, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ PRP VBD FOR PRP$ NN , 
+ PRP$ NN AND PRP$ NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ he bought for his daughter 
+ his grief and his rage 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.5341445438323484----------------------- 
+there was a fierce boy named stan 
+ who shouted as he jumped on a man . 
+ he screamed for his girlfriend , 
+ his mother and his friend , 
+ and they ran down and saved his afghan . 
+------------------------- score breakdown ------------------------ 
+(who -1.26)(shouted -7.01)(as -5.19)(he -0.76)(jumped -4.32)(on -2.80)(a -3.17)(man -5.76)(. -2.86) line score is : -3.680, look ahead score is : 0.000
+(he -2.86)(screamed -2.39)(for -4.52)(his -2.55)(girlfriend -2.12)(, -5.00) line score is : -3.237, look ahead score is : 0.000
+(his -5.00)(mother -1.66)(and -5.10)(his -1.97)(friend -1.52)(, -0.71) line score is : -2.658, look ahead score is : 0.000
+(and -0.71)(they -3.67)(ran -1.78)(down -2.26)(and -2.65)(saved -1.77)(his -4.18)(afghan -5.34)(. -3.80) line score is : -2.907, look ahead score is : 0.000

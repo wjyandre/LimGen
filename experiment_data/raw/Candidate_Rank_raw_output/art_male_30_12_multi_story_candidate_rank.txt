@@ -1,0 +1,264 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was destined to go a long way 
+-------------------------score:  -2.579128097742796----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ he would take a photo , 
+ it was great to have a big profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(he -1.88)(would -2.53)(take -3.64)(a -0.69)(photo -3.80)(, -2.30) line score is : -2.473, look ahead score is : 0.000
+(it -2.30)(was -2.54)(great -1.86)(to -4.74)(have -1.39)(a -3.93)(big -2.36)(profile -1.40)(. -2.20) line score is : -2.525, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.6400426914915442----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ he would take a photo , 
+ and that is the end of this profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(he -1.88)(would -2.53)(take -3.64)(a -0.69)(photo -3.80)(, -2.30) line score is : -2.473, look ahead score is : 0.000
+(and -2.30)(that -2.54)(is -1.86)(the -1.26)(end -4.02)(of -4.30)(this -2.16)(profile -3.42)(. -0.10) line score is : -2.441, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.6489497385919094----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ i would see a photo , 
+ and i looked down and saw his profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(i -1.88)(would -2.53)(see -2.89)(a -0.66)(photo -3.57)(, -2.11) line score is : -2.272, look ahead score is : 0.000
+(and -2.11)(i -5.85)(looked -2.40)(down -0.97)(and -0.78)(saw -5.81)(his -4.22)(profile -0.95)(. -2.40) line score is : -2.831, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ she was destined to go a long way 
+-------------------------score:  -2.6781012097994488----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ he was a musician , 
+ he was on a mission , 
+ he worked hard to get a high profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(he -0.76)(was -1.93)(a -1.95)(musician -1.98)(, -5.79) line score is : -2.483, look ahead score is : 0.000
+(he -5.79)(was -1.61)(on -2.55)(a -0.82)(mission -5.83)(, -1.67) line score is : -3.044, look ahead score is : 0.000
+(he -1.67)(worked -4.87)(hard -1.02)(to -0.72)(get -4.56)(a -2.95)(high -1.95)(profile -2.00)(. -3.89) line score is : -2.626, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.7417451043923697----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ he was a musician , 
+ he was on a mission , 
+ and he came down and wrote my profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(he -0.76)(was -1.93)(a -1.95)(musician -1.98)(, -5.79) line score is : -2.483, look ahead score is : 0.000
+(he -5.79)(was -1.61)(on -2.55)(a -0.82)(mission -5.83)(, -1.67) line score is : -3.044, look ahead score is : 0.000
+(and -1.67)(he -4.87)(came -1.02)(down -1.12)(and -0.47)(wrote -4.60)(my -5.09)(profile -2.26)(. -4.08) line score is : -2.799, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ and now he 's a college professor 
+-------------------------score:  -2.7890015645273802----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ he was a musician , 
+ he was on a mission , 
+ and now he has a movie profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(he -0.76)(was -1.93)(a -1.95)(musician -1.98)(, -5.79) line score is : -2.483, look ahead score is : 0.000
+(he -5.79)(was -1.61)(on -2.55)(a -0.82)(mission -5.83)(, -1.67) line score is : -3.044, look ahead score is : 0.000
+(and -1.67)(now -4.87)(he -1.02)(has -1.12)(a -5.61)(movie -0.43)(profile -3.06)(. -1.91) line score is : -2.461, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and now he 's a college professor 
+-------------------------score:  -2.8362677481866654----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ he would take a photo , 
+ and then he sends a picture profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(he -1.88)(would -2.53)(take -3.64)(a -0.69)(photo -3.80)(, -2.30) line score is : -2.473, look ahead score is : 0.000
+(and -2.30)(then -2.54)(he -1.86)(sends -1.26)(a -2.41)(picture -1.67)(profile -6.45)(. -3.56) line score is : -2.757, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ she was ready to give and to take 
+-------------------------score:  -2.8817649260163307----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ he would take a photo , 
+ it was great to meet and to profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(he -1.88)(would -2.53)(take -3.64)(a -0.69)(photo -3.80)(, -2.30) line score is : -2.473, look ahead score is : 0.000
+(it -2.30)(was -2.54)(great -1.86)(to -4.74)(meet -1.39)(and -3.93)(to -2.36)(profile -3.07)(. -4.35) line score is : -2.949, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -2.8841657154262066----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ i would get a photo , 
+ but i knew i was getting him smile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(i -1.88)(would -2.53)(get -2.89)(a -0.66)(photo -3.28)(, -1.89) line score is : -2.188, look ahead score is : 0.000
+(but -1.89)(i -5.21)(knew -2.56)(i -4.11)(was -1.20)(getting -4.21)(him -1.49)(smile -1.47)(. -3.64) line score is : -2.864, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and she baked really great apple pies 
+-------------------------score:  -2.9332516693299815----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ i would get a photo , 
+ and it was still pretty cool profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(i -1.88)(would -2.53)(get -2.89)(a -0.66)(photo -3.28)(, -1.89) line score is : -2.188, look ahead score is : 0.000
+(and -1.89)(it -5.21)(was -2.56)(still -1.00)(pretty -3.14)(cool -1.59)(profile -6.13)(. -4.17) line score is : -3.210, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ he was n't the wizard he woz 
+-------------------------score:  -2.963196481427839----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ i would go to a show , 
+ he would take a photo , 
+ he was always the guy you profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(i -0.76)(would -1.76)(go -4.07)(to -3.29)(a -0.92)(show -3.01)(, -1.88) line score is : -2.242, look ahead score is : 0.000
+(he -1.88)(would -2.53)(take -3.64)(a -0.69)(photo -3.80)(, -2.30) line score is : -2.473, look ahead score is : 0.000
+(he -2.30)(was -2.54)(always -1.86)(the -2.95)(guy -4.74)(you -2.58)(profile -3.85)(. -3.08) line score is : -2.987, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ PRP VBD ON A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ she sat on a stile 
+ he was n't the wizard he woz 
+-------------------------score:  -2.964996711961154----------------------- 
+there was a neat artist named lyle 
+ who made a huge impact on my style . 
+ he was a musician , 
+ he was on a mission , 
+ he was also the guy i profile . 
+------------------------- score breakdown ------------------------ 
+(who -2.94)(made -3.14)(a -1.70)(huge -4.41)(impact -3.44)(on -0.55)(my -1.69)(style -4.83)(. -0.76) line score is : -2.606, look ahead score is : 0.000
+(he -0.76)(was -1.93)(a -1.95)(musician -1.98)(, -5.79) line score is : -2.483, look ahead score is : 0.000
+(he -5.79)(was -1.61)(on -2.55)(a -0.82)(mission -5.83)(, -1.67) line score is : -3.044, look ahead score is : 0.000
+(he -1.67)(was -4.87)(also -1.02)(the -0.72)(guy -0.69)(i -5.79)(profile -3.16)(. -2.94) line score is : -2.608, look ahead score is : 0.000

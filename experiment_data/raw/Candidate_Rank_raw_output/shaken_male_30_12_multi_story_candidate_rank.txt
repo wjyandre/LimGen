@@ -1,0 +1,132 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9908397309482098----------------------- 
+there was a nervous man named jake 
+ who shook all his money in a shake . 
+ it was like a earthquake , 
+ and we went to the lake , 
+ and we sat down and took our break . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(shook -7.36)(all -5.47)(his -1.75)(money -4.45)(in -1.39)(a -1.90)(shake -6.30)(. -3.37) line score is : -3.746, look ahead score is : 0.000
+(it -3.37)(was -3.62)(like -0.62)(a -3.59)(earthquake -1.67)(, -7.03) line score is : -3.315, look ahead score is : 0.000
+(and -7.03)(we -1.95)(went -1.53)(to -4.03)(the -3.77)(lake -2.05)(, -1.54) line score is : -3.128, look ahead score is : 0.000
+(and -1.54)(we -6.90)(sat -2.17)(down -0.73)(and -2.28)(took -2.95)(our -1.22)(break -1.60)(. -4.37) line score is : -2.639, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.1694978455702465----------------------- 
+there was a nervous man named jake 
+ who shook all his money in a shake . 
+ when he returned to stand , 
+ he was struck by a hand , 
+ and fell with a terrible earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(shook -7.36)(all -5.47)(his -1.75)(money -4.45)(in -1.39)(a -1.90)(shake -6.30)(. -3.37) line score is : -3.746, look ahead score is : 0.000
+(when -3.37)(he -3.88)(returned -0.89)(to -4.04)(stand -1.75)(, -7.75) line score is : -3.615, look ahead score is : 0.000
+(he -7.75)(was -2.37)(struck -0.75)(by -1.96)(a -4.50)(hand -1.20)(, -1.29) line score is : -2.832, look ahead score is : 0.000
+(and -1.29)(fell -6.00)(with -2.83)(a -0.86)(terrible -2.01)(earthquake -4.45)(. -0.87) line score is : -2.615, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ PRP VBD LIKE A NN , 
+ WITH THE NN OF A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ he ran like a flash 
+ with the faith of a marytr 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.208548115566373----------------------- 
+there was a nervous man named jake 
+ who shook all his body in a shake . 
+ it was like a earthquake , 
+ with the sound of a quake , 
+ and he looked down and saw our lake . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(shook -7.36)(all -5.47)(his -1.75)(body -5.30)(in -3.12)(a -2.13)(shake -6.21)(. -2.13) line score is : -3.911, look ahead score is : 0.000
+(it -2.13)(was -3.77)(like -0.61)(a -2.94)(earthquake -1.55)(, -6.34) line score is : -2.889, look ahead score is : 0.000
+(with -6.34)(the -1.83)(sound -4.40)(of -1.80)(a -2.49)(quake -0.76)(, -2.45) line score is : -2.867, look ahead score is : 0.000
+(and -2.45)(he -6.02)(looked -2.69)(down -1.44)(and -2.32)(saw -3.96)(our -2.85)(lake -1.90)(. -0.37) line score is : -2.667, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD WITH A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and retired with a bad stomach ache 
+-------------------------score:  -3.213142760594686----------------------- 
+there was a nervous man named jake 
+ who poured out his pockets for a shake . 
+ when he returned to stand , 
+ he was struck by a hand , 
+ and fell with a terrible earthquake . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(poured -9.35)(out -2.04)(his -1.30)(pockets -5.17)(for -2.71)(a -2.08)(shake -7.67)(. -1.86) line score is : -3.767, look ahead score is : 0.000
+(when -1.86)(he -4.17)(returned -0.67)(to -3.19)(stand -2.26)(, -6.72) line score is : -3.145, look ahead score is : 0.000
+(he -6.72)(was -2.47)(struck -0.83)(by -1.96)(a -5.22)(hand -0.95)(, -1.48) line score is : -2.805, look ahead score is : 0.000
+(and -1.48)(fell -5.68)(with -3.27)(a -1.18)(terrible -2.12)(earthquake -4.65)(. -0.52) line score is : -2.699, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD OUT PRP$ NNS FOR A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who sent out his cards for a party 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.237990330904722----------------------- 
+there was a nervous man named jake 
+ who poured out his pockets for a shake . 
+ when he returned to stand , 
+ he was met by a hand , 
+ and he looked down and saw our snake . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(poured -9.35)(out -2.04)(his -1.30)(pockets -5.17)(for -2.71)(a -2.08)(shake -7.67)(. -1.86) line score is : -3.767, look ahead score is : 0.000
+(when -1.86)(he -4.17)(returned -0.67)(to -3.19)(stand -2.26)(, -6.72) line score is : -3.145, look ahead score is : 0.000
+(he -6.72)(was -2.47)(met -0.83)(by -1.96)(a -3.34)(hand -0.62)(, -1.14) line score is : -2.441, look ahead score is : 0.000
+(and -1.14)(he -6.49)(looked -4.03)(down -1.74)(and -2.69)(saw -3.89)(our -2.77)(snake -1.89)(. -0.37) line score is : -2.778, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -3.379268475808203----------------------- 
+there was a nervous man named jake 
+ who shook all his money in a shake . 
+ when he returned to stand , 
+ he was struck by a hand , 
+ and he fell down and hit his intake . 
+------------------------- score breakdown ------------------------ 
+(who -1.72)(shook -7.36)(all -5.47)(his -1.75)(money -4.45)(in -1.39)(a -1.90)(shake -6.30)(. -3.37) line score is : -3.746, look ahead score is : 0.000
+(when -3.37)(he -3.88)(returned -0.89)(to -4.04)(stand -1.75)(, -7.75) line score is : -3.615, look ahead score is : 0.000
+(he -7.75)(was -2.37)(struck -0.75)(by -1.96)(a -4.50)(hand -1.20)(, -1.29) line score is : -2.832, look ahead score is : 0.000
+(and -1.29)(he -6.00)(fell -2.83)(down -0.86)(and -3.61)(hit -1.92)(his -1.73)(intake -2.86)(. -4.45) line score is : -2.838, look ahead score is : 0.000

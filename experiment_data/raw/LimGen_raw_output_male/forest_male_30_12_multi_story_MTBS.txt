@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.9975521356770485----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ so he had to go down on the tail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(so -1.60)(he -7.08)(had -2.17)(to -4.98)(go -0.49)(down -3.66)(on -0.28)(the -3.60)(tail -3.66)(. -3.59) line score is : -3.110, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB NN TO PRP$ NN IN NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and give vent to their terror in scremyss 
+-------------------------score:  -3.069780026562512----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ and drove home to his father in jail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(and -1.38)(drove -8.56)(home -2.24)(to -3.11)(his -7.24)(father -4.86)(in -1.77)(jail -1.72)(. -2.04) line score is : -3.659, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ then fell into a vat of grease 
+-------------------------score:  -3.1793136750498125----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was chased by a clown , 
+ then ran into a tavern of ale . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(chased -0.59)(by -1.89)(a -4.99)(clown -0.69)(, -1.25) line score is : -2.264, look ahead score is : 0.000
+(then -1.25)(ran -7.47)(into -2.20)(a -4.43)(tavern -4.35)(of -0.81)(ale -0.89)(. -3.77) line score is : -3.147, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OF A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a regular brute of a bee 
+-------------------------score:  -3.2017482724040747----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ he tells a strange story of a tale . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(he -1.38)(tells -8.56)(a -2.24)(strange -6.04)(story -4.18)(of -4.23)(a -5.88)(tale -0.79)(. -2.01) line score is : -3.924, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and kissed her because he was wuise 
+-------------------------score:  -3.2189026224997734----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ and told his because he was female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(and -1.38)(told -8.56)(his -2.24)(because -3.11)(he -3.60)(was -4.68)(female -11.67)(. -0.59) line score is : -4.479, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.2203272776678205----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ then he saw it fly towards the rail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(then -1.60)(he -7.08)(saw -2.17)(it -5.16)(fly -4.40)(towards -1.68)(the -4.63)(rail -3.67)(. -3.40) line score is : -3.754, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ he claimed that his costume was chile 
+-------------------------score:  -3.226200105682496----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ he thought that his mother was female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(he -1.38)(thought -8.56)(that -2.24)(his -6.04)(mother -3.25)(was -3.61)(female -4.12)(. -4.54) line score is : -4.217, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.2839664061864218----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ it seems a familiar enough tale . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(it -1.38)(seems -8.56)(a -2.24)(familiar -8.21)(enough -2.61)(tale -5.43)(. -4.04) line score is : -4.641, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ he carelessly stuck a verbena 
+-------------------------score:  -3.287128785560871----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ he never expected a female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(he -1.38)(never -8.56)(expected -2.24)(a -6.04)(female -6.39)(. -4.07) line score is : -4.780, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBZ PRP IN RB JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ which leaves him in very bad shape 
+-------------------------score:  -3.3110487720658703----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ which tells him in very clear detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(which -1.60)(tells -7.08)(him -2.17)(in -1.69)(very -8.14)(clear -0.27)(detail -6.76)(. -5.57) line score is : -4.161, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP THAT PRP RB VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ but I guess that you probably gnu 
+-------------------------score:  -3.3330999776240318----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ but he heard that it only female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(but -1.60)(he -7.08)(heard -2.17)(that -3.37)(it -2.10)(only -5.53)(female -3.79)(. -1.44) line score is : -3.386, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBD PRP$ NNS AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ but he thanked his detractors and bowed 
+-------------------------score:  -3.405316629717427----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was chased by a clown , 
+ but it was his brothers and detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(chased -0.59)(by -1.89)(a -4.99)(clown -0.69)(, -1.25) line score is : -2.264, look ahead score is : 0.000
+(but -1.25)(it -7.47)(was -2.20)(his -2.54)(brothers -4.15)(and -0.71)(detail -3.36)(. -5.97) line score is : -3.456, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND VB IN BEFORE ALL THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and hop in before all the crowd 
+-------------------------score:  -3.421633376229194----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ and put in before all the detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(and -1.38)(put -8.56)(in -2.24)(before -3.11)(all -6.85)(the -1.29)(detail -9.30)(. -5.98) line score is : -4.840, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A NN OF JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ a word of ambiguous meaning 
+-------------------------score:  -3.439883532195256----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ a family of twenty female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(a -1.38)(family -8.56)(of -2.24)(twenty -2.72)(female -7.11)(. -1.10) line score is : -3.852, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ within weeks it was all in the past 
+-------------------------score:  -3.4473060304298997----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ in hopes it was all in the detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(in -1.60)(hopes -7.08)(it -2.17)(was -6.20)(all -5.74)(in -4.31)(the -2.33)(detail -6.36)(. -3.24) line score is : -4.335, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.466930652037263----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ he called him and said thanks and detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(he -1.38)(called -8.56)(him -2.24)(and -6.04)(said -4.11)(thanks -0.67)(and -5.11)(detail -2.47)(. -7.38) line score is : -4.219, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -3.4751474373042583----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ it was not till someone told this tale . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(it -1.38)(was -8.56)(not -2.24)(till -8.21)(someone -1.27)(told -4.64)(this -4.94)(tale -6.82)(. -3.07) line score is : -4.570, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND SINCE RB VBZ RB VBN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and since then has never benzene 
+-------------------------score:  -3.48515141805013----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ and since then appears only female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(and -1.38)(since -8.56)(then -2.24)(appears -3.11)(only -6.53)(female -2.10)(. -9.51) line score is : -4.777, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ he never completed his task 
+-------------------------score:  -3.5161706332502694----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ he quickly abandoned his female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(he -1.38)(quickly -8.56)(abandoned -2.24)(his -6.04)(female -4.67)(. -6.10) line score is : -4.834, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ he was n't the wizard he woz 
+-------------------------score:  -3.5764683408121907----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ it was not the monster they detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(it -1.38)(was -8.56)(not -2.24)(the -8.21)(monster -1.27)(they -4.64)(detail -3.02)(. -4.92) line score is : -4.281, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ A JJ NN VBZ DT NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ a rolling stone gathers no moss 
+-------------------------score:  -3.586302900314331----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ a young woman offers no detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(a -1.38)(young -8.56)(woman -2.24)(offers -2.72)(no -4.33)(detail -1.83)(. -12.45) line score is : -4.788, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.597584886896995----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ he then heard in a forest female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(he -1.60)(then -7.08)(heard -2.17)(in -5.91)(a -4.91)(forest -3.47)(female -6.84)(. -1.60) line score is : -4.199, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHICH VBD THAT NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ which refreshed that person of ewell 
+-------------------------score:  -3.6079766045014066----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he got to willow , 
+ he was met by a crow , 
+ which carried that message of female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(got -0.69)(to -3.12)(willow -0.68)(, -7.55) line score is : -2.907, look ahead score is : 0.000
+(he -7.55)(was -2.96)(met -0.52)(by -2.40)(a -3.41)(crow -0.16)(, -1.60) line score is : -2.657, look ahead score is : 0.000
+(which -1.60)(carried -7.08)(that -2.17)(message -1.69)(of -5.21)(female -8.30)(. -3.47) line score is : -4.218, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BUT PRP VBP RB JJ FOR NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ but they re perfectly splendid for shape 
+-------------------------score:  -3.611872378856905----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was chased by a clown , 
+ but he heard enough folk for detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(chased -0.59)(by -1.89)(a -4.99)(clown -0.69)(, -1.25) line score is : -2.264, look ahead score is : 0.000
+(but -1.25)(he -7.47)(heard -2.20)(enough -2.54)(folk -1.82)(for -6.35)(detail -5.99)(. -6.06) line score is : -4.209, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND COULD RB VB BACK RB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ and could n't bend back again 
+-------------------------score:  -3.6142254253228505----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was chased by a clown , 
+ and could only manage back detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(chased -0.59)(by -1.89)(a -4.99)(clown -0.69)(, -1.25) line score is : -2.264, look ahead score is : 0.000
+(and -1.25)(could -7.47)(only -2.20)(manage -1.99)(back -6.49)(detail -1.34)(. -4.39) line score is : -3.589, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VBZ THE NN PRP WILL VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ thirty days is the time he will do 
+-------------------------score:  -3.621611285954714----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a brown , 
+ old men is the word he will detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(brown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(old -1.38)(men -7.32)(is -5.00)(the -5.41)(word -6.59)(he -8.90)(will -2.99)(detail -2.69)(. -1.70) line score is : -4.665, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ to write verses relating to wind 
+-------------------------score:  -3.6371832648913065----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ to see people disappear to jail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(to -1.38)(see -8.56)(people -2.24)(disappear -6.70)(to -6.08)(jail -8.00)(. -6.95) line score is : -5.701, look ahead score is : 0.000
+======================= template: 28 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ you never can tell till you try 
+-------------------------score:  -3.6438211394894506----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a clown , 
+ he never can tell unless you fail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(clown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(he -1.38)(never -8.56)(can -2.24)(tell -6.04)(unless -6.39)(you -8.28)(fail -3.25)(. -7.67) line score is : -5.477, look ahead score is : 0.000
+======================= template: 29 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ JJ NNS VB INTO A NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ us camels get into a stew 
+-------------------------score:  -3.6842329680919645----------------------- 
+there was a fierce farmer named nathanael 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was met by a brown , 
+ old men figure into a female . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(met -0.59)(by -1.89)(a -2.45)(brown -0.23)(, -1.38) line score is : -1.854, look ahead score is : 0.000
+(old -1.38)(men -7.32)(figure -5.00)(into -5.41)(a -6.59)(female -6.39)(. -9.01) line score is : -5.871, look ahead score is : 0.000
+======================= template: 30 ============================  
+robert 
+ WHO VBD AS PRP VBD ON A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who smiled as she rode on a tiger 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.8442038720653904----------------------- 
+there was a fierce farmer named jerrell 
+ who hunted as he went on a trail . 
+ when he arrived to town , 
+ he was stopped by a clown , 
+ to say good hours on him detail . 
+------------------------- score breakdown ------------------------ 
+(who -0.99)(hunted -6.82)(as -5.56)(he -2.69)(went -2.58)(on -3.19)(a -3.90)(trail -4.48)(. -1.86) line score is : -3.564, look ahead score is : 0.000
+(when -1.86)(he -3.53)(arrived -0.69)(to -3.14)(town -3.72)(, -5.19) line score is : -3.024, look ahead score is : 0.000
+(he -5.19)(was -1.24)(stopped -0.59)(by -1.89)(a -4.33)(clown -0.27)(, -1.11) line score is : -2.088, look ahead score is : 0.000
+(to -1.11)(say -8.42)(good -2.37)(hours -6.58)(on -4.85)(him -2.43)(detail -11.69)(. -4.73) line score is : -5.272, look ahead score is : 0.000

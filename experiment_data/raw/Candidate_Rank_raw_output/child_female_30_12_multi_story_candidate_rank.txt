@@ -1,0 +1,66 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD LIKE A NN , 
+ PRP VBD THE JJ NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he ran like a flash 
+ he told the same joke 
+ she was destined to go a long way 
+-------------------------score:  -2.7683449305233454----------------------- 
+there was a nervous girl named grace 
+ who put a big smile on our face . 
+ she was like a girlfriend , 
+ she was the perfect friend , 
+ it was great to have a female space . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(put -6.82)(a -2.95)(big -4.11)(smile -0.73)(on -0.03)(our -3.10)(face -2.02)(. -1.26) line score is : -2.500, look ahead score is : 0.000
+(she -1.26)(was -2.04)(like -1.68)(a -4.21)(girlfriend -1.15)(, -6.86) line score is : -2.868, look ahead score is : 0.000
+(she -6.86)(was -2.69)(the -2.06)(perfect -1.33)(friend -3.55)(, -3.02) line score is : -3.251, look ahead score is : 0.000
+(it -3.02)(was -4.25)(great -2.31)(to -4.50)(have -0.45)(a -3.35)(female -1.16)(space -1.04)(. -2.29) line score is : -2.484, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.7826240884080047----------------------- 
+there was a nervous girl named grace 
+ who put a big smile on our face . 
+ when she started to cry , 
+ i was ready to die , 
+ but i knew she was doing it place . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(put -6.82)(a -2.95)(big -4.11)(smile -0.73)(on -0.03)(our -3.10)(face -2.02)(. -1.26) line score is : -2.500, look ahead score is : 0.000
+(when -1.26)(she -4.86)(started -1.79)(to -4.06)(cry -2.43)(, -2.12) line score is : -2.752, look ahead score is : 0.000
+(i -2.12)(was -1.09)(ready -1.13)(to -2.88)(die -4.89)(, -0.42) line score is : -2.088, look ahead score is : 0.000
+(but -0.42)(i -5.71)(knew -2.79)(she -0.97)(was -1.49)(doing -2.24)(it -1.68)(place -1.19)(. -3.92) line score is : -2.267, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP$ NN VBD SO JJ , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ her hair got so light 
+ but they felt it was doing them good 
+-------------------------score:  -2.878992395475507----------------------- 
+there was a nervous girl named grace 
+ who put a big smile on our face . 
+ when she started to cry , 
+ my husband was so shy , 
+ but i knew he was watching me case . 
+------------------------- score breakdown ------------------------ 
+(who -1.48)(put -6.82)(a -2.95)(big -4.11)(smile -0.73)(on -0.03)(our -3.10)(face -2.02)(. -1.26) line score is : -2.500, look ahead score is : 0.000
+(when -1.26)(she -4.86)(started -1.79)(to -4.06)(cry -2.43)(, -2.12) line score is : -2.752, look ahead score is : 0.000
+(my -2.12)(husband -1.09)(was -2.77)(so -1.98)(shy -3.52)(, -2.42) line score is : -2.316, look ahead score is : 0.000
+(but -2.42)(i -6.78)(knew -2.30)(he -1.50)(was -2.70)(watching -2.71)(me -1.28)(case -1.60)(. -4.36) line score is : -2.850, look ahead score is : 0.000

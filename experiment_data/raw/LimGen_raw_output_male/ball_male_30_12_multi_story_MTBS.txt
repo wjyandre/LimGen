@@ -1,0 +1,594 @@
+======================= template: 1 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND THAT VBZ THE NN OF THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and that is the cause of this sonnet 
+-------------------------score:  -2.868344735714697----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and that is the story of this role . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(that -4.59)(is -3.32)(the -1.83)(story -3.72)(of -2.81)(this -2.77)(role -3.34)(. -0.90) line score is : -2.662, look ahead score is : 0.000
+======================= template: 2 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ but they felt it was doing them good 
+-------------------------score:  -2.8930923361932077----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ but he knew he was losing it whole . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(but -0.69)(he -4.59)(knew -3.32)(he -0.80)(was -1.59)(losing -3.75)(it -1.19)(whole -2.27)(. -4.25) line score is : -2.495, look ahead score is : 0.000
+======================= template: 3 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ she was ready to give and to take 
+-------------------------score:  -2.9472618770425116----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he was able to spend and to roll . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(was -5.09)(able -2.53)(to -1.32)(spend -1.84)(and -3.23)(to -0.00)(roll -3.80)(. -6.37) line score is : -2.776, look ahead score is : 0.000
+======================= template: 4 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ BUT PRP VBZ RB VB IN PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ but it does n't come out of my purse 
+-------------------------score:  -3.0154423559865644----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ but he has not come within his goal . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(but -0.69)(he -4.59)(has -3.32)(not -0.80)(come -1.59)(within -5.95)(his -2.67)(goal -4.85)(. -5.79) line score is : -3.361, look ahead score is : 0.000
+======================= template: 5 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB PRP VBZ A NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and now he 's a college professor 
+-------------------------score:  -3.0176775094276915----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was able to pay , 
+ and now he has a family console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(able -0.62)(to -1.92)(pay -4.75)(, -0.00) line score is : -2.457, look ahead score is : 0.000
+(and -0.00)(now -4.68)(he -6.31)(has -1.88)(a -3.40)(family -0.84)(console -2.01)(. -1.63) line score is : -2.594, look ahead score is : 0.000
+======================= template: 6 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THROUGH THE NN AND VBD IN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ she slipped through the straw and fell in 
+-------------------------score:  -3.0456527702270018----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he got through the season and played goal . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(got -5.09)(through -2.53)(the -1.32)(season -3.65)(and -5.96)(played -1.52)(goal -2.16)(. -3.10) line score is : -2.903, look ahead score is : 0.000
+======================= template: 7 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ they bedded her down in the stable 
+-------------------------score:  -3.08144206404686----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he found himself down towards the goal . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(found -5.09)(himself -2.53)(down -1.32)(towards -3.75)(the -2.76)(goal -5.79)(. -9.76) line score is : -3.975, look ahead score is : 0.000
+======================= template: 8 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ he never completed his task 
+-------------------------score:  -3.1133653404457227----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he never regretted his console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(never -5.09)(regretted -2.53)(his -1.32)(console -4.16)(. -4.65) line score is : -3.091, look ahead score is : 0.000
+======================= template: 9 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ I invariably get in a stew ! 
+-------------------------score:  -3.1285924593607586----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he never slept in a bed console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(never -5.09)(slept -2.53)(in -1.32)(a -4.16)(bed -6.59)(console -2.53)(. -1.83) line score is : -3.106, look ahead score is : 0.000
+======================= template: 10 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB LIKE NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and he did n't like mother of pearl 
+-------------------------score:  -3.189948114656633----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and he did not like buying of coal . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(he -4.59)(did -3.32)(not -1.83)(like -1.46)(buying -1.91)(of -3.90)(coal -4.71)(. -8.02) line score is : -3.379, look ahead score is : 0.000
+======================= template: 11 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AS PRP$ NN AND NN VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ as his talent and confidence swelled 
+-------------------------score:  -3.2617958393590203----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ as his father and brother console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(as -0.69)(his -4.59)(father -3.32)(and -4.48)(brother -3.36)(console -3.42)(. -3.52) line score is : -3.339, look ahead score is : 0.000
+======================= template: 12 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ I did n't think life was this way 
+-------------------------score:  -3.2858349450172915----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he did not feel sorry left this role . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(did -5.09)(not -2.53)(feel -1.32)(sorry -4.36)(left -0.76)(this -2.42)(role -3.72)(. -11.23) line score is : -3.580, look ahead score is : 0.000
+======================= template: 13 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBD PRP$ BECAUSE PRP VBD NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and kissed her because he was wuise 
+-------------------------score:  -3.2981110076109568----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and got his because he was console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(got -4.59)(his -3.32)(because -1.83)(he -5.71)(was -2.36)(console -9.11)(. -1.04) line score is : -3.581, look ahead score is : 0.000
+======================= template: 14 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.301117660670445----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and he took advantage again whole . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(he -4.59)(took -3.32)(advantage -1.83)(again -1.46)(whole -4.14)(. -3.30) line score is : -2.761, look ahead score is : 0.000
+======================= template: 15 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and she baked really great apple pies 
+-------------------------score:  -3.330794237057368----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and it was too much trouble console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(it -4.59)(was -3.32)(too -1.83)(much -3.82)(trouble -0.86)(console -4.07)(. -3.08) line score is : -2.782, look ahead score is : 0.000
+======================= template: 16 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ she sat up in bed and meowed 
+-------------------------score:  -3.341998795668284----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he got up in anger and console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(got -5.09)(up -2.53)(in -1.32)(anger -3.65)(and -5.40)(console -3.48)(. -5.15) line score is : -3.429, look ahead score is : 0.000
+======================= template: 17 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD RB THE NN PRP VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ he was n't the wizard he woz 
+-------------------------score:  -3.4100727836290994----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he was still the richest he console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(was -5.09)(still -2.53)(the -1.32)(richest -1.84)(he -3.19)(console -3.57)(. -3.97) line score is : -2.789, look ahead score is : 0.000
+======================= template: 18 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ IN NNS PRP VBD ALL IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ within weeks it was all in the past 
+-------------------------score:  -3.413938343179442----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was able to say , 
+ in words he knew all within the soul . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(able -0.62)(to -1.92)(say -4.75)(, -0.00) line score is : -2.457, look ahead score is : 0.000
+(in -0.00)(words -6.44)(he -2.29)(knew -5.12)(all -4.85)(within -2.60)(the -4.39)(soul -2.97)(. -10.14) line score is : -4.312, look ahead score is : 0.000
+======================= template: 19 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB COULD VB A NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and soon could afford a rolls-royce 
+-------------------------score:  -3.449347707362653----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was able to pay , 
+ and now could continue a console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(able -0.62)(to -1.92)(pay -4.75)(, -0.00) line score is : -2.457, look ahead score is : 0.000
+(and -0.00)(now -4.68)(could -6.31)(continue -1.88)(a -3.40)(console -6.85)(. -4.17) line score is : -3.899, look ahead score is : 0.000
+======================= template: 20 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP RB CAN VB IN PRP VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ you never can tell till you try 
+-------------------------score:  -3.4512457609176637----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ he never can get past it console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(he -0.80)(never -5.09)(can -2.53)(get -1.32)(past -4.16)(it -8.21)(console -2.70)(. -5.41) line score is : -3.777, look ahead score is : 0.000
+======================= template: 21 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB A JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and now a new teacher they seek 
+-------------------------score:  -3.4882743338743847----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and then a third time himself console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(then -4.59)(a -3.32)(third -1.83)(time -3.99)(himself -3.84)(console -5.14)(. -1.75) line score is : -3.142, look ahead score is : 0.000
+======================= template: 22 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ for not selling her waterproof paint 
+-------------------------score:  -3.509330558365789----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to stay , 
+ for once feeling he understood whole . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(stay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(for -0.69)(once -6.56)(feeling -2.09)(he -5.82)(understood -4.92)(whole -6.95)(. -3.08) line score is : -4.303, look ahead score is : 0.000
+======================= template: 23 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD WHEN PRP VBP ACROSS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ I relaxed when I eos across aunt 
+-------------------------score:  -3.5150139073530835----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was happy to say , 
+ it was when he heard across console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(happy -0.62)(to -1.92)(say -5.95)(, -0.80) line score is : -2.790, look ahead score is : 0.000
+(it -0.80)(was -5.09)(when -2.53)(he -3.57)(heard -0.51)(across -6.91)(console -0.65)(. -5.20) line score is : -3.157, look ahead score is : 0.000
+======================= template: 24 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBP RB VBP CD OR CD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ I d probably know two or three 
+-------------------------score:  -3.5566910720275096----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was able to say , 
+ i have never gotten one or stole . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(able -0.62)(to -1.92)(say -4.75)(, -0.00) line score is : -2.457, look ahead score is : 0.000
+(i -0.00)(have -6.44)(never -2.29)(gotten -4.95)(one -3.95)(or -3.71)(stole -4.93)(. -5.91) line score is : -4.022, look ahead score is : 0.000
+======================= template: 25 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VB WHAT THE NNS ALL VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and see what the critics all say 
+-------------------------score:  -3.6840897738933562----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and have what the players all console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(have -4.59)(what -3.32)(the -1.83)(players -7.56)(all -5.39)(console -4.55)(. -4.03) line score is : -3.994, look ahead score is : 0.000
+======================= template: 26 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND VBG VBP PRP VBZ BUT JJ . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and awakening find it 's but dreymss ! 
+-------------------------score:  -3.756747001601804----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and trying do it is but small console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(trying -4.59)(do -3.32)(it -1.83)(is -9.66)(but -9.71)(small -1.71)(console -5.92)(. -8.86) line score is : -5.141, look ahead score is : 0.000
+======================= template: 27 ============================  
+robert 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ AND RB VB QUITE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was ready to faint 
+ and sometimes get quite cranky 
+-------------------------score:  -3.7940617310149327----------------------- 
+there was a stupid boy named cole 
+ who threw all his money in a hole . 
+ when he returned to play , 
+ he was ready to pay , 
+ and even remember quite console . 
+------------------------- score breakdown ------------------------ 
+(who -2.05)(threw -6.36)(all -4.51)(his -0.99)(money -1.62)(in -2.38)(a -1.14)(hole -4.51)(. -2.04) line score is : -2.847, look ahead score is : 0.000
+(when -2.04)(he -4.16)(returned -1.00)(to -3.59)(play -2.09)(, -6.08) line score is : -3.161, look ahead score is : 0.000
+(he -6.08)(was -1.38)(ready -0.62)(to -1.92)(pay -5.28)(, -0.69) line score is : -2.660, look ahead score is : 0.000
+(and -0.69)(even -4.59)(remember -3.32)(quite -1.83)(console -4.98)(. -9.28) line score is : -4.113, look ahead score is : 0.000

@@ -1,0 +1,660 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB AND TO VB . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was ready to give and to take 
+-------------------------score:  -2.865031334105879----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she was ordered to sew and to pay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(was -4.96)(ordered -3.11)(to -4.57)(sew -1.27)(and -5.89)(to -0.18)(pay -3.22)(. -4.51) line score is : -3.352, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.9324148427695036----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was called by a clerk , 
+ and she went down and did her survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(called -0.65)(by -1.89)(a -4.69)(clerk -3.22)(, -2.43) line score is : -2.414, look ahead score is : 0.000
+(and -2.43)(she -5.57)(went -2.20)(down -2.52)(and -2.53)(did -3.59)(her -3.51)(survey -2.91)(. -3.08) line score is : -3.150, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD RB VB NN VBD THIS NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I did n't think life was this way 
+-------------------------score:  -2.983129197731614----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she did not have clothing made this way . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(did -4.96)(not -3.11)(have -4.57)(clothing -4.82)(made -0.44)(this -0.72)(way -8.08)(. -4.89) line score is : -3.783, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ NN OUT IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a polar bear out in the snow 
+-------------------------score:  -3.010281365929228----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she has a new job out in the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(has -4.96)(a -3.11)(new -4.57)(job -6.78)(out -2.49)(in -4.09)(the -1.00)(way -6.77)(. -2.08) line score is : -3.831, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ THAT DT NN VBD JJ BUT JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ that no one was present but smarty 
+-------------------------score:  -3.018003546422528----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ that no payment was due but friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(that -2.46)(no -4.96)(payment -3.11)(was -3.45)(due -5.21)(but -5.56)(friday -1.32)(. -0.40) line score is : -3.310, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD JJ TO VB A JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she was destined to go a long way 
+-------------------------score:  -3.1416500341147184----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she was due to be a new birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(was -4.96)(due -3.11)(to -4.57)(be -1.27)(a -5.94)(new -1.18)(birthday -1.23)(. -5.88) line score is : -3.401, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBZ A JJ JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ it s a moppsikin floppsikin bear 
+-------------------------score:  -3.169658448298772----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she needs a new uniform friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(needs -4.96)(a -3.11)(new -4.57)(uniform -8.46)(friday -2.09)(. -1.99) line score is : -3.948, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OF THE NN AND NN AND NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ of the gravy and chicken and ham 
+-------------------------score:  -3.192972133236547----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ of the time and place and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(of -2.46)(the -4.96)(time -3.11)(and -6.90)(place -2.08)(and -5.54)(resume -2.10)(. -0.37) line score is : -3.439, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB VBD INTO A NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then fell into a vat of grease 
+-------------------------score:  -3.2173706120060337----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ then called into a meeting of hay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(then -2.46)(called -4.96)(into -3.11)(a -7.66)(meeting -4.11)(of -5.50)(hay -2.57)(. -0.90) line score is : -3.909, look ahead score is : 0.000
+======================= template: 10 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he never completed his task 
+-------------------------score:  -3.2223623107219566----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she never expected her birthday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(never -4.96)(expected -3.11)(her -4.57)(birthday -6.59)(. -5.68) line score is : -4.562, look ahead score is : 0.000
+======================= template: 11 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ BECAUSE PRP VBD VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ because I was sniffing my toes 
+-------------------------score:  -3.2330521663029987----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ because she was taking her essay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(because -2.46)(she -4.96)(was -3.11)(taking -7.89)(her -0.63)(essay -1.04)(. -5.77) line score is : -3.696, look ahead score is : 0.000
+======================= template: 12 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBD OUT TO VB NN OF NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ turned out to be plaster of paris 
+-------------------------score:  -3.2523937706024415----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ sent out to do something of sunday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(sent -2.46)(out -4.96)(to -3.11)(do -8.86)(something -3.51)(of -0.92)(sunday -2.43)(. -2.73) line score is : -3.622, look ahead score is : 0.000
+======================= template: 13 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB FROM VBG PRP$ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to keep from soiling her feet 
+-------------------------score:  -3.2908675611019134----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ to stop from beginning her essay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(to -2.46)(stop -4.96)(from -3.11)(beginning -6.34)(her -3.70)(essay -6.64)(. -5.71) line score is : -4.704, look ahead score is : 0.000
+======================= template: 14 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ RB PRP VBD PRP NN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ then he walloped me square in the face 
+-------------------------score:  -3.2958056069910526----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ once she got it right in the survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(once -2.46)(she -4.96)(got -3.11)(it -8.74)(right -3.13)(in -3.28)(the -4.58)(survey -2.27)(. -5.68) line score is : -4.247, look ahead score is : 0.000
+======================= template: 15 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ they bedded her down in the stable 
+-------------------------score:  -3.3008393106922025----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she did it down in the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(did -4.96)(it -3.11)(down -4.57)(in -4.82)(the -3.85)(resume -8.29)(. -3.31) line score is : -4.421, look ahead score is : 0.000
+======================= template: 16 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OF THE NN VBN IN VBG PRP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ of the bishop engaged in confirming 'em 
+-------------------------score:  -3.306338631337689----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ of the mistake made in trying friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(of -2.46)(the -4.96)(mistake -3.11)(made -6.90)(in -2.08)(trying -5.56)(friday -3.36)(. -2.26) line score is : -3.835, look ahead score is : 0.000
+======================= template: 17 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OF THE NN FROM NN TO NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ of the distance from object to source 
+-------------------------score:  -3.3104001629737114----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ of the time from order to survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(of -2.46)(the -4.96)(time -3.11)(from -6.90)(order -2.08)(to -5.54)(survey -6.32)(. -5.50) line score is : -4.609, look ahead score is : 0.000
+======================= template: 18 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD NN RB VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she reached home exceedingly plain 
+-------------------------score:  -3.3243185063203176----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was called by a clerk , 
+ and she went home rather resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(called -0.65)(by -1.89)(a -4.69)(clerk -3.22)(, -2.43) line score is : -2.414, look ahead score is : 0.000
+(and -2.43)(she -5.57)(went -2.20)(home -2.52)(rather -2.53)(resume -3.59)(. -3.28) line score is : -3.161, look ahead score is : 0.000
+======================= template: 19 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ WHEN PRP VBD THERE VBD CD JJ NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ when he saw there were six little chips 
+-------------------------score:  -3.326506955549121----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ when she saw there were two new friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(when -2.46)(she -4.96)(saw -3.11)(there -6.71)(were -0.59)(two -4.01)(new -6.91)(friday -1.78)(. -2.83) line score is : -3.706, look ahead score is : 0.000
+======================= template: 20 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP RB VBP IN A NN . . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ I invariably get in a stew ! 
+-------------------------score:  -3.338399615979964----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ i really am in a bit okay . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(i -2.46)(really -4.96)(am -3.11)(in -6.53)(a -6.21)(bit -3.63)(okay -4.09)(. -1.64) line score is : -4.079, look ahead score is : 0.000
+======================= template: 21 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD UP IN NN AND VBD . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ she sat up in bed and meowed 
+-------------------------score:  -3.338488526882664----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she was up in front and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(was -4.96)(up -3.11)(in -4.57)(front -1.27)(and -6.62)(resume -4.04)(. -4.98) line score is : -4.002, look ahead score is : 0.000
+======================= template: 22 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD RB JJ NN NNS . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ and she baked really great apple pies 
+-------------------------score:  -3.359185666807236----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ and it was not long beforehand may . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(and -2.46)(it -4.96)(was -3.11)(not -5.85)(long -4.34)(beforehand -0.55)(may -3.83)(. -2.25) line score is : -3.420, look ahead score is : 0.000
+======================= template: 23 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ PRP VBD PRP AND VBD NNS AND TO . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ he reversed it and walked fro and to 
+-------------------------score:  -3.3830675687640905----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ she did it and had clothes and resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(she -2.46)(did -4.96)(it -3.11)(and -4.57)(had -4.82)(clothes -3.85)(and -5.54)(resume -3.49)(. -8.31) line score is : -4.569, look ahead score is : 0.000
+======================= template: 24 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ FOR RB VBG PRP JJ NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ for not selling her waterproof paint 
+-------------------------score:  -3.4246940116087594----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ for not having it ready friday . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(for -2.46)(not -4.96)(having -3.11)(it -6.70)(ready -5.03)(friday -2.49)(. -6.59) line score is : -4.477, look ahead score is : 0.000
+======================= template: 25 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ IN A JJ NN NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ in a sugary takeover bid 
+-------------------------score:  -3.4358861590253897----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ in a different room resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(in -2.46)(a -4.96)(different -3.11)(room -5.01)(resume -1.85)(. -5.32) line score is : -3.785, look ahead score is : 0.000
+======================= template: 26 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ OF THE JJ NN PRP VBP . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ of the classical music I play 
+-------------------------score:  -3.5206214010715486----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ of the great amount she resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(of -2.46)(the -4.96)(great -3.11)(amount -6.90)(she -2.08)(resume -5.10)(. -3.75) line score is : -4.051, look ahead score is : 0.000
+======================= template: 27 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB NNS VB TO NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to write verses relating to wind 
+-------------------------score:  -3.5940375149250032----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ to make dresses cut to resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(to -2.46)(make -4.96)(dresses -3.11)(cut -6.34)(to -3.89)(resume -6.18)(. -9.00) line score is : -5.135, look ahead score is : 0.000
+======================= template: 28 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ TO VB JJ NNS ON PRP NN . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ to balance green peas on her fork 
+-------------------------score:  -3.650153850355456----------------------- 
+there was a woman named kay 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ to be sure things on it resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(to -2.46)(be -4.96)(sure -3.11)(things -6.34)(on -3.68)(it -2.36)(resume -7.20)(. -7.92) line score is : -4.755, look ahead score is : 0.000
+======================= template: 29 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AS IF PRP MD VBN JJ . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ as if he 'd been invited 
+-------------------------score:  -3.667109543085098----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was called by a clerk , 
+ as if it outright meant resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(called -0.65)(by -1.89)(a -4.69)(clerk -3.22)(, -2.43) line score is : -2.414, look ahead score is : 0.000
+(as -2.43)(if -5.57)(it -2.20)(outright -5.85)(meant -3.44)(resume -3.97)(. -15.29) line score is : -5.536, look ahead score is : 0.000
+======================= template: 30 ============================  
+sarah 
+ WHO VBD ALL PRP$ NN IN A NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ VBG RB A NN OF FW FW . 
+----------------------- original sentences ------------------------------------ 
+who kept all his cash in a bucket 
+ when he went to bed 
+ he was pained by a tooth 
+ leaving only a pile of de brie 
+-------------------------score:  -3.991799683340134----------------------- 
+there was a woman named renee 
+ who did all her sewing in a day . 
+ when she returned to work , 
+ she was told by a clerk , 
+ trying not a bit of la resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.23)(did -4.64)(all -3.48)(her -3.81)(sewing -3.51)(in -2.47)(a -2.79)(day -4.83)(. -1.51) line score is : -3.140, look ahead score is : 0.000
+(when -1.51)(she -4.23)(returned -1.03)(to -3.61)(work -1.65)(, -2.90) line score is : -2.487, look ahead score is : 0.000
+(she -2.90)(was -1.12)(told -0.65)(by -1.89)(a -3.35)(clerk -1.99)(, -2.46) line score is : -2.052, look ahead score is : 0.000
+(trying -2.46)(not -4.96)(a -3.11)(bit -9.51)(of -4.98)(la -9.45)(resume -2.09)(. -2.12) line score is : -4.834, look ahead score is : 0.000

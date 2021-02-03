@@ -1,0 +1,198 @@
+======================= template: 1 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD TO VB DOWN ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he had to sit down on the floor 
+-------------------------score:  -2.7566520567193176----------------------- 
+there once was a lady named kay 
+ who did a good deed on her birthday . 
+ when she went to someone , 
+ she was met by a gun , 
+ so she had to run down on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(good -3.64)(deed -3.60)(on -3.81)(her -2.07)(birthday -1.56)(. -1.32) line score is : -2.767, look ahead score is : 0.000
+(when -1.32)(she -4.20)(went -0.98)(to -3.57)(someone -0.77)(, -7.04) line score is : -2.979, look ahead score is : 0.000
+(she -7.04)(was -3.23)(met -0.81)(by -2.06)(a -3.59)(gun -1.06)(, -0.95) line score is : -2.678, look ahead score is : 0.000
+(so -0.95)(she -6.57)(had -2.80)(to -2.98)(run -0.51)(down -3.30)(on -0.22)(the -1.82)(way -4.91)(. -6.36) line score is : -3.041, look ahead score is : 0.000
+======================= template: 2 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD JJ TO VB , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was ready to faint 
+ he claimed that his costume was chile 
+-------------------------score:  -2.758477361003558----------------------- 
+there once was a lady named kay 
+ who did a good deed on her birthday . 
+ when she returned to mind , 
+ she was surprised to find , 
+ she noticed that her husband was gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(good -3.64)(deed -3.60)(on -3.81)(her -2.07)(birthday -1.56)(. -1.32) line score is : -2.767, look ahead score is : 0.000
+(when -1.32)(she -4.20)(returned -0.98)(to -3.45)(mind -1.54)(, -9.28) line score is : -3.462, look ahead score is : 0.000
+(she -9.28)(was -1.47)(surprised -0.50)(to -2.32)(find -3.28)(, -0.30) line score is : -2.857, look ahead score is : 0.000
+(she -0.30)(noticed -0.85)(that -5.94)(her -2.89)(husband -5.09)(was -1.36)(gay -1.51)(. -3.52) line score is : -2.683, look ahead score is : 0.000
+======================= template: 3 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.7656256798654795----------------------- 
+there once was a lady named renee 
+ who did a good deed on her birthday . 
+ when she went to someone , 
+ she was met by a gun , 
+ and she fell down and ended her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(good -3.64)(deed -3.60)(on -3.81)(her -2.07)(birthday -1.56)(. -1.32) line score is : -2.767, look ahead score is : 0.000
+(when -1.32)(she -4.20)(went -0.98)(to -3.57)(someone -0.77)(, -7.04) line score is : -2.979, look ahead score is : 0.000
+(she -7.04)(was -3.23)(met -0.81)(by -2.06)(a -3.59)(gun -1.06)(, -0.95) line score is : -2.678, look ahead score is : 0.000
+(and -0.95)(she -6.57)(fell -2.80)(down -1.28)(and -1.75)(ended -4.45)(her -2.15)(day -1.99)(. -5.09) line score is : -3.002, look ahead score is : 0.000
+======================= template: 4 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY PRP$ NN , 
+ PRP VBD THAT PRP$ NN VBD JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was told by his wife 
+ he claimed that his costume was chile 
+-------------------------score:  -2.797565908201279----------------------- 
+there once was a lady named renee 
+ who did a good deed on her birthday . 
+ when she went to someone , 
+ she was told by her son , 
+ he said that his grandmother was gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(good -3.64)(deed -3.60)(on -3.81)(her -2.07)(birthday -1.56)(. -1.32) line score is : -2.767, look ahead score is : 0.000
+(when -1.32)(she -4.20)(went -0.98)(to -3.57)(someone -0.77)(, -7.04) line score is : -2.979, look ahead score is : 0.000
+(she -7.04)(was -3.23)(told -0.81)(by -2.06)(her -2.05)(son -2.51)(, -2.04) line score is : -2.820, look ahead score is : 0.000
+(he -2.04)(said -5.50)(that -1.76)(his -4.20)(grandmother -2.40)(was -2.53)(gay -3.66)(. -3.77) line score is : -3.231, look ahead score is : 0.000
+======================= template: 5 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ WHEN PRP VBD TO NN , 
+ PRP VBD VBN BY A NN , 
+ SO PRP VBD UP AND VB ON THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ when he went to bed 
+ he was pained by a tooth 
+ so he jumped up and spat on the ceiling 
+-------------------------score:  -2.8193492582350066----------------------- 
+there once was a lady named renee 
+ who did a good deed on her birthday . 
+ when she went to someone , 
+ she was met by a gun , 
+ so she got up and quit on the way . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(good -3.64)(deed -3.60)(on -3.81)(her -2.07)(birthday -1.56)(. -1.32) line score is : -2.767, look ahead score is : 0.000
+(when -1.32)(she -4.20)(went -0.98)(to -3.57)(someone -0.77)(, -7.04) line score is : -2.979, look ahead score is : 0.000
+(she -7.04)(was -3.23)(met -0.81)(by -2.06)(a -3.59)(gun -1.06)(, -0.95) line score is : -2.678, look ahead score is : 0.000
+(so -0.95)(she -6.57)(got -2.80)(up -2.98)(and -0.51)(quit -3.74)(on -4.00)(the -0.47)(way -6.71)(. -4.86) line score is : -3.358, look ahead score is : 0.000
+======================= template: 6 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.8777268435806036----------------------- 
+there once was a lady named renee 
+ who did a full moon on her birthday . 
+ she would go to a show , 
+ she would take a photo , 
+ and she wrote down and posted her day . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(full -5.94)(moon -2.01)(on -4.37)(her -1.55)(birthday -1.13)(. -1.22) line score is : -2.790, look ahead score is : 0.000
+(she -1.22)(would -1.93)(go -3.72)(to -2.83)(a -1.41)(show -3.07)(, -5.85) line score is : -2.859, look ahead score is : 0.000
+(she -5.85)(would -2.07)(take -3.63)(a -0.62)(photo -3.88)(, -1.51) line score is : -2.925, look ahead score is : 0.000
+(and -1.51)(she -3.15)(wrote -1.49)(down -0.85)(and -1.57)(posted -5.64)(her -3.25)(day -6.31)(. -2.55) line score is : -2.925, look ahead score is : 0.000
+======================= template: 7 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ BUT PRP VBD PRP VBD VBG PRP JJ . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ but they felt it was doing them good 
+-------------------------score:  -2.9027226474136114----------------------- 
+there once was a lady named renee 
+ who did a full moon on her birthday . 
+ she would go to a show , 
+ she would take a photo , 
+ but she said she liked doing it gay . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(full -5.94)(moon -2.01)(on -4.37)(her -1.55)(birthday -1.13)(. -1.22) line score is : -2.790, look ahead score is : 0.000
+(she -1.22)(would -1.93)(go -3.72)(to -2.83)(a -1.41)(show -3.07)(, -5.85) line score is : -2.859, look ahead score is : 0.000
+(she -5.85)(would -2.07)(take -3.63)(a -0.62)(photo -3.88)(, -1.51) line score is : -2.925, look ahead score is : 0.000
+(but -1.51)(she -3.15)(said -1.49)(she -4.18)(liked -1.28)(doing -5.21)(it -1.19)(gay -4.97)(. -3.77) line score is : -2.972, look ahead score is : 0.000
+======================= template: 8 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP VBD A NN , 
+ AND PRP VBD TO THE NN , 
+ AND PRP VBD DOWN AND VBD PRP$ NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he indulged a desire 
+ and they rushed to the rail 
+ and it dropped down and ruined her gown 
+-------------------------score:  -2.912850210743566----------------------- 
+there once was a lady named renee 
+ who did a great deed on her birthday . 
+ she was a nobody , 
+ and she went to the sea , 
+ and she came down and did her survey . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(great -3.21)(deed -4.01)(on -3.86)(her -1.97)(birthday -2.01)(. -1.26) line score is : -2.803, look ahead score is : 0.000
+(she -1.26)(was -1.70)(a -1.76)(nobody -2.06)(, -8.94) line score is : -3.144, look ahead score is : 0.000
+(and -8.94)(she -1.66)(went -2.66)(to -1.38)(the -3.90)(sea -0.99)(, -1.94) line score is : -3.065, look ahead score is : 0.000
+(and -1.94)(she -7.34)(came -2.45)(down -0.91)(and -1.38)(did -2.58)(her -5.04)(survey -1.91)(. -4.09) line score is : -3.072, look ahead score is : 0.000
+======================= template: 9 ============================  
+sarah 
+ WHO VBD A JJ NN ON PRP$ NN . 
+ PRP WOULD VB TO A NN , 
+ PRP WOULD VB A NN , 
+ PRP VBD PRP DOWN IN THE NN . 
+----------------------- original sentences ------------------------------------ 
+who had a large wart on her nose 
+ he would go to a party 
+ he would wave a cigar 
+ they bedded her down in the stable 
+-------------------------score:  -2.9808613484905613----------------------- 
+there once was a lady named kay 
+ who did a full moon on her birthday . 
+ she would go to a show , 
+ she would take a photo , 
+ she put it down in the resume . 
+------------------------- score breakdown ------------------------ 
+(who -1.45)(did -4.87)(a -2.58)(full -5.94)(moon -2.01)(on -4.37)(her -1.55)(birthday -1.13)(. -1.22) line score is : -2.790, look ahead score is : 0.000
+(she -1.22)(would -1.93)(go -3.72)(to -2.83)(a -1.41)(show -3.07)(, -5.85) line score is : -2.859, look ahead score is : 0.000
+(she -5.85)(would -2.07)(take -3.63)(a -0.62)(photo -3.88)(, -1.51) line score is : -2.925, look ahead score is : 0.000
+(she -1.51)(put -3.15)(it -1.49)(down -1.62)(in -6.49)(the -0.66)(resume -5.05)(. -2.57) line score is : -2.818, look ahead score is : 0.000
