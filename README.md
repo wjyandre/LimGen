@@ -3,7 +3,7 @@
 
 # Experiment Data
 
-It includes data from all experiments in our paper, i.e. the comparative experiments run in Amazon Mechanical Turks, the expert judgement experiment, and diversity experiment. Additonally, we also included more generated limericks from *LimGen* for fun. In the supplement.pdf you can find the complete list of poems from *LimGen*, *DeepSpeare*, baselines, and human poets. 
+It includes data from all experiments in our paper, i.e. the comparative experiments run in Amazon Mechanical Turks, the expert judgement experiment, and diversity experiment. Additonally, we also included more generated limericks from *LimGen* for fun. In the *Section6_supplemental_poems.pdf* you can find the complete list of poems from *LimGen*, *DeepSpeare*, baselines, and human poets. 
 
 # Requirements
 - Recommend to create 2 virtual environments
